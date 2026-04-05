@@ -5,13 +5,14 @@
 """
 
 import os
+import re
 import json
 import time
 import asyncio
 import logging
 import requests
 from bs4 import BeautifulSoup
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import Optional
 
 from telegram import Bot
@@ -19,12 +20,12 @@ from telegram.constants import ParseMode
 
 # ─── Конфігурація ────────────────────────────────────────────────────────────
 
-BOT_TOKEN = os.environ["BOT_TOKEN"]   # задається в GitHub Secrets
-CHAT_ID   = os.environ["CHAT_ID"]     # задається в GitHub Secrets
+BOT_TOKEN = os.environ["BOT_TOKEN"]
+CHAT_ID   = os.environ["CHAT_ID"]
 
 WATCH_URLS = [
-    "https://tehnoskarb.ua/monitory/c36/filter/city=60",   # Харків
-    # "https://tehnoskarb.ua/monitory/c36/filter/city=5",  # Київ
+    "https://tehnoskarb.ua/monitory/c36/filter/city=60",
+    # "https://tehnoskarb.ua/monitory/c36/filter/city=5",
 ]
 
 STATE_FILE = "seen_products.json"
@@ -46,8 +47,9 @@ class Product:
     price_min: Optional[int]
     price_max: Optional[int]
     offers_count: int
+    addresses: list[str] = field(default_factory=list)
 
-# ─── Скрапер ─────────────────────────────────────────────────────────────────
+# ─── HTTP ─────────────────────────────────────────────────────────────────────
 
 HEADERS = {
     "User-Agent": (
@@ -58,8 +60,12 @@ HEADERS = {
     "Accept-Language": "uk-UA,uk;q=0.9",
 }
 
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
+
+# ─── Скрапер: список товарів ─────────────────────────────────────────────────
+
 def is_product_url(href: str) -> bool:
-    import re
     return bool(re.search(r"/m\d{5,}/", href))
 
 def parse_price(text: str) -> tuple[Optional[int], Optional[int]]:
@@ -77,12 +83,11 @@ def parse_price(text: str) -> tuple[Optional[int], Optional[int]]:
         return None, None
 
 def parse_offers(text: str) -> int:
-    import re
     m = re.search(r"\((\d+)\)", text)
     return int(m.group(1)) if m else 0
 
-def scrape_page(url: str) -> list[Product]:
-    resp = requests.get(url, headers=HEADERS, timeout=15)
+def scrape_listing(url: str) -> list[Product]:
+    resp = SESSION.get(url, timeout=15)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
     products = []
@@ -130,6 +135,36 @@ def scrape_page(url: str) -> list[Product]:
             unique.append(p)
     return unique
 
+# ─── Скрапер: адреса магазину ────────────────────────────────────────────────
+
+def scrape_addresses(product_url: str) -> list[str]:
+    """Заходить на сторінку товару і витягує адреси магазинів."""
+    try:
+        resp = SESSION.get(product_url, timeout=15)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        addresses = []
+        address_pattern = re.compile(r"м\.\s*\S+,\s*.+", re.UNICODE)
+
+        for el in soup.find_all(string=address_pattern):
+            addr = el.strip()
+            if addr and addr not in addresses:
+                addresses.append(addr)
+
+        # Резервний варіант — через div.font-semibold
+        if not addresses:
+            for div in soup.find_all("div", class_=lambda c: c and "font-semibold" in c):
+                text = div.get_text(strip=True)
+                if re.match(r"м\.", text) and text not in addresses:
+                    addresses.append(text)
+
+        return addresses
+
+    except Exception as e:
+        log.warning(f"Не вдалося отримати адресу для {product_url}: {e}")
+        return []
+
 # ─── Стан ────────────────────────────────────────────────────────────────────
 
 def load_seen() -> set[str]:
@@ -149,21 +184,31 @@ def format_price(p: Product) -> str:
         return f"{p.price_min:,} грн".replace(",", " ")
     return f"{p.price_min:,} – {p.price_max:,} грн".replace(",", " ")
 
+def build_message(p: Product) -> str:
+    offers = f"{p.offers_count} пропозиц." if p.offers_count > 1 else "1 пропозиція"
+
+    if p.addresses:
+        addr_lines = "\n".join(f"📍 {a}" for a in p.addresses)
+    else:
+        addr_lines = "📍 Адреса не вказана"
+
+    return (
+        f"🖥 <b>{p.name}</b>\n"
+        f"💰 <b>{format_price(p)}</b>  |  {offers}\n"
+        f"{addr_lines}\n"
+        f"🔗 <a href=\"{p.url}\">Переглянути на Техноскарб</a>"
+    )
+
 async def send_notifications(new_products: list[Product]):
     bot = Bot(token=BOT_TOKEN)
     for p in new_products:
-        offers = f"{p.offers_count} пропозиц." if p.offers_count > 1 else "1 пропозиція"
-        text = (
-            f"🖥 <b>{p.name}</b>\n"
-            f"💰 <b>{format_price(p)}</b>  |  {offers}\n"
-            f"🔗 <a href=\"{p.url}\">Переглянути на Техноскарб</a>"
-        )
+        text = build_message(p)
         await bot.send_message(
             chat_id=CHAT_ID,
             text=text,
             parse_mode=ParseMode.HTML,
         )
-        log.info(f"  📨 Надіслано: {p.name}")
+        log.info(f"  📨 Надіслано: {p.name} | {p.addresses}")
         await asyncio.sleep(0.5)
 
 # ─── Головна логіка ──────────────────────────────────────────────────────────
@@ -175,12 +220,17 @@ def main():
 
     for url in WATCH_URLS:
         try:
-            products = scrape_page(url)
+            products = scrape_listing(url)
             log.info(f"Знайдено {len(products)} товарів: {url}")
+
             for p in products:
                 if p.url not in seen:
+                    log.info(f"  🆕 Новий: {p.name} — отримуємо адресу...")
+                    p.addresses = scrape_addresses(p.url)
+                    time.sleep(0.5)
                     new_products.append(p)
                     seen.add(p.url)
+
         except Exception as e:
             log.error(f"Помилка: {e}")
 
