@@ -5,6 +5,10 @@
 Зберігає:
   - seen_products.json  — стан (пам'ять бота)
   - docs/data.json      — дані для GitHub Pages дашборду
+
+Виправлення:
+  - При першому запуску надсилає одне зведене повідомлення замість сотень
+  - Обробляє Telegram 429 RetryAfter — чекає і повторює
 """
 
 import os
@@ -16,26 +20,30 @@ import logging
 import requests
 from datetime import datetime, timezone
 from bs4 import BeautifulSoup
-from dataclasses import dataclass, field, asdict
+from dataclasses import dataclass, field
 from typing import Optional
 
 from telegram import Bot
 from telegram.constants import ParseMode
+from telegram.error import RetryAfter
 
 # ─── Конфігурація ────────────────────────────────────────────────────────────
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID   = os.environ["CHAT_ID"]
 
-# Всі міста — скрапимо одну сторінку без фільтра по місту
 WATCH_URL = "https://tehnoskarb.ua/monitory/c36"
 
 STATE_FILE    = "seen_products.json"
 DASHBOARD_DIR = "docs"
 DATA_FILE     = os.path.join(DASHBOARD_DIR, "data.json")
 
-MAX_TG_LEN    = 4096
-MAX_PAGES     = 10   # максимум сторінок пагінації
+MAX_TG_LEN = 4096
+MAX_PAGES  = 10
+
+# Максимум окремих повідомлень за один запуск.
+# Якщо більше — надсилається одне зведене повідомлення.
+MAX_INDIVIDUAL_MSGS = 5
 
 # ─── Логування ───────────────────────────────────────────────────────────────
 
@@ -109,7 +117,6 @@ def scrape_page(url: str) -> list[Product]:
             continue
 
         product_url = "https://tehnoskarb.ua" + href if href.startswith("/") else href
-        # Прибираємо filter/city=XX з URL для уніфікації ключів
         product_url = re.sub(r"/filter/city=\d+", "", product_url)
 
         container = card.parent
@@ -142,7 +149,6 @@ def scrape_page(url: str) -> list[Product]:
     return products
 
 def scrape_all_pages() -> list[Product]:
-    """Збирає товари з усіх сторінок пагінації."""
     all_products: list[Product] = []
     seen_urls: set[str] = set()
 
@@ -179,7 +185,6 @@ ADDRESS_RE = re.compile(r"^м\.\s*\S+,\s*.{3,60}$", re.UNICODE)
 CITY_RE    = re.compile(r"м\.\s*(\S+)")
 
 def scrape_details(product_url: str) -> tuple[str, list[str]]:
-    """Повертає (місто, [адреси])."""
     try:
         resp = SESSION.get(product_url, timeout=15)
         resp.raise_for_status()
@@ -198,8 +203,6 @@ def scrape_details(product_url: str) -> tuple[str, list[str]]:
                     addresses.append(text)
 
         addresses = addresses[:5]
-
-        # Витягуємо назву міста з першої адреси
         city = ""
         if addresses:
             m = CITY_RE.search(addresses[0])
@@ -231,25 +234,22 @@ def save_state(state: dict):
 # ─── Dashboard data.json ─────────────────────────────────────────────────────
 
 def save_dashboard(state: dict, events: list[dict]):
-    """Генерує docs/data.json для GitHub Pages дашборду."""
     os.makedirs(DASHBOARD_DIR, exist_ok=True)
 
-    # Поточні товари (є в state і не продані)
     products = []
     for url, d in state.items():
         products.append({
-            "name":       d.get("name", ""),
-            "url":        url,
-            "price_min":  d.get("price_min"),
-            "price_max":  d.get("price_max"),
-            "city":       d.get("city", ""),
-            "addresses":  d.get("addresses", []),
-            "offers":     d.get("offers_count", 1),
-            "first_seen": d.get("first_seen", ""),
+            "name":          d.get("name", ""),
+            "url":           url,
+            "price_min":     d.get("price_min"),
+            "price_max":     d.get("price_max"),
+            "city":          d.get("city", ""),
+            "addresses":     d.get("addresses", []),
+            "offers":        d.get("offers_count", 1),
+            "first_seen":    d.get("first_seen", ""),
             "price_history": d.get("price_history", []),
         })
 
-    # Статистика
     prices = [p["price_min"] for p in products if p["price_min"]]
     stats = {
         "total":     len(products),
@@ -261,15 +261,15 @@ def save_dashboard(state: dict, events: list[dict]):
 
     data = {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "stats":    stats,
-        "products": sorted(products, key=lambda p: p["price_min"] or 0),
-        "events":   events[-100:],  # останні 100 подій
+        "stats":      stats,
+        "products":   sorted(products, key=lambda p: p["price_min"] or 0),
+        "events":     events[-200:],
     }
 
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    log.info(f"Дашборд оновлено: {len(products)} товарів → {DATA_FILE}")
+    log.info(f"Дашборд оновлено: {len(products)} товарів")
 
 # ─── Telegram ────────────────────────────────────────────────────────────────
 
@@ -333,11 +333,39 @@ def msg_sold(name, url, price_min, price_max, city) -> str:
         f"🔗 <a href=\"{url}\">Посилання на Техноскарб</a>"
     )
 
+def msg_summary(new_products: list[Product], total: int) -> str:
+    """Зведене повідомлення при першому запуску або масовому оновленні."""
+    lines = [f"📦 <b>Завантажено {total} товарів</b>\n"]
+    lines.append("Ось кілька прикладів:\n")
+    for p in new_products[:10]:
+        city = f" · {p.city}" if p.city else ""
+        lines.append(f"• <a href=\"{p.url}\">{p.name}</a> — <b>{fmt_price(p.price_min, p.price_max)}</b>{city}")
+    if total > 10:
+        lines.append(f"\n…і ще {total - 10} товарів на дашборді")
+    return safe("\n".join(lines))
+
+async def send_one(bot: Bot, text: str, retries: int = 5):
+    """Надсилає одне повідомлення з обробкою RetryAfter."""
+    for attempt in range(retries):
+        try:
+            await bot.send_message(chat_id=CHAT_ID, text=text, parse_mode=ParseMode.HTML)
+            return
+        except RetryAfter as e:
+            wait = e.retry_after + 1
+            log.warning(f"  Flood control — чекаємо {wait}с (спроба {attempt+1}/{retries})")
+            await asyncio.sleep(wait)
+        except Exception as e:
+            log.error(f"  Помилка надсилання: {e}")
+            return
+    log.error("  Не вдалося надіслати повідомлення після всіх спроб.")
+
 async def send_messages(messages: list[str]):
     bot = Bot(token=BOT_TOKEN)
-    for text in messages:
-        await bot.send_message(chat_id=CHAT_ID, text=text, parse_mode=ParseMode.HTML)
-        await asyncio.sleep(0.5)
+    for i, text in enumerate(messages):
+        await send_one(bot, text)
+        # Пауза між повідомленнями щоб не спрацював flood control
+        if i < len(messages) - 1:
+            await asyncio.sleep(1.5)
 
 # ─── Головна логіка ──────────────────────────────────────────────────────────
 
@@ -345,11 +373,14 @@ def main():
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     log.info("Запуск перевірки (всі міста)...")
 
-    state   = load_state()
-    tg_msgs = []
-    events  = []
+    state = load_state()
+    is_first_run = len(state) == 0
 
-    # Завантажуємо існуючі події з data.json щоб не втратити
+    tg_msgs  = []
+    events   = []
+    new_list = []  # для зведеного повідомлення при першому запуску
+
+    # Завантажуємо існуючі події
     if os.path.exists(DATA_FILE):
         try:
             with open(DATA_FILE, encoding="utf-8") as f:
@@ -363,26 +394,32 @@ def main():
     log.info(f"Всього знайдено товарів: {len(products)}")
     current_urls = {p.url for p in products}
 
-    # ── Перевірка зниклих товарів (продані) ──────────────────────────────────
-    for known_url in list(state.keys()):
-        if known_url not in current_urls:
-            d = state.pop(known_url)
-            name = d.get("name") or known_url
-            log.info(f"  ✅ Продано: {name}")
-            tg_msgs.append(msg_sold(name, known_url, d.get("price_min"), d.get("price_max"), d.get("city", "")))
-            events.append({"type": "sold", "name": name, "url": known_url,
-                           "price": d.get("price_min"), "city": d.get("city", ""), "at": now})
+    # ── Продані товари ────────────────────────────────────────────────────────
+    if not is_first_run:
+        for known_url in list(state.keys()):
+            if known_url not in current_urls:
+                d = state.pop(known_url)
+                name = d.get("name") or known_url
+                log.info(f"  ✅ Продано: {name}")
+                tg_msgs.append(msg_sold(name, known_url, d.get("price_min"), d.get("price_max"), d.get("city", "")))
+                events.append({"type": "sold", "name": name, "url": known_url,
+                               "price": d.get("price_min"), "city": d.get("city", ""), "at": now})
 
-    # ── Перевірка нових та змін ціни ─────────────────────────────────────────
+    # ── Нові товари та зміни ціни ─────────────────────────────────────────────
     for p in products:
         known = state.get(p.url)
 
         if known is None:
-            # Новий товар — йдемо за деталями
             log.info(f"  🆕 Новий: {p.name}")
-            p.city, p.addresses = scrape_details(p.url)
-            time.sleep(0.5)
-            tg_msgs.append(msg_new(p))
+
+            # При першому запуску не ходимо за деталями кожного — 
+            # занадто багато запитів. Деталі підтягнемо при наступних перевірках.
+            if not is_first_run:
+                p.city, p.addresses = scrape_details(p.url)
+                time.sleep(0.5)
+                tg_msgs.append(msg_new(p))
+
+            new_list.append(p)
             events.append({"type": "new", "name": p.name, "url": p.url,
                            "price": p.price_min, "city": p.city, "at": now})
             state[p.url] = {
@@ -413,30 +450,39 @@ def main():
                                    "price_old": old_min, "price_new": p.price_min,
                                    "city": p.city, "at": now})
 
-                # Додаємо в історію цін
                 history = known.get("price_history", [])
                 history.append({"price": p.price_min, "at": now})
                 known["price_history"] = history
             else:
                 log.info(f"  ✓ Без змін: {p.name} ({p.price_min} грн)")
 
-            # Оновлюємо стан
             known.update({
-                "name": p.name,
-                "price_min": p.price_min,
-                "price_max": p.price_max,
-                "offers_count": p.offers_count,
+                "name": p.name, "price_min": p.price_min,
+                "price_max": p.price_max, "offers_count": p.offers_count,
             })
             state[p.url] = known
 
-    # ── Надсилаємо в Telegram ─────────────────────────────────────────────────
+    # ── Формуємо повідомлення в Telegram ─────────────────────────────────────
+    if is_first_run and new_list:
+        # Перший запуск — одне зведене повідомлення
+        log.info(f"Перший запуск — надсилаємо зведення ({len(new_list)} товарів)")
+        tg_msgs = [msg_summary(new_list, len(new_list))]
+
+    elif len(tg_msgs) > MAX_INDIVIDUAL_MSGS:
+        # Забагато повідомлень за раз — групуємо нові в зведення
+        sold_and_price = [m for m in tg_msgs if m.startswith("✅") or m.startswith("📉") or m.startswith("📈")]
+        new_msgs_count = len(tg_msgs) - len(sold_and_price)
+        tg_msgs = sold_and_price
+        if new_list:
+            tg_msgs.append(msg_summary(new_list, new_msgs_count))
+
+    # ── Надсилаємо ────────────────────────────────────────────────────────────
     if tg_msgs:
-        log.info(f"Надсилаємо {len(tg_msgs)} сповіщень...")
+        log.info(f"Надсилаємо {len(tg_msgs)} повідомлень...")
         asyncio.run(send_messages(tg_msgs))
     else:
         log.info("Нічого нового.")
 
-    # ── Зберігаємо стан і дашборд ────────────────────────────────────────────
     save_state(state)
     save_dashboard(state, events)
     log.info("Готово.")

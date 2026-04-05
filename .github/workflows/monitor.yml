@@ -2,8 +2,8 @@ name: Monitor Tehnoskarb
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # кожні 30 хвилин
-  workflow_dispatch:          # ручний запуск
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 
 jobs:
   check:
