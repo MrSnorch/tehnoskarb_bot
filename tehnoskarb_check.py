@@ -45,11 +45,6 @@ MAX_PAGES  = 10
 # Якщо більше — надсилається одне зведене повідомлення.
 MAX_INDIVIDUAL_MSGS = 5
 
-# Скільки відомих товарів без деталей дозаповнюємо за один запуск.
-# Це дозволяє поступово зібрати міста/адреси після першого запуску
-# без сотень додаткових запитів до сайту за раз.
-DETAILS_BACKFILL_PER_RUN = 20
-
 # ─── Логування ───────────────────────────────────────────────────────────────
 
 logging.basicConfig(
@@ -384,7 +379,6 @@ def main():
     tg_msgs  = []
     events   = []
     new_list = []  # для зведеного повідомлення при першому запуску
-    details_backfill_left = 0 if is_first_run else DETAILS_BACKFILL_PER_RUN
 
     # Завантажуємо існуючі події
     if os.path.exists(DATA_FILE):
@@ -443,9 +437,8 @@ def main():
                 stored_city = extract_city(stored_addresses[0])
                 known["city"] = stored_city
 
-            if details_backfill_left > 0 and (not stored_city or not stored_addresses):
+            if not stored_city or not stored_addresses:
                 fetched_city, fetched_addresses = scrape_details(p.url)
-                details_backfill_left -= 1
                 time.sleep(0.5)
 
                 if fetched_addresses:
