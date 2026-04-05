@@ -45,6 +45,11 @@ MAX_PAGES  = 10
 # Якщо більше — надсилається одне зведене повідомлення.
 MAX_INDIVIDUAL_MSGS = 5
 
+# Скільки відомих товарів без деталей дозаповнюємо за один запуск.
+# Це дозволяє поступово зібрати міста/адреси після першого запуску
+# без сотень додаткових запитів до сайту за раз.
+DETAILS_BACKFILL_PER_RUN = 20
+
 # ─── Логування ───────────────────────────────────────────────────────────────
 
 logging.basicConfig(
@@ -181,8 +186,12 @@ def scrape_all_pages() -> list[Product]:
 
 # ─── Скрапер: адреса + місто ─────────────────────────────────────────────────
 
-ADDRESS_RE = re.compile(r"^м\.\s*\S+,\s*.{3,60}$", re.UNICODE)
-CITY_RE    = re.compile(r"м\.\s*(\S+)")
+ADDRESS_RE = re.compile(r"^м\.\s*[^,]+,\s*.{3,60}$", re.UNICODE)
+CITY_RE    = re.compile(r"^м\.\s*([^,]+)", re.UNICODE)
+
+def extract_city(address: str) -> str:
+    m = CITY_RE.search(address.strip())
+    return m.group(1).strip() if m else ""
 
 def scrape_details(product_url: str) -> tuple[str, list[str]]:
     try:
@@ -203,11 +212,7 @@ def scrape_details(product_url: str) -> tuple[str, list[str]]:
                     addresses.append(text)
 
         addresses = addresses[:5]
-        city = ""
-        if addresses:
-            m = CITY_RE.search(addresses[0])
-            if m:
-                city = m.group(1).rstrip(",")
+        city = extract_city(addresses[0]) if addresses else ""
 
         return city, addresses
 
@@ -379,6 +384,7 @@ def main():
     tg_msgs  = []
     events   = []
     new_list = []  # для зведеного повідомлення при першому запуску
+    details_backfill_left = 0 if is_first_run else DETAILS_BACKFILL_PER_RUN
 
     # Завантажуємо існуючі події
     if os.path.exists(DATA_FILE):
@@ -430,13 +436,38 @@ def main():
             }
 
         else:
+            stored_city = known.get("city", "")
+            stored_addresses = known.get("addresses", [])
+
+            if not stored_city and stored_addresses:
+                stored_city = extract_city(stored_addresses[0])
+                known["city"] = stored_city
+
+            if details_backfill_left > 0 and (not stored_city or not stored_addresses):
+                fetched_city, fetched_addresses = scrape_details(p.url)
+                details_backfill_left -= 1
+                time.sleep(0.5)
+
+                if fetched_addresses:
+                    stored_addresses = fetched_addresses
+                    known["addresses"] = fetched_addresses
+
+                if fetched_city:
+                    stored_city = fetched_city
+                    known["city"] = fetched_city
+                elif not stored_city and stored_addresses:
+                    stored_city = extract_city(stored_addresses[0])
+                    known["city"] = stored_city
+
+                if stored_city or stored_addresses:
+                    log.info(f"  🏙 Дозаповнено деталі: {p.name}")
+
+            p.city = stored_city
+            p.addresses = stored_addresses
             old_min = known.get("price_min")
             old_max = known.get("price_max")
 
             if old_min is not None and p.price_min is not None and p.price_min != old_min:
-                p.city      = known.get("city", "")
-                p.addresses = known.get("addresses", [])
-
                 if p.price_min < old_min:
                     log.info(f"  📉 Ціна впала: {p.name} | {old_min} → {p.price_min} грн")
                     tg_msgs.append(msg_drop(p, old_min, old_max))
