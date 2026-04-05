@@ -33,6 +33,7 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID   = os.environ["CHAT_ID"]
 
 WATCH_URL = "https://tehnoskarb.ua/monitory/c36"
+TELEGRAM_NOTIFY_CITY = "Харків"
 
 STATE_FILE    = "seen_products.json"
 DASHBOARD_DIR = "docs"
@@ -189,6 +190,15 @@ CITY_RE    = re.compile(r"^м\.\s*([^,]+)", re.UNICODE)
 def extract_city(address: str) -> str:
     m = CITY_RE.search(address.strip())
     return m.group(1).strip() if m else ""
+
+def normalize_city(city: str) -> str:
+    return city.strip().casefold()
+
+def is_notify_city(city: str = "", addresses: Optional[list[str]] = None) -> bool:
+    resolved_city = city.strip()
+    if not resolved_city and addresses:
+        resolved_city = extract_city(addresses[0])
+    return normalize_city(resolved_city) == normalize_city(TELEGRAM_NOTIFY_CITY)
 
 def should_retry_details(exc: Exception) -> bool:
     if isinstance(exc, (requests.Timeout, requests.ConnectionError)):
@@ -396,7 +406,7 @@ def main():
 
     tg_msgs  = []
     events   = []
-    new_list = []  # для зведеного повідомлення при першому запуску
+    new_list = []  # нові товари, про які можна писати в Telegram
 
     # Завантажуємо існуючі події
     if os.path.exists(DATA_FILE):
@@ -418,10 +428,16 @@ def main():
             if known_url not in current_urls:
                 d = state.pop(known_url)
                 name = d.get("name") or known_url
+                sold_city = d.get("city", "")
+                sold_addresses = d.get("addresses", [])
+                if not sold_city and sold_addresses:
+                    sold_city = extract_city(sold_addresses[0])
+                    d["city"] = sold_city
                 log.info(f"  ✅ Продано: {name}")
-                tg_msgs.append(msg_sold(name, known_url, d.get("price_min"), d.get("price_max"), d.get("city", "")))
+                if is_notify_city(sold_city, sold_addresses):
+                    tg_msgs.append(msg_sold(name, known_url, d.get("price_min"), d.get("price_max"), sold_city))
                 events.append({"type": "sold", "name": name, "url": known_url,
-                               "price": d.get("price_min"), "city": d.get("city", ""), "at": now})
+                               "price": d.get("price_min"), "city": sold_city, "at": now})
 
     # ── Нові товари та зміни ціни ─────────────────────────────────────────────
     for p in products:
@@ -435,9 +451,9 @@ def main():
             if not is_first_run:
                 p.city, p.addresses = scrape_details(p.url)
                 time.sleep(0.5)
-                tg_msgs.append(msg_new(p))
-
-            new_list.append(p)
+                if is_notify_city(p.city, p.addresses):
+                    tg_msgs.append(msg_new(p))
+                    new_list.append(p)
             events.append({"type": "new", "name": p.name, "url": p.url,
                            "price": p.price_min, "city": p.city, "at": now})
             state[p.url] = {
@@ -481,13 +497,15 @@ def main():
             if old_min is not None and p.price_min is not None and p.price_min != old_min:
                 if p.price_min < old_min:
                     log.info(f"  📉 Ціна впала: {p.name} | {old_min} → {p.price_min} грн")
-                    tg_msgs.append(msg_drop(p, old_min, old_max))
+                    if is_notify_city(p.city, p.addresses):
+                        tg_msgs.append(msg_drop(p, old_min, old_max))
                     events.append({"type": "drop", "name": p.name, "url": p.url,
                                    "price_old": old_min, "price_new": p.price_min,
                                    "city": p.city, "at": now})
                 else:
                     log.info(f"  📈 Ціна зросла: {p.name} | {old_min} → {p.price_min} грн")
-                    tg_msgs.append(msg_rise(p, old_min, old_max))
+                    if is_notify_city(p.city, p.addresses):
+                        tg_msgs.append(msg_rise(p, old_min, old_max))
                     events.append({"type": "rise", "name": p.name, "url": p.url,
                                    "price_old": old_min, "price_new": p.price_min,
                                    "city": p.city, "at": now})
