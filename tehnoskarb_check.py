@@ -29,6 +29,7 @@ WATCH_URLS = [
 ]
 
 STATE_FILE = "seen_products.json"
+MAX_TG_LEN = 4096  # ліміт Telegram
 
 # ─── Логування ───────────────────────────────────────────────────────────────
 
@@ -137,6 +138,9 @@ def scrape_listing(url: str) -> list[Product]:
 
 # ─── Скрапер: адреса магазину ────────────────────────────────────────────────
 
+# Адреса виду "м. Харків, вул. Дудинської, 1-А" — не довша за 80 символів
+ADDRESS_RE = re.compile(r"^м\.\s*\S+,\s*.{3,60}$", re.UNICODE)
+
 def scrape_addresses(product_url: str) -> list[str]:
     """Заходить на сторінку товару і витягує адреси магазинів."""
     try:
@@ -145,21 +149,20 @@ def scrape_addresses(product_url: str) -> list[str]:
         soup = BeautifulSoup(resp.text, "html.parser")
 
         addresses = []
-        address_pattern = re.compile(r"м\.\s*\S+,\s*.+", re.UNICODE)
 
-        for el in soup.find_all(string=address_pattern):
+        for el in soup.find_all(string=True):
             addr = el.strip()
-            if addr and addr not in addresses:
+            if ADDRESS_RE.match(addr) and addr not in addresses:
                 addresses.append(addr)
 
         # Резервний варіант — через div.font-semibold
         if not addresses:
             for div in soup.find_all("div", class_=lambda c: c and "font-semibold" in c):
                 text = div.get_text(strip=True)
-                if re.match(r"м\.", text) and text not in addresses:
+                if re.match(r"^м\.", text) and len(text) < 80 and text not in addresses:
                     addresses.append(text)
 
-        return addresses
+        return addresses[:5]  # максимум 5 адрес на товар
 
     except Exception as e:
         log.warning(f"Не вдалося отримати адресу для {product_url}: {e}")
@@ -192,12 +195,18 @@ def build_message(p: Product) -> str:
     else:
         addr_lines = "📍 Адреса не вказана"
 
-    return (
+    msg = (
         f"🖥 <b>{p.name}</b>\n"
         f"💰 <b>{format_price(p)}</b>  |  {offers}\n"
         f"{addr_lines}\n"
         f"🔗 <a href=\"{p.url}\">Переглянути на Техноскарб</a>"
     )
+
+    # Захист від перевищення ліміту Telegram
+    if len(msg) > MAX_TG_LEN:
+        msg = msg[:MAX_TG_LEN - 10] + "…"
+
+    return msg
 
 async def send_notifications(new_products: list[Product]):
     bot = Bot(token=BOT_TOKEN)
