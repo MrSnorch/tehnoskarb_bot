@@ -2,6 +2,10 @@
 Одноразова перевірка нових моніторів на tehnoskarb.ua
 Запускається через GitHub Actions за розкладом.
 Стан зберігається у seen_products.json (комітиться в репозиторій).
+
+Відстежує:
+  - нові товари
+  - зниження ціни на вже відомі товари
 """
 
 import os
@@ -29,7 +33,7 @@ WATCH_URLS = [
 ]
 
 STATE_FILE = "seen_products.json"
-MAX_TG_LEN = 4096  # ліміт Telegram
+MAX_TG_LEN = 4096
 
 # ─── Логування ───────────────────────────────────────────────────────────────
 
@@ -138,94 +142,115 @@ def scrape_listing(url: str) -> list[Product]:
 
 # ─── Скрапер: адреса магазину ────────────────────────────────────────────────
 
-# Адреса виду "м. Харків, вул. Дудинської, 1-А" — не довша за 80 символів
 ADDRESS_RE = re.compile(r"^м\.\s*\S+,\s*.{3,60}$", re.UNICODE)
 
 def scrape_addresses(product_url: str) -> list[str]:
-    """Заходить на сторінку товару і витягує адреси магазинів."""
     try:
         resp = SESSION.get(product_url, timeout=15)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
         addresses = []
-
         for el in soup.find_all(string=True):
             addr = el.strip()
             if ADDRESS_RE.match(addr) and addr not in addresses:
                 addresses.append(addr)
 
-        # Резервний варіант — через div.font-semibold
         if not addresses:
             for div in soup.find_all("div", class_=lambda c: c and "font-semibold" in c):
                 text = div.get_text(strip=True)
                 if re.match(r"^м\.", text) and len(text) < 80 and text not in addresses:
                     addresses.append(text)
 
-        return addresses[:5]  # максимум 5 адрес на товар
-
+        return addresses[:5]
     except Exception as e:
         log.warning(f"Не вдалося отримати адресу для {product_url}: {e}")
         return []
 
 # ─── Стан ────────────────────────────────────────────────────────────────────
+#
+# Формат seen_products.json:
+# {
+#   "https://tehnoskarb.ua/...": {
+#     "name": "Монітор Samsung ...",
+#     "price_min": 580,
+#     "price_max": 580
+#   },
+#   ...
+# }
 
-def load_seen() -> set[str]:
+def load_state() -> dict:
     if not os.path.exists(STATE_FILE):
-        return set()
+        return {}
     with open(STATE_FILE, encoding="utf-8") as f:
-        return set(json.load(f))
+        data = json.load(f)
+    # Міграція старого формату (список URL) → новий (словник)
+    if isinstance(data, list):
+        log.info("Міграція seen_products.json зі старого формату...")
+        return {url: {"name": "", "price_min": None, "price_max": None} for url in data}
+    return data
 
-def save_seen(seen: set[str]):
+def save_state(state: dict):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(sorted(seen), f, ensure_ascii=False, indent=2)
+        json.dump(state, f, ensure_ascii=False, indent=2)
 
 # ─── Telegram ────────────────────────────────────────────────────────────────
 
-def format_price(p: Product) -> str:
-    if p.price_min == p.price_max:
-        return f"{p.price_min:,} грн".replace(",", " ")
-    return f"{p.price_min:,} – {p.price_max:,} грн".replace(",", " ")
+def format_price(price_min: Optional[int], price_max: Optional[int]) -> str:
+    if price_min == price_max:
+        return f"{price_min:,} грн".replace(",", " ")
+    return f"{price_min:,} – {price_max:,} грн".replace(",", " ")
 
-def build_message(p: Product) -> str:
+def build_new_message(p: Product) -> str:
     offers = f"{p.offers_count} пропозиц." if p.offers_count > 1 else "1 пропозиція"
-
-    if p.addresses:
-        addr_lines = "\n".join(f"📍 {a}" for a in p.addresses)
-    else:
-        addr_lines = "📍 Адреса не вказана"
+    addr_lines = "\n".join(f"📍 {a}" for a in p.addresses) if p.addresses else "📍 Адреса не вказана"
 
     msg = (
+        f"🆕 <b>Новий товар!</b>\n"
         f"🖥 <b>{p.name}</b>\n"
-        f"💰 <b>{format_price(p)}</b>  |  {offers}\n"
+        f"💰 <b>{format_price(p.price_min, p.price_max)}</b>  |  {offers}\n"
         f"{addr_lines}\n"
         f"🔗 <a href=\"{p.url}\">Переглянути на Техноскарб</a>"
     )
+    return msg[:MAX_TG_LEN - 10] + "…" if len(msg) > MAX_TG_LEN else msg
 
-    # Захист від перевищення ліміту Telegram
-    if len(msg) > MAX_TG_LEN:
-        msg = msg[:MAX_TG_LEN - 10] + "…"
+def build_price_drop_message(p: Product, old_price_min: int, old_price_max: int) -> str:
+    offers = f"{p.offers_count} пропозиц." if p.offers_count > 1 else "1 пропозиція"
+    addr_lines = "\n".join(f"📍 {a}" for a in p.addresses) if p.addresses else "📍 Адреса не вказана"
 
-    return msg
+    # Рахуємо відсоток знижки
+    if old_price_min and p.price_min:
+        discount = round((old_price_min - p.price_min) / old_price_min * 100)
+        discount_str = f"  (−{discount}%)"
+    else:
+        discount_str = ""
 
-async def send_notifications(new_products: list[Product]):
+    msg = (
+        f"📉 <b>Ціна знизилась{discount_str}!</b>\n"
+        f"🖥 <b>{p.name}</b>\n"
+        f"💰 <s>{format_price(old_price_min, old_price_max)}</s> → "
+        f"<b>{format_price(p.price_min, p.price_max)}</b>  |  {offers}\n"
+        f"{addr_lines}\n"
+        f"🔗 <a href=\"{p.url}\">Переглянути на Техноскарб</a>"
+    )
+    return msg[:MAX_TG_LEN - 10] + "…" if len(msg) > MAX_TG_LEN else msg
+
+async def send_messages(messages: list[str]):
     bot = Bot(token=BOT_TOKEN)
-    for p in new_products:
-        text = build_message(p)
+    for text in messages:
         await bot.send_message(
             chat_id=CHAT_ID,
             text=text,
             parse_mode=ParseMode.HTML,
         )
-        log.info(f"  📨 Надіслано: {p.name} | {p.addresses}")
         await asyncio.sleep(0.5)
 
 # ─── Головна логіка ──────────────────────────────────────────────────────────
 
 def main():
     log.info("Запуск перевірки...")
-    seen = load_seen()
-    new_products = []
+    state = load_state()
+    messages = []
 
     for url in WATCH_URLS:
         try:
@@ -233,23 +258,45 @@ def main():
             log.info(f"Знайдено {len(products)} товарів: {url}")
 
             for p in products:
-                if p.url not in seen:
-                    log.info(f"  🆕 Новий: {p.name} — отримуємо адресу...")
+                known = state.get(p.url)
+
+                if known is None:
+                    # Новий товар
+                    log.info(f"  🆕 Новий: {p.name} ({p.price_min} грн)")
                     p.addresses = scrape_addresses(p.url)
                     time.sleep(0.5)
-                    new_products.append(p)
-                    seen.add(p.url)
+                    messages.append(build_new_message(p))
+
+                else:
+                    # Товар вже відомий — перевіряємо чи впала ціна
+                    old_min = known.get("price_min")
+                    old_max = known.get("price_max")
+
+                    if old_min is not None and p.price_min is not None and p.price_min < old_min:
+                        log.info(f"  📉 Ціна впала: {p.name} | {old_min} → {p.price_min} грн")
+                        p.addresses = scrape_addresses(p.url)
+                        time.sleep(0.5)
+                        messages.append(build_price_drop_message(p, old_min, old_max))
+                    else:
+                        log.info(f"  ✓ Без змін: {p.name} ({p.price_min} грн)")
+
+                # Оновлюємо стан
+                state[p.url] = {
+                    "name": p.name,
+                    "price_min": p.price_min,
+                    "price_max": p.price_max,
+                }
 
         except Exception as e:
             log.error(f"Помилка: {e}")
 
-    if new_products:
-        log.info(f"Нових товарів: {len(new_products)} — надсилаємо сповіщення...")
-        asyncio.run(send_notifications(new_products))
+    if messages:
+        log.info(f"Надсилаємо {len(messages)} сповіщень...")
+        asyncio.run(send_messages(messages))
     else:
-        log.info("Нових товарів немає.")
+        log.info("Нічого нового.")
 
-    save_seen(seen)
+    save_state(state)
     log.info("Готово.")
 
 if __name__ == "__main__":
