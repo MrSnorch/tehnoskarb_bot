@@ -45,6 +45,8 @@ MAX_PAGES  = 10
 # Якщо більше — надсилається одне зведене повідомлення.
 MAX_INDIVIDUAL_MSGS = 5
 
+DETAILS_FETCH_RETRIES = 3
+
 # ─── Логування ───────────────────────────────────────────────────────────────
 
 logging.basicConfig(
@@ -188,32 +190,48 @@ def extract_city(address: str) -> str:
     m = CITY_RE.search(address.strip())
     return m.group(1).strip() if m else ""
 
+def should_retry_details(exc: Exception) -> bool:
+    if isinstance(exc, (requests.Timeout, requests.ConnectionError)):
+        return True
+    if isinstance(exc, requests.HTTPError) and exc.response is not None:
+        return exc.response.status_code in {429, 500, 502, 503, 504}
+    return False
+
 def scrape_details(product_url: str) -> tuple[str, list[str]]:
-    try:
-        resp = SESSION.get(product_url, timeout=15)
-        resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
+    for attempt in range(1, DETAILS_FETCH_RETRIES + 1):
+        try:
+            resp = SESSION.get(product_url, timeout=15)
+            resp.raise_for_status()
+            soup = BeautifulSoup(resp.text, "html.parser")
 
-        addresses = []
-        for el in soup.find_all(string=True):
-            addr = el.strip()
-            if ADDRESS_RE.match(addr) and addr not in addresses:
-                addresses.append(addr)
+            addresses = []
+            for el in soup.find_all(string=True):
+                addr = el.strip()
+                if ADDRESS_RE.match(addr) and addr not in addresses:
+                    addresses.append(addr)
 
-        if not addresses:
-            for div in soup.find_all("div", class_=lambda c: c and "font-semibold" in c):
-                text = div.get_text(strip=True)
-                if re.match(r"^м\.", text) and len(text) < 80 and text not in addresses:
-                    addresses.append(text)
+            if not addresses:
+                for div in soup.find_all("div", class_=lambda c: c and "font-semibold" in c):
+                    text = div.get_text(strip=True)
+                    if re.match(r"^м\.", text) and len(text) < 80 and text not in addresses:
+                        addresses.append(text)
 
-        addresses = addresses[:5]
-        city = extract_city(addresses[0]) if addresses else ""
+            addresses = addresses[:5]
+            city = extract_city(addresses[0]) if addresses else ""
 
-        return city, addresses
+            return city, addresses
 
-    except Exception as e:
-        log.warning(f"Не вдалося отримати деталі для {product_url}: {e}")
-        return "", []
+        except Exception as e:
+            if attempt < DETAILS_FETCH_RETRIES and should_retry_details(e):
+                log.warning(
+                    f"Не вдалося отримати деталі для {product_url} "
+                    f"(спроба {attempt}/{DETAILS_FETCH_RETRIES}): {e}"
+                )
+                time.sleep(attempt)
+                continue
+
+            log.warning(f"Не вдалося отримати деталі для {product_url}: {e}")
+            return "", []
 
 # ─── Стан ────────────────────────────────────────────────────────────────────
 
