@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-06T13:52:51Z",
+  "updated_at": "2026-04-06T14:18:10Z",
   "stats": {
-    "total": 652,
-    "avg_price": 9732,
+    "total": 651,
+    "avg_price": 9742,
     "min_price": 90,
     "max_price": 140000,
     "cities": [
@@ -2502,6 +2502,26 @@
       "category_emoji": "🖨"
     },
     {
+      "name": "Ноутбук Asus 14/core i3 380m ddr3/3gb ddr3/hdd 450 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-14-core-i3-380m-ddr3-3gb-ddr3-hdd-450-gb-ntegrovana/m5163404",
+      "price_min": 1690,
+      "price_max": 1690,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-06T14:17:43Z",
+      "price_history": [
+        {
+          "price": 1690,
+          "at": "2026-04-06T14:17:43Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
       "name": "Монітор Samsung s24e650",
       "url": "https://tehnoskarb.ua/montor-samsung-s24e650/m5162299",
       "price_min": 1700,
@@ -3831,46 +3851,6 @@
       "price_history": [
         {
           "price": 2410,
-          "at": "2026-04-05T19:39:53Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Ноутбук  10/celeron n4120 ddr4/6gb ddr3/hdd *відсутній/ssd 120 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk--10-celeron-n4120-ddr4-6gb-ddr3-hdd-vdsutnjj-ssd-120-gb-ntegrovana/m5155252",
-      "price_min": 2420,
-      "price_max": 2420,
-      "city": "Житомир",
-      "addresses": [
-        "м. Житомир, вул. Небесної Сотні, 15"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-06T13:45:17Z",
-      "price_history": [
-        {
-          "price": 2420,
-          "at": "2026-04-06T13:45:17Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
-      "name": "Монітор Philips 273v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-273v5l/m5153965",
-      "price_min": 2460,
-      "price_max": 2460,
-      "city": "Жмеринка",
-      "addresses": [
-        "м. Жмеринка, вул. Соборна, 2, прим.№25"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 2460,
           "at": "2026-04-05T19:39:53Z"
         }
       ],
@@ -13088,33 +13068,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Ноутбук Dell 15/core i5 3360m ddr3/8gb ddr3/hdd *відсутній/ssd 250 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-dell-15-core-i5-3360m-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-250-gb-ntegrovana/m5159110",
-      "price": 3340,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-06T13:04:00Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Lenovo 15/core i5-12450hx ddr5/16gb ddr5/hdd *відсутній/ssd 500 gb/geforce rtx3050 6gb",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i5-12450hx-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-500-gb-geforce-rtx3050-6gb/m5159101",
-      "price": 23770,
-      "city": "Ніжин",
-      "category": "Ноутбуки",
-      "at": "2026-04-06T13:04:00Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Acer 15/e1 1200 ddr3/2gb ddr3/hdd 250 gb/ssd *відсутній/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-acer-15-e1-1200-ddr3-2gb-ddr3-hdd-250-gb-ssd-vdsutnjj-ntegrovana/m5158932",
-      "price": 2460,
-      "city": "Сокаль",
-      "category": "Ноутбуки",
-      "at": "2026-04-06T13:04:00Z"
-    },
-    {
-      "type": "new",
       "name": "Ноутбук Asus 15/core i3-1215u ddr5/16gb ddr5/hdd *відсутній/ssd 480 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-asus-15-core-i3-1215u-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-480-gb-ntegrovana/m5158929",
       "price": 10500,
@@ -14885,6 +14838,33 @@
       "city": "Житомир",
       "category": "Ноутбуки",
       "at": "2026-04-06T13:45:17Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 273v5l",
+      "url": "https://tehnoskarb.ua/montor-philips-273v5l/m5153965",
+      "price": 2460,
+      "city": "Жмеринка",
+      "category": "Монітори",
+      "at": "2026-04-06T14:17:43Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук  10/celeron n4120 ddr4/6gb ddr3/hdd *відсутній/ssd 120 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk--10-celeron-n4120-ddr4-6gb-ddr3-hdd-vdsutnjj-ssd-120-gb-ntegrovana/m5155252",
+      "price": 2420,
+      "city": "Житомир",
+      "category": "Ноутбуки",
+      "at": "2026-04-06T14:17:43Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Asus 14/core i3 380m ddr3/3gb ddr3/hdd 450 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-14-core-i3-380m-ddr3-3gb-ddr3-hdd-450-gb-ntegrovana/m5163404",
+      "price": 1690,
+      "city": "Запоріжжя",
+      "category": "Ноутбуки",
+      "at": "2026-04-06T14:17:43Z"
     }
   ],
   "config": {
