@@ -20,6 +20,7 @@ from datetime import datetime, timezone
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, field
 from typing import Optional
+from urllib.parse import urlsplit, urlunsplit
 
 from telegram import Bot
 from telegram.constants import ParseMode
@@ -227,12 +228,28 @@ def scrape_category(base_url: str, category: str, emoji: str) -> list[Product]:
 
 # ─── Деталі (адреса + місто) ─────────────────────────────────────────────────
 
-ADDRESS_RE = re.compile(r"^м\.\s*[^,]+,\s*.{3,60}$", re.UNICODE)
-CITY_RE    = re.compile(r"^м\.\s*([^,]+)", re.UNICODE)
+ADDRESS_RE = re.compile(r"^(?:м|г)\.\s*[^,]+,\s*.{3,60}$", re.UNICODE | re.IGNORECASE)
+CITY_RE    = re.compile(r"^(?:м|г)\.\s*([^,]+)", re.UNICODE | re.IGNORECASE)
 
 def extract_city(address: str) -> str:
     m = CITY_RE.search(address.strip())
     return m.group(1).strip() if m else ""
+
+def build_detail_fetch_urls(product_url: str) -> list[str]:
+    candidates = [product_url]
+    parsed = urlsplit(product_url)
+
+    if not parsed.scheme or not parsed.netloc:
+        return candidates
+
+    path = parsed.path or "/"
+    if not path.startswith("/ru/") and path != "/ru":
+        ru_path = "/ru" + path if path.startswith("/") else f"/ru/{path}"
+        ru_url = urlunsplit((parsed.scheme, parsed.netloc, ru_path, parsed.query, parsed.fragment))
+        if ru_url not in candidates:
+            candidates.append(ru_url)
+
+    return candidates
 
 def should_retry(exc: Exception) -> bool:
     if isinstance(exc, (requests.Timeout, requests.ConnectionError)):
@@ -242,35 +259,46 @@ def should_retry(exc: Exception) -> bool:
     return False
 
 def scrape_details(product_url: str) -> tuple[str, list[str]]:
+    detail_urls = build_detail_fetch_urls(product_url)
+
     for attempt in range(1, DETAILS_FETCH_RETRIES + 1):
-        try:
-            resp = SESSION.get(product_url, timeout=15)
-            resp.raise_for_status()
-            soup = BeautifulSoup(resp.text, "html.parser")
+        last_exc: Optional[Exception] = None
+        retryable_error = False
 
-            addresses = []
-            for el in soup.find_all(string=True):
-                addr = el.strip()
-                if ADDRESS_RE.match(addr) and addr not in addresses:
-                    addresses.append(addr)
+        for detail_url in detail_urls:
+            try:
+                resp = SESSION.get(detail_url, timeout=15)
+                resp.raise_for_status()
+                soup = BeautifulSoup(resp.text, "html.parser")
 
-            if not addresses:
-                for div in soup.find_all("div", class_=lambda c: c and "font-semibold" in c):
-                    text = div.get_text(strip=True)
-                    if re.match(r"^м\.", text) and len(text) < 80 and text not in addresses:
-                        addresses.append(text)
+                addresses = []
+                for el in soup.find_all(string=True):
+                    addr = el.strip()
+                    if ADDRESS_RE.match(addr) and addr not in addresses:
+                        addresses.append(addr)
 
-            addresses = addresses[:5]
-            city = extract_city(addresses[0]) if addresses else ""
-            return city, addresses
+                if not addresses:
+                    for div in soup.find_all("div", class_=lambda c: c and "font-semibold" in c):
+                        text = div.get_text(strip=True)
+                        if re.match(r"^(?:м|г)\.", text, re.IGNORECASE) and len(text) < 80 and text not in addresses:
+                            addresses.append(text)
 
-        except Exception as e:
-            if attempt < DETAILS_FETCH_RETRIES and should_retry(e):
-                log.warning(f"Деталі retry {attempt}: {e}")
-                time.sleep(attempt)
-                continue
-            log.warning(f"Деталі недоступні для {product_url}: {e}")
-            return "", []
+                addresses = addresses[:5]
+                city = extract_city(addresses[0]) if addresses else ""
+                return city, addresses
+
+            except Exception as e:
+                last_exc = e
+                retryable_error = retryable_error or should_retry(e)
+
+        if attempt < DETAILS_FETCH_RETRIES and retryable_error and last_exc is not None:
+            log.warning(f"Деталі retry {attempt}: {last_exc}")
+            time.sleep(attempt)
+            continue
+
+        if last_exc is not None:
+            log.warning(f"Деталі недоступні для {product_url}: {last_exc}")
+        return "", []
 
 # ─── Стан ────────────────────────────────────────────────────────────────────
 
