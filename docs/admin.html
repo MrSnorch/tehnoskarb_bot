@@ -177,8 +177,28 @@ input:checked+.slider:before{transform:translateX(18px);}
     <!-- Categories -->
     <div class="section">
       <h3>📂 Категорії для моніторингу</h3>
-      <div class="cat-list" id="cat-list">
-        <!-- Заповнюється з config -->
+      <div class="cat-list" id="cat-list"></div>
+
+      <!-- Add new category -->
+      <div style="margin-top:14px;padding-top:14px;border-top:1px solid #1e2535;">
+        <div style="font-size:0.8rem;color:#64748b;margin-bottom:10px;">Додати категорію</div>
+        <div class="field">
+          <label>Посилання на категорію</label>
+          <input type="text" id="cat-url-input" placeholder="https://tehnoskarb.ua/noutbuki/c34">
+          <div class="hint">Вставте посилання — назва і емодзі визначаться автоматично</div>
+        </div>
+        <div style="display:flex;gap:10px;align-items:flex-end;flex-wrap:wrap;">
+          <div class="field" style="flex:1;min-width:120px;margin-bottom:0;">
+            <label>Назва <span style="color:#475569">(авто)</span></label>
+            <input type="text" id="cat-name-input" placeholder="Ноутбуки">
+          </div>
+          <div class="field" style="width:80px;margin-bottom:0;">
+            <label>Емодзі</label>
+            <input type="text" id="cat-emoji-input" placeholder="💻" style="text-align:center;">
+          </div>
+          <button class="btn btn-ghost" style="margin-bottom:0;" onclick="addCategory()">+ Додати</button>
+        </div>
+        <div id="cat-add-status" class="st" style="margin-top:6px;font-size:0.78rem;"></div>
       </div>
     </div>
 
@@ -367,7 +387,38 @@ async function triggerRun() {
 // ─── Categories ───────────────────────────────────────────────────────────────
 let configCategories = [];
 
+// Відомі категорії для автовизначення назви та емодзі
+const KNOWN_CATS = {
+  'monitory':                      {name:'Монітори',        emoji:'🖥'},
+  'noutbuki':                      {name:'Ноутбуки',        emoji:'💻'},
+  'mobilnye-telefony-i-smartfony': {name:'Телефони',        emoji:'📱'},
+  'sistemnye-bloki':               {name:'Системні блоки',  emoji:'🖨'},
+  'planshety':                     {name:'Планшети',        emoji:'📟'},
+  'naushniki':                     {name:'Навушники',       emoji:'🎧'},
+  'igrovye-pristavki':             {name:'Ігрові приставки',emoji:'🎮'},
+  'akustika':                      {name:'Акустика',        emoji:'🔊'},
+  'zarjadnye-stanii':              {name:'Зарядні станції', emoji:'🔋'},
+  'c39-chasy-naruchnye':           {name:'Годинники',       emoji:'⌚'},
+};
+
+function guessCategory(url) {
+  try {
+    const path = new URL(url).pathname.replace(/^\//, '').split('/')[0];
+    for (const [key, val] of Object.entries(KNOWN_CATS)) {
+      if (path.includes(key)) return val;
+    }
+    // Якщо невідома — беремо slug з URL як назву
+    const slug = path.replace(/-/g,' ').replace(/c\d+/,'').trim();
+    return { name: slug.charAt(0).toUpperCase() + slug.slice(1), emoji: '📦' };
+  } catch { return { name: '', emoji: '📦' }; }
+}
+
 function renderCategories() {
+  if (!configCategories.length) {
+    document.getElementById('cat-list').innerHTML =
+      '<div style="color:#475569;font-size:0.82rem;padding:8px 0;">Категорій ще немає — додайте нижче</div>';
+    return;
+  }
   document.getElementById('cat-list').innerHTML = configCategories.map((c,i) => `
     <div class="cat-row">
       <div class="cat-left">
@@ -377,15 +428,78 @@ function renderCategories() {
           <div class="cat-url">${c.url}</div>
         </div>
       </div>
-      <label class="toggle">
-        <input type="checkbox" ${c.enabled?'checked':''} onchange="toggleCat(${i},this.checked)">
-        <span class="slider"></span>
-      </label>
+      <div style="display:flex;align-items:center;gap:10px;">
+        <label class="toggle">
+          <input type="checkbox" ${c.enabled?'checked':''} onchange="toggleCat(${i},this.checked)">
+          <span class="slider"></span>
+        </label>
+        <button onclick="deleteCat(${i})" title="Видалити"
+          style="background:none;border:none;color:#475569;cursor:pointer;font-size:1rem;padding:2px 4px;border-radius:4px;"
+          onmouseover="this.style.color='#f87171'" onmouseout="this.style.color='#475569'">✕</button>
+      </div>
     </div>
   `).join('');
 }
 
 function toggleCat(i, val) { configCategories[i].enabled = val; }
+
+function deleteCat(i) {
+  if (!confirm(`Видалити категорію "${configCategories[i].name}"?`)) return;
+  configCategories.splice(i, 1);
+  renderCategories();
+}
+
+function addCategory() {
+  const urlInput   = document.getElementById('cat-url-input');
+  const nameInput  = document.getElementById('cat-name-input');
+  const emojiInput = document.getElementById('cat-emoji-input');
+  const status     = document.getElementById('cat-add-status');
+
+  const url = urlInput.value.trim();
+  if (!url) { status.textContent='⚠ Вкажіть посилання'; status.className='st err'; return; }
+
+  // Перевіряємо що це tehnoskarb
+  if (!url.includes('tehnoskarb.ua')) {
+    status.textContent='⚠ Посилання має бути з tehnoskarb.ua';
+    status.className='st err'; return;
+  }
+
+  // Нормалізуємо URL — прибираємо filter/city і trailing slash
+  const cleanUrl = url.replace(/\/filter\/.*/, '').replace(/\/$/, '');
+
+  // Перевіряємо дублікати
+  if (configCategories.some(c => c.url === cleanUrl)) {
+    status.textContent='⚠ Ця категорія вже є в списку';
+    status.className='st err'; return;
+  }
+
+  // Автовизначення назви і емодзі
+  const guessed = guessCategory(cleanUrl);
+  const name    = nameInput.value.trim()  || guessed.name  || 'Нова категорія';
+  const emoji   = emojiInput.value.trim() || guessed.emoji || '📦';
+
+  configCategories.push({ name, url: cleanUrl, emoji, enabled: true });
+  renderCategories();
+
+  // Очищаємо поля
+  urlInput.value = ''; nameInput.value = ''; emojiInput.value = '';
+  status.textContent = `✅ Додано: ${emoji} ${name}`;
+  status.className = 'st ok';
+  setTimeout(() => { status.textContent=''; }, 3000);
+}
+
+// Автозаповнення назви при вставці URL
+document.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('cat-url-input')?.addEventListener('input', function() {
+    const url = this.value.trim();
+    if (!url) return;
+    const g = guessCategory(url);
+    if (g.name && !document.getElementById('cat-name-input').value)
+      document.getElementById('cat-name-input').placeholder = g.name;
+    if (g.emoji && !document.getElementById('cat-emoji-input').value)
+      document.getElementById('cat-emoji-input').placeholder = g.emoji;
+  });
+});
 
 // ─── Cities ───────────────────────────────────────────────────────────────────
 let cities = [];
