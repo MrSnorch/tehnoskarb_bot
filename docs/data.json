@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-06T08:54:03Z",
+  "updated_at": "2026-04-06T10:13:11Z",
   "stats": {
-    "total": 209,
-    "avg_price": 2562,
+    "total": 207,
+    "avg_price": 2577,
     "min_price": 110,
     "max_price": 16800,
     "cities": [
@@ -341,25 +341,6 @@
       ]
     },
     {
-      "name": "Монітор Viewsonic va703b",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
-      "price_min": 310,
-      "price_max": 380,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Кольцова, 13",
-        "м. Київ, вул. Княжий Затон, 2/30"
-      ],
-      "offers": 2,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 310,
-          "at": "2026-04-05T19:39:53Z"
-        }
-      ]
-    },
-    {
       "name": "Монітор Samsung 940bw",
       "url": "https://tehnoskarb.ua/montor-samsung-940bw/m4996862",
       "price_min": 310,
@@ -500,6 +481,29 @@
         {
           "price": 370,
           "at": "2026-04-05T19:39:53Z"
+        }
+      ]
+    },
+    {
+      "name": "Монітор Viewsonic va703b",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
+      "price_min": 380,
+      "price_max": 380,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Кольцова, 13",
+        "м. Київ, вул. Княжий Затон, 2/30"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-05T19:39:53Z",
+      "price_history": [
+        {
+          "price": 310,
+          "at": "2026-04-05T19:39:53Z"
+        },
+        {
+          "price": 380,
+          "at": "2026-04-06T10:12:46Z"
         }
       ]
     },
@@ -1495,42 +1499,6 @@
       "price_history": [
         {
           "price": 950,
-          "at": "2026-04-05T19:39:53Z"
-        }
-      ]
-    },
-    {
-      "name": "Монітор Lg 22m37d",
-      "url": "https://tehnoskarb.ua/montor-lg-22m37d/m5117473",
-      "price_min": 970,
-      "price_max": 970,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Ревуцького, 12/1"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 970,
-          "at": "2026-04-05T19:39:53Z"
-        }
-      ]
-    },
-    {
-      "name": "Монітор Lg e2241s",
-      "url": "https://tehnoskarb.ua/montor-lg-e2241s/m5072513",
-      "price_min": 1000,
-      "price_max": 1000,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Червоної Калини, 26"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 1000,
           "at": "2026-04-05T19:39:53Z"
         }
       ]
@@ -3805,30 +3773,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Msi optix g24c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g24c/m5164603",
-      "price": 3400,
-      "city": "",
-      "at": "2026-04-05T19:39:53Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung b1940w",
-      "url": "https://tehnoskarb.ua/montor-samsung-b1940w/m5164321",
-      "price": 700,
-      "city": "",
-      "at": "2026-04-05T19:39:53Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung odyssey g7 s28bg702",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-s28bg702/m5164268",
-      "price": 10990,
-      "city": "",
-      "at": "2026-04-05T19:39:53Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Xiaomi gaming monitor g pro 27i",
       "url": "https://tehnoskarb.ua/montor-xiaomi-gaming-monitor-g-pro-27i/m5164104",
       "price": 11740,
@@ -5403,6 +5347,31 @@
       "price": 3510,
       "city": "Київ",
       "at": "2026-04-06T07:10:09Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 22m37d",
+      "url": "https://tehnoskarb.ua/montor-lg-22m37d/m5117473",
+      "price": 970,
+      "city": "Київ",
+      "at": "2026-04-06T10:12:46Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg e2241s",
+      "url": "https://tehnoskarb.ua/montor-lg-e2241s/m5072513",
+      "price": 1000,
+      "city": "Київ",
+      "at": "2026-04-06T10:12:46Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Viewsonic va703b",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
+      "price_old": 310,
+      "price_new": 380,
+      "city": "Київ",
+      "at": "2026-04-06T10:12:46Z"
     }
   ],
   "config": {
