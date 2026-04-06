@@ -283,7 +283,7 @@ def scrape_details(product_url: str) -> tuple[str, list[str]]:
 
     for attempt in range(1, DETAILS_FETCH_RETRIES + 1):
         last_exc: Optional[Exception] = None
-        retryable_error = False
+        retryable_exc: Optional[Exception] = None
 
         for detail_url in detail_urls:
             try:
@@ -309,11 +309,12 @@ def scrape_details(product_url: str) -> tuple[str, list[str]]:
 
             except Exception as e:
                 last_exc = e
-                retryable_error = retryable_error or should_retry(e)
+                if should_retry(e):
+                    retryable_exc = e
 
-        if attempt < DETAILS_FETCH_RETRIES and retryable_error and last_exc is not None:
+        if attempt < DETAILS_FETCH_RETRIES and retryable_exc is not None:
             delay = get_details_retry_delay(attempt)
-            log.warning(f"Деталі retry {attempt}/{DETAILS_FETCH_RETRIES - 1} через {delay:.1f}с: {last_exc}")
+            log.warning(f"Деталі retry {attempt}/{DETAILS_FETCH_RETRIES - 1} через {delay:.1f}с: {retryable_exc}")
             time.sleep(delay)
             continue
 
