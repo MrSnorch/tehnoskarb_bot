@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-06T02:50:15Z",
+  "updated_at": "2026-04-06T05:28:52Z",
   "stats": {
-    "total": 207,
-    "avg_price": 2553,
+    "total": 208,
+    "avg_price": 2557,
     "min_price": 110,
     "max_price": 16800,
     "cities": [
@@ -2889,6 +2889,24 @@
       ]
     },
     {
+      "name": "Монітор Msi optix g24c4 e2",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g24c4-e2/m5146031",
+      "price_min": 3660,
+      "price_max": 3660,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, вул. Дудинської, 1-А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-06T05:28:27Z",
+      "price_history": [
+        {
+          "price": 3660,
+          "at": "2026-04-06T05:28:27Z"
+        }
+      ]
+    },
+    {
       "name": "Монітор Aoc q24v4ea",
       "url": "https://tehnoskarb.ua/montor-aoc-q24v4ea/m5154011",
       "price_min": 3690,
@@ -2907,6 +2925,29 @@
       ]
     },
     {
+      "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
+      "price_min": 3730,
+      "price_max": 3930,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Княгині Ольги, 114",
+        "м. Київ,  вул. Драгоманова, 27"
+      ],
+      "offers": 3,
+      "first_seen": "2026-04-05T19:39:53Z",
+      "price_history": [
+        {
+          "price": 3900,
+          "at": "2026-04-05T19:39:53Z"
+        },
+        {
+          "price": 3730,
+          "at": "2026-04-06T05:28:27Z"
+        }
+      ]
+    },
+    {
       "name": "Монітор Samsung professional s24c430",
       "url": "https://tehnoskarb.ua/montor-samsung-professional-s24c430/m5154762",
       "price_min": 3800,
@@ -2920,25 +2961,6 @@
       "price_history": [
         {
           "price": 3800,
-          "at": "2026-04-05T19:39:53Z"
-        }
-      ]
-    },
-    {
-      "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
-      "price_min": 3900,
-      "price_max": 3930,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Княгині Ольги, 114",
-        "м. Київ,  вул. Драгоманова, 27"
-      ],
-      "offers": 2,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 3900,
           "at": "2026-04-05T19:39:53Z"
         }
       ]
@@ -3763,22 +3785,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Gigabyte m32u gaming monitor",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-m32u-gaming-monitor/m5165285",
-      "price": 16800,
-      "city": "",
-      "at": "2026-04-05T19:39:53Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg e2360",
-      "url": "https://tehnoskarb.ua/montor-lg-e2360/m5164732",
-      "price": 620,
-      "city": "",
-      "at": "2026-04-05T19:39:53Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hp elitedisplay s231d",
@@ -5362,6 +5368,23 @@
       "price": 300,
       "city": "",
       "at": "2026-04-05T19:39:53Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi optix g24c4 e2",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g24c4-e2/m5146031",
+      "price": 3660,
+      "city": "Харків",
+      "at": "2026-04-06T05:28:27Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
+      "price_old": 3900,
+      "price_new": 3730,
+      "city": "Львів",
+      "at": "2026-04-06T05:28:27Z"
     }
   ]
 }
