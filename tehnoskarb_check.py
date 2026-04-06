@@ -6,9 +6,7 @@
   - seen_products.json  — стан (пам'ять бота)
   - docs/data.json      — дані для GitHub Pages дашборду
 
-Виправлення:
-  - При першому запуску надсилає одне зведене повідомлення замість сотень
-  - Обробляє Telegram 429 RetryAfter — чекає і повторює
+Налаштування читаються з config.json (можна змінити через дашборд).
 """
 
 import os
@@ -33,19 +31,14 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID   = os.environ["CHAT_ID"]
 
 WATCH_URL = "https://tehnoskarb.ua/monitory/c36"
-TELEGRAM_NOTIFY_CITY = "Харків"
 
+CONFIG_FILE   = "config.json"
 STATE_FILE    = "seen_products.json"
 DASHBOARD_DIR = "docs"
 DATA_FILE     = os.path.join(DASHBOARD_DIR, "data.json")
 
-MAX_TG_LEN = 4096
-MAX_PAGES  = 10
-
-# Максимум окремих повідомлень за один запуск.
-# Якщо більше — надсилається одне зведене повідомлення.
-MAX_INDIVIDUAL_MSGS = 5
-
+MAX_TG_LEN           = 4096
+MAX_PAGES            = 10
 DETAILS_FETCH_RETRIES = 3
 
 # ─── Логування ───────────────────────────────────────────────────────────────
@@ -55,6 +48,35 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(message)s",
 )
 log = logging.getLogger(__name__)
+
+# ─── Читання config.json ──────────────────────────────────────────────────────
+
+def load_config() -> dict:
+    defaults = {
+        "notify_cities":       [],       # [] = всі міста
+        "price_min":           None,
+        "price_max":           None,
+        "keywords":            [],       # [] = без фільтру
+        "notify_new":          True,
+        "notify_price_drop":   True,
+        "notify_price_rise":   True,
+        "notify_sold":         True,
+        "max_individual_msgs": 5,
+    }
+    if not os.path.exists(CONFIG_FILE):
+        log.warning(f"{CONFIG_FILE} не знайдено — використовуємо значення за замовчуванням")
+        return defaults
+    try:
+        with open(CONFIG_FILE, encoding="utf-8") as f:
+            user_cfg = json.load(f)
+        defaults.update(user_cfg)
+        log.info(f"Конфіг завантажено: міста={defaults['notify_cities']}, "
+                 f"ціна={defaults['price_min']}–{defaults['price_max']}, "
+                 f"ключові слова={defaults['keywords']}")
+        return defaults
+    except Exception as e:
+        log.error(f"Помилка читання {CONFIG_FILE}: {e} — використовуємо defaults")
+        return defaults
 
 # ─── Модель ──────────────────────────────────────────────────────────────────
 
@@ -81,6 +103,33 @@ HEADERS = {
 
 SESSION = requests.Session()
 SESSION.headers.update(HEADERS)
+
+# ─── Фільтри ─────────────────────────────────────────────────────────────────
+
+def passes_filters(p: Product, cfg: dict) -> bool:
+    """Перевіряє чи товар проходить всі фільтри з конфігу."""
+
+    # Фільтр по місту (якщо список не порожній)
+    notify_cities = [c.strip().casefold() for c in cfg.get("notify_cities", []) if c.strip()]
+    if notify_cities and p.city.strip().casefold() not in notify_cities:
+        return False
+
+    # Фільтр по мінімальній ціні
+    price_min_cfg = cfg.get("price_min")
+    if price_min_cfg is not None and p.price_min is not None and p.price_min < price_min_cfg:
+        return False
+
+    # Фільтр по максимальній ціні
+    price_max_cfg = cfg.get("price_max")
+    if price_max_cfg is not None and p.price_min is not None and p.price_min > price_max_cfg:
+        return False
+
+    # Фільтр по ключових словах
+    keywords = [k.strip().casefold() for k in cfg.get("keywords", []) if k.strip()]
+    if keywords and not any(kw in p.name.casefold() for kw in keywords):
+        return False
+
+    return True
 
 # ─── Скрапер: список товарів ─────────────────────────────────────────────────
 
@@ -191,15 +240,6 @@ def extract_city(address: str) -> str:
     m = CITY_RE.search(address.strip())
     return m.group(1).strip() if m else ""
 
-def normalize_city(city: str) -> str:
-    return city.strip().casefold()
-
-def is_notify_city(city: str = "", addresses: Optional[list[str]] = None) -> bool:
-    resolved_city = city.strip()
-    if not resolved_city and addresses:
-        resolved_city = extract_city(addresses[0])
-    return normalize_city(resolved_city) == normalize_city(TELEGRAM_NOTIFY_CITY)
-
 def should_retry_details(exc: Exception) -> bool:
     if isinstance(exc, (requests.Timeout, requests.ConnectionError)):
         return True
@@ -228,18 +268,13 @@ def scrape_details(product_url: str) -> tuple[str, list[str]]:
 
             addresses = addresses[:5]
             city = extract_city(addresses[0]) if addresses else ""
-
             return city, addresses
 
         except Exception as e:
             if attempt < DETAILS_FETCH_RETRIES and should_retry_details(e):
-                log.warning(
-                    f"Не вдалося отримати деталі для {product_url} "
-                    f"(спроба {attempt}/{DETAILS_FETCH_RETRIES}): {e}"
-                )
+                log.warning(f"Деталі {product_url} (спроба {attempt}/{DETAILS_FETCH_RETRIES}): {e}")
                 time.sleep(attempt)
                 continue
-
             log.warning(f"Не вдалося отримати деталі для {product_url}: {e}")
             return "", []
 
@@ -261,7 +296,7 @@ def save_state(state: dict):
 
 # ─── Dashboard data.json ─────────────────────────────────────────────────────
 
-def save_dashboard(state: dict, events: list[dict]):
+def save_dashboard(state: dict, events: list[dict], cfg: dict):
     os.makedirs(DASHBOARD_DIR, exist_ok=True)
 
     products = []
@@ -292,6 +327,7 @@ def save_dashboard(state: dict, events: list[dict]):
         "stats":      stats,
         "products":   sorted(products, key=lambda p: p["price_min"] or 0),
         "events":     events[-200:],
+        "config":     cfg,  # передаємо конфіг на дашборд
     }
 
     with open(DATA_FILE, "w", encoding="utf-8") as f:
@@ -362,9 +398,7 @@ def msg_sold(name, url, price_min, price_max, city) -> str:
     )
 
 def msg_summary(new_products: list[Product], total: int) -> str:
-    """Зведене повідомлення при першому запуску або масовому оновленні."""
-    lines = [f"📦 <b>Завантажено {total} товарів</b>\n"]
-    lines.append("Ось кілька прикладів:\n")
+    lines = [f"📦 <b>Завантажено {total} товарів</b>\n", "Ось кілька прикладів:\n"]
     for p in new_products[:10]:
         city = f" · {p.city}" if p.city else ""
         lines.append(f"• <a href=\"{p.url}\">{p.name}</a> — <b>{fmt_price(p.price_min, p.price_max)}</b>{city}")
@@ -373,7 +407,6 @@ def msg_summary(new_products: list[Product], total: int) -> str:
     return safe("\n".join(lines))
 
 async def send_one(bot: Bot, text: str, retries: int = 5):
-    """Надсилає одне повідомлення з обробкою RetryAfter."""
     for attempt in range(retries):
         try:
             await bot.send_message(chat_id=CHAT_ID, text=text, parse_mode=ParseMode.HTML)
@@ -391,7 +424,6 @@ async def send_messages(messages: list[str]):
     bot = Bot(token=BOT_TOKEN)
     for i, text in enumerate(messages):
         await send_one(bot, text)
-        # Пауза між повідомленнями щоб не спрацював flood control
         if i < len(messages) - 1:
             await asyncio.sleep(1.5)
 
@@ -401,14 +433,16 @@ def main():
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     log.info("Запуск перевірки (всі міста)...")
 
+    cfg   = load_config()
     state = load_state()
     is_first_run = len(state) == 0
 
+    max_individual = cfg.get("max_individual_msgs", 5)
+
     tg_msgs  = []
     events   = []
-    new_list = []  # нові товари, про які можна писати в Telegram
+    new_list = []
 
-    # Завантажуємо існуючі події
     if os.path.exists(DATA_FILE):
         try:
             with open(DATA_FILE, encoding="utf-8") as f:
@@ -417,7 +451,6 @@ def main():
         except Exception:
             pass
 
-    # Скрапимо всі сторінки
     products = scrape_all_pages()
     log.info(f"Всього знайдено товарів: {len(products)}")
     current_urls = {p.url for p in products}
@@ -427,17 +460,22 @@ def main():
         for known_url in list(state.keys()):
             if known_url not in current_urls:
                 d = state.pop(known_url)
-                name = d.get("name") or known_url
-                sold_city = d.get("city", "")
-                sold_addresses = d.get("addresses", [])
-                if not sold_city and sold_addresses:
-                    sold_city = extract_city(sold_addresses[0])
-                    d["city"] = sold_city
+                name       = d.get("name") or known_url
+                sold_city  = d.get("city", "")
+                sold_addrs = d.get("addresses", [])
+                if not sold_city and sold_addrs:
+                    sold_city = extract_city(sold_addrs[0])
+
                 log.info(f"  ✅ Продано: {name}")
-                if is_notify_city(sold_city, sold_addresses):
-                    tg_msgs.append(msg_sold(name, known_url, d.get("price_min"), d.get("price_max"), sold_city))
                 events.append({"type": "sold", "name": name, "url": known_url,
                                "price": d.get("price_min"), "city": sold_city, "at": now})
+
+                if cfg.get("notify_sold", True):
+                    fake = Product(name=name, url=known_url,
+                                   price_min=d.get("price_min"), price_max=d.get("price_max"),
+                                   offers_count=1, city=sold_city, addresses=sold_addrs)
+                    if passes_filters(fake, cfg):
+                        tg_msgs.append(msg_sold(name, known_url, d.get("price_min"), d.get("price_max"), sold_city))
 
     # ── Нові товари та зміни ціни ─────────────────────────────────────────────
     for p in products:
@@ -446,14 +484,13 @@ def main():
         if known is None:
             log.info(f"  🆕 Новий: {p.name}")
 
-            # При першому запуску не ходимо за деталями кожного — 
-            # занадто багато запитів. Деталі підтягнемо при наступних перевірках.
             if not is_first_run:
                 p.city, p.addresses = scrape_details(p.url)
                 time.sleep(0.5)
-                if is_notify_city(p.city, p.addresses):
+                if cfg.get("notify_new", True) and passes_filters(p, cfg):
                     tg_msgs.append(msg_new(p))
                     new_list.append(p)
+
             events.append({"type": "new", "name": p.name, "url": p.url,
                            "price": p.price_min, "city": p.city, "at": now})
             state[p.url] = {
@@ -464,47 +501,39 @@ def main():
             }
 
         else:
-            stored_city = known.get("city", "")
-            stored_addresses = known.get("addresses", [])
+            stored_city  = known.get("city", "")
+            stored_addrs = known.get("addresses", [])
 
-            if not stored_city and stored_addresses:
-                stored_city = extract_city(stored_addresses[0])
+            if not stored_city and stored_addrs:
+                stored_city = extract_city(stored_addrs[0])
                 known["city"] = stored_city
 
-            if not stored_city or not stored_addresses:
-                fetched_city, fetched_addresses = scrape_details(p.url)
+            if not stored_city or not stored_addrs:
+                fc, fa = scrape_details(p.url)
                 time.sleep(0.5)
+                if fa:
+                    stored_addrs = fa
+                    known["addresses"] = fa
+                if fc:
+                    stored_city = fc
+                    known["city"] = fc
 
-                if fetched_addresses:
-                    stored_addresses = fetched_addresses
-                    known["addresses"] = fetched_addresses
-
-                if fetched_city:
-                    stored_city = fetched_city
-                    known["city"] = fetched_city
-                elif not stored_city and stored_addresses:
-                    stored_city = extract_city(stored_addresses[0])
-                    known["city"] = stored_city
-
-                if stored_city or stored_addresses:
-                    log.info(f"  🏙 Дозаповнено деталі: {p.name}")
-
-            p.city = stored_city
-            p.addresses = stored_addresses
-            old_min = known.get("price_min")
-            old_max = known.get("price_max")
+            p.city      = stored_city
+            p.addresses = stored_addrs
+            old_min     = known.get("price_min")
+            old_max     = known.get("price_max")
 
             if old_min is not None and p.price_min is not None and p.price_min != old_min:
                 if p.price_min < old_min:
                     log.info(f"  📉 Ціна впала: {p.name} | {old_min} → {p.price_min} грн")
-                    if is_notify_city(p.city, p.addresses):
+                    if cfg.get("notify_price_drop", True) and passes_filters(p, cfg):
                         tg_msgs.append(msg_drop(p, old_min, old_max))
                     events.append({"type": "drop", "name": p.name, "url": p.url,
                                    "price_old": old_min, "price_new": p.price_min,
                                    "city": p.city, "at": now})
                 else:
                     log.info(f"  📈 Ціна зросла: {p.name} | {old_min} → {p.price_min} грн")
-                    if is_notify_city(p.city, p.addresses):
+                    if cfg.get("notify_price_rise", True) and passes_filters(p, cfg):
                         tg_msgs.append(msg_rise(p, old_min, old_max))
                     events.append({"type": "rise", "name": p.name, "url": p.url,
                                    "price_old": old_min, "price_new": p.price_min,
@@ -522,21 +551,16 @@ def main():
             })
             state[p.url] = known
 
-    # ── Формуємо повідомлення в Telegram ─────────────────────────────────────
-    if is_first_run and new_list:
-        # Перший запуск — одне зведене повідомлення
-        log.info(f"Перший запуск — надсилаємо зведення ({len(new_list)} товарів)")
-        tg_msgs = [msg_summary(new_list, len(new_list))]
-
-    elif len(tg_msgs) > MAX_INDIVIDUAL_MSGS:
-        # Забагато повідомлень за раз — групуємо нові в зведення
-        sold_and_price = [m for m in tg_msgs if m.startswith("✅") or m.startswith("📉") or m.startswith("📈")]
-        new_msgs_count = len(tg_msgs) - len(sold_and_price)
-        tg_msgs = sold_and_price
+    # ── Формуємо повідомлення ─────────────────────────────────────────────────
+    if is_first_run:
+        log.info(f"Перший запуск — зберігаємо базу ({len(state)} товарів), без сповіщень")
+        tg_msgs = []
+    elif len(tg_msgs) > max_individual:
+        sold_price_msgs = [m for m in tg_msgs if not m.startswith("🆕")]
+        tg_msgs = sold_price_msgs
         if new_list:
-            tg_msgs.append(msg_summary(new_list, new_msgs_count))
+            tg_msgs.append(msg_summary(new_list, len(new_list)))
 
-    # ── Надсилаємо ────────────────────────────────────────────────────────────
     if tg_msgs:
         log.info(f"Надсилаємо {len(tg_msgs)} повідомлень...")
         asyncio.run(send_messages(tg_msgs))
@@ -544,7 +568,7 @@ def main():
         log.info("Нічого нового.")
 
     save_state(state)
-    save_dashboard(state, events)
+    save_dashboard(state, events, cfg)
     log.info("Готово.")
 
 if __name__ == "__main__":
