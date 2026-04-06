@@ -30,6 +30,7 @@ from telegram.error import RetryAfter
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID   = os.environ["CHAT_ID"]
+ALL_PRODUCTS_CHAT_ID = os.environ.get("ALL_PRODUCTS_CHAT_ID", "").strip()
 
 CONFIG_FILE   = "config.json"
 STATE_FILE    = "seen_products.json"
@@ -492,10 +493,31 @@ def msg_summary(new_products: list[Product], total: int) -> str:
         lines.append(f"\n…і ще {total - 10} товарів на дашборді")
     return safe("\n".join(lines))
 
-async def send_one(bot: Bot, text: str, retries: int = 5):
+def compact_messages(messages: list[str], new_products: list[Product], max_individual: int) -> list[str]:
+    if len(messages) <= max_individual:
+        return messages
+
+    sold_price = [m for m in messages if not m.startswith("🆕")]
+    if new_products:
+        sold_price.append(msg_summary(new_products, len(new_products)))
+    return sold_price
+
+def get_notification_targets(filtered_messages: list[str], all_messages: list[str]) -> list[tuple[str, str, list[str]]]:
+    targets = [("основний канал", CHAT_ID, filtered_messages)]
+    if not ALL_PRODUCTS_CHAT_ID:
+        return targets
+
+    if ALL_PRODUCTS_CHAT_ID == CHAT_ID:
+        log.warning("ALL_PRODUCTS_CHAT_ID збігається з CHAT_ID — дубльоване надсилання пропускаємо")
+        return targets
+
+    targets.append(("канал всіх товарів", ALL_PRODUCTS_CHAT_ID, all_messages))
+    return targets
+
+async def send_one(bot: Bot, chat_id: str, text: str, retries: int = 5):
     for attempt in range(retries):
         try:
-            await bot.send_message(chat_id=CHAT_ID, text=text, parse_mode=ParseMode.HTML)
+            await bot.send_message(chat_id=chat_id, text=text, parse_mode=ParseMode.HTML)
             return
         except RetryAfter as e:
             wait = e.retry_after + 1
@@ -506,10 +528,10 @@ async def send_one(bot: Bot, text: str, retries: int = 5):
             return
     log.error("Не вдалося надіслати після всіх спроб.")
 
-async def send_messages(messages: list[str]):
+async def send_messages(chat_id: str, messages: list[str]):
     bot = Bot(token=BOT_TOKEN)
     for i, text in enumerate(messages):
-        await send_one(bot, text)
+        await send_one(bot, chat_id, text)
         if i < len(messages) - 1:
             await asyncio.sleep(1.5)
 
@@ -534,9 +556,10 @@ def main():
 
     log.info(f"Активних категорій: {len(active_cats)} — {[c['name'] for c in active_cats]}")
 
-    tg_msgs  = []
-    events   = []
-    new_list = []
+    tg_msgs       = []
+    all_tg_msgs   = []
+    events        = []
+    new_list      = []
 
     # Завантажуємо попередні події
     if os.path.exists(DATA_FILE):
@@ -574,14 +597,16 @@ def main():
                                "price": d.get("price_min"), "city": sold_city,
                                "category": cat_name, "at": now})
 
+                sold_msg = msg_sold(name, known_url, d.get("price_min"),
+                                    d.get("price_max"), sold_city, cat_name, cat_emoji)
+                all_tg_msgs.append(sold_msg)
                 if cfg.get("notify_sold", True):
                     fake = Product(name=name, url=known_url,
                                    price_min=d.get("price_min"), price_max=d.get("price_max"),
                                    offers_count=1, city=sold_city, addresses=sold_addrs,
                                    category=cat_name, category_emoji=cat_emoji)
                     if passes_filters(fake, cfg):
-                        tg_msgs.append(msg_sold(name, known_url, d.get("price_min"),
-                                                d.get("price_max"), sold_city, cat_name, cat_emoji))
+                        tg_msgs.append(sold_msg)
 
     # ── Нові товари та зміни ціни ─────────────────────────────────────────────
     for p in all_products:
@@ -594,8 +619,10 @@ def main():
                 p.city, p.addresses = scrape_details(p.url)
                 time.sleep(DETAILS_REQUEST_DELAY)
                 details_loaded = bool(p.city or p.addresses)
+                new_msg = msg_new(p)
+                all_tg_msgs.append(new_msg)
                 if cfg.get("notify_new", True) and passes_filters(p, cfg):
-                    tg_msgs.append(msg_new(p))
+                    tg_msgs.append(new_msg)
                     new_list.append(p)
 
             events.append({"type": "new", "name": p.name, "url": p.url,
@@ -649,15 +676,19 @@ def main():
             if old_min is not None and p.price_min is not None and p.price_min != old_min:
                 if p.price_min < old_min:
                     log.info(f"  📉 [{p.category}] {p.name} | {old_min} → {p.price_min} грн")
+                    drop_msg = msg_drop(p, old_min, old_max)
+                    all_tg_msgs.append(drop_msg)
                     if cfg.get("notify_price_drop", True) and passes_filters(p, cfg):
-                        tg_msgs.append(msg_drop(p, old_min, old_max))
+                        tg_msgs.append(drop_msg)
                     events.append({"type": "drop", "name": p.name, "url": p.url,
                                    "price_old": old_min, "price_new": p.price_min,
                                    "city": p.city, "category": p.category, "at": now})
                 else:
                     log.info(f"  📈 [{p.category}] {p.name} | {old_min} → {p.price_min} грн")
+                    rise_msg = msg_rise(p, old_min, old_max)
+                    all_tg_msgs.append(rise_msg)
                     if cfg.get("notify_price_rise", True) and passes_filters(p, cfg):
-                        tg_msgs.append(msg_rise(p, old_min, old_max))
+                        tg_msgs.append(rise_msg)
                     events.append({"type": "rise", "name": p.name, "url": p.url,
                                    "price_old": old_min, "price_new": p.price_min,
                                    "city": p.city, "category": p.category, "at": now})
@@ -674,16 +705,19 @@ def main():
     if is_first_run:
         log.info(f"Перший запуск — зберігаємо базу ({len(state)} товарів), без сповіщень")
         tg_msgs = []
-    elif len(tg_msgs) > max_individual:
-        sold_price = [m for m in tg_msgs if not m.startswith("🆕")]
-        tg_msgs = sold_price
-        if new_list:
-            tg_msgs.append(msg_summary(new_list, len(new_list)))
-
-    if tg_msgs:
-        log.info(f"Надсилаємо {len(tg_msgs)} повідомлень...")
-        asyncio.run(send_messages(tg_msgs))
+        all_tg_msgs = []
     else:
+        tg_msgs = compact_messages(tg_msgs, new_list, max_individual)
+
+    sent_any = False
+    for target_name, chat_id, messages in get_notification_targets(tg_msgs, all_tg_msgs):
+        if not messages:
+            continue
+        sent_any = True
+        log.info(f"Надсилаємо {len(messages)} повідомлень у {target_name}...")
+        asyncio.run(send_messages(chat_id, messages))
+
+    if not sent_any:
         log.info("Нічого нового.")
 
     save_state(state)
