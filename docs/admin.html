@@ -3,135 +3,156 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Адмін — Техноскарб бот</title>
+<title>Адмін — Техноскарб</title>
 <style>
-* { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #0f1117; color: #e2e8f0; min-height: 100vh; }
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#0f1117;color:#e2e8f0;min-height:100vh;}
 
-/* ── Lock screen ── */
-#lock-screen {
-  position: fixed; inset: 0; background: #0f1117;
-  display: flex; align-items: center; justify-content: center; z-index: 100;
-}
-.lock-box {
-  background: #1a1f2e; border: 1px solid #2d3748; border-radius: 16px;
-  padding: 40px 36px; width: 340px; text-align: center;
-}
-.lock-box .icon { font-size: 3rem; margin-bottom: 16px; }
-.lock-box h2 { font-size: 1.1rem; margin-bottom: 6px; }
-.lock-box p { font-size: 0.8rem; color: #64748b; margin-bottom: 24px; }
-.lock-input {
-  width: 100%; background: #0f1117; border: 1px solid #2d3748; color: #e2e8f0;
-  border-radius: 8px; padding: 10px 14px; font-size: 0.95rem; outline: none;
-  text-align: center; letter-spacing: 2px; margin-bottom: 12px;
-}
-.lock-input:focus { border-color: #60a5fa; }
-.lock-btn {
-  width: 100%; background: #3b82f6; color: white; border: none;
-  border-radius: 8px; padding: 10px; font-size: 0.9rem; font-weight: 600;
-  cursor: pointer; transition: background 0.15s;
-}
-.lock-btn:hover { background: #2563eb; }
-.lock-error { color: #f87171; font-size: 0.8rem; margin-top: 8px; min-height: 18px; }
-.shake { animation: shake 0.3s; }
-@keyframes shake { 0%,100%{transform:translateX(0)} 25%{transform:translateX(-8px)} 75%{transform:translateX(8px)} }
+/* Lock */
+#lock-screen{position:fixed;inset:0;background:#0f1117;display:flex;align-items:center;justify-content:center;z-index:100;}
+.lock-box{background:#1a1f2e;border:1px solid #2d3748;border-radius:16px;padding:40px 36px;width:340px;text-align:center;}
+.lock-box .icon{font-size:3rem;margin-bottom:16px;}
+.lock-box h2{font-size:1.1rem;margin-bottom:6px;}
+.lock-box p{font-size:0.8rem;color:#64748b;margin-bottom:24px;}
+.lock-input{width:100%;background:#0f1117;border:1px solid #2d3748;color:#e2e8f0;border-radius:8px;padding:10px 14px;font-size:0.95rem;outline:none;text-align:center;letter-spacing:2px;margin-bottom:12px;}
+.lock-input:focus{border-color:#60a5fa;}
+.lock-btn{width:100%;background:#3b82f6;color:white;border:none;border-radius:8px;padding:10px;font-size:0.9rem;font-weight:600;cursor:pointer;}
+.lock-btn:hover{background:#2563eb;}
+.lock-error{color:#f87171;font-size:0.8rem;margin-top:8px;min-height:18px;}
+.shake{animation:shake 0.3s;}
+@keyframes shake{0%,100%{transform:translateX(0)}25%{transform:translateX(-8px)}75%{transform:translateX(8px)}}
 
-/* ── Admin UI ── */
-#admin-ui { display: none; }
+/* Header */
+#admin-ui{display:none;}
+header{background:linear-gradient(135deg,#2d1b4e 0%,#1a0f30 100%);padding:18px 28px;border-bottom:1px solid #3b2a5e;display:flex;align-items:center;justify-content:space-between;gap:12px;}
+header h1{font-size:1.2rem;font-weight:700;}
+header h1 span{color:#a78bfa;}
+.header-right{display:flex;align-items:center;gap:10px;}
+.btn-back{color:#64748b;font-size:0.8rem;text-decoration:none;}
+.btn-back:hover{color:#94a3b8;}
+.btn-logout{background:none;border:1px solid #3b2a5e;color:#64748b;border-radius:7px;padding:5px 12px;font-size:0.8rem;cursor:pointer;}
+.btn-logout:hover{border-color:#f87171;color:#f87171;}
 
-header {
-  background: linear-gradient(135deg, #2d1b4e 0%, #1a0f30 100%);
-  padding: 18px 28px; border-bottom: 1px solid #3b2a5e;
-  display: flex; align-items: center; justify-content: space-between; gap: 12px;
-}
-header h1 { font-size: 1.2rem; font-weight: 700; }
-header h1 span { color: #a78bfa; }
-.header-actions { display: flex; align-items: center; gap: 10px; }
-.btn-logout { background: none; border: 1px solid #3b2a5e; color: #64748b; border-radius: 7px; padding: 5px 12px; font-size: 0.8rem; cursor: pointer; }
-.btn-logout:hover { border-color: #f87171; color: #f87171; }
+.container{max-width:700px;margin:0 auto;padding:24px 28px 48px;}
 
-.container { max-width: 680px; margin: 0 auto; padding: 24px 28px 40px; }
+/* Status card */
+.status-card{background:#1a1f2e;border:1px solid #2d3748;border-radius:12px;padding:20px;margin-bottom:16px;}
+.status-card h3{font-size:0.82rem;color:#64748b;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:16px;}
+.status-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin-bottom:16px;}
+.status-item{background:#0f1117;border-radius:8px;padding:12px;}
+.status-item .s-label{font-size:0.72rem;color:#475569;text-transform:uppercase;letter-spacing:0.4px;margin-bottom:4px;}
+.status-item .s-value{font-size:0.92rem;font-weight:600;color:#e2e8f0;}
+.status-item .s-value.ok{color:#34d399;}
+.status-item .s-value.fail{color:#f87171;}
+.status-item .s-value.running{color:#fbbf24;}
+.run-btn{display:inline-flex;align-items:center;gap:6px;padding:8px 16px;background:#7c3aed;color:white;border:none;border-radius:8px;font-size:0.85rem;font-weight:600;cursor:pointer;transition:background 0.15s;}
+.run-btn:hover{background:#6d28d9;}
+.run-btn:disabled{background:#2d1b4e;color:#475569;cursor:not-allowed;}
+.run-status{font-size:0.8rem;margin-left:10px;}
+.run-status.ok{color:#34d399;}.run-status.err{color:#f87171;}.run-status.loading{color:#a78bfa;}
 
-.section { background: #1a1f2e; border: 1px solid #2d3748; border-radius: 12px; padding: 20px; margin-bottom: 16px; }
-.section h3 { font-size: 0.82rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 16px; display: flex; align-items: center; gap: 8px; }
+/* Section */
+.section{background:#1a1f2e;border:1px solid #2d3748;border-radius:12px;padding:20px;margin-bottom:16px;}
+.section h3{font-size:0.82rem;color:#64748b;text-transform:uppercase;letter-spacing:0.5px;margin-bottom:16px;}
 
-.field { margin-bottom: 14px; }
-.field:last-child { margin-bottom: 0; }
-.field label { display: block; font-size: 0.82rem; color: #94a3b8; margin-bottom: 5px; }
-.field input[type=text], .field input[type=number], .field input[type=password] {
-  width: 100%; background: #0f1117; border: 1px solid #2d3748; color: #e2e8f0;
-  border-radius: 7px; padding: 8px 12px; font-size: 0.88rem; outline: none;
-}
-.field input:focus { border-color: #a78bfa; }
-.field .hint { font-size: 0.73rem; color: #475569; margin-top: 4px; line-height: 1.4; }
-.field .hint a { color: #60a5fa; }
+/* Categories */
+.cat-list{display:flex;flex-direction:column;gap:2px;}
+.cat-row{display:flex;align-items:center;justify-content:space-between;padding:10px 12px;border-radius:8px;background:#0f1117;border:1px solid #1e2535;}
+.cat-row:hover{border-color:#2d3748;}
+.cat-left{display:flex;align-items:center;gap:10px;}
+.cat-emoji{font-size:1.2rem;width:28px;text-align:center;}
+.cat-name{font-size:0.9rem;color:#cbd5e1;font-weight:500;}
+.cat-url{font-size:0.72rem;color:#475569;margin-top:1px;}
 
-.two-col { display: flex; gap: 12px; }
-.two-col .field { flex: 1; }
+/* Toggle */
+.toggle{position:relative;width:42px;height:24px;flex-shrink:0;}
+.toggle input{opacity:0;width:0;height:0;}
+.slider{position:absolute;inset:0;background:#2d3748;border-radius:24px;cursor:pointer;transition:0.2s;}
+.slider:before{content:"";position:absolute;height:18px;width:18px;left:3px;bottom:3px;background:white;border-radius:50%;transition:0.2s;}
+input:checked+.slider{background:#7c3aed;}
+input:checked+.slider:before{transform:translateX(18px);}
 
-.toggle-row { display: flex; align-items: center; justify-content: space-between; padding: 9px 0; border-bottom: 1px solid #1e2535; }
-.toggle-row:last-child { border-bottom: none; }
-.toggle-row span { font-size: 0.88rem; color: #cbd5e1; }
-.toggle { position: relative; width: 42px; height: 24px; flex-shrink: 0; }
-.toggle input { opacity: 0; width: 0; height: 0; }
-.slider { position: absolute; inset: 0; background: #2d3748; border-radius: 24px; cursor: pointer; transition: 0.2s; }
-.slider:before { content: ""; position: absolute; height: 18px; width: 18px; left: 3px; bottom: 3px; background: white; border-radius: 50%; transition: 0.2s; }
-input:checked + .slider { background: #7c3aed; }
-input:checked + .slider:before { transform: translateX(18px); }
+/* Fields */
+.field{margin-bottom:14px;}
+.field:last-child{margin-bottom:0;}
+.field label{display:block;font-size:0.82rem;color:#94a3b8;margin-bottom:5px;}
+.field input[type=text],.field input[type=number],.field input[type=password]{width:100%;background:#0f1117;border:1px solid #2d3748;color:#e2e8f0;border-radius:7px;padding:8px 12px;font-size:0.88rem;outline:none;}
+.field input:focus{border-color:#a78bfa;}
+.field .hint{font-size:0.73rem;color:#475569;margin-top:4px;line-height:1.4;}
+.field .hint a{color:#60a5fa;}
+.two-col{display:flex;gap:12px;}.two-col .field{flex:1;}
 
-.cities-wrap { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
-.city-tag { background: #2d1b4e; color: #c4b5fd; border-radius: 5px; padding: 3px 10px; font-size: 0.78rem; display: flex; align-items: center; gap: 5px; }
-.city-tag button { background: none; border: none; color: #a78bfa; cursor: pointer; font-size: 0.9rem; padding: 0; }
-.add-row { display: flex; gap: 8px; margin-top: 8px; }
-.add-row input { flex: 1; }
+.toggle-row{display:flex;align-items:center;justify-content:space-between;padding:9px 0;border-bottom:1px solid #1e2535;}
+.toggle-row:last-child{border-bottom:none;}
+.toggle-row span{font-size:0.88rem;color:#cbd5e1;}
 
-.pat-row { display: flex; gap: 8px; }
-.pat-row input { flex: 1; }
+.pat-row{display:flex;gap:8px;}.pat-row input{flex:1;}
 
-.btn { display: inline-flex; align-items: center; gap: 6px; padding: 9px 18px; border-radius: 8px; font-size: 0.88rem; font-weight: 600; cursor: pointer; border: none; transition: all 0.15s; }
-.btn-primary { background: #7c3aed; color: white; }
-.btn-primary:hover { background: #6d28d9; }
-.btn-primary:disabled { background: #2d1b4e; color: #475569; cursor: not-allowed; }
-.btn-ghost { background: #1e2535; color: #94a3b8; border: 1px solid #2d3748; }
-.btn-ghost:hover { border-color: #475569; color: #e2e8f0; }
+.cities-wrap{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;}
+.city-tag{background:#2d1b4e;color:#c4b5fd;border-radius:5px;padding:3px 10px;font-size:0.78rem;display:flex;align-items:center;gap:5px;}
+.city-tag button{background:none;border:none;color:#a78bfa;cursor:pointer;font-size:0.9rem;padding:0;}
+.add-row{display:flex;gap:8px;margin-top:8px;}.add-row input{flex:1;}
 
-.save-row { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin-top: 4px; }
-.status { font-size: 0.82rem; }
-.status.ok { color: #34d399; }
-.status.err { color: #f87171; }
-.status.loading { color: #a78bfa; }
+.btn{display:inline-flex;align-items:center;gap:6px;padding:9px 18px;border-radius:8px;font-size:0.88rem;font-weight:600;cursor:pointer;border:none;transition:all 0.15s;}
+.btn-primary{background:#7c3aed;color:white;}.btn-primary:hover{background:#6d28d9;}
+.btn-primary:disabled{background:#2d1b4e;color:#475569;cursor:not-allowed;}
+.btn-ghost{background:#1e2535;color:#94a3b8;border:1px solid #2d3748;}.btn-ghost:hover{border-color:#475569;color:#e2e8f0;}
 
-.back-link { display: inline-flex; align-items: center; gap: 6px; color: #64748b; font-size: 0.8rem; text-decoration: none; }
-.back-link:hover { color: #94a3b8; }
+.save-row{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-top:4px;}
+.st{font-size:0.82rem;}
+.st.ok{color:#34d399;}.st.err{color:#f87171;}.st.loading{color:#a78bfa;}
 </style>
 </head>
 <body>
 
-<!-- Lock screen -->
+<!-- Lock -->
 <div id="lock-screen">
   <div class="lock-box">
     <div class="icon">🔐</div>
     <h2>Адмін-панель</h2>
     <p>Введіть пароль для доступу</p>
-    <input class="lock-input" type="password" id="pass-input"
-           placeholder="••••••••"
-           onkeydown="if(event.key==='Enter') unlock()">
+    <input class="lock-input" type="password" id="pass-input" placeholder="••••••••" onkeydown="if(event.key==='Enter')unlock()">
     <button class="lock-btn" onclick="unlock()">Увійти</button>
     <div class="lock-error" id="lock-error"></div>
   </div>
 </div>
 
-<!-- Admin UI -->
+<!-- Admin -->
 <div id="admin-ui">
   <header>
     <h1>⚙️ Адмін <span>Техноскарб</span></h1>
-    <div class="header-actions">
-      <a href="index.html" class="back-link">← Дашборд</a>
+    <div class="header-right">
+      <a href="index.html" class="btn-back">← Дашборд</a>
       <button class="btn-logout" onclick="logout()">Вийти</button>
     </div>
   </header>
 
   <div class="container">
+
+    <!-- Bot Status -->
+    <div class="status-card">
+      <h3>🤖 Статус бота</h3>
+      <div class="status-grid">
+        <div class="status-item">
+          <div class="s-label">Останній запуск</div>
+          <div class="s-value" id="s-time">—</div>
+        </div>
+        <div class="status-item">
+          <div class="s-label">Статус</div>
+          <div class="s-value" id="s-status">—</div>
+        </div>
+        <div class="status-item">
+          <div class="s-label">Тривалість</div>
+          <div class="s-value" id="s-duration">—</div>
+        </div>
+        <div class="status-item">
+          <div class="s-label">Товарів в базі</div>
+          <div class="s-value" id="s-products">—</div>
+        </div>
+      </div>
+      <button class="run-btn" id="run-btn" onclick="triggerRun()">▶ Запустити зараз</button>
+      <span id="run-status" class="run-status"></span>
+    </div>
 
     <!-- GitHub credentials -->
     <div class="section">
@@ -142,10 +163,7 @@ input:checked + .slider:before { transform: translateX(18px); }
           <input type="password" id="pat-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx">
           <button class="btn btn-ghost" onclick="togglePat()">👁</button>
         </div>
-        <div class="hint">
-          Створи на <a href="https://github.com/settings/tokens/new?scopes=repo&description=Tehnoskarb+Admin" target="_blank">github.com/settings/tokens</a>
-          → scope <b>repo</b>. Зберігається тільки в браузері.
-        </div>
+        <div class="hint">Створи на <a href="https://github.com/settings/tokens/new?scopes=repo&description=Tehnoskarb+Admin" target="_blank">github.com/settings/tokens</a> → scope <b>repo</b>. Зберігається тільки в браузері.</div>
       </div>
       <div class="field">
         <label>Репозиторій</label>
@@ -153,7 +171,15 @@ input:checked + .slider:before { transform: translateX(18px); }
         <div class="hint">Формат: username/repo-name</div>
       </div>
       <button class="btn btn-ghost" onclick="saveCreds()">Зберегти локально</button>
-      <span id="creds-status" class="status"></span>
+      <span id="creds-status" class="st"></span>
+    </div>
+
+    <!-- Categories -->
+    <div class="section">
+      <h3>📂 Категорії для моніторингу</h3>
+      <div class="cat-list" id="cat-list">
+        <!-- Заповнюється з config -->
+      </div>
     </div>
 
     <!-- Cities -->
@@ -163,8 +189,7 @@ input:checked + .slider:before { transform: translateX(18px); }
         <label>Активні міста <span style="color:#475569">(порожньо = всі)</span></label>
         <div class="cities-wrap" id="cities-wrap"></div>
         <div class="add-row">
-          <input type="text" id="city-input" placeholder="Харків"
-                 onkeydown="if(event.key==='Enter') addCity()">
+          <input type="text" id="city-input" placeholder="Харків" onkeydown="if(event.key==='Enter')addCity()">
           <button class="btn btn-ghost" onclick="addCity()">+ Додати</button>
         </div>
       </div>
@@ -174,14 +199,8 @@ input:checked + .slider:before { transform: translateX(18px); }
     <div class="section">
       <h3>💰 Фільтр по ціні</h3>
       <div class="two-col">
-        <div class="field">
-          <label>Від (грн)</label>
-          <input type="number" id="price-min" placeholder="без обмеження" min="0">
-        </div>
-        <div class="field">
-          <label>До (грн)</label>
-          <input type="number" id="price-max" placeholder="без обмеження" min="0">
-        </div>
+        <div class="field"><label>Від (грн)</label><input type="number" id="price-min" placeholder="без обмеження" min="0"></div>
+        <div class="field"><label>До (грн)</label><input type="number" id="price-max" placeholder="без обмеження" min="0"></div>
       </div>
     </div>
 
@@ -190,14 +209,14 @@ input:checked + .slider:before { transform: translateX(18px); }
       <h3>🔤 Ключові слова</h3>
       <div class="field">
         <label>Тільки товари що містять ці слова <span style="color:#475569">(порожньо = всі)</span></label>
-        <input type="text" id="keywords" placeholder="Samsung, Dell, 27&quot;">
+        <input type="text" id="keywords" placeholder='Samsung, Dell, 27"'>
         <div class="hint">Через кому. Не чутливо до регістру.</div>
       </div>
     </div>
 
     <!-- Notifications -->
     <div class="section">
-      <h3>🔔 Типи сповіщень в Telegram</h3>
+      <h3>🔔 Типи сповіщень</h3>
       <div class="toggle-row"><span>🆕 Нові товари</span><label class="toggle"><input type="checkbox" id="tog-new"><span class="slider"></span></label></div>
       <div class="toggle-row"><span>📉 Зниження ціни</span><label class="toggle"><input type="checkbox" id="tog-drop"><span class="slider"></span></label></div>
       <div class="toggle-row"><span>📈 Підвищення ціни</span><label class="toggle"><input type="checkbox" id="tog-rise"><span class="slider"></span></label></div>
@@ -208,122 +227,210 @@ input:checked + .slider:before { transform: translateX(18px); }
     <div class="section">
       <h3>📨 Ліміт повідомлень за запуск</h3>
       <div class="field">
-        <label>Якщо нових більше — надсилається одне зведення</label>
+        <label>Якщо нових більше — надсилається зведення</label>
         <input type="number" id="max-msgs" min="1" max="50" value="5" style="width:100px">
       </div>
     </div>
 
-    <!-- Save -->
     <div class="save-row">
       <button class="btn btn-primary" id="save-btn" onclick="saveConfig()">💾 Зберегти в GitHub</button>
-      <span id="save-status" class="status"></span>
+      <span id="save-status" class="st"></span>
     </div>
-    <p style="margin-top:10px; font-size:0.74rem; color:#475569;">
-      Налаштування застосуються при наступному запуску GitHub Actions.
-    </p>
+    <p style="margin-top:10px;font-size:0.74rem;color:#475569;">Налаштування застосуються при наступному запуску GitHub Actions.</p>
 
   </div>
 </div>
 
 <script>
-// ─── Пароль ───────────────────────────────────────────────────────────────
-// Змінити пароль тут ↓
+// ─── Пароль (змінити тут) ────────────────────────────────────────────────────
 const ADMIN_PASSWORD = 'tehnoskarb2024';
+const WORKFLOW_FILE  = 'monitor.yml'; // назва файлу workflow
 
+// ─── Lock ────────────────────────────────────────────────────────────────────
 function unlock() {
-  const val = document.getElementById('pass-input').value;
-  if (val === ADMIN_PASSWORD) {
-    sessionStorage.setItem('admin_ok', '1');
+  if (document.getElementById('pass-input').value === ADMIN_PASSWORD) {
+    sessionStorage.setItem('admin_ok','1');
     document.getElementById('lock-screen').style.display = 'none';
     document.getElementById('admin-ui').style.display = 'block';
     loadAll();
   } else {
     const box = document.querySelector('.lock-box');
     document.getElementById('lock-error').textContent = 'Невірний пароль';
-    box.classList.remove('shake');
-    void box.offsetWidth;
-    box.classList.add('shake');
+    box.classList.remove('shake'); void box.offsetWidth; box.classList.add('shake');
     document.getElementById('pass-input').value = '';
   }
 }
-
-function logout() {
-  sessionStorage.removeItem('admin_ok');
-  location.reload();
+function logout() { sessionStorage.removeItem('admin_ok'); location.reload(); }
+document.getElementById('pass-input').addEventListener('keydown', e => { if(e.key==='Enter') unlock(); });
+if (sessionStorage.getItem('admin_ok')==='1') {
+  document.getElementById('lock-screen').style.display='none';
+  document.getElementById('admin-ui').style.display='block';
 }
 
-// Автологін якщо вже авторизований в цій сесії
-if (sessionStorage.getItem('admin_ok') === '1') {
-  document.getElementById('lock-screen').style.display = 'none';
-  document.getElementById('admin-ui').style.display = 'block';
+// ─── GitHub helpers ───────────────────────────────────────────────────────────
+const getPat  = () => localStorage.getItem('gh_pat')  || '';
+const getRepo = () => localStorage.getItem('gh_repo') || '';
+
+function ghHeaders() {
+  return { Authorization: `token ${getPat()}`, Accept: 'application/vnd.github+json' };
 }
 
-document.getElementById('pass-input').addEventListener('keydown', e => {
-  if (e.key === 'Enter') unlock();
-});
-
-// ─── Стан міст ───────────────────────────────────────────────────────────
-let cities = [];
-
-function renderCities() {
-  const wrap = document.getElementById('cities-wrap');
-  if (!cities.length) {
-    wrap.innerHTML = '<span style="color:#475569;font-size:0.78rem">Всі міста (без фільтру)</span>';
-    return;
-  }
-  wrap.innerHTML = cities.map((c, i) =>
-    `<span class="city-tag">${c}<button onclick="removeCity(${i})">×</button></span>`
-  ).join('');
-}
-
-function addCity() {
-  const inp = document.getElementById('city-input');
-  const v = inp.value.trim();
-  if (v && !cities.includes(v)) { cities.push(v); renderCities(); }
-  inp.value = '';
-  inp.focus();
-}
-
-function removeCity(i) { cities.splice(i, 1); renderCities(); }
-
-// ─── GitHub credentials ───────────────────────────────────────────────────
 function saveCreds() {
-  const pat  = document.getElementById('pat-input').value.trim();
-  const repo = document.getElementById('repo-input').value.trim();
-  if (!pat || !repo) { setStatus('creds-status', '⚠ Заповніть обидва поля', 'err'); return; }
-  localStorage.setItem('gh_pat', pat);
-  localStorage.setItem('gh_repo', repo);
-  setStatus('creds-status', '✓ Збережено', 'ok');
+  const pat=document.getElementById('pat-input').value.trim(), repo=document.getElementById('repo-input').value.trim();
+  if(!pat||!repo){setSt('creds-status','⚠ Заповніть обидва поля','err');return;}
+  localStorage.setItem('gh_pat',pat); localStorage.setItem('gh_repo',repo);
+  setSt('creds-status','✓ Збережено','ok');
+  loadStatus(); // оновлюємо статус після збереження
 }
+function togglePat(){const i=document.getElementById('pat-input');i.type=i.type==='password'?'text':'password';}
 
-function togglePat() {
-  const inp = document.getElementById('pat-input');
-  inp.type = inp.type === 'password' ? 'text' : 'password';
-}
+// ─── Bot status ───────────────────────────────────────────────────────────────
+async function loadStatus() {
+  const repo = getRepo();
+  if (!repo || !getPat()) return;
 
-// ─── Завантаження поточного config.json ──────────────────────────────────
-async function loadAll() {
-  document.getElementById('pat-input').value  = localStorage.getItem('gh_pat')  || '';
-  document.getElementById('repo-input').value = localStorage.getItem('gh_repo') || '';
-
-  // Намагаємось підтягнути поточний config з data.json (він туди передається скриптом)
   try {
-    const res  = await fetch('data.json?t=' + Date.now());
+    const res  = await fetch(`https://api.github.com/repos/${repo}/actions/runs?per_page=1`, { headers: ghHeaders() });
+    if (!res.ok) return;
+    const data = await res.json();
+    const run  = data.workflow_runs?.[0];
+    if (!run) return;
+
+    const statusMap = { completed:'completed', in_progress:'⏳ Виконується', queued:'🟡 В черзі', waiting:'⏳ Очікує' };
+    const concMap   = { success:'✅ Успішно', failure:'❌ Помилка', cancelled:'⚠ Скасовано' };
+
+    const started  = new Date(run.created_at);
+    const finished = run.updated_at ? new Date(run.updated_at) : null;
+    const durSec   = finished ? Math.round((finished - started) / 1000) : null;
+    const durStr   = durSec ? (durSec >= 60 ? `${Math.floor(durSec/60)}хв ${durSec%60}с` : `${durSec}с`) : '—';
+
+    const statusStr = run.status === 'completed'
+      ? (concMap[run.conclusion] || run.conclusion)
+      : (statusMap[run.status]   || run.status);
+    const statusCls = run.conclusion==='success'?'ok' : run.conclusion==='failure'?'fail' : 'running';
+
+    document.getElementById('s-time').textContent     = fmtTime(run.created_at);
+    document.getElementById('s-status').className     = 's-value ' + statusCls;
+    document.getElementById('s-status').textContent   = statusStr;
+    document.getElementById('s-duration').textContent = durStr;
+
+    // Кількість товарів з data.json
+    try {
+      const dj = await fetch('data.json?t='+Date.now());
+      const dd = await dj.json();
+      document.getElementById('s-products').textContent = dd.stats?.total ?? '—';
+    } catch {}
+
+  } catch(e) { console.warn('Status error:', e); }
+}
+
+// ─── Manual run ───────────────────────────────────────────────────────────────
+async function triggerRun() {
+  const repo = getRepo(), pat = getPat();
+  if (!repo || !pat) { setSt2('run-status','⚠ Вкажіть PAT і репозиторій','err'); return; }
+
+  setSt2('run-status','⏳ Запускаємо...','loading');
+  document.getElementById('run-btn').disabled = true;
+
+  try {
+    // Отримуємо ID workflow файлу
+    const wfRes  = await fetch(`https://api.github.com/repos/${repo}/actions/workflows`, { headers: ghHeaders() });
+    const wfData = await wfRes.json();
+    const wf     = wfData.workflows?.find(w => w.path.endsWith(WORKFLOW_FILE));
+    if (!wf) throw new Error(`Workflow ${WORKFLOW_FILE} не знайдено`);
+
+    // Тригеримо workflow_dispatch
+    const trigRes = await fetch(
+      `https://api.github.com/repos/${repo}/actions/workflows/${wf.id}/dispatches`,
+      {
+        method: 'POST',
+        headers: { ...ghHeaders(), 'Content-Type': 'application/json' },
+        body: JSON.stringify({ ref: 'main' }),
+      }
+    );
+
+    if (trigRes.status === 204) {
+      setSt2('run-status','✅ Запущено! Оновіть статус через ~30с','ok');
+      // Через 10 секунд оновлюємо статус
+      setTimeout(loadStatus, 10000);
+    } else {
+      const err = await trigRes.json().catch(()=>({}));
+      throw new Error(err.message || `HTTP ${trigRes.status}`);
+    }
+  } catch(e) {
+    setSt2('run-status',`❌ ${e.message}`,'err');
+  } finally {
+    document.getElementById('run-btn').disabled = false;
+  }
+}
+
+// ─── Categories ───────────────────────────────────────────────────────────────
+let configCategories = [];
+
+function renderCategories() {
+  document.getElementById('cat-list').innerHTML = configCategories.map((c,i) => `
+    <div class="cat-row">
+      <div class="cat-left">
+        <span class="cat-emoji">${c.emoji||'📦'}</span>
+        <div>
+          <div class="cat-name">${c.name}</div>
+          <div class="cat-url">${c.url}</div>
+        </div>
+      </div>
+      <label class="toggle">
+        <input type="checkbox" ${c.enabled?'checked':''} onchange="toggleCat(${i},this.checked)">
+        <span class="slider"></span>
+      </label>
+    </div>
+  `).join('');
+}
+
+function toggleCat(i, val) { configCategories[i].enabled = val; }
+
+// ─── Cities ───────────────────────────────────────────────────────────────────
+let cities = [];
+function renderCities(){
+  const w=document.getElementById('cities-wrap');
+  if(!cities.length){w.innerHTML='<span style="color:#475569;font-size:0.78rem">Всі міста (без фільтру)</span>';return;}
+  w.innerHTML=cities.map((c,i)=>`<span class="city-tag">${c}<button onclick="removeCity(${i})">×</button></span>`).join('');
+}
+function addCity(){const i=document.getElementById('city-input');const v=i.value.trim();if(v&&!cities.includes(v)){cities.push(v);renderCities();}i.value='';i.focus();}
+function removeCity(i){cities.splice(i,1);renderCities();}
+
+// ─── Load all ─────────────────────────────────────────────────────────────────
+async function loadAll() {
+  document.getElementById('pat-input').value  = getPat();
+  document.getElementById('repo-input').value = getRepo();
+
+  try {
+    const res  = await fetch('data.json?t='+Date.now());
     const data = await res.json();
     const cfg  = data.config || {};
     applyConfig(cfg);
-  } catch(e) {
-    // Якщо data.json недоступний — дефолти
-    applyConfig({});
-  }
+  } catch { applyConfig({}); }
+
+  loadStatus();
 }
 
 function applyConfig(cfg) {
-  cities = [...(cfg.notify_cities || [])];
+  // Категорії — беремо з конфігу якщо є, інакше дефолт
+  configCategories = cfg.categories || [
+    {name:'Монітори',  url:'https://tehnoskarb.ua/monitory/c36',                    emoji:'🖥',  enabled:true},
+    {name:'Ноутбуки',  url:'https://tehnoskarb.ua/noutbuki/c34',                    emoji:'💻',  enabled:false},
+    {name:'Телефони',  url:'https://tehnoskarb.ua/mobilnye-telefony-i-smartfony/c1',emoji:'📱',  enabled:false},
+    {name:'Системні блоки',url:'https://tehnoskarb.ua/sistemnye-bloki/c35',         emoji:'🖨',  enabled:false},
+    {name:'Планшети',  url:'https://tehnoskarb.ua/planshety/c210',                  emoji:'📟',  enabled:false},
+    {name:'Навушники', url:'https://tehnoskarb.ua/naushniki/c227',                  emoji:'🎧',  enabled:false},
+    {name:'Ігрові приставки',url:'https://tehnoskarb.ua/igrovye-pristavki/c72',     emoji:'🎮',  enabled:false},
+  ];
+  renderCategories();
+
+  cities = [...(cfg.notify_cities||[])];
   renderCities();
+
   document.getElementById('price-min').value  = cfg.price_min  ?? '';
   document.getElementById('price-max').value  = cfg.price_max  ?? '';
-  document.getElementById('keywords').value   = (cfg.keywords || []).join(', ');
+  document.getElementById('keywords').value   = (cfg.keywords||[]).join(', ');
   document.getElementById('tog-new').checked  = cfg.notify_new  !== false;
   document.getElementById('tog-drop').checked = cfg.notify_price_drop !== false;
   document.getElementById('tog-rise').checked = cfg.notify_price_rise !== false;
@@ -331,73 +438,60 @@ function applyConfig(cfg) {
   document.getElementById('max-msgs').value   = cfg.max_individual_msgs ?? 5;
 }
 
-// ─── Збереження config.json через GitHub API ──────────────────────────────
+// ─── Save config ──────────────────────────────────────────────────────────────
 async function saveConfig() {
-  const pat  = localStorage.getItem('gh_pat');
-  const repo = localStorage.getItem('gh_repo');
-  if (!pat || !repo) {
-    setStatus('save-status', '⚠ Вкажіть PAT і репозиторій вище', 'err');
-    return;
-  }
+  const pat=getPat(), repo=getRepo();
+  if(!pat||!repo){setSt('save-status','⚠ Вкажіть PAT і репозиторій','err');return;}
 
-  const keywords  = document.getElementById('keywords').value.split(',').map(k => k.trim()).filter(Boolean);
-  const priceMin  = document.getElementById('price-min').value;
-  const priceMax  = document.getElementById('price-max').value;
+  const keywords=document.getElementById('keywords').value.split(',').map(k=>k.trim()).filter(Boolean);
+  const priceMin=document.getElementById('price-min').value;
+  const priceMax=document.getElementById('price-max').value;
 
-  const config = {
+  const config={
+    categories:          configCategories,
     notify_cities:       cities,
-    price_min:           priceMin  ? parseInt(priceMin)  : null,
-    price_max:           priceMax  ? parseInt(priceMax)  : null,
+    price_min:           priceMin?parseInt(priceMin):null,
+    price_max:           priceMax?parseInt(priceMax):null,
     keywords,
     notify_new:          document.getElementById('tog-new').checked,
     notify_price_drop:   document.getElementById('tog-drop').checked,
     notify_price_rise:   document.getElementById('tog-rise').checked,
     notify_sold:         document.getElementById('tog-sold').checked,
-    max_individual_msgs: parseInt(document.getElementById('max-msgs').value) || 5,
+    max_individual_msgs: parseInt(document.getElementById('max-msgs').value)||5,
   };
 
-  setStatus('save-status', '⏳ Збереження...', 'loading');
-  document.getElementById('save-btn').disabled = true;
+  setSt('save-status','⏳ Збереження...','loading');
+  document.getElementById('save-btn').disabled=true;
 
   try {
-    // Отримуємо SHA поточного файлу
-    const getRes = await fetch(
-      `https://api.github.com/repos/${repo}/contents/config.json`,
-      { headers: { Authorization: `token ${pat}`, Accept: 'application/vnd.github+json' } }
-    );
-    let sha = null;
-    if (getRes.ok) sha = (await getRes.json()).sha;
-    else if (getRes.status !== 404) throw new Error(`${getRes.status} ${getRes.statusText}`);
+    const getRes=await fetch(`https://api.github.com/repos/${repo}/contents/config.json`,{headers:ghHeaders()});
+    let sha=null;
+    if(getRes.ok) sha=(await getRes.json()).sha;
+    else if(getRes.status!==404) throw new Error(`${getRes.status} ${getRes.statusText}`);
 
-    const content = btoa(unescape(encodeURIComponent(JSON.stringify(config, null, 2) + '\n')));
+    const content=btoa(unescape(encodeURIComponent(JSON.stringify(config,null,2)+'\n')));
+    const putRes=await fetch(`https://api.github.com/repos/${repo}/contents/config.json`,{
+      method:'PUT',
+      headers:{...ghHeaders(),'Content-Type':'application/json'},
+      body:JSON.stringify({message:'chore: update config via admin panel',content,...(sha?{sha}:{})}),
+    });
 
-    const putRes = await fetch(
-      `https://api.github.com/repos/${repo}/contents/config.json`,
-      {
-        method: 'PUT',
-        headers: { Authorization: `token ${pat}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: 'chore: update config via admin panel', content, ...(sha ? { sha } : {}) }),
-      }
-    );
-
-    if (!putRes.ok) { const err = await putRes.json(); throw new Error(err.message || putRes.statusText); }
-
-    setStatus('save-status', '✅ Збережено! Набере чинності при наступному запуску.', 'ok');
-  } catch(e) {
-    setStatus('save-status', `❌ Помилка: ${e.message}`, 'err');
+    if(!putRes.ok){const e=await putRes.json();throw new Error(e.message||putRes.statusText);}
+    setSt('save-status','✅ Збережено! Набере чинності при наступному запуску.','ok');
+  } catch(e){
+    setSt('save-status',`❌ ${e.message}`,'err');
   } finally {
-    document.getElementById('save-btn').disabled = false;
+    document.getElementById('save-btn').disabled=false;
   }
 }
 
-function setStatus(id, msg, cls) {
-  const el = document.getElementById(id);
-  el.textContent = msg;
-  el.className = 'status ' + cls;
-}
+// ─── Utils ────────────────────────────────────────────────────────────────────
+function setSt(id,msg,cls){const el=document.getElementById(id);el.textContent=msg;el.className='st '+cls;}
+function setSt2(id,msg,cls){const el=document.getElementById(id);el.textContent=msg;el.className='run-status '+cls;}
+function fmtTime(iso){if(!iso)return'—';const d=new Date(iso);return d.toLocaleDateString('uk-UA')+' '+d.toLocaleTimeString('uk-UA',{hour:'2-digit',minute:'2-digit'});}
 
-// Завантажуємо якщо вже авторизовані
-if (sessionStorage.getItem('admin_ok') === '1') loadAll();
+// Автологін
+if(sessionStorage.getItem('admin_ok')==='1') loadAll();
 </script>
 </body>
 </html>

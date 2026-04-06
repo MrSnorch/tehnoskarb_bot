@@ -1,12 +1,12 @@
 """
-Перевірка нових моніторів на tehnoskarb.ua — всі міста
+Перевірка нових товарів на tehnoskarb.ua — декілька категорій
 Запускається через GitHub Actions за розкладом.
 
 Зберігає:
   - seen_products.json  — стан (пам'ять бота)
   - docs/data.json      — дані для GitHub Pages дашборду
 
-Налаштування читаються з config.json (можна змінити через дашборд).
+Налаштування читаються з config.json (змінюються через адмін-панель).
 """
 
 import os
@@ -25,21 +25,24 @@ from telegram import Bot
 from telegram.constants import ParseMode
 from telegram.error import RetryAfter
 
-# ─── Конфігурація ────────────────────────────────────────────────────────────
+# ─── Змінні середовища ───────────────────────────────────────────────────────
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID   = os.environ["CHAT_ID"]
-
-WATCH_URL = "https://tehnoskarb.ua/monitory/c36"
 
 CONFIG_FILE   = "config.json"
 STATE_FILE    = "seen_products.json"
 DASHBOARD_DIR = "docs"
 DATA_FILE     = os.path.join(DASHBOARD_DIR, "data.json")
 
-MAX_TG_LEN           = 4096
-MAX_PAGES            = 10
+MAX_TG_LEN            = 4096
+MAX_PAGES             = 10
 DETAILS_FETCH_RETRIES = 3
+
+# Категорії за замовчуванням якщо config відсутній
+DEFAULT_CATEGORIES = [
+    {"name": "Монітори", "url": "https://tehnoskarb.ua/monitory/c36", "emoji": "🖥", "enabled": True},
+]
 
 # ─── Логування ───────────────────────────────────────────────────────────────
 
@@ -49,14 +52,15 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-# ─── Читання config.json ──────────────────────────────────────────────────────
+# ─── Конфіг ──────────────────────────────────────────────────────────────────
 
 def load_config() -> dict:
     defaults = {
-        "notify_cities":       [],       # [] = всі міста
+        "categories":          DEFAULT_CATEGORIES,
+        "notify_cities":       [],
         "price_min":           None,
         "price_max":           None,
-        "keywords":            [],       # [] = без фільтру
+        "keywords":            [],
         "notify_new":          True,
         "notify_price_drop":   True,
         "notify_price_rise":   True,
@@ -64,18 +68,18 @@ def load_config() -> dict:
         "max_individual_msgs": 5,
     }
     if not os.path.exists(CONFIG_FILE):
-        log.warning(f"{CONFIG_FILE} не знайдено — використовуємо значення за замовчуванням")
+        log.warning(f"{CONFIG_FILE} не знайдено — defaults")
         return defaults
     try:
         with open(CONFIG_FILE, encoding="utf-8") as f:
-            user_cfg = json.load(f)
-        defaults.update(user_cfg)
-        log.info(f"Конфіг завантажено: міста={defaults['notify_cities']}, "
-                 f"ціна={defaults['price_min']}–{defaults['price_max']}, "
-                 f"ключові слова={defaults['keywords']}")
+            cfg = json.load(f)
+        defaults.update(cfg)
+        enabled = [c["name"] for c in defaults["categories"] if c.get("enabled")]
+        log.info(f"Конфіг: категорії={enabled}, міста={defaults['notify_cities']}, "
+                 f"ціна={defaults['price_min']}–{defaults['price_max']}, кл.слова={defaults['keywords']}")
         return defaults
     except Exception as e:
-        log.error(f"Помилка читання {CONFIG_FILE}: {e} — використовуємо defaults")
+        log.error(f"Помилка читання {CONFIG_FILE}: {e}")
         return defaults
 
 # ─── Модель ──────────────────────────────────────────────────────────────────
@@ -89,6 +93,8 @@ class Product:
     offers_count: int
     city: str = ""
     addresses: list[str] = field(default_factory=list)
+    category: str = ""
+    category_emoji: str = ""
 
 # ─── HTTP ─────────────────────────────────────────────────────────────────────
 
@@ -107,31 +113,21 @@ SESSION.headers.update(HEADERS)
 # ─── Фільтри ─────────────────────────────────────────────────────────────────
 
 def passes_filters(p: Product, cfg: dict) -> bool:
-    """Перевіряє чи товар проходить всі фільтри з конфігу."""
-
-    # Фільтр по місту (якщо список не порожній)
     notify_cities = [c.strip().casefold() for c in cfg.get("notify_cities", []) if c.strip()]
     if notify_cities and p.city.strip().casefold() not in notify_cities:
         return False
-
-    # Фільтр по мінімальній ціні
     price_min_cfg = cfg.get("price_min")
     if price_min_cfg is not None and p.price_min is not None and p.price_min < price_min_cfg:
         return False
-
-    # Фільтр по максимальній ціні
     price_max_cfg = cfg.get("price_max")
     if price_max_cfg is not None and p.price_min is not None and p.price_min > price_max_cfg:
         return False
-
-    # Фільтр по ключових словах
     keywords = [k.strip().casefold() for k in cfg.get("keywords", []) if k.strip()]
     if keywords and not any(kw in p.name.casefold() for kw in keywords):
         return False
-
     return True
 
-# ─── Скрапер: список товарів ─────────────────────────────────────────────────
+# ─── Скрапер ─────────────────────────────────────────────────────────────────
 
 def is_product_url(href: str) -> bool:
     return bool(re.search(r"/m\d{5,}", href))
@@ -145,8 +141,7 @@ def parse_price(text: str) -> tuple[Optional[int], Optional[int]]:
         except ValueError:
             return None, None
     try:
-        val = int(text.strip())
-        return val, val
+        return int(text.strip()), int(text.strip())
     except ValueError:
         return None, None
 
@@ -154,7 +149,7 @@ def parse_offers(text: str) -> int:
     m = re.search(r"\((\d+)\)", text)
     return int(m.group(1)) if m else 0
 
-def scrape_page(url: str) -> list[Product]:
+def scrape_page(url: str, category: str = "", emoji: str = "") -> list[Product]:
     resp = SESSION.get(url, timeout=15)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -191,36 +186,34 @@ def scrape_page(url: str) -> list[Product]:
             continue
 
         products.append(Product(
-            name=name,
-            url=product_url,
-            price_min=price_min,
-            price_max=price_max,
+            name=name, url=product_url,
+            price_min=price_min, price_max=price_max,
             offers_count=parse_offers(offers_text) if offers_text else 1,
+            category=category, category_emoji=emoji,
         ))
 
     return products
 
-def scrape_all_pages() -> list[Product]:
+def scrape_category(base_url: str, category: str, emoji: str) -> list[Product]:
+    """Збирає всі сторінки однієї категорії."""
     all_products: list[Product] = []
     seen_urls: set[str] = set()
 
     for page in range(1, MAX_PAGES + 1):
-        url = WATCH_URL if page == 1 else f"{WATCH_URL}?page={page}"
-        log.info(f"  Сторінка {page}: {url}")
-
+        url = base_url if page == 1 else f"{base_url}?page={page}"
+        log.info(f"    [{category}] Сторінка {page}: {url}")
         try:
-            items = scrape_page(url)
+            items = scrape_page(url, category, emoji)
         except Exception as e:
-            log.error(f"  Помилка на сторінці {page}: {e}")
+            log.error(f"    Помилка: {e}")
             break
 
         if not items:
-            log.info("  Порожня сторінка — кінець.")
             break
 
         new_items = [p for p in items if p.url not in seen_urls]
         if not new_items:
-            log.info("  Дублікати — кінець пагінації.")
+            log.info(f"    [{category}] Дублікати — кінець.")
             break
 
         for p in new_items:
@@ -229,9 +222,10 @@ def scrape_all_pages() -> list[Product]:
 
         time.sleep(0.5)
 
+    log.info(f"    [{category}] Всього: {len(all_products)} товарів")
     return all_products
 
-# ─── Скрапер: адреса + місто ─────────────────────────────────────────────────
+# ─── Деталі (адреса + місто) ─────────────────────────────────────────────────
 
 ADDRESS_RE = re.compile(r"^м\.\s*[^,]+,\s*.{3,60}$", re.UNICODE)
 CITY_RE    = re.compile(r"^м\.\s*([^,]+)", re.UNICODE)
@@ -240,7 +234,7 @@ def extract_city(address: str) -> str:
     m = CITY_RE.search(address.strip())
     return m.group(1).strip() if m else ""
 
-def should_retry_details(exc: Exception) -> bool:
+def should_retry(exc: Exception) -> bool:
     if isinstance(exc, (requests.Timeout, requests.ConnectionError)):
         return True
     if isinstance(exc, requests.HTTPError) and exc.response is not None:
@@ -271,11 +265,11 @@ def scrape_details(product_url: str) -> tuple[str, list[str]]:
             return city, addresses
 
         except Exception as e:
-            if attempt < DETAILS_FETCH_RETRIES and should_retry_details(e):
-                log.warning(f"Деталі {product_url} (спроба {attempt}/{DETAILS_FETCH_RETRIES}): {e}")
+            if attempt < DETAILS_FETCH_RETRIES and should_retry(e):
+                log.warning(f"Деталі retry {attempt}: {e}")
                 time.sleep(attempt)
                 continue
-            log.warning(f"Не вдалося отримати деталі для {product_url}: {e}")
+            log.warning(f"Деталі недоступні для {product_url}: {e}")
             return "", []
 
 # ─── Стан ────────────────────────────────────────────────────────────────────
@@ -286,7 +280,6 @@ def load_state() -> dict:
     with open(STATE_FILE, encoding="utf-8") as f:
         data = json.load(f)
     if isinstance(data, list):
-        log.info("Міграція seen_products.json...")
         return {url: {"name": "", "price_min": None, "price_max": None, "city": ""} for url in data}
     return data
 
@@ -294,11 +287,10 @@ def save_state(state: dict):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
 
-# ─── Dashboard data.json ─────────────────────────────────────────────────────
+# ─── Dashboard ───────────────────────────────────────────────────────────────
 
 def save_dashboard(state: dict, events: list[dict], cfg: dict):
     os.makedirs(DASHBOARD_DIR, exist_ok=True)
-
     products = []
     for url, d in state.items():
         products.append({
@@ -311,15 +303,21 @@ def save_dashboard(state: dict, events: list[dict], cfg: dict):
             "offers":        d.get("offers_count", 1),
             "first_seen":    d.get("first_seen", ""),
             "price_history": d.get("price_history", []),
+            "category":      d.get("category", ""),
+            "category_emoji":d.get("category_emoji", ""),
         })
 
     prices = [p["price_min"] for p in products if p["price_min"]]
+    cats   = sorted(set(p["category"] for p in products if p["category"]))
+    cities = sorted(set(p["city"] for p in products if p["city"]))
+
     stats = {
-        "total":     len(products),
-        "avg_price": round(sum(prices) / len(prices)) if prices else 0,
-        "min_price": min(prices) if prices else 0,
-        "max_price": max(prices) if prices else 0,
-        "cities":    sorted(set(p["city"] for p in products if p["city"])),
+        "total":      len(products),
+        "avg_price":  round(sum(prices) / len(prices)) if prices else 0,
+        "min_price":  min(prices) if prices else 0,
+        "max_price":  max(prices) if prices else 0,
+        "cities":     cities,
+        "categories": cats,
     }
 
     data = {
@@ -327,22 +325,20 @@ def save_dashboard(state: dict, events: list[dict], cfg: dict):
         "stats":      stats,
         "products":   sorted(products, key=lambda p: p["price_min"] or 0),
         "events":     events[-200:],
-        "config":     cfg,  # передаємо конфіг на дашборд
+        "config":     cfg,
     }
 
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    log.info(f"Дашборд оновлено: {len(products)} товарів")
+    log.info(f"Дашборд: {len(products)} товарів, {len(cats)} категорій")
 
 # ─── Telegram ────────────────────────────────────────────────────────────────
 
-def fmt_price(price_min, price_max) -> str:
-    if not price_min:
-        return "—"
-    if price_min == price_max:
-        return f"{price_min:,} грн".replace(",", " ")
-    return f"{price_min:,} – {price_max:,} грн".replace(",", " ")
+def fmt_price(mn, mx) -> str:
+    if not mn: return "—"
+    f = lambda n: f"{n:,}".replace(",", " ") + " грн"
+    return f(mn) if mn == mx else f"{f(mn)} – {f(mx)}"
 
 def pct(old, new) -> str:
     p = round(abs(old - new) / old * 100)
@@ -354,12 +350,16 @@ def addr_block(addresses) -> str:
 def safe(text) -> str:
     return text[:MAX_TG_LEN - 10] + "…" if len(text) > MAX_TG_LEN else text
 
+def cat_line(p: Product) -> str:
+    return f"{p.category_emoji} {p.category}\n" if p.category else ""
+
 def msg_new(p: Product) -> str:
     offers = f"{p.offers_count} пропозиц." if p.offers_count > 1 else "1 пропозиція"
     city = f"🏙 {p.city}\n" if p.city else ""
     return safe(
         f"🆕 <b>Новий товар!</b>\n"
-        f"🖥 <b>{p.name}</b>\n"
+        f"{cat_line(p)}"
+        f"<b>{p.name}</b>\n"
         f"💰 <b>{fmt_price(p.price_min, p.price_max)}</b>  |  {offers}\n"
         f"{city}{addr_block(p.addresses)}\n"
         f"🔗 <a href=\"{p.url}\">Переглянути на Техноскарб</a>"
@@ -370,7 +370,8 @@ def msg_drop(p: Product, old_min, old_max) -> str:
     city = f"🏙 {p.city}\n" if p.city else ""
     return safe(
         f"📉 <b>Ціна знизилась{pct(old_min, p.price_min)}!</b>\n"
-        f"🖥 <b>{p.name}</b>\n"
+        f"{cat_line(p)}"
+        f"<b>{p.name}</b>\n"
         f"💰 <s>{fmt_price(old_min, old_max)}</s> → <b>{fmt_price(p.price_min, p.price_max)}</b>  |  {offers}\n"
         f"{city}{addr_block(p.addresses)}\n"
         f"🔗 <a href=\"{p.url}\">Переглянути на Техноскарб</a>"
@@ -381,17 +382,20 @@ def msg_rise(p: Product, old_min, old_max) -> str:
     city = f"🏙 {p.city}\n" if p.city else ""
     return safe(
         f"📈 <b>Ціна підвищилась{pct(old_min, p.price_min)}!</b>\n"
-        f"🖥 <b>{p.name}</b>\n"
+        f"{cat_line(p)}"
+        f"<b>{p.name}</b>\n"
         f"💰 <s>{fmt_price(old_min, old_max)}</s> → <b>{fmt_price(p.price_min, p.price_max)}</b>  |  {offers}\n"
         f"{city}{addr_block(p.addresses)}\n"
         f"🔗 <a href=\"{p.url}\">Переглянути на Техноскарб</a>"
     )
 
-def msg_sold(name, url, price_min, price_max, city) -> str:
+def msg_sold(name, url, price_min, price_max, city, category, emoji) -> str:
     city_str = f"🏙 {city}\n" if city else ""
+    cat_str  = f"{emoji} {category}\n" if category else ""
     return safe(
         f"✅ <b>Товар продано!</b>\n"
-        f"🖥 <b>{name}</b>\n"
+        f"{cat_str}"
+        f"<b>{name}</b>\n"
         f"💰 Була ціна: {fmt_price(price_min, price_max)}\n"
         f"{city_str}"
         f"🔗 <a href=\"{url}\">Посилання на Техноскарб</a>"
@@ -401,7 +405,8 @@ def msg_summary(new_products: list[Product], total: int) -> str:
     lines = [f"📦 <b>Завантажено {total} товарів</b>\n", "Ось кілька прикладів:\n"]
     for p in new_products[:10]:
         city = f" · {p.city}" if p.city else ""
-        lines.append(f"• <a href=\"{p.url}\">{p.name}</a> — <b>{fmt_price(p.price_min, p.price_max)}</b>{city}")
+        cat  = f" [{p.category}]" if p.category else ""
+        lines.append(f"• <a href=\"{p.url}\">{p.name}</a> — <b>{fmt_price(p.price_min, p.price_max)}</b>{city}{cat}")
     if total > 10:
         lines.append(f"\n…і ще {total - 10} товарів на дашборді")
     return safe("\n".join(lines))
@@ -413,12 +418,12 @@ async def send_one(bot: Bot, text: str, retries: int = 5):
             return
         except RetryAfter as e:
             wait = e.retry_after + 1
-            log.warning(f"  Flood control — чекаємо {wait}с (спроба {attempt+1}/{retries})")
+            log.warning(f"Flood control — чекаємо {wait}с (спроба {attempt+1}/{retries})")
             await asyncio.sleep(wait)
         except Exception as e:
-            log.error(f"  Помилка надсилання: {e}")
+            log.error(f"Помилка надсилання: {e}")
             return
-    log.error("  Не вдалося надіслати повідомлення після всіх спроб.")
+    log.error("Не вдалося надіслати після всіх спроб.")
 
 async def send_messages(messages: list[str]):
     bot = Bot(token=BOT_TOKEN)
@@ -431,59 +436,77 @@ async def send_messages(messages: list[str]):
 
 def main():
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    log.info("Запуск перевірки (всі міста)...")
+    log.info("═" * 50)
+    log.info("Запуск перевірки")
 
     cfg   = load_config()
     state = load_state()
     is_first_run = len(state) == 0
-
     max_individual = cfg.get("max_individual_msgs", 5)
+
+    # Активні категорії
+    active_cats = [c for c in cfg.get("categories", DEFAULT_CATEGORIES) if c.get("enabled")]
+    if not active_cats:
+        log.warning("Жодна категорія не активована — виходимо")
+        return
+
+    log.info(f"Активних категорій: {len(active_cats)} — {[c['name'] for c in active_cats]}")
 
     tg_msgs  = []
     events   = []
     new_list = []
 
+    # Завантажуємо попередні події
     if os.path.exists(DATA_FILE):
         try:
             with open(DATA_FILE, encoding="utf-8") as f:
-                old_data = json.load(f)
-            events = old_data.get("events", [])
+                events = json.load(f).get("events", [])
         except Exception:
             pass
 
-    products = scrape_all_pages()
-    log.info(f"Всього знайдено товарів: {len(products)}")
-    current_urls = {p.url for p in products}
+    # Збираємо всі товари з усіх активних категорій
+    all_products: list[Product] = []
+    for cat in active_cats:
+        log.info(f"  Категорія: {cat['emoji']} {cat['name']}")
+        items = scrape_category(cat["url"], cat["name"], cat.get("emoji", ""))
+        all_products.extend(items)
+
+    log.info(f"Всього товарів з усіх категорій: {len(all_products)}")
+    current_urls = {p.url for p in all_products}
 
     # ── Продані товари ────────────────────────────────────────────────────────
     if not is_first_run:
         for known_url in list(state.keys()):
             if known_url not in current_urls:
                 d = state.pop(known_url)
-                name       = d.get("name") or known_url
-                sold_city  = d.get("city", "")
-                sold_addrs = d.get("addresses", [])
+                name      = d.get("name") or known_url
+                sold_city = d.get("city", "")
+                sold_addrs= d.get("addresses", [])
                 if not sold_city and sold_addrs:
                     sold_city = extract_city(sold_addrs[0])
+                cat_name  = d.get("category", "")
+                cat_emoji = d.get("category_emoji", "")
 
-                log.info(f"  ✅ Продано: {name}")
+                log.info(f"  ✅ Продано [{cat_name}]: {name}")
                 events.append({"type": "sold", "name": name, "url": known_url,
-                               "price": d.get("price_min"), "city": sold_city, "at": now})
+                               "price": d.get("price_min"), "city": sold_city,
+                               "category": cat_name, "at": now})
 
                 if cfg.get("notify_sold", True):
                     fake = Product(name=name, url=known_url,
                                    price_min=d.get("price_min"), price_max=d.get("price_max"),
-                                   offers_count=1, city=sold_city, addresses=sold_addrs)
+                                   offers_count=1, city=sold_city, addresses=sold_addrs,
+                                   category=cat_name, category_emoji=cat_emoji)
                     if passes_filters(fake, cfg):
-                        tg_msgs.append(msg_sold(name, known_url, d.get("price_min"), d.get("price_max"), sold_city))
+                        tg_msgs.append(msg_sold(name, known_url, d.get("price_min"),
+                                                d.get("price_max"), sold_city, cat_name, cat_emoji))
 
     # ── Нові товари та зміни ціни ─────────────────────────────────────────────
-    for p in products:
+    for p in all_products:
         known = state.get(p.url)
 
         if known is None:
-            log.info(f"  🆕 Новий: {p.name}")
-
+            log.info(f"  🆕 [{p.category}] {p.name}")
             if not is_first_run:
                 p.city, p.addresses = scrape_details(p.url)
                 time.sleep(0.5)
@@ -492,72 +515,69 @@ def main():
                     new_list.append(p)
 
             events.append({"type": "new", "name": p.name, "url": p.url,
-                           "price": p.price_min, "city": p.city, "at": now})
+                           "price": p.price_min, "city": p.city,
+                           "category": p.category, "at": now})
             state[p.url] = {
                 "name": p.name, "price_min": p.price_min, "price_max": p.price_max,
                 "city": p.city, "addresses": p.addresses, "offers_count": p.offers_count,
-                "first_seen": now,
-                "price_history": [{"price": p.price_min, "at": now}],
+                "category": p.category, "category_emoji": p.category_emoji,
+                "first_seen": now, "price_history": [{"price": p.price_min, "at": now}],
             }
 
         else:
+            # Підтягуємо деталі якщо ще немає
             stored_city  = known.get("city", "")
             stored_addrs = known.get("addresses", [])
-
             if not stored_city and stored_addrs:
                 stored_city = extract_city(stored_addrs[0])
                 known["city"] = stored_city
-
             if not stored_city or not stored_addrs:
                 fc, fa = scrape_details(p.url)
                 time.sleep(0.5)
-                if fa:
-                    stored_addrs = fa
-                    known["addresses"] = fa
-                if fc:
-                    stored_city = fc
-                    known["city"] = fc
+                if fa: stored_addrs = fa; known["addresses"] = fa
+                if fc: stored_city  = fc; known["city"] = fc
 
             p.city      = stored_city
             p.addresses = stored_addrs
-            old_min     = known.get("price_min")
-            old_max     = known.get("price_max")
+            # Зберігаємо категорію якщо ще немає
+            if not known.get("category"):
+                known["category"]       = p.category
+                known["category_emoji"] = p.category_emoji
+
+            old_min = known.get("price_min")
+            old_max = known.get("price_max")
 
             if old_min is not None and p.price_min is not None and p.price_min != old_min:
                 if p.price_min < old_min:
-                    log.info(f"  📉 Ціна впала: {p.name} | {old_min} → {p.price_min} грн")
+                    log.info(f"  📉 [{p.category}] {p.name} | {old_min} → {p.price_min} грн")
                     if cfg.get("notify_price_drop", True) and passes_filters(p, cfg):
                         tg_msgs.append(msg_drop(p, old_min, old_max))
                     events.append({"type": "drop", "name": p.name, "url": p.url,
                                    "price_old": old_min, "price_new": p.price_min,
-                                   "city": p.city, "at": now})
+                                   "city": p.city, "category": p.category, "at": now})
                 else:
-                    log.info(f"  📈 Ціна зросла: {p.name} | {old_min} → {p.price_min} грн")
+                    log.info(f"  📈 [{p.category}] {p.name} | {old_min} → {p.price_min} грн")
                     if cfg.get("notify_price_rise", True) and passes_filters(p, cfg):
                         tg_msgs.append(msg_rise(p, old_min, old_max))
                     events.append({"type": "rise", "name": p.name, "url": p.url,
                                    "price_old": old_min, "price_new": p.price_min,
-                                   "city": p.city, "at": now})
+                                   "city": p.city, "category": p.category, "at": now})
 
-                history = known.get("price_history", [])
-                history.append({"price": p.price_min, "at": now})
-                known["price_history"] = history
+                known.setdefault("price_history", []).append({"price": p.price_min, "at": now})
             else:
-                log.info(f"  ✓ Без змін: {p.name} ({p.price_min} грн)")
+                log.info(f"  ✓ [{p.category}] {p.name} ({p.price_min} грн)")
 
-            known.update({
-                "name": p.name, "price_min": p.price_min,
-                "price_max": p.price_max, "offers_count": p.offers_count,
-            })
+            known.update({"name": p.name, "price_min": p.price_min,
+                          "price_max": p.price_max, "offers_count": p.offers_count})
             state[p.url] = known
 
-    # ── Формуємо повідомлення ─────────────────────────────────────────────────
+    # ── Telegram ──────────────────────────────────────────────────────────────
     if is_first_run:
         log.info(f"Перший запуск — зберігаємо базу ({len(state)} товарів), без сповіщень")
         tg_msgs = []
     elif len(tg_msgs) > max_individual:
-        sold_price_msgs = [m for m in tg_msgs if not m.startswith("🆕")]
-        tg_msgs = sold_price_msgs
+        sold_price = [m for m in tg_msgs if not m.startswith("🆕")]
+        tg_msgs = sold_price
         if new_list:
             tg_msgs.append(msg_summary(new_list, len(new_list)))
 
@@ -570,6 +590,7 @@ def main():
     save_state(state)
     save_dashboard(state, events, cfg)
     log.info("Готово.")
+    log.info("═" * 50)
 
 if __name__ == "__main__":
     main()
