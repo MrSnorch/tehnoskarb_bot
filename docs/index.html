@@ -5,46 +5,47 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Монітори — Техноскарб</title>
 <style>
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #0f1117; color: #e2e8f0; min-height: 100vh; }
-  header { background: linear-gradient(135deg, #1e3a5f 0%, #0f2744 100%); padding: 24px 32px; border-bottom: 1px solid #1e3a5f; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
-  header h1 { font-size: 1.5rem; font-weight: 700; }
-  header h1 span { color: #60a5fa; }
-  #updated { font-size: 0.8rem; color: #64748b; }
-  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 16px; padding: 24px 32px; max-width: 1200px; margin: 0 auto; }
-  .stat-card { background: #1a1f2e; border: 1px solid #2d3748; border-radius: 12px; padding: 16px; text-align: center; }
-  .stat-card .value { font-size: 1.8rem; font-weight: 700; color: #60a5fa; }
-  .stat-card .label { font-size: 0.75rem; color: #64748b; margin-top: 4px; text-transform: uppercase; letter-spacing: 0.5px; }
-  .controls { padding: 0 32px 16px; max-width: 1200px; margin: 0 auto; display: flex; gap: 12px; flex-wrap: wrap; }
-  .controls input, .controls select { background: #1a1f2e; border: 1px solid #2d3748; color: #e2e8f0; border-radius: 8px; padding: 8px 14px; font-size: 0.9rem; outline: none; }
-  .controls input { flex: 1; min-width: 200px; }
-  .controls input:focus, .controls select:focus { border-color: #60a5fa; }
-  .tabs { padding: 0 32px; max-width: 1200px; margin: 0 auto 16px; display: flex; gap: 8px; }
-  .tab { padding: 8px 18px; border-radius: 8px; cursor: pointer; font-size: 0.85rem; border: 1px solid #2d3748; background: #1a1f2e; color: #64748b; transition: all 0.2s; }
-  .tab.active { background: #1e3a5f; border-color: #60a5fa; color: #60a5fa; }
-  #products-view { padding: 0 32px 32px; max-width: 1200px; margin: 0 auto; }
-  table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
-  th { text-align: left; padding: 10px 14px; background: #1a1f2e; color: #64748b; font-weight: 600; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.5px; border-bottom: 1px solid #2d3748; cursor: pointer; user-select: none; }
-  th:hover { color: #60a5fa; }
-  td { padding: 12px 14px; border-bottom: 1px solid #1a1f2e; vertical-align: top; }
-  tr:hover td { background: #1a1f2e; }
-  .name a { color: #e2e8f0; text-decoration: none; font-weight: 500; }
-  .name a:hover { color: #60a5fa; }
-  .price { color: #34d399; font-weight: 700; white-space: nowrap; }
-  .city-badge { display: inline-block; background: #1e3a5f; color: #93c5fd; border-radius: 6px; padding: 2px 8px; font-size: 0.75rem; white-space: nowrap; }
-  .address { font-size: 0.78rem; color: #64748b; margin-top: 2px; }
-  .offers { color: #64748b; font-size: 0.8rem; }
-  .price-history { font-size: 0.75rem; color: #475569; margin-top: 2px; }
-  #events-view { padding: 0 32px 32px; max-width: 1200px; margin: 0 auto; display: none; }
-  .event { display: flex; align-items: flex-start; gap: 12px; padding: 14px 0; border-bottom: 1px solid #1a1f2e; }
-  .event-icon { font-size: 1.4rem; width: 36px; text-align: center; flex-shrink: 0; }
-  .event-body { flex: 1; }
-  .event-name a { color: #e2e8f0; text-decoration: none; font-weight: 500; }
-  .event-name a:hover { color: #60a5fa; }
-  .event-meta { font-size: 0.78rem; color: #64748b; margin-top: 2px; }
-  .event-time { font-size: 0.75rem; color: #475569; white-space: nowrap; flex-shrink: 0; }
-  .tag-drop { color: #34d399; } .tag-rise { color: #f87171; } .tag-new { color: #60a5fa; } .tag-sold { color: #a78bfa; }
-  #no-results { text-align: center; padding: 60px; color: #475569; display: none; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #0f1117; color: #e2e8f0; min-height: 100vh; }
+header { background: linear-gradient(135deg, #1e3a5f 0%, #0f2744 100%); padding: 20px 28px; border-bottom: 1px solid #1e3a5f; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+header h1 { font-size: 1.4rem; font-weight: 700; }
+header h1 span { color: #60a5fa; }
+#updated { font-size: 0.78rem; color: #64748b; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px; padding: 20px 28px; max-width: 1200px; margin: 0 auto; }
+.stat-card { background: #1a1f2e; border: 1px solid #2d3748; border-radius: 10px; padding: 14px; text-align: center; }
+.stat-card .value { font-size: 1.6rem; font-weight: 700; color: #60a5fa; }
+.stat-card .label { font-size: 0.72rem; color: #64748b; margin-top: 4px; text-transform: uppercase; letter-spacing: 0.5px; }
+.controls { padding: 0 28px 14px; max-width: 1200px; margin: 0 auto; display: flex; gap: 10px; flex-wrap: wrap; }
+.controls input, .controls select { background: #1a1f2e; border: 1px solid #2d3748; color: #e2e8f0; border-radius: 8px; padding: 7px 12px; font-size: 0.88rem; outline: none; }
+.controls input { flex: 1; min-width: 180px; }
+.controls input:focus, .controls select:focus { border-color: #60a5fa; }
+.tabs { padding: 0 28px; max-width: 1200px; margin: 0 auto 14px; display: flex; gap: 6px; }
+.tab { padding: 7px 16px; border-radius: 8px; cursor: pointer; font-size: 0.83rem; border: 1px solid #2d3748; background: #1a1f2e; color: #64748b; transition: all 0.15s; user-select: none; }
+.tab.active { background: #1e3a5f; border-color: #60a5fa; color: #60a5fa; }
+.tab:hover:not(.active) { border-color: #475569; color: #94a3b8; }
+#products-view { padding: 0 28px 32px; max-width: 1200px; margin: 0 auto; }
+table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
+th { text-align: left; padding: 9px 12px; background: #1a1f2e; color: #64748b; font-weight: 600; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.5px; border-bottom: 1px solid #2d3748; cursor: pointer; user-select: none; }
+th:hover { color: #60a5fa; }
+td { padding: 11px 12px; border-bottom: 1px solid #1a1f2e; vertical-align: top; }
+tr:hover td { background: #161b28; }
+.name a { color: #e2e8f0; text-decoration: none; font-weight: 500; }
+.name a:hover { color: #60a5fa; }
+.price { color: #34d399; font-weight: 700; white-space: nowrap; }
+.city-badge { display: inline-block; background: #1e3a5f; color: #93c5fd; border-radius: 5px; padding: 2px 7px; font-size: 0.72rem; }
+.address { font-size: 0.76rem; color: #64748b; margin-top: 2px; }
+.offers { color: #64748b; font-size: 0.78rem; }
+.price-history { font-size: 0.73rem; color: #475569; margin-top: 3px; }
+#no-results { text-align: center; padding: 60px; color: #475569; display: none; }
+#events-view { padding: 0 28px 32px; max-width: 1200px; margin: 0 auto; display: none; }
+.event { display: flex; align-items: flex-start; gap: 12px; padding: 12px 0; border-bottom: 1px solid #1a1f2e; }
+.event-icon { font-size: 1.3rem; width: 34px; text-align: center; flex-shrink: 0; }
+.event-body { flex: 1; }
+.event-name a { color: #e2e8f0; text-decoration: none; font-weight: 500; font-size: 0.9rem; }
+.event-name a:hover { color: #60a5fa; }
+.event-meta { font-size: 0.76rem; color: #64748b; margin-top: 2px; }
+.event-time { font-size: 0.73rem; color: #475569; white-space: nowrap; flex-shrink: 0; }
+.tag-drop{color:#34d399;font-weight:600;}.tag-rise{color:#f87171;font-weight:600;}.tag-new{color:#60a5fa;font-weight:600;}.tag-sold{color:#a78bfa;font-weight:600;}
 </style>
 </head>
 <body>
@@ -86,75 +87,18 @@
 <div id="events-view"><div id="events-list"></div></div>
 <script>
 let allProducts=[],allEvents=[];
-const EI={'new':'🆕','drop':'📉','rise':'📈','sold':'✅'};
-const EL={'new':'Новий товар','drop':'Ціна впала','rise':'Ціна зросла','sold':'Продано'};
-const EC={'new':'tag-new','drop':'tag-drop','rise':'tag-rise','sold':'tag-sold'};
-function fmtPrice(a,b){if(!a)return'—';const f=n=>n.toLocaleString('uk-UA')+' грн';return a===b?f(a):f(a)+' – '+f(b);}
-function fmtTime(iso){if(!iso)return'';const d=new Date(iso);return d.toLocaleDateString('uk-UA')+' '+d.toLocaleTimeString('uk-UA',{hour:'2-digit',minute:'2-digit'});}
-function pct(o,n){const p=Math.round(Math.abs(o-n)/o*100);return n<o?`−${p}%`:`+${p}%`;}
-function showTab(t){document.querySelectorAll('.tab').forEach((x,i)=>x.classList.toggle('active',(i===0)===(t==='products')));document.getElementById('products-view').style.display=t==='products'?'':'none';document.getElementById('events-view').style.display=t==='events'?'':'none';}
-function getFiltered(){
-  const q=document.getElementById('search').value.toLowerCase();
-  const city=document.getElementById('city-filter').value;
-  const price=document.getElementById('price-filter').value;
-  const sort=document.getElementById('sort-select').value;
-  let list=allProducts.filter(p=>{
-    if(q&&!p.name.toLowerCase().includes(q))return false;
-    if(city&&p.city!==city)return false;
-    if(price){const[lo,hi]=price.split('-').map(Number);if(!p.price_min||p.price_min<lo||p.price_min>hi)return false;}
-    return true;
-  });
-  list.sort((a,b)=>{
-    if(sort==='price_asc')return(a.price_min||0)-(b.price_min||0);
-    if(sort==='price_desc')return(b.price_min||0)-(a.price_min||0);
-    if(sort==='name_asc')return a.name.localeCompare(b.name,'uk');
-    if(sort==='newest')return(b.first_seen||'').localeCompare(a.first_seen||'');
-    return 0;
-  });
-  return list;
-}
-function renderProducts(){
-  const list=getFiltered();
-  const tbody=document.getElementById('tbody');
-  const noRes=document.getElementById('no-results');
-  if(!list.length){tbody.innerHTML='';noRes.style.display='block';return;}
-  noRes.style.display='none';
-  tbody.innerHTML=list.map(p=>{
-    const hist=(p.price_history||[]);
-    const histHtml=hist.length>1?'<div class="price-history">'+hist.map(h=>h.price?.toLocaleString('uk-UA')+' грн').join(' → ')+'</div>':'';
-    const addrs=(p.addresses||[]).map(a=>`<div class="address">📍 ${a}</div>`).join('');
-    return`<tr><td class="name"><a href="${p.url}" target="_blank">${p.name}</a>${addrs}</td><td class="price">${fmtPrice(p.price_min,p.price_max)}${histHtml}</td><td>${p.city?`<span class="city-badge">${p.city}</span>`:'—'}</td><td class="offers">${p.offers}</td></tr>`;
-  }).join('');
-}
-function renderEvents(){
-  const list=[...allEvents].reverse();
-  document.getElementById('events-list').innerHTML=list.map(e=>{
-    const priceStr=e.type==='drop'||e.type==='rise'?`${e.price_old?.toLocaleString('uk-UA')} → ${e.price_new?.toLocaleString('uk-UA')} грн (${pct(e.price_old,e.price_new)})`:e.price?`${e.price?.toLocaleString('uk-UA')} грн`:'';
-    const cityStr=e.city?` · ${e.city}`:'';
-    return`<div class="event"><div class="event-icon">${EI[e.type]||'•'}</div><div class="event-body"><div class="event-name"><span class="${EC[e.type]}">${EL[e.type]}</span> — <a href="${e.url}" target="_blank">${e.name}</a></div><div class="event-meta">${priceStr}${cityStr}</div></div><div class="event-time">${fmtTime(e.at)}</div></div>`;
-  }).join('');
-}
-function renderStats(s){
-  document.getElementById('stats').innerHTML=[
-    {value:s.total,label:'Товарів'},
-    {value:s.avg_price?.toLocaleString('uk-UA')+' ₴',label:'Середня ціна'},
-    {value:s.min_price?.toLocaleString('uk-UA')+' ₴',label:'Мінімальна'},
-    {value:s.max_price?.toLocaleString('uk-UA')+' ₴',label:'Максимальна'},
-    {value:s.cities?.length||0,label:'Міст'},
-  ].map(s=>`<div class="stat-card"><div class="value">${s.value}</div><div class="label">${s.label}</div></div>`).join('');
-}
-async function loadData(){
-  try{
-    const res=await fetch('data.json?t='+Date.now());
-    const data=await res.json();
-    allProducts=data.products||[];allEvents=data.events||[];
-    renderStats(data.stats||{});
-    const sel=document.getElementById('city-filter');
-    (data.stats?.cities||[]).forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;sel.appendChild(o);});
-    renderProducts();renderEvents();
-    document.getElementById('updated').textContent='Оновлено: '+fmtTime(data.updated_at);
-  }catch(e){document.getElementById('updated').textContent='Помилка завантаження';}
-}
+const EI={new:'🆕',drop:'📉',rise:'📈',sold:'✅'};
+const EL={new:'Новий товар',drop:'Ціна впала',rise:'Ціна зросла',sold:'Продано'};
+const EC={new:'tag-new',drop:'tag-drop',rise:'tag-rise',sold:'tag-sold'};
+const fmtPrice=(a,b)=>{if(!a)return'—';const f=n=>n.toLocaleString('uk-UA')+' грн';return a===b?f(a):f(a)+' – '+f(b);};
+const fmtTime=iso=>{if(!iso)return'';const d=new Date(iso);return d.toLocaleDateString('uk-UA')+' '+d.toLocaleTimeString('uk-UA',{hour:'2-digit',minute:'2-digit'});};
+const pct=(o,n)=>{const p=Math.round(Math.abs(o-n)/o*100);return n<o?`−${p}%`:`+${p}%`;};
+function showTab(t){document.querySelectorAll('.tab').forEach((el,i)=>el.classList.toggle('active',['products','events'][i]===t));document.getElementById('products-view').style.display=t==='products'?'':'none';document.getElementById('events-view').style.display=t==='events'?'':'none';}
+function getFiltered(){const q=document.getElementById('search').value.toLowerCase(),city=document.getElementById('city-filter').value,price=document.getElementById('price-filter').value,sort=document.getElementById('sort-select').value;let list=allProducts.filter(p=>{if(q&&!p.name.toLowerCase().includes(q))return false;if(city&&p.city!==city)return false;if(price){const[lo,hi]=price.split('-').map(Number);if(!p.price_min||p.price_min<lo||p.price_min>hi)return false;}return true;});list.sort((a,b)=>{if(sort==='price_asc')return(a.price_min||0)-(b.price_min||0);if(sort==='price_desc')return(b.price_min||0)-(a.price_min||0);if(sort==='name_asc')return a.name.localeCompare(b.name,'uk');if(sort==='newest')return(b.first_seen||'').localeCompare(a.first_seen||'');return 0;});return list;}
+function sortBy(k){document.getElementById('sort-select').value=k==='price_min'?'price_asc':'name_asc';renderProducts();}
+function renderProducts(){const list=getFiltered(),tbody=document.getElementById('tbody'),noRes=document.getElementById('no-results');if(!list.length){tbody.innerHTML='';noRes.style.display='block';return;}noRes.style.display='none';tbody.innerHTML=list.map(p=>{const hist=p.price_history||[];const histHtml=hist.length>1?'<div class="price-history">'+hist.map(h=>(h.price||0).toLocaleString('uk-UA')+' грн').join(' → ')+'</div>':'';const addrs=(p.addresses||[]).map(a=>`<div class="address">📍 ${a}</div>`).join('');return`<tr><td class="name"><a href="${p.url}" target="_blank">${p.name}</a>${addrs}</td><td class="price">${fmtPrice(p.price_min,p.price_max)}${histHtml}</td><td>${p.city?`<span class="city-badge">${p.city}</span>`:'—'}</td><td class="offers">${p.offers}</td></tr>`;}).join('');}
+function renderEvents(){document.getElementById('events-list').innerHTML=[...allEvents].reverse().map(e=>{const priceStr=e.type==='drop'||e.type==='rise'?`${(e.price_old||0).toLocaleString('uk-UA')} → ${(e.price_new||0).toLocaleString('uk-UA')} грн (${pct(e.price_old,e.price_new)})`:e.price?`${e.price.toLocaleString('uk-UA')} грн`:'';return`<div class="event"><div class="event-icon">${EI[e.type]||'•'}</div><div class="event-body"><div class="event-name"><span class="${EC[e.type]}">${EL[e.type]}</span> — <a href="${e.url}" target="_blank">${e.name}</a></div><div class="event-meta">${priceStr}${e.city?' · '+e.city:''}</div></div><div class="event-time">${fmtTime(e.at)}</div></div>`;}).join('');}
+async function loadData(){try{const res=await fetch('data.json?t='+Date.now()),data=await res.json();allProducts=data.products||[];allEvents=data.events||[];const s=data.stats||{};document.getElementById('stats').innerHTML=[{value:s.total,label:'Товарів'},{value:(s.avg_price||0).toLocaleString('uk-UA')+' ₴',label:'Середня ціна'},{value:(s.min_price||0).toLocaleString('uk-UA')+' ₴',label:'Мінімальна'},{value:(s.max_price||0).toLocaleString('uk-UA')+' ₴',label:'Максимальна'},{value:s.cities?.length||0,label:'Міст'}].map(x=>`<div class="stat-card"><div class="value">${x.value}</div><div class="label">${x.label}</div></div>`).join('');const sel=document.getElementById('city-filter');(s.cities||[]).forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;sel.appendChild(o);});renderProducts();renderEvents();document.getElementById('updated').textContent='Оновлено: '+fmtTime(data.updated_at);}catch(e){document.getElementById('updated').textContent='Помилка завантаження';}}
 document.getElementById('search').addEventListener('input',renderProducts);
 document.getElementById('city-filter').addEventListener('change',renderProducts);
 document.getElementById('price-filter').addEventListener('change',renderProducts);

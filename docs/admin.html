@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Адмін — Техноскарб бот</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #0f1117; color: #e2e8f0; min-height: 100vh; }
+
+/* ── Lock screen ── */
+#lock-screen {
+  position: fixed; inset: 0; background: #0f1117;
+  display: flex; align-items: center; justify-content: center; z-index: 100;
+}
+.lock-box {
+  background: #1a1f2e; border: 1px solid #2d3748; border-radius: 16px;
+  padding: 40px 36px; width: 340px; text-align: center;
+}
+.lock-box .icon { font-size: 3rem; margin-bottom: 16px; }
+.lock-box h2 { font-size: 1.1rem; margin-bottom: 6px; }
+.lock-box p { font-size: 0.8rem; color: #64748b; margin-bottom: 24px; }
+.lock-input {
+  width: 100%; background: #0f1117; border: 1px solid #2d3748; color: #e2e8f0;
+  border-radius: 8px; padding: 10px 14px; font-size: 0.95rem; outline: none;
+  text-align: center; letter-spacing: 2px; margin-bottom: 12px;
+}
+.lock-input:focus { border-color: #60a5fa; }
+.lock-btn {
+  width: 100%; background: #3b82f6; color: white; border: none;
+  border-radius: 8px; padding: 10px; font-size: 0.9rem; font-weight: 600;
+  cursor: pointer; transition: background 0.15s;
+}
+.lock-btn:hover { background: #2563eb; }
+.lock-error { color: #f87171; font-size: 0.8rem; margin-top: 8px; min-height: 18px; }
+.shake { animation: shake 0.3s; }
+@keyframes shake { 0%,100%{transform:translateX(0)} 25%{transform:translateX(-8px)} 75%{transform:translateX(8px)} }
+
+/* ── Admin UI ── */
+#admin-ui { display: none; }
+
+header {
+  background: linear-gradient(135deg, #2d1b4e 0%, #1a0f30 100%);
+  padding: 18px 28px; border-bottom: 1px solid #3b2a5e;
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+}
+header h1 { font-size: 1.2rem; font-weight: 700; }
+header h1 span { color: #a78bfa; }
+.header-actions { display: flex; align-items: center; gap: 10px; }
+.btn-logout { background: none; border: 1px solid #3b2a5e; color: #64748b; border-radius: 7px; padding: 5px 12px; font-size: 0.8rem; cursor: pointer; }
+.btn-logout:hover { border-color: #f87171; color: #f87171; }
+
+.container { max-width: 680px; margin: 0 auto; padding: 24px 28px 40px; }
+
+.section { background: #1a1f2e; border: 1px solid #2d3748; border-radius: 12px; padding: 20px; margin-bottom: 16px; }
+.section h3 { font-size: 0.82rem; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 16px; display: flex; align-items: center; gap: 8px; }
+
+.field { margin-bottom: 14px; }
+.field:last-child { margin-bottom: 0; }
+.field label { display: block; font-size: 0.82rem; color: #94a3b8; margin-bottom: 5px; }
+.field input[type=text], .field input[type=number], .field input[type=password] {
+  width: 100%; background: #0f1117; border: 1px solid #2d3748; color: #e2e8f0;
+  border-radius: 7px; padding: 8px 12px; font-size: 0.88rem; outline: none;
+}
+.field input:focus { border-color: #a78bfa; }
+.field .hint { font-size: 0.73rem; color: #475569; margin-top: 4px; line-height: 1.4; }
+.field .hint a { color: #60a5fa; }
+
+.two-col { display: flex; gap: 12px; }
+.two-col .field { flex: 1; }
+
+.toggle-row { display: flex; align-items: center; justify-content: space-between; padding: 9px 0; border-bottom: 1px solid #1e2535; }
+.toggle-row:last-child { border-bottom: none; }
+.toggle-row span { font-size: 0.88rem; color: #cbd5e1; }
+.toggle { position: relative; width: 42px; height: 24px; flex-shrink: 0; }
+.toggle input { opacity: 0; width: 0; height: 0; }
+.slider { position: absolute; inset: 0; background: #2d3748; border-radius: 24px; cursor: pointer; transition: 0.2s; }
+.slider:before { content: ""; position: absolute; height: 18px; width: 18px; left: 3px; bottom: 3px; background: white; border-radius: 50%; transition: 0.2s; }
+input:checked + .slider { background: #7c3aed; }
+input:checked + .slider:before { transform: translateX(18px); }
+
+.cities-wrap { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.city-tag { background: #2d1b4e; color: #c4b5fd; border-radius: 5px; padding: 3px 10px; font-size: 0.78rem; display: flex; align-items: center; gap: 5px; }
+.city-tag button { background: none; border: none; color: #a78bfa; cursor: pointer; font-size: 0.9rem; padding: 0; }
+.add-row { display: flex; gap: 8px; margin-top: 8px; }
+.add-row input { flex: 1; }
+
+.pat-row { display: flex; gap: 8px; }
+.pat-row input { flex: 1; }
+
+.btn { display: inline-flex; align-items: center; gap: 6px; padding: 9px 18px; border-radius: 8px; font-size: 0.88rem; font-weight: 600; cursor: pointer; border: none; transition: all 0.15s; }
+.btn-primary { background: #7c3aed; color: white; }
+.btn-primary:hover { background: #6d28d9; }
+.btn-primary:disabled { background: #2d1b4e; color: #475569; cursor: not-allowed; }
+.btn-ghost { background: #1e2535; color: #94a3b8; border: 1px solid #2d3748; }
+.btn-ghost:hover { border-color: #475569; color: #e2e8f0; }
+
+.save-row { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; margin-top: 4px; }
+.status { font-size: 0.82rem; }
+.status.ok { color: #34d399; }
+.status.err { color: #f87171; }
+.status.loading { color: #a78bfa; }
+
+.back-link { display: inline-flex; align-items: center; gap: 6px; color: #64748b; font-size: 0.8rem; text-decoration: none; }
+.back-link:hover { color: #94a3b8; }
+</style>
+</head>
+<body>
+
+<!-- Lock screen -->
+<div id="lock-screen">
+  <div class="lock-box">
+    <div class="icon">🔐</div>
+    <h2>Адмін-панель</h2>
+    <p>Введіть пароль для доступу</p>
+    <input class="lock-input" type="password" id="pass-input"
+           placeholder="••••••••"
+           onkeydown="if(event.key==='Enter') unlock()">
+    <button class="lock-btn" onclick="unlock()">Увійти</button>
+    <div class="lock-error" id="lock-error"></div>
+  </div>
+</div>
+
+<!-- Admin UI -->
+<div id="admin-ui">
+  <header>
+    <h1>⚙️ Адмін <span>Техноскарб</span></h1>
+    <div class="header-actions">
+      <a href="index.html" class="back-link">← Дашборд</a>
+      <button class="btn-logout" onclick="logout()">Вийти</button>
+    </div>
+  </header>
+
+  <div class="container">
+
+    <!-- GitHub credentials -->
+    <div class="section">
+      <h3>🔑 GitHub доступ</h3>
+      <div class="field">
+        <label>Personal Access Token (PAT)</label>
+        <div class="pat-row">
+          <input type="password" id="pat-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx">
+          <button class="btn btn-ghost" onclick="togglePat()">👁</button>
+        </div>
+        <div class="hint">
+          Створи на <a href="https://github.com/settings/tokens/new?scopes=repo&description=Tehnoskarb+Admin" target="_blank">github.com/settings/tokens</a>
+          → scope <b>repo</b>. Зберігається тільки в браузері.
+        </div>
+      </div>
+      <div class="field">
+        <label>Репозиторій</label>
+        <input type="text" id="repo-input" placeholder="MrSnorch/tehnoskarb_bot">
+        <div class="hint">Формат: username/repo-name</div>
+      </div>
+      <button class="btn btn-ghost" onclick="saveCreds()">Зберегти локально</button>
+      <span id="creds-status" class="status"></span>
+    </div>
+
+    <!-- Cities -->
+    <div class="section">
+      <h3>🏙 Міста для сповіщень</h3>
+      <div class="field">
+        <label>Активні міста <span style="color:#475569">(порожньо = всі)</span></label>
+        <div class="cities-wrap" id="cities-wrap"></div>
+        <div class="add-row">
+          <input type="text" id="city-input" placeholder="Харків"
+                 onkeydown="if(event.key==='Enter') addCity()">
+          <button class="btn btn-ghost" onclick="addCity()">+ Додати</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Price -->
+    <div class="section">
+      <h3>💰 Фільтр по ціні</h3>
+      <div class="two-col">
+        <div class="field">
+          <label>Від (грн)</label>
+          <input type="number" id="price-min" placeholder="без обмеження" min="0">
+        </div>
+        <div class="field">
+          <label>До (грн)</label>
+          <input type="number" id="price-max" placeholder="без обмеження" min="0">
+        </div>
+      </div>
+    </div>
+
+    <!-- Keywords -->
+    <div class="section">
+      <h3>🔤 Ключові слова</h3>
+      <div class="field">
+        <label>Тільки товари що містять ці слова <span style="color:#475569">(порожньо = всі)</span></label>
+        <input type="text" id="keywords" placeholder="Samsung, Dell, 27&quot;">
+        <div class="hint">Через кому. Не чутливо до регістру.</div>
+      </div>
+    </div>
+
+    <!-- Notifications -->
+    <div class="section">
+      <h3>🔔 Типи сповіщень в Telegram</h3>
+      <div class="toggle-row"><span>🆕 Нові товари</span><label class="toggle"><input type="checkbox" id="tog-new"><span class="slider"></span></label></div>
+      <div class="toggle-row"><span>📉 Зниження ціни</span><label class="toggle"><input type="checkbox" id="tog-drop"><span class="slider"></span></label></div>
+      <div class="toggle-row"><span>📈 Підвищення ціни</span><label class="toggle"><input type="checkbox" id="tog-rise"><span class="slider"></span></label></div>
+      <div class="toggle-row"><span>✅ Продані товари</span><label class="toggle"><input type="checkbox" id="tog-sold"><span class="slider"></span></label></div>
+    </div>
+
+    <!-- Max messages -->
+    <div class="section">
+      <h3>📨 Ліміт повідомлень за запуск</h3>
+      <div class="field">
+        <label>Якщо нових більше — надсилається одне зведення</label>
+        <input type="number" id="max-msgs" min="1" max="50" value="5" style="width:100px">
+      </div>
+    </div>
+
+    <!-- Save -->
+    <div class="save-row">
+      <button class="btn btn-primary" id="save-btn" onclick="saveConfig()">💾 Зберегти в GitHub</button>
+      <span id="save-status" class="status"></span>
+    </div>
+    <p style="margin-top:10px; font-size:0.74rem; color:#475569;">
+      Налаштування застосуються при наступному запуску GitHub Actions.
+    </p>
+
+  </div>
+</div>
+
+<script>
+// ─── Пароль ───────────────────────────────────────────────────────────────
+// Змінити пароль тут ↓
+const ADMIN_PASSWORD = 'tehnoskarb2024';
+
+function unlock() {
+  const val = document.getElementById('pass-input').value;
+  if (val === ADMIN_PASSWORD) {
+    sessionStorage.setItem('admin_ok', '1');
+    document.getElementById('lock-screen').style.display = 'none';
+    document.getElementById('admin-ui').style.display = '';
+    loadAll();
+  } else {
+    const box = document.querySelector('.lock-box');
+    document.getElementById('lock-error').textContent = 'Невірний пароль';
+    box.classList.remove('shake');
+    void box.offsetWidth;
+    box.classList.add('shake');
+    document.getElementById('pass-input').value = '';
+  }
+}
+
+function logout() {
+  sessionStorage.removeItem('admin_ok');
+  location.reload();
+}
+
+// Автологін якщо вже авторизований в цій сесії
+if (sessionStorage.getItem('admin_ok') === '1') {
+  document.getElementById('lock-screen').style.display = 'none';
+  document.getElementById('admin-ui').style.display = '';
+}
+
+document.getElementById('pass-input').addEventListener('keydown', e => {
+  if (e.key === 'Enter') unlock();
+});
+
+// ─── Стан міст ───────────────────────────────────────────────────────────
+let cities = [];
+
+function renderCities() {
+  const wrap = document.getElementById('cities-wrap');
+  if (!cities.length) {
+    wrap.innerHTML = '<span style="color:#475569;font-size:0.78rem">Всі міста (без фільтру)</span>';
+    return;
+  }
+  wrap.innerHTML = cities.map((c, i) =>
+    `<span class="city-tag">${c}<button onclick="removeCity(${i})">×</button></span>`
+  ).join('');
+}
+
+function addCity() {
+  const inp = document.getElementById('city-input');
+  const v = inp.value.trim();
+  if (v && !cities.includes(v)) { cities.push(v); renderCities(); }
+  inp.value = '';
+  inp.focus();
+}
+
+function removeCity(i) { cities.splice(i, 1); renderCities(); }
+
+// ─── GitHub credentials ───────────────────────────────────────────────────
+function saveCreds() {
+  const pat  = document.getElementById('pat-input').value.trim();
+  const repo = document.getElementById('repo-input').value.trim();
+  if (!pat || !repo) { setStatus('creds-status', '⚠ Заповніть обидва поля', 'err'); return; }
+  localStorage.setItem('gh_pat', pat);
+  localStorage.setItem('gh_repo', repo);
+  setStatus('creds-status', '✓ Збережено', 'ok');
+}
+
+function togglePat() {
+  const inp = document.getElementById('pat-input');
+  inp.type = inp.type === 'password' ? 'text' : 'password';
+}
+
+// ─── Завантаження поточного config.json ──────────────────────────────────
+async function loadAll() {
+  document.getElementById('pat-input').value  = localStorage.getItem('gh_pat')  || '';
+  document.getElementById('repo-input').value = localStorage.getItem('gh_repo') || '';
+
+  // Намагаємось підтягнути поточний config з data.json (він туди передається скриптом)
+  try {
+    const res  = await fetch('data.json?t=' + Date.now());
+    const data = await res.json();
+    const cfg  = data.config || {};
+    applyConfig(cfg);
+  } catch(e) {
+    // Якщо data.json недоступний — дефолти
+    applyConfig({});
+  }
+}
+
+function applyConfig(cfg) {
+  cities = [...(cfg.notify_cities || [])];
+  renderCities();
+  document.getElementById('price-min').value  = cfg.price_min  ?? '';
+  document.getElementById('price-max').value  = cfg.price_max  ?? '';
+  document.getElementById('keywords').value   = (cfg.keywords || []).join(', ');
+  document.getElementById('tog-new').checked  = cfg.notify_new  !== false;
+  document.getElementById('tog-drop').checked = cfg.notify_price_drop !== false;
+  document.getElementById('tog-rise').checked = cfg.notify_price_rise !== false;
+  document.getElementById('tog-sold').checked = cfg.notify_sold !== false;
+  document.getElementById('max-msgs').value   = cfg.max_individual_msgs ?? 5;
+}
+
+// ─── Збереження config.json через GitHub API ──────────────────────────────
+async function saveConfig() {
+  const pat  = localStorage.getItem('gh_pat');
+  const repo = localStorage.getItem('gh_repo');
+  if (!pat || !repo) {
+    setStatus('save-status', '⚠ Вкажіть PAT і репозиторій вище', 'err');
+    return;
+  }
+
+  const keywords  = document.getElementById('keywords').value.split(',').map(k => k.trim()).filter(Boolean);
+  const priceMin  = document.getElementById('price-min').value;
+  const priceMax  = document.getElementById('price-max').value;
+
+  const config = {
+    notify_cities:       cities,
+    price_min:           priceMin  ? parseInt(priceMin)  : null,
+    price_max:           priceMax  ? parseInt(priceMax)  : null,
+    keywords,
+    notify_new:          document.getElementById('tog-new').checked,
+    notify_price_drop:   document.getElementById('tog-drop').checked,
+    notify_price_rise:   document.getElementById('tog-rise').checked,
+    notify_sold:         document.getElementById('tog-sold').checked,
+    max_individual_msgs: parseInt(document.getElementById('max-msgs').value) || 5,
+  };
+
+  setStatus('save-status', '⏳ Збереження...', 'loading');
+  document.getElementById('save-btn').disabled = true;
+
+  try {
+    // Отримуємо SHA поточного файлу
+    const getRes = await fetch(
+      `https://api.github.com/repos/${repo}/contents/config.json`,
+      { headers: { Authorization: `token ${pat}`, Accept: 'application/vnd.github+json' } }
+    );
+    let sha = null;
+    if (getRes.ok) sha = (await getRes.json()).sha;
+    else if (getRes.status !== 404) throw new Error(`${getRes.status} ${getRes.statusText}`);
+
+    const content = btoa(unescape(encodeURIComponent(JSON.stringify(config, null, 2) + '\n')));
+
+    const putRes = await fetch(
+      `https://api.github.com/repos/${repo}/contents/config.json`,
+      {
+        method: 'PUT',
+        headers: { Authorization: `token ${pat}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message: 'chore: update config via admin panel', content, ...(sha ? { sha } : {}) }),
+      }
+    );
+
+    if (!putRes.ok) { const err = await putRes.json(); throw new Error(err.message || putRes.statusText); }
+
+    setStatus('save-status', '✅ Збережено! Набере чинності при наступному запуску.', 'ok');
+  } catch(e) {
+    setStatus('save-status', `❌ Помилка: ${e.message}`, 'err');
+  } finally {
+    document.getElementById('save-btn').disabled = false;
+  }
+}
+
+function setStatus(id, msg, cls) {
+  const el = document.getElementById(id);
+  el.textContent = msg;
+  el.className = 'status ' + cls;
+}
+
+// Завантажуємо якщо вже авторизовані
+if (sessionStorage.getItem('admin_ok') === '1') loadAll();
+</script>
+</body>
+</html>
