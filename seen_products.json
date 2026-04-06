@@ -3710,7 +3710,7 @@
       "м. Київ, б-р Чоколовський, 21",
       "м. Київ, просп. Воскресенський, 34/2"
     ],
-    "offers_count": 10,
+    "offers_count": 9,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -5545,27 +5545,6 @@
     "price_history": [
       {
         "price": 21000,
-        "at": "2026-04-06T13:04:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-06T13:04:00Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-lenovo-15-pentium-n5000-ddr4-4gb-ddr4-hdd-120-gb-ssd-vdsutnjj-ntegrovana/m5164515": {
-    "name": "Ноутбук Lenovo 15/pentium n5000 ddr4/4gb ddr4/hdd 120 gb/ssd *відсутній/*інтегрована",
-    "price_min": 4590,
-    "price_max": 4590,
-    "city": "Луцьк",
-    "addresses": [
-      "м. Луцьк, вул. Лесі Українки, 24"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-06T13:04:00Z",
-    "price_history": [
-      {
-        "price": 4590,
         "at": "2026-04-06T13:04:00Z"
       }
     ],
@@ -12982,7 +12961,7 @@
     "addresses": [
       "м. Рівне, вул. Соборна, 63"
     ],
-    "offers_count": 4,
+    "offers_count": 2,
     "category": "Системні блоки",
     "category_emoji": "🖨",
     "first_seen": "2026-04-06T13:04:00Z",
@@ -13202,27 +13181,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-06T13:04:00Z"
   },
-  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-8100t-ram-4-gb-hdd-vdsutnjj-ssd-128-gb-ntegrovana/m4785740": {
-    "name": "Системний блок Пк intel core i3-8100t/ram 4 gb/hdd відсутній/ssd 128 gb/інтегрована",
-    "price_min": 5100,
-    "price_max": 5100,
-    "city": "Рівне",
-    "addresses": [
-      "м. Рівне, вул. Соборна, 63"
-    ],
-    "offers_count": 1,
-    "category": "Системні блоки",
-    "category_emoji": "🖨",
-    "first_seen": "2026-04-06T13:04:00Z",
-    "price_history": [
-      {
-        "price": 5100,
-        "at": "2026-04-06T13:04:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-06T13:04:00Z"
-  },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-/m4767714": {
     "name": "Системний блок Пк Другое",
     "price_min": 2000,
@@ -13261,9 +13219,9 @@
         "at": "2026-04-06T13:45:17Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-04-06T14:17:43Z",
-    "details_retry_at": "2026-04-06T15:17:43Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-04-06T15:52:23Z",
+    "details_retry_at": "2026-04-06T17:52:23Z"
   },
   "https://tehnoskarb.ua/noutbuk-lenovo-16-core-i3-7020u-ddr3-6gb-ddr3-ssd-1000-gb-geforce-mx130-2gb/m5164406": {
     "name": "Ноутбук Lenovo 16/core i3 7020u ddr3/6gb ddr3/ssd 1000 gb/geforce mx130 2gb",
@@ -13306,5 +13264,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-06T14:17:43Z"
+  },
+  "https://tehnoskarb.ua/noutbuk--10-celeron-n4120-ddr4-6gb-ddr3-hdd-vdsutnjj-ssd-120-gb-ntegrovana/m5155252": {
+    "name": "Ноутбук  10/celeron n4120 ddr4/6gb ddr3/hdd *відсутній/ssd 120 gb/*інтегрована",
+    "price_min": 2420,
+    "price_max": 2420,
+    "city": "Житомир",
+    "addresses": [
+      "м. Житомир, вул. Небесної Сотні, 15"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-06T15:52:23Z",
+    "price_history": [
+      {
+        "price": 2420,
+        "at": "2026-04-06T15:52:23Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-06T15:52:23Z"
+  },
+  "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-7-5800x-ram-32-gb-hdd-vdsutnjj-ssd-1000-gb+256-gb-nvidia-rtx-3080-geforce-10gb-gddr6x-3/m5162415": {
+    "name": "Системний блок Пк amd ryzen 7 5800x/ram 32 gb/hdd відсутній/ssd 1000 gb+256 gb/nvidia rtx 3080 (geforce) 10gb gddr6x 3",
+    "price_min": 45000,
+    "price_max": 45000,
+    "city": "Буча",
+    "addresses": [
+      "м. Буча, вул. Героїв Майдану, 10"
+    ],
+    "offers_count": 1,
+    "category": "Системні блоки",
+    "category_emoji": "🖨",
+    "first_seen": "2026-04-06T15:52:23Z",
+    "price_history": [
+      {
+        "price": 45000,
+        "at": "2026-04-06T15:52:23Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-06T15:52:23Z"
   }
 }
