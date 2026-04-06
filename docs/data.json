@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-06T10:13:11Z",
+  "updated_at": "2026-04-06T11:28:30Z",
   "stats": {
-    "total": 207,
-    "avg_price": 2577,
+    "total": 205,
+    "avg_price": 2589,
     "min_price": 110,
     "max_price": 16800,
     "cities": [
@@ -36,7 +36,6 @@
       "Полтава",
       "Рівне",
       "Самар",
-      "Самбір",
       "Свалява",
       "Стрий",
       "Суми",
@@ -714,22 +713,6 @@
         "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
       ],
       "offers": 2,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 510,
-          "at": "2026-04-05T19:39:53Z"
-        }
-      ]
-    },
-    {
-      "name": "Монітор Asus vh208",
-      "url": "https://tehnoskarb.ua/montor-asus-vh208/m5142884",
-      "price_min": 510,
-      "price_max": 510,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
       "first_seen": "2026-04-05T19:39:53Z",
       "price_history": [
         {
@@ -1675,7 +1658,7 @@
         "м. Київ, б-р Чоколовський, 21",
         "м. Київ, просп. Воскресенський, 34/2"
       ],
-      "offers": 9,
+      "offers": 10,
       "first_seen": "2026-04-05T19:39:53Z",
       "price_history": [
         {
@@ -2365,24 +2348,6 @@
       "price_history": [
         {
           "price": 2210,
-          "at": "2026-04-05T19:39:53Z"
-        }
-      ]
-    },
-    {
-      "name": "Монітор Samsung s24f320gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24f320gai/m5144447",
-      "price_min": 2310,
-      "price_max": 2310,
-      "city": "Самбір",
-      "addresses": [
-        "м. Самбір, площа Ринок, 26"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 2310,
           "at": "2026-04-05T19:39:53Z"
         }
       ]
@@ -3771,22 +3736,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Xiaomi gaming monitor g pro 27i",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-gaming-monitor-g-pro-27i/m5164104",
-      "price": 11740,
-      "city": "",
-      "at": "2026-04-05T19:39:53Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 2043nwx",
-      "url": "https://tehnoskarb.ua/montor-samsung-2043nwx/m5163893",
-      "price": 510,
-      "city": "",
-      "at": "2026-04-05T19:39:53Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung b1940w",
@@ -5372,6 +5321,22 @@
       "price_new": 380,
       "city": "Київ",
       "at": "2026-04-06T10:12:46Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s24f320gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24f320gai/m5144447",
+      "price": 2310,
+      "city": "Самбір",
+      "at": "2026-04-06T11:28:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vh208",
+      "url": "https://tehnoskarb.ua/montor-asus-vh208/m5142884",
+      "price": 510,
+      "city": "",
+      "at": "2026-04-06T11:28:08Z"
     }
   ],
   "config": {
