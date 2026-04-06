@@ -235,7 +235,7 @@ function unlock() {
   if (val === ADMIN_PASSWORD) {
     sessionStorage.setItem('admin_ok', '1');
     document.getElementById('lock-screen').style.display = 'none';
-    document.getElementById('admin-ui').style.display = '';
+    document.getElementById('admin-ui').style.display = 'block';
     loadAll();
   } else {
     const box = document.querySelector('.lock-box');
@@ -255,7 +255,7 @@ function logout() {
 // Автологін якщо вже авторизований в цій сесії
 if (sessionStorage.getItem('admin_ok') === '1') {
   document.getElementById('lock-screen').style.display = 'none';
-  document.getElementById('admin-ui').style.display = '';
+  document.getElementById('admin-ui').style.display = 'block';
 }
 
 document.getElementById('pass-input').addEventListener('keydown', e => {
