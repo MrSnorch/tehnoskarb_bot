@@ -16,7 +16,7 @@ import time
 import asyncio
 import logging
 import requests
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from bs4 import BeautifulSoup
 from dataclasses import dataclass, field
 from typing import Optional
@@ -38,7 +38,12 @@ DATA_FILE     = os.path.join(DASHBOARD_DIR, "data.json")
 
 MAX_TG_LEN            = 4096
 MAX_PAGES             = 10
-DETAILS_FETCH_RETRIES = 3
+DETAILS_FETCH_RETRIES = 4
+DETAILS_REQUEST_DELAY = 1.2
+DETAILS_RETRY_BASE    = 2.0
+DETAILS_RETRY_MAX     = 10.0
+DETAILS_RETRY_COOLDOWN_MIN = 30
+DETAILS_RETRY_COOLDOWN_MAX = 360
 
 # Категорії за замовчуванням якщо config відсутній
 DEFAULT_CATEGORIES = [
@@ -243,13 +248,28 @@ def build_detail_fetch_urls(product_url: str) -> list[str]:
         return candidates
 
     path = parsed.path or "/"
-    if not path.startswith("/ru/") and path != "/ru":
-        ru_path = "/ru" + path if path.startswith("/") else f"/ru/{path}"
-        ru_url = urlunsplit((parsed.scheme, parsed.netloc, ru_path, parsed.query, parsed.fragment))
-        if ru_url not in candidates:
-            candidates.append(ru_url)
+    candidate_paths = [path]
+
+    if path.startswith("/ru/"):
+        candidate_paths.append(path[3:] or "/")
+    elif path != "/ru":
+        candidate_paths.append("/ru" + path if path.startswith("/") else f"/ru/{path}")
+
+    item_match = re.search(r"/(m\d{5,})(?:/)?$", path, re.IGNORECASE)
+    if item_match:
+        item_path = f"/{item_match.group(1)}"
+        candidate_paths.append(item_path)
+        candidate_paths.append(f"/ru{item_path}")
+
+    for candidate_path in candidate_paths:
+        candidate_url = urlunsplit((parsed.scheme, parsed.netloc, candidate_path, parsed.query, parsed.fragment))
+        if candidate_url not in candidates:
+            candidates.append(candidate_url)
 
     return candidates
+
+def get_details_retry_delay(attempt: int) -> float:
+    return min(DETAILS_RETRY_BASE * (2 ** (attempt - 1)), DETAILS_RETRY_MAX)
 
 def should_retry(exc: Exception) -> bool:
     if isinstance(exc, (requests.Timeout, requests.ConnectionError)):
@@ -292,8 +312,9 @@ def scrape_details(product_url: str) -> tuple[str, list[str]]:
                 retryable_error = retryable_error or should_retry(e)
 
         if attempt < DETAILS_FETCH_RETRIES and retryable_error and last_exc is not None:
-            log.warning(f"Деталі retry {attempt}: {last_exc}")
-            time.sleep(attempt)
+            delay = get_details_retry_delay(attempt)
+            log.warning(f"Деталі retry {attempt}/{DETAILS_FETCH_RETRIES - 1} через {delay:.1f}с: {last_exc}")
+            time.sleep(delay)
             continue
 
         if last_exc is not None:
@@ -314,6 +335,37 @@ def load_state() -> dict:
 def save_state(state: dict):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
+
+def format_utc(dt: datetime) -> str:
+    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+def parse_utc(value: str) -> Optional[datetime]:
+    if not value:
+        return None
+    try:
+        return datetime.strptime(value, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
+    except ValueError:
+        return None
+
+def details_retry_due(record: dict, now_dt: datetime) -> bool:
+    retry_at = parse_utc(record.get("details_retry_at", ""))
+    return retry_at is None or now_dt >= retry_at
+
+def mark_details_success(record: dict, city: str, addresses: list[str], now_dt: datetime):
+    record["details_failures"] = 0
+    record["details_last_attempt"] = format_utc(now_dt)
+    if city:
+        record["city"] = city
+    if addresses:
+        record["addresses"] = addresses
+    record.pop("details_retry_at", None)
+
+def mark_details_failure(record: dict, now_dt: datetime):
+    failures = int(record.get("details_failures", 0)) + 1
+    delay_minutes = min(DETAILS_RETRY_COOLDOWN_MIN * (2 ** (failures - 1)), DETAILS_RETRY_COOLDOWN_MAX)
+    record["details_failures"] = failures
+    record["details_last_attempt"] = format_utc(now_dt)
+    record["details_retry_at"] = format_utc(now_dt + timedelta(minutes=delay_minutes))
 
 # ─── Dashboard ───────────────────────────────────────────────────────────────
 
@@ -463,7 +515,8 @@ async def send_messages(messages: list[str]):
 # ─── Головна логіка ──────────────────────────────────────────────────────────
 
 def main():
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    now_dt = datetime.now(timezone.utc)
+    now = format_utc(now_dt)
     log.info("═" * 50)
     log.info("Запуск перевірки")
 
@@ -535,9 +588,11 @@ def main():
 
         if known is None:
             log.info(f"  🆕 [{p.category}] {p.name}")
+            details_loaded = False
             if not is_first_run:
                 p.city, p.addresses = scrape_details(p.url)
-                time.sleep(0.5)
+                time.sleep(DETAILS_REQUEST_DELAY)
+                details_loaded = bool(p.city or p.addresses)
                 if cfg.get("notify_new", True) and passes_filters(p, cfg):
                     tg_msgs.append(msg_new(p))
                     new_list.append(p)
@@ -551,6 +606,11 @@ def main():
                 "category": p.category, "category_emoji": p.category_emoji,
                 "first_seen": now, "price_history": [{"price": p.price_min, "at": now}],
             }
+            if not is_first_run:
+                if details_loaded:
+                    mark_details_success(state[p.url], p.city, p.addresses, now_dt)
+                else:
+                    mark_details_failure(state[p.url], now_dt)
 
         else:
             # Підтягуємо деталі якщо ще немає
@@ -560,10 +620,20 @@ def main():
                 stored_city = extract_city(stored_addrs[0])
                 known["city"] = stored_city
             if not stored_city or not stored_addrs:
-                fc, fa = scrape_details(p.url)
-                time.sleep(0.5)
-                if fa: stored_addrs = fa; known["addresses"] = fa
-                if fc: stored_city  = fc; known["city"] = fc
+                if details_retry_due(known, now_dt):
+                    fc, fa = scrape_details(p.url)
+                    time.sleep(DETAILS_REQUEST_DELAY)
+                    if fa:
+                        stored_addrs = fa
+                        known["addresses"] = fa
+                    if fc:
+                        stored_city = fc
+                        known["city"] = fc
+
+                    if fc or fa:
+                        mark_details_success(known, stored_city, stored_addrs, now_dt)
+                    else:
+                        mark_details_failure(known, now_dt)
 
             p.city      = stored_city
             p.addresses = stored_addrs
