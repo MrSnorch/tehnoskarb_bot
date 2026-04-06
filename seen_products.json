@@ -10403,26 +10403,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-06T13:04:00Z"
   },
-  "https://tehnoskarb.ua/noutbuk-lenovo-15-pentium-n3540-ddr3-4gb-ddr3-hdd-160-gb-ntegrovana/m5155455": {
-    "name": "Ноутбук Lenovo 15/pentium n3540 ddr3/4gb ddr3/hdd 160 gb/*інтегрована",
-    "price_min": 1800,
-    "price_max": 1800,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-06T13:04:00Z",
-    "price_history": [
-      {
-        "price": 1800,
-        "at": "2026-04-06T13:04:00Z"
-      }
-    ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-06T16:54:22Z",
-    "details_retry_at": "2026-04-06T20:54:22Z"
-  },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-6400t-ram-8-gb-hdd-250-gb-ssd-vdsutnjj-ntegrovana/m5165772": {
     "name": "Системний блок Пк intel core i5-6400t/ram 8 gb/hdd 250 gb/ssd відсутній/інтегрована",
     "price_min": 3700,
@@ -13247,25 +13227,46 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-06T19:06:48Z"
   },
-  "https://tehnoskarb.ua/noutbuk-acer-15-ryzen-5-240-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-512-gb-geforce-rtx4050-6gb/m5165960": {
-    "name": "Ноутбук Acer 15/ryzen 5 240 ddr5/16gb ddr5/hdd *відсутній/ssd 512 gb/geforce rtx4050 6gb",
-    "price_min": 30000,
-    "price_max": 30000,
-    "city": "Хмельницький",
+  "https://tehnoskarb.ua/noutbuk-dell-15-core-i5-7200u-ddr3-8gb-ddr3-hdd-120-gb-ssd-vdsutnjj-ntegrovana/m5165956": {
+    "name": "Ноутбук Dell 15/core i5 7200u ddr3/8gb ddr3/hdd 120 gb/ssd *відсутній/*інтегрована",
+    "price_min": 3650,
+    "price_max": 3650,
+    "city": "Київ",
     "addresses": [
-      "м. Хмельницький, вул. Подільська, 38"
+      "м. Київ, просп. Миру, 2/3"
+    ],
+    "offers_count": 2,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-06T20:05:28Z",
+    "price_history": [
+      {
+        "price": 3650,
+        "at": "2026-04-06T20:05:28Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-06T20:05:28Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-dell-15-core-i5-7300u-ddr3-8gb-ddr3-hdd-120-gb-ssd-vdsutnjj-ntegrovana/m5165957": {
+    "name": "Ноутбук Dell 15/core i5 7300u ddr3/8gb ddr3/hdd 120 gb/ssd *відсутній/*інтегрована",
+    "price_min": 3650,
+    "price_max": 3650,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Миру, 2/3"
     ],
     "offers_count": 1,
     "category": "Ноутбуки",
     "category_emoji": "💻",
-    "first_seen": "2026-04-06T19:06:48Z",
+    "first_seen": "2026-04-06T20:05:28Z",
     "price_history": [
       {
-        "price": 30000,
-        "at": "2026-04-06T19:06:48Z"
+        "price": 3650,
+        "at": "2026-04-06T20:05:28Z"
       }
     ],
     "details_failures": 0,
-    "details_last_attempt": "2026-04-06T19:06:48Z"
+    "details_last_attempt": "2026-04-06T20:05:28Z"
   }
 }
