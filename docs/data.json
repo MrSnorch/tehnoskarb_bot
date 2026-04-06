@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-06T05:28:52Z",
+  "updated_at": "2026-04-06T07:10:34Z",
   "stats": {
-    "total": 208,
-    "avg_price": 2557,
+    "total": 209,
+    "avg_price": 2562,
     "min_price": 110,
     "max_price": 16800,
     "cities": [
@@ -2889,6 +2889,24 @@
       ]
     },
     {
+      "name": "Монітор Samsung odyssey g3 s27ag302ni",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-s27ag302ni/m5165160",
+      "price_min": 3510,
+      "price_max": 3510,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Червоної Калини, 26"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-06T07:10:09Z",
+      "price_history": [
+        {
+          "price": 3510,
+          "at": "2026-04-06T07:10:09Z"
+        }
+      ]
+    },
+    {
       "name": "Монітор Msi optix g24c4 e2",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g24c4-e2/m5146031",
       "price_min": 3660,
@@ -3785,14 +3803,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Hp elitedisplay s231d",
-      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-s231d/m5164660",
-      "price": 1430,
-      "city": "",
-      "at": "2026-04-05T19:39:53Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi optix g24c",
@@ -5385,6 +5395,27 @@
       "price_new": 3730,
       "city": "Львів",
       "at": "2026-04-06T05:28:27Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey g3 s27ag302ni",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-s27ag302ni/m5165160",
+      "price": 3510,
+      "city": "Київ",
+      "at": "2026-04-06T07:10:09Z"
     }
-  ]
+  ],
+  "config": {
+    "notify_cities": [
+      "Харків"
+    ],
+    "price_min": null,
+    "price_max": null,
+    "keywords": [],
+    "notify_new": true,
+    "notify_price_drop": true,
+    "notify_price_rise": true,
+    "notify_sold": true,
+    "max_individual_msgs": 5
+  }
 }
