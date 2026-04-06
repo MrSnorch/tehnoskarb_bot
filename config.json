@@ -1,14 +1,51 @@
 {
   "categories": [
-    {"name": "Монітори",       "url": "https://tehnoskarb.ua/monitory/c36",                    "emoji": "🖥",  "enabled": true},
-    {"name": "Ноутбуки",       "url": "https://tehnoskarb.ua/noutbuki/c34",                    "emoji": "💻",  "enabled": false},
-    {"name": "Телефони",       "url": "https://tehnoskarb.ua/mobilnye-telefony-i-smartfony/c1","emoji": "📱",  "enabled": false},
-    {"name": "Системні блоки", "url": "https://tehnoskarb.ua/sistemnye-bloki/c35",             "emoji": "🖨",  "enabled": false},
-    {"name": "Планшети",       "url": "https://tehnoskarb.ua/planshety/c210",                  "emoji": "📟",  "enabled": false},
-    {"name": "Навушники",      "url": "https://tehnoskarb.ua/naushniki/c227",                  "emoji": "🎧",  "enabled": false},
-    {"name": "Ігрові приставки","url": "https://tehnoskarb.ua/igrovye-pristavki/c72",          "emoji": "🎮",  "enabled": false}
+    {
+      "name": "Монітори",
+      "url": "https://tehnoskarb.ua/monitory/c36",
+      "emoji": "🖥",
+      "enabled": true
+    },
+    {
+      "name": "Ноутбуки",
+      "url": "https://tehnoskarb.ua/noutbuki/c34",
+      "emoji": "💻",
+      "enabled": true
+    },
+    {
+      "name": "Телефони",
+      "url": "https://tehnoskarb.ua/mobilnye-telefony-i-smartfony/c1",
+      "emoji": "📱",
+      "enabled": false
+    },
+    {
+      "name": "Системні блоки",
+      "url": "https://tehnoskarb.ua/sistemnye-bloki/c35",
+      "emoji": "🖨",
+      "enabled": true
+    },
+    {
+      "name": "Планшети",
+      "url": "https://tehnoskarb.ua/planshety/c210",
+      "emoji": "📟",
+      "enabled": false
+    },
+    {
+      "name": "Навушники",
+      "url": "https://tehnoskarb.ua/naushniki/c227",
+      "emoji": "🎧",
+      "enabled": false
+    },
+    {
+      "name": "Ігрові приставки",
+      "url": "https://tehnoskarb.ua/igrovye-pristavki/c72",
+      "emoji": "🎮",
+      "enabled": false
+    }
   ],
-  "notify_cities": ["Харків"],
+  "notify_cities": [
+    "Харків"
+  ],
   "price_min": null,
   "price_max": null,
   "keywords": [],
