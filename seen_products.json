@@ -1346,25 +1346,6 @@
     "details_last_attempt": "2026-04-07T03:25:51Z",
     "details_retry_at": "2026-04-07T09:25:51Z"
   },
-  "https://tehnoskarb.ua/montor-hannspree-hsg1067/m5151671": {
-    "name": "Монітор Hannspree hsg1067",
-    "price_min": 1250,
-    "price_max": 1250,
-    "city": "Чернівці",
-    "addresses": [
-      "м. Чернівці, вул. Героїв майдану, 48"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 1250,
-        "at": "2026-04-05T19:39:53Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
   "https://tehnoskarb.ua/montor-hp-nk570a/m5151542": {
     "name": "Монітор Hp nk570a",
     "price_min": 510,
@@ -1570,25 +1551,6 @@
     "price_history": [
       {
         "price": 2000,
-        "at": "2026-04-05T19:39:53Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
-  "https://tehnoskarb.ua/montor-samsung-syncmaster-713n/m5147386": {
-    "name": "Монітор Samsung syncmaster 713n",
-    "price_min": 220,
-    "price_max": 220,
-    "city": "Одеса",
-    "addresses": [
-      "м. Одеса, вул. Корольова, 80"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 220,
         "at": "2026-04-05T19:39:53Z"
       }
     ],
@@ -10262,27 +10224,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-06T13:04:00Z"
   },
-  "https://tehnoskarb.ua/noutbuk-asus-15-intel-core-i3-1215u-ram-16gb-ssd-512gb-ntegrovana/m5155820": {
-    "name": "Ноутбук Asus 15/intel core i3-1215u/ram 16gb/ssd 512gb/інтегрована",
-    "price_min": 11080,
-    "price_max": 11080,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, б-р М. Міхновського, 25"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-06T13:04:00Z",
-    "price_history": [
-      {
-        "price": 11080,
-        "at": "2026-04-06T13:04:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-06T13:04:00Z"
-  },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-6400t-ram-8-gb-hdd-250-gb-ssd-vdsutnjj-ntegrovana/m5165772": {
     "name": "Системний блок Пк intel core i5-6400t/ram 8 gb/hdd 250 gb/ssd відсутній/інтегрована",
     "price_min": 3700,
@@ -11326,27 +11267,6 @@
     "price_history": [
       {
         "price": 15500,
-        "at": "2026-04-06T13:04:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-06T13:04:00Z"
-  },
-  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core2-duo-e4500-ram-2-gb-hdd-160-gb-ssd-vdsutnjj-ntegrovana/m5160629": {
-    "name": "Системний блок Пк intel core2 duo e4500/ram 2 gb/hdd 160 gb/ssd відсутній/інтегрована",
-    "price_min": 750,
-    "price_max": 750,
-    "city": "Одеса",
-    "addresses": [
-      "м. Одеса, вул. Корольова, 80"
-    ],
-    "offers_count": 1,
-    "category": "Системні блоки",
-    "category_emoji": "🖨",
-    "first_seen": "2026-04-06T13:04:00Z",
-    "price_history": [
-      {
-        "price": 750,
         "at": "2026-04-06T13:04:00Z"
       }
     ],
@@ -13316,5 +13236,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-07T05:26:40Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-apple-macbook-pro-14-a3401-m4-pro-ram-24gb-ssd-1000gb-20-core-gpu/m5165977": {
+    "name": "Ноутбук Apple macbook pro 14 a3401 / m4 pro / ram 24gb / ssd 1000gb / 20-core gpu",
+    "price_min": 83000,
+    "price_max": 83000,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Січових Стрільців, 76"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-07T08:14:55Z",
+    "price_history": [
+      {
+        "price": 83000,
+        "at": "2026-04-07T08:14:55Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-07T08:14:55Z"
   }
 }
