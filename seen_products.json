@@ -12758,27 +12758,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-08T11:32:09Z"
   },
-  "https://tehnoskarb.ua/noutbuk-asus-15-core-i7-1255u-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-1000-gb-ntegrovana/m5155393": {
-    "name": "Ноутбук Asus 15/core i7-1255u ddr5/16gb ddr5/hdd *відсутній/ssd 1000 gb/*інтегрована",
-    "price_min": 18360,
-    "price_max": 18360,
-    "city": "Одеса",
-    "addresses": [
-      "м. Одеса, вул. Артура Савельєва, 5 (Черняховського)"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-08T11:32:09Z",
-    "price_history": [
-      {
-        "price": 18360,
-        "at": "2026-04-08T11:32:09Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-08T11:32:09Z"
-  },
   "https://tehnoskarb.ua/montor-philips-243v5q/m5110293": {
     "name": "Монітор Philips 243v5q",
     "price_min": 1320,
@@ -13030,5 +13009,86 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-08T16:17:29Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-emachines-15-pentium-p6100-ddr3-4gb-ddr3-ssd-128-gb-ntegrovana/m5164244": {
+    "name": "Ноутбук Emachines 15/pentium p6100 ddr3/4gb ddr3/ssd 128 gb/*інтегрована",
+    "price_min": 1650,
+    "price_max": 1650,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-08T17:41:30Z",
+    "price_history": [
+      {
+        "price": 1650,
+        "at": "2026-04-08T17:41:30Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-04-08T17:41:30Z",
+    "details_retry_at": "2026-04-08T18:11:30Z"
+  },
+  "https://tehnoskarb.ua/mn-pk-gmktec-intel-n100-32gb-ram-ssd256gb/m5165973": {
+    "name": "Міні пк Gmktec intel n100/32gb ram/ssd256gb",
+    "price_min": 6200,
+    "price_max": 6200,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Братства тарасівців, 2А"
+    ],
+    "offers_count": 1,
+    "category": "Системні блоки",
+    "category_emoji": "🖨",
+    "first_seen": "2026-04-08T17:41:30Z",
+    "price_history": [
+      {
+        "price": 6200,
+        "at": "2026-04-08T17:41:30Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-08T17:41:30Z"
+  },
+  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-2500k-ram-16-gb-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5164262": {
+    "name": "Системний блок Пк intel core i5-2500k/ram 16 gb/hdd 500 gb/ssd відсутній/інтегрована",
+    "price_min": 1900,
+    "price_max": 1900,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Системні блоки",
+    "category_emoji": "🖨",
+    "first_seen": "2026-04-08T17:41:30Z",
+    "price_history": [
+      {
+        "price": 1900,
+        "at": "2026-04-08T17:41:30Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-04-08T17:41:30Z",
+    "details_retry_at": "2026-04-08T18:11:30Z"
+  },
+  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-8600-ram-16-gb-hdd-vdsutnjj-ssd-240-gb-ntegrovana/m5154565": {
+    "name": "Системний блок Пк intel core i5-8600/ram 16 gb/hdd відсутній/ssd 240 gb/інтегрована",
+    "price_min": 6450,
+    "price_max": 6450,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Системні блоки",
+    "category_emoji": "🖨",
+    "first_seen": "2026-04-08T17:41:30Z",
+    "price_history": [
+      {
+        "price": 6450,
+        "at": "2026-04-08T17:41:30Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-04-08T17:41:30Z",
+    "details_retry_at": "2026-04-08T18:11:30Z"
   }
 }
