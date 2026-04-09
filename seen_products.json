@@ -1312,25 +1312,6 @@
     "category": "Монітори",
     "category_emoji": "🖥"
   },
-  "https://tehnoskarb.ua/montor-asus-vz229/m5149410": {
-    "name": "Монітор Asus vz229",
-    "price_min": 1710,
-    "price_max": 1710,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Берестейський, 136"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 1710,
-        "at": "2026-04-05T19:39:53Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
   "https://tehnoskarb.ua/montor-dell-e2222hs/m5149071": {
     "name": "Монітор Dell e2222hs",
     "price_min": 2100,
@@ -1448,19 +1429,23 @@
   },
   "https://tehnoskarb.ua/montor-aoc-24b2xh/m5147578": {
     "name": "Монітор Aoc 24b2xh",
-    "price_min": 2000,
+    "price_min": 3300,
     "price_max": 3300,
     "city": "Хмельницький",
     "addresses": [
       "м. Хмельницький, вул. Кам`янецька, 11",
       "м. Львів, вул. Промислова, 50/52"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
         "price": 2000,
         "at": "2026-04-05T19:39:53Z"
+      },
+      {
+        "price": 3300,
+        "at": "2026-04-09T14:03:27Z"
       }
     ],
     "category": "Монітори",
@@ -1577,25 +1562,6 @@
     "price_history": [
       {
         "price": 470,
-        "at": "2026-04-05T19:39:53Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
-  "https://tehnoskarb.ua/montor-lg-e1941/m5143742": {
-    "name": "Монітор Lg e1941",
-    "price_min": 280,
-    "price_max": 280,
-    "city": "Стрий",
-    "addresses": [
-      "м. Стрий, вул. Валова, 2/2"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 280,
         "at": "2026-04-05T19:39:53Z"
       }
     ],
@@ -2415,8 +2381,8 @@
   },
   "https://tehnoskarb.ua/montor-samsung-odyssey-g5-g51c/m5099340": {
     "name": "Монітор Samsung odyssey g5 g51c",
-    "price_min": 5760,
-    "price_max": 5760,
+    "price_min": 5000,
+    "price_max": 5000,
     "city": "",
     "addresses": [],
     "offers_count": 1,
@@ -2425,6 +2391,10 @@
       {
         "price": 5760,
         "at": "2026-04-05T19:39:53Z"
+      },
+      {
+        "price": 5000,
+        "at": "2026-04-09T14:03:27Z"
       }
     ],
     "category": "Монітори",
@@ -3010,13 +2980,13 @@
   "https://tehnoskarb.ua/montor-dell-se2416h/m5050200": {
     "name": "Монітор Dell se2416h",
     "price_min": 1700,
-    "price_max": 2000,
+    "price_max": 1700,
     "city": "Боярка",
     "addresses": [
       "м. Боярка, вул. Ярослава Мудрого, 50/61",
       "м. Київ, вул. Заболотного, 20А"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -3442,14 +3412,14 @@
   },
   "https://tehnoskarb.ua/montor-samsung-943nw/m4992408": {
     "name": "Монітор Samsung 943nw",
-    "price_min": 800,
+    "price_min": 300,
     "price_max": 800,
     "city": "Кам`янське",
     "addresses": [
       "м. Кам`янське, вул. Мурахтова, 4",
       "м. Ужгород, вул. Мукачівська, 2"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -3459,6 +3429,10 @@
       {
         "price": 800,
         "at": "2026-04-09T10:41:25Z"
+      },
+      {
+        "price": 300,
+        "at": "2026-04-09T14:03:27Z"
       }
     ],
     "category": "Монітори",
@@ -13183,9 +13157,9 @@
         "at": "2026-04-09T10:41:25Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-04-09T11:56:55Z",
-    "details_retry_at": "2026-04-09T12:56:55Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-04-09T14:03:27Z",
+    "details_retry_at": "2026-04-09T16:03:27Z"
   },
   "https://tehnoskarb.ua/montor-samsung-151b/m5048220": {
     "name": "Монітор Samsung 151b",
@@ -13249,5 +13223,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-09T11:56:55Z"
+  },
+  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-3220-ram-6-gb-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5163706": {
+    "name": "Системний блок Пк intel core i3-3220/ram 6 gb/hdd 500 gb/ssd відсутній/інтегрована",
+    "price_min": 1800,
+    "price_max": 1800,
+    "city": "Ужгород",
+    "addresses": [
+      "м. Ужгород, вул. Мукачівська, 2"
+    ],
+    "offers_count": 1,
+    "category": "Системні блоки",
+    "category_emoji": "🖨",
+    "first_seen": "2026-04-09T14:03:27Z",
+    "price_history": [
+      {
+        "price": 1800,
+        "at": "2026-04-09T14:03:27Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-09T14:03:27Z"
   }
 }
