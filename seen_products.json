@@ -13151,46 +13151,24 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-09T19:12:55Z"
   },
-  "https://tehnoskarb.ua/noutbuk-hp-15-ryzen-5-5600h-ddr4-16gb-ddr4-ssd-1000-gb-gtx1650/m5166377": {
-    "name": "Ноутбук Hp 15/ryzen 5 5600h ddr4/16gb ddr4/ssd 1000 gb/gtx1650",
-    "price_min": 15000,
-    "price_max": 15000,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Бажана, 3В (м. Харківська)"
-    ],
+  "https://tehnoskarb.ua/noutbuk-asus-15-core-i7-1065g7-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5166541": {
+    "name": "Ноутбук Asus 15/core i7-1065g7 ddr4/16gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
+    "price_min": 10750,
+    "price_max": 10750,
+    "city": "",
+    "addresses": [],
     "offers_count": 1,
     "category": "Ноутбуки",
     "category_emoji": "💻",
-    "first_seen": "2026-04-09T19:12:55Z",
+    "first_seen": "2026-04-09T21:23:00Z",
     "price_history": [
       {
-        "price": 15000,
-        "at": "2026-04-09T19:12:55Z"
+        "price": 10750,
+        "at": "2026-04-09T21:23:00Z"
       }
     ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-09T19:12:55Z"
-  },
-  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-3470-ram-8-gb-hdd-500-gb-ssd-vdsutnjj-nvidia-gt-640-geforce-1gb-ddr3-128bit/m5166563": {
-    "name": "Системний блок Пк intel core i5-3470/ram 8 gb/hdd 500 gb/ssd відсутній/nvidia gt 640 (geforce) 1gb ddr3 128bit",
-    "price_min": 1880,
-    "price_max": 1880,
-    "city": "Хмельницький",
-    "addresses": [
-      "м. Хмельницький, вул. Подільська, 38"
-    ],
-    "offers_count": 1,
-    "category": "Системні блоки",
-    "category_emoji": "🖨",
-    "first_seen": "2026-04-09T19:12:55Z",
-    "price_history": [
-      {
-        "price": 1880,
-        "at": "2026-04-09T19:12:55Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-09T19:12:55Z"
+    "details_failures": 1,
+    "details_last_attempt": "2026-04-09T21:23:00Z",
+    "details_retry_at": "2026-04-09T21:53:00Z"
   }
 }
