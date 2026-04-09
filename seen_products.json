@@ -8813,27 +8813,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-06T13:04:00Z"
   },
-  "https://tehnoskarb.ua/noutbuk-dell-15-e1-6010-ddr3-4gb-ddr3-hdd-250-gb-ntegrovana/m5157932": {
-    "name": "Ноутбук Dell 15/e1 6010 ddr3/4gb ddr3/hdd 250 gb/*інтегрована",
-    "price_min": 2001,
-    "price_max": 2001,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, б-р Чоколовський, 21"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-06T13:04:00Z",
-    "price_history": [
-      {
-        "price": 2001,
-        "at": "2026-04-06T13:04:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-06T13:04:00Z"
-  },
   "https://tehnoskarb.ua/noutbuk-hp-17-cn3031ua/m5157753": {
     "name": "Ноутбук Hp 17-cn3031ua",
     "price_min": 13990,
@@ -13145,27 +13124,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-09T05:50:02Z"
   },
-  "https://tehnoskarb.ua/noutbuk-clevo-ekr-17-core-i7-13620h-ram-32gb-ddr4-ssd-1000gb-gf-rtx3050-6gb/m5166451": {
-    "name": "Ноутбук Clevo екр. 17\" core i7-13620h/ram 32gb ddr4/ssd 1000gb/gf rtx3050 6gb",
-    "price_min": 27000,
-    "price_max": 27000,
-    "city": "Львів",
-    "addresses": [
-      "м. Львів, вул. О.Фредра, 6"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-09T05:50:02Z",
-    "price_history": [
-      {
-        "price": 27000,
-        "at": "2026-04-09T05:50:02Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-09T05:50:02Z"
-  },
   "https://tehnoskarb.ua/noutbuk-acer-11-celeron-1007u-ddr3-2gb-ddr3-hdd-320-gb-ssd-vdsutnjj-ntegrovana/m5166372": {
     "name": "Ноутбук Acer 11/celeron 1007u ddr3/2gb ddr3/hdd 320 gb/ssd *відсутній/*інтегрована",
     "price_min": 1100,
@@ -13249,5 +13207,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-09T05:50:02Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-dell-15-core-i5-8265u-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-250-gb-ntegrovana/m5162448": {
+    "name": "Ноутбук Dell 15/core i5 8265u ddr4/8gb ddr4/hdd *відсутній/ssd 250 gb/*інтегрована",
+    "price_min": 6500,
+    "price_max": 6500,
+    "city": "Львів",
+    "addresses": [
+      "м. Львів, вул. Промислова, 50/52"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-09T07:42:43Z",
+    "price_history": [
+      {
+        "price": 6500,
+        "at": "2026-04-09T07:42:43Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-09T07:42:43Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-pixus-link-16-512gb/m5156447": {
+    "name": "Ноутбук Pixus link 16/512gb",
+    "price_min": 12240,
+    "price_max": 12240,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Ялтинська, 8"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-09T07:42:43Z",
+    "price_history": [
+      {
+        "price": 12240,
+        "at": "2026-04-09T07:42:43Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-09T07:42:43Z"
   }
 }
