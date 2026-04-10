@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-10T06:00:37Z",
+  "updated_at": "2026-04-10T07:57:34Z",
   "stats": {
     "total": 639,
-    "avg_price": 9563,
+    "avg_price": 9551,
     "min_price": 90,
     "max_price": 140000,
     "cities": [
@@ -4531,6 +4531,26 @@
       ],
       "category": "Монітори",
       "category_emoji": "🖥"
+    },
+    {
+      "name": "Ноутбук Lenovo 15/core i3 8145u ddr4/8gb ddr4/ssd 250 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i3-8145u-ddr4-8gb-ddr4-ssd-250-gb-ntegrovana/m5166343",
+      "price_min": 3000,
+      "price_max": 3000,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Ялтинська, 8"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-10T07:55:40Z",
+      "price_history": [
+        {
+          "price": 3000,
+          "at": "2026-04-10T07:55:40Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
     },
     {
       "name": "Ноутбук Acer 15/pentium n3520 ddr3/8gb ddr3/hdd *відсутній/ssd 128 gb/*інтегрована",
@@ -9428,26 +9448,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Ноутбук Asus 15/core i3-1215u ddr5/16gb ddr5/hdd *відсутній/ssd 480 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-15-core-i3-1215u-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-480-gb-ntegrovana/m5158929",
-      "price_min": 10500,
-      "price_max": 10500,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 27"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-06T13:04:00Z",
-      "price_history": [
-        {
-          "price": 10500,
-          "at": "2026-04-06T13:04:00Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
       "name": "Системний блок Пк intel core i3-8100/ram 8 gb/hdd 1000 gb/ssd 240 gb/nvidia gtx 1070 (geforce) 8gb gddr5 256bit",
       "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-8100-ram-8-gb-hdd-1000-gb-ssd-240-gb-nvidia-gtx-1070-geforce-8gb-gddr5-256bit/m5162162",
       "price_min": 10500,
@@ -12891,24 +12891,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Ноутбук Lenovo 14/pentium n5030 siver ddr4/4gb ddr4/hdd *відсутній/ssd 500 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-14-pentium-n5030-siver-ddr4-4gb-ddr4-hdd-vdsutnjj-ssd-500-gb-ntegrovana/m5159211",
-      "price": 4990,
-      "city": "Луцьк",
-      "category": "Ноутбуки",
-      "at": "2026-04-08T07:26:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi pro mp271",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp271/m5166042",
-      "price": 3620,
-      "city": "Біла Церква",
-      "category": "Монітори",
-      "at": "2026-04-08T07:26:44Z"
-    },
-    {
       "type": "new",
       "name": "Ноутбук Apple macbook pro/13.3/ core i5 1,4ghz/ ram8gb/ ssd 512gb/ iris plus 645/ retina, truetone, touch bar",
       "url": "https://tehnoskarb.ua/noutbuk-apple-macbook-pro-13-3-core-i5-1-4ghz-ram8gb-ssd-512gb-iris-plus-645-retina-truetone-touch-bar/m5166122",
@@ -14704,6 +14686,24 @@
       "city": "Харків",
       "category": "Ноутбуки",
       "at": "2026-04-10T05:59:49Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Asus 15/core i3-1215u ddr5/16gb ddr5/hdd *відсутній/ssd 480 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-15-core-i3-1215u-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-480-gb-ntegrovana/m5158929",
+      "price": 10500,
+      "city": "Київ",
+      "category": "Ноутбуки",
+      "at": "2026-04-10T07:55:40Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Lenovo 15/core i3 8145u ddr4/8gb ddr4/ssd 250 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i3-8145u-ddr4-8gb-ddr4-ssd-250-gb-ntegrovana/m5166343",
+      "price": 3000,
+      "city": "Київ",
+      "category": "Ноутбуки",
+      "at": "2026-04-10T07:55:40Z"
     }
   ],
   "config": {
