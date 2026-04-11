@@ -32,12 +32,12 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 ALL_PRODUCTS_CHAT_ID = os.environ.get("ALL_PRODUCTS_CHAT_ID", "").strip()
 
 # ─── ID групи та тем (вшиті прямо в код) ─────────────────────────────────────
-CHAT_ID        = "-3980198992"  # основна група
-THREAD_NEW     = "4294967298"   # тема: нові товари
-THREAD_PRICE   = "4294967299"   # тема: зміни цін
-THREAD_SOLD    = "4294967300"   # тема: продажі
-THREAD_KHARKIV = "4294967304"   # тема: всі події по Харкову
-KHARKIV_CITY   = "харків"       # назва міста для порівняння (малими літерами)
+CHAT_ID        = "-1003980198992"  # основна група (supergroup формат)
+THREAD_NEW     = "2"               # тема: нові товари
+THREAD_PRICE   = "3"               # тема: зміни цін
+THREAD_SOLD    = "4"               # тема: продажі
+THREAD_KHARKIV = "8"               # тема: всі події по Харкову
+KHARKIV_CITY   = "харків"          # назва міста для порівняння (малими літерами)
 
 CONFIG_FILE   = "config.json"
 STATE_FILE    = "seen_products.json"
