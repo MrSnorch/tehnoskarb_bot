@@ -1,0 +1,65 @@
+name: Test Notifications
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install python-telegram-bot
+
+      - name: Send test messages
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+        run: |
+          python - << 'EOF'
+          import asyncio
+          import os
+          from telegram import Bot
+          from telegram.constants import ParseMode
+          from telegram.error import RetryAfter
+
+          BOT_TOKEN      = os.environ["BOT_TOKEN"]
+          CHAT_ID        = "-3980198992"
+
+          THREADS = [
+              ("4294967298", "🆕 Нові товари",     "🖥 <b>Тест: Новий товар!</b>\n💻 <b>Ноутбук ASUS VivoBook 15</b>\n💰 <b>18 500 грн</b>  |  1 пропозиція\n🏙 Харків\n📍 пр. Науки, 45\n🔗 <a href=\"https://tehnoskarb.ua\">Переглянути на Техноскарб</a>"),
+              ("4294967299", "📉📈 Зміни цін",      "📉 <b>Ціна знизилась (−12%)!</b>\n💻 <b>Монітор Samsung 27\"</b>\n💰 <s>9 200 грн</s> → <b>8 100 грн</b>  |  2 пропозиції\n🏙 Харків\n📍 вул. Сумська, 10\n🔗 <a href=\"https://tehnoskarb.ua\">Переглянути на Техноскарб</a>"),
+              ("4294967300", "✅ Продажі",          "✅ <b>Товар продано!</b>\n💻 <b>iPhone 14 Pro 256GB</b>\n💰 Була ціна: 32 000 грн\n🏙 Харків\n🔗 <a href=\"https://tehnoskarb.ua\">Посилання на Техноскарб</a>"),
+              ("4294967304", "🏙 Харків (всі події)", "🔔 <b>Тест: Харківська тема</b>\n\nСюди надходять <b>всі</b> події по товарах у Харкові:\n• 🆕 Нові товари\n• 📉📈 Зміни цін\n• ✅ Продажі"),
+          ]
+
+          async def send(bot, chat_id, thread_id, text):
+              for attempt in range(5):
+                  try:
+                      await bot.send_message(
+                          chat_id=chat_id,
+                          text=text,
+                          parse_mode=ParseMode.HTML,
+                          message_thread_id=int(thread_id),
+                      )
+                      return
+                  except RetryAfter as e:
+                      await asyncio.sleep(e.retry_after + 1)
+                  except Exception as e:
+                      print(f"Помилка: {e}")
+                      return
+
+          async def main():
+              bot = Bot(token=BOT_TOKEN)
+              for thread_id, label, text in THREADS:
+                  print(f"  → {label} (thread {thread_id})")
+                  await send(bot, CHAT_ID, thread_id, text)
+                  await asyncio.sleep(1.5)
+              print("Готово!")
+
+          asyncio.run(main())
+          EOF
