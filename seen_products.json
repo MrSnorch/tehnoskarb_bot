@@ -5557,27 +5557,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-06T13:04:00Z"
   },
-  "https://tehnoskarb.ua/noutbuk-lenovo-14-core-i7-8565u-ddr3-8gb-ddr4-ssd-256-gb-ntegrovana/m5162724": {
-    "name": "Ноутбук Lenovo 14/core i7 8565u ddr3/8gb ddr4/ssd 256 gb/*інтегрована",
-    "price_min": 7350,
-    "price_max": 7350,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, б-р М. Міхновського, 25"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-06T13:04:00Z",
-    "price_history": [
-      {
-        "price": 7350,
-        "at": "2026-04-06T13:04:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-06T13:04:00Z"
-  },
   "https://tehnoskarb.ua/noutbuk-asus-15-pentium-2020m-ddr3-4gb-ddr3-hdd-500-gb-ntegrovana/m5162685": {
     "name": "Ноутбук Asus 15/pentium 2020m ddr3/4gb ddr3/hdd 500 gb/*інтегрована",
     "price_min": 1700,
@@ -9946,27 +9925,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-06T13:04:00Z"
   },
-  "https://tehnoskarb.ua/sistemnijj-blok-pk-intel-core-i3-3220-3-3ghz-radeon-hd4600-2gb-ram4gb-hdd500gb/m5079111": {
-    "name": "Системний блок Пк intel core i3-3220-3.3ghz/radeon hd4600-2gb/ram4gb/hdd500gb",
-    "price_min": 1820,
-    "price_max": 1820,
-    "city": "Львів",
-    "addresses": [
-      "м. Львів, вул. Промислова, 50/52"
-    ],
-    "offers_count": 1,
-    "category": "Системні блоки",
-    "category_emoji": "🖨",
-    "first_seen": "2026-04-06T13:04:00Z",
-    "price_history": [
-      {
-        "price": 1820,
-        "at": "2026-04-06T13:04:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-06T13:04:00Z"
-  },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-4130-ram-8-gb-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5079035": {
     "name": "Системний блок Пк intel core i3-4130/ram 8 gb/hdd 500 gb/ssd відсутній/інтегрована",
     "price_min": 1530,
@@ -12931,5 +12889,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-11T18:51:38Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-hp-15-6-ryzen-7-7445hs-ram16gb-ssd512gb-rtx3050/m5166848": {
+    "name": "Ноутбук Hp 15.6/ ryzen 7 7445hs/ ram16gb/ ssd512gb/ rtx3050",
+    "price_min": 35900,
+    "price_max": 35900,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Гришка 6а"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-11T19:37:27Z",
+    "price_history": [
+      {
+        "price": 35900,
+        "at": "2026-04-11T19:37:27Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-11T19:37:27Z"
+  },
+  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-10105f-ram-16-gb-hdd-vdsutnjj-ssd-250-gb-nvidia-gt-730-geforce-2gb-ddr3-64bit/m5166858": {
+    "name": "Системний блок Пк intel core i3-10105f/ram 16 gb/hdd відсутній/ssd 250 gb/nvidia gt 730 (geforce) 2gb ddr3 64bit",
+    "price_min": 6900,
+    "price_max": 6900,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Олени Теліги , 17"
+    ],
+    "offers_count": 1,
+    "category": "Системні блоки",
+    "category_emoji": "🖨",
+    "first_seen": "2026-04-11T19:37:27Z",
+    "price_history": [
+      {
+        "price": 6900,
+        "at": "2026-04-11T19:37:27Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-11T19:37:27Z"
   }
 }
