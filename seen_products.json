@@ -2772,12 +2772,12 @@
   "https://tehnoskarb.ua/montor-asus-vh228/m5056142": {
     "name": "Монітор Asus vh228",
     "price_min": 840,
-    "price_max": 870,
+    "price_max": 840,
     "city": "Тернопіль",
     "addresses": [
       "м. Тернопіль, вул. Мазепи, 5"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -2849,41 +2849,18 @@
   "https://tehnoskarb.ua/montor-samsung-2243bw/m5048356": {
     "name": "Монітор Samsung 2243bw",
     "price_min": 560,
-    "price_max": 620,
+    "price_max": 560,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Порика Василя, 13",
-      "м. Київ, вул. Симиренка, 5"
-    ],
-    "offers_count": 2,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 560,
-        "at": "2026-04-05T19:39:53Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
-  "https://tehnoskarb.ua/montor-lg-l1717s/m5048252": {
-    "name": "Монітор Lg l1717s",
-    "price_min": 200,
-    "price_max": 200,
-    "city": "Київ",
-    "addresses": [
       "м. Київ, вул. Симиренка, 5"
     ],
     "offers_count": 1,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
-        "price": 250,
+        "price": 560,
         "at": "2026-04-05T19:39:53Z"
-      },
-      {
-        "price": 200,
-        "at": "2026-04-11T09:45:11Z"
       }
     ],
     "category": "Монітори",
@@ -12446,9 +12423,9 @@
         "at": "2026-04-11T05:12:18Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-04-11T07:51:58Z",
-    "details_retry_at": "2026-04-11T09:51:58Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-04-11T10:38:29Z",
+    "details_retry_at": "2026-04-11T14:38:29Z"
   },
   "https://tehnoskarb.ua/noutbuk-xiaomi-14-core-i5-13420h-ddr5-16gb-ddr5-ssd-500-gb-ntegrovana/m5166746": {
     "name": "Ноутбук Xiaomi 14/core i5-13420h ddr5/16gb ddr5/ssd 500 gb/*інтегрована",
@@ -12887,9 +12864,9 @@
         "at": "2026-04-11T09:45:11Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-04-11T09:45:11Z",
-    "details_retry_at": "2026-04-11T10:15:11Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-04-11T10:38:29Z",
+    "details_retry_at": "2026-04-11T11:38:29Z"
   },
   "https://tehnoskarb.ua/noutbuk-pixus-link-16-512gb/m5156447": {
     "name": "Ноутбук Pixus link 16/512gb",
@@ -13033,29 +13010,50 @@
         "at": "2026-04-11T09:45:11Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-04-11T09:45:11Z",
-    "details_retry_at": "2026-04-11T10:15:11Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-04-11T10:38:29Z",
+    "details_retry_at": "2026-04-11T11:38:29Z"
   },
-  "https://tehnoskarb.ua/noutbuk-asus-15-core-i7-1255u-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-1000-gb-ntegrovana/m5155393": {
-    "name": "Ноутбук Asus 15/core i7-1255u ddr5/16gb ddr5/hdd *відсутній/ssd 1000 gb/*інтегрована",
-    "price_min": 18360,
-    "price_max": 18360,
-    "city": "Одеса",
+  "https://tehnoskarb.ua/noutbuk-asus-14-ryzen-9-5900hx-ddr4-16gb-ddr4-ssd-1000-gb-ntegrovana/m5166504": {
+    "name": "Ноутбук Asus 14/ryzen 9 5900hx ddr4/16gb ddr4/ssd 1000 gb/*інтегрована",
+    "price_min": 15400,
+    "price_max": 15400,
+    "city": "Львів",
     "addresses": [
-      "м. Одеса, вул. Артура Савельєва, 5 (Черняховського)"
+      "м. Львів,  просп. Чорновола, 45"
     ],
     "offers_count": 1,
     "category": "Ноутбуки",
     "category_emoji": "💻",
-    "first_seen": "2026-04-11T09:45:11Z",
+    "first_seen": "2026-04-11T10:38:29Z",
     "price_history": [
       {
-        "price": 18360,
-        "at": "2026-04-11T09:45:11Z"
+        "price": 15400,
+        "at": "2026-04-11T10:38:29Z"
       }
     ],
     "details_failures": 0,
-    "details_last_attempt": "2026-04-11T09:45:11Z"
+    "details_last_attempt": "2026-04-11T10:38:29Z"
+  },
+  "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-5600-ram-32-gb-ssd-500-gb-ati-radeon-rx-580-4gb/m5166382": {
+    "name": "Системний блок Пк amd ryzen 5 5600/ram 32 gb/ssd 500 gb/ ati radeon rx 580 4gb",
+    "price_min": 16400,
+    "price_max": 16400,
+    "city": "Одеса",
+    "addresses": [
+      "м. Одеса, просп. Добровольського, 75-А"
+    ],
+    "offers_count": 1,
+    "category": "Системні блоки",
+    "category_emoji": "🖨",
+    "first_seen": "2026-04-11T10:38:29Z",
+    "price_history": [
+      {
+        "price": 16400,
+        "at": "2026-04-11T10:38:29Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-11T10:38:29Z"
   }
 }
