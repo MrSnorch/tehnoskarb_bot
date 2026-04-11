@@ -29,13 +29,13 @@ from telegram.error import RetryAfter
 # ─── Змінні середовища ───────────────────────────────────────────────────────
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
-CHAT_ID   = os.environ["CHAT_ID"]
 ALL_PRODUCTS_CHAT_ID = os.environ.get("ALL_PRODUCTS_CHAT_ID", "").strip()
 
-# Теми (topics) групи для розділення повідомлень
-THREAD_NEW   = os.environ.get("THREAD_NEW", "").strip()    # нові товари
-THREAD_PRICE = os.environ.get("THREAD_PRICE", "").strip()  # зміни цін
-THREAD_SOLD  = os.environ.get("THREAD_SOLD", "").strip()   # продажі
+# ─── ID групи та тем (вшиті прямо в код) ─────────────────────────────────────
+CHAT_ID      = "-3980198992"  # основна група
+THREAD_NEW   = "4294967298"   # тема: нові товари
+THREAD_PRICE = "4294967299"   # тема: зміни цін
+THREAD_SOLD  = "4294967300"   # тема: продажі
 
 CONFIG_FILE   = "config.json"
 STATE_FILE    = "seen_products.json"
