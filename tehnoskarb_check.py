@@ -33,6 +33,7 @@ ALL_PRODUCTS_CHAT_ID = os.environ.get("ALL_PRODUCTS_CHAT_ID", "").strip()
 
 # ─── ID групи та тем (вшиті прямо в код) ─────────────────────────────────────
 CHAT_ID        = "-1003980198992"  # основна група (supergroup формат)
+THREAD_ALL     = "1"               # тема: абсолютно всі події
 THREAD_NEW     = "2"               # тема: нові товари
 THREAD_PRICE   = "3"               # тема: зміни цін
 THREAD_SOLD    = "4"               # тема: продажі
@@ -767,6 +768,11 @@ def main():
         sent_any = True
         log.info(f"Надсилаємо {len(all_tg_msgs)} повідомлень у канал всіх товарів...")
         asyncio.run(send_messages(ALL_PRODUCTS_CHAT_ID, all_tg_msgs))
+
+    if all_tg_msgs:
+        sent_any = True
+        log.info(f"Надсилаємо {len(all_tg_msgs)} повідомлень у тему 'Всі події'...")
+        asyncio.run(send_messages(CHAT_ID, all_tg_msgs, thread_id=int(THREAD_ALL)))
 
     if kharkiv_msgs:
         sent_any = True
