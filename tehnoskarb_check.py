@@ -32,10 +32,12 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 ALL_PRODUCTS_CHAT_ID = os.environ.get("ALL_PRODUCTS_CHAT_ID", "").strip()
 
 # ─── ID групи та тем (вшиті прямо в код) ─────────────────────────────────────
-CHAT_ID      = "-3980198992"  # основна група
-THREAD_NEW   = "4294967298"   # тема: нові товари
-THREAD_PRICE = "4294967299"   # тема: зміни цін
-THREAD_SOLD  = "4294967300"   # тема: продажі
+CHAT_ID        = "-3980198992"  # основна група
+THREAD_NEW     = "4294967298"   # тема: нові товари
+THREAD_PRICE   = "4294967299"   # тема: зміни цін
+THREAD_SOLD    = "4294967300"   # тема: продажі
+THREAD_KHARKIV = "4294967304"   # тема: всі події по Харкову
+KHARKIV_CITY   = "харків"       # назва міста для порівняння (малими літерами)
 
 CONFIG_FILE   = "config.json"
 STATE_FILE    = "seen_products.json"
@@ -139,7 +141,10 @@ def passes_filters(p: Product, cfg: dict) -> bool:
         return False
     return True
 
-# ─── Скрапер ─────────────────────────────────────────────────────────────────
+def is_kharkiv(city: str) -> bool:
+    return city.strip().casefold() == KHARKIV_CITY
+
+
 
 def is_product_url(href: str) -> bool:
     return bool(re.search(r"/m\d{5,}", href))
@@ -582,6 +587,7 @@ def main():
 
     tg_msgs       = []  # list of (msg_type, text): msg_type in "new","price","sold"
     all_tg_msgs   = []
+    kharkiv_msgs  = []  # всі події по місту Харків
     events        = []
     new_list      = []
 
@@ -631,6 +637,8 @@ def main():
                                    category=cat_name, category_emoji=cat_emoji)
                     if passes_filters(fake, cfg):
                         tg_msgs.append(("sold", sold_msg))
+                if cfg.get("notify_sold", True) and is_kharkiv(sold_city):
+                    kharkiv_msgs.append(sold_msg)
 
     # ── Нові товари та зміни ціни ─────────────────────────────────────────────
     for p in all_products:
@@ -648,6 +656,8 @@ def main():
                 if cfg.get("notify_new", True) and passes_filters(p, cfg):
                     tg_msgs.append(("new", new_msg))
                     new_list.append(p)
+                if cfg.get("notify_new", True) and is_kharkiv(p.city):
+                    kharkiv_msgs.append(new_msg)
 
             events.append({"type": "new", "name": p.name, "url": p.url,
                            "price": p.price_min, "city": p.city,
@@ -704,6 +714,8 @@ def main():
                     all_tg_msgs.append(drop_msg)
                     if cfg.get("notify_price_drop", True) and passes_filters(p, cfg):
                         tg_msgs.append(("price", drop_msg))
+                    if cfg.get("notify_price_drop", True) and is_kharkiv(p.city):
+                        kharkiv_msgs.append(drop_msg)
                     events.append({"type": "drop", "name": p.name, "url": p.url,
                                    "price_old": old_min, "price_new": p.price_min,
                                    "city": p.city, "category": p.category, "at": now})
@@ -713,6 +725,8 @@ def main():
                     all_tg_msgs.append(rise_msg)
                     if cfg.get("notify_price_rise", True) and passes_filters(p, cfg):
                         tg_msgs.append(("price", rise_msg))
+                    if cfg.get("notify_price_rise", True) and is_kharkiv(p.city):
+                        kharkiv_msgs.append(rise_msg)
                     events.append({"type": "rise", "name": p.name, "url": p.url,
                                    "price_old": old_min, "price_new": p.price_min,
                                    "city": p.city, "category": p.category, "at": now})
@@ -730,6 +744,7 @@ def main():
         log.info(f"Перший запуск — зберігаємо базу ({len(state)} товарів), без сповіщень")
         tg_msgs = []
         all_tg_msgs = []
+        kharkiv_msgs = []
     else:
         tg_msgs = compact_messages(tg_msgs, new_list, max_individual)
 
@@ -752,6 +767,11 @@ def main():
         sent_any = True
         log.info(f"Надсилаємо {len(all_tg_msgs)} повідомлень у канал всіх товарів...")
         asyncio.run(send_messages(ALL_PRODUCTS_CHAT_ID, all_tg_msgs))
+
+    if kharkiv_msgs:
+        sent_any = True
+        log.info(f"Надсилаємо {len(kharkiv_msgs)} повідомлень у тему Харків...")
+        asyncio.run(send_messages(CHAT_ID, kharkiv_msgs, thread_id=int(THREAD_KHARKIV)))
 
     if not sent_any:
         log.info("Нічого нового.")
