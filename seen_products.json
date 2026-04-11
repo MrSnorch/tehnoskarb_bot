@@ -6710,27 +6710,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-06T13:04:00Z"
   },
-  "https://tehnoskarb.ua/noutbuk--14-core-i5-4300m-ddr3-4gb-ddr3-hdd-250-gb-ntegrovana/m5160666": {
-    "name": "Ноутбук  14/core i5 4300m ddr3/4gb ddr3/hdd 250 gb/*інтегрована",
-    "price_min": 2900,
-    "price_max": 2900,
-    "city": "Хмельницький",
-    "addresses": [
-      "м. Хмельницький, вул. Кам`янецька, 11"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-06T13:04:00Z",
-    "price_history": [
-      {
-        "price": 2900,
-        "at": "2026-04-06T13:04:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-06T13:04:00Z"
-  },
   "https://tehnoskarb.ua/noutbuk-lenovo-14-core-i5-5200u-ddr3-8gb-ddr2-hdd-250-gb-ssd-vdsutnjj-ntegrovana/m5160667": {
     "name": "Ноутбук Lenovo 14/core i5 5200u ddr3/8gb ddr2/hdd 250 gb/ssd *відсутній/*інтегрована",
     "price_min": 4800,
@@ -12325,27 +12304,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-11T09:45:11Z"
   },
-  "https://tehnoskarb.ua/noutbuk-fujitsu-15-core-i7-8750h-ddr4-32gb-ddr4-hdd-vdsutnjj-ssd-500-gb-quadro-p600-4gb/m5166720": {
-    "name": "Ноутбук Fujitsu 15/core i7 8750h ddr4/32gb ddr4/hdd *відсутній/ssd 500 gb/quadro p600 4gb",
-    "price_min": 11500,
-    "price_max": 11500,
-    "city": "Біла Церква",
-    "addresses": [
-      "м. Біла Церква, вул. О.Гончара, 1А/42А"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-11T09:45:11Z",
-    "price_history": [
-      {
-        "price": 11500,
-        "at": "2026-04-11T09:45:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-11T09:45:11Z"
-  },
   "https://tehnoskarb.ua/noutbuk-asus-15-core-i3-1315u-ddr5-16gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5156461": {
     "name": "Ноутбук Asus 15/core i3-1315u ddr5/16gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
     "price_min": 14800,
@@ -12362,9 +12320,9 @@
         "at": "2026-04-11T09:45:11Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-11T15:56:51Z",
-    "details_retry_at": "2026-04-11T19:56:51Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-04-11T20:38:15Z",
+    "details_retry_at": "2026-04-12T02:38:15Z"
   },
   "https://tehnoskarb.ua/noutbuk-pixus-link-16-512gb/m5156447": {
     "name": "Ноутбук Pixus link 16/512gb",
@@ -12508,9 +12466,9 @@
         "at": "2026-04-11T09:45:11Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-11T15:56:51Z",
-    "details_retry_at": "2026-04-11T19:56:51Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-04-11T20:38:15Z",
+    "details_retry_at": "2026-04-12T02:38:15Z"
   },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-5600-ram-32-gb-ssd-500-gb-ati-radeon-rx-580-4gb/m5166382": {
     "name": "Системний блок Пк amd ryzen 5 5600/ram 32 gb/ssd 500 gb/ ati radeon rx 580 4gb",
@@ -12911,25 +12869,46 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-11T19:37:27Z"
   },
-  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-10105f-ram-16-gb-hdd-vdsutnjj-ssd-250-gb-nvidia-gt-730-geforce-2gb-ddr3-64bit/m5166858": {
-    "name": "Системний блок Пк intel core i3-10105f/ram 16 gb/hdd відсутній/ssd 250 gb/nvidia gt 730 (geforce) 2gb ddr3 64bit",
-    "price_min": 6900,
-    "price_max": 6900,
-    "city": "Київ",
+  "https://tehnoskarb.ua/noutbuk-asus-15-core-i7-1255u-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-1000-gb-ntegrovana/m5155393": {
+    "name": "Ноутбук Asus 15/core i7-1255u ddr5/16gb ddr5/hdd *відсутній/ssd 1000 gb/*інтегрована",
+    "price_min": 18360,
+    "price_max": 18360,
+    "city": "Одеса",
     "addresses": [
-      "м. Київ, вул. Олени Теліги , 17"
+      "м. Одеса, вул. Артура Савельєва, 5 (Черняховського)"
     ],
     "offers_count": 1,
-    "category": "Системні блоки",
-    "category_emoji": "🖨",
-    "first_seen": "2026-04-11T19:37:27Z",
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-11T20:38:15Z",
     "price_history": [
       {
-        "price": 6900,
-        "at": "2026-04-11T19:37:27Z"
+        "price": 18360,
+        "at": "2026-04-11T20:38:15Z"
       }
     ],
     "details_failures": 0,
-    "details_last_attempt": "2026-04-11T19:37:27Z"
+    "details_last_attempt": "2026-04-11T20:38:15Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-asus-15-core-i7-12700h-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5155346": {
+    "name": "Ноутбук Asus 15/core i7-12700h ddr5/16gb ddr5/hdd *відсутній/ssd 512 gb/*інтегрована",
+    "price_min": 20250,
+    "price_max": 20250,
+    "city": "Одеса",
+    "addresses": [
+      "м. Одеса, вул. Корольова, 80"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-11T20:38:15Z",
+    "price_history": [
+      {
+        "price": 20250,
+        "at": "2026-04-11T20:38:15Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-11T20:38:15Z"
   }
 }
