@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-12T06:54:52Z",
+  "updated_at": "2026-04-12T08:04:51Z",
   "stats": {
-    "total": 620,
-    "avg_price": 9938,
+    "total": 622,
+    "avg_price": 9906,
     "min_price": 90,
     "max_price": 140000,
     "cities": [
@@ -3155,6 +3155,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi pro mp251",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
+      "price_min": 2190,
+      "price_max": 2190,
+      "city": "Біла Церква",
+      "addresses": [
+        "м. Біла Церква, вул. Ярослава Мудрого, 22"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-12T08:04:23Z",
+      "price_history": [
+        {
+          "price": 2190,
+          "at": "2026-04-12T08:04:23Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Ноутбук Lenovo 15/pentium 2030m ddr3/4gb ddr2/hdd 500 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-pentium-2030m-ddr3-4gb-ddr2-hdd-500-gb-ntegrovana/m5164665",
       "price_min": 2200,
@@ -4801,6 +4821,26 @@
       ],
       "category": "Ноутбуки",
       "category_emoji": "💻"
+    },
+    {
+      "name": "Системний блок Пк intel core i5-3450s/ram 16 gb/hdd 500 gb/ssd 240 gb/amd/ ati radeon rx 570 4gb gddr5 256bit",
+      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-3450s-ram-16-gb-hdd-500-gb-ssd-240-gb-amd-ati-radeon-rx-570-4gb-gddr5-256bit/m5164596",
+      "price_min": 3500,
+      "price_max": 3500,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-12T08:04:23Z",
+      "price_history": [
+        {
+          "price": 3500,
+          "at": "2026-04-12T08:04:23Z"
+        }
+      ],
+      "category": "Системні блоки",
+      "category_emoji": "🖨"
     },
     {
       "name": "Ноутбук Lenovo 13/core i7 6500u ddr3/8gb ddr4/ssd 250 gb/*інтегрована",
@@ -10724,6 +10764,26 @@
       "category_emoji": "💻"
     },
     {
+      "name": "Ноутбук Asus 15/core i7-1255u ddr5/16gb ddr5/hdd *відсутній/ssd 1000 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-15-core-i7-1255u-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-1000-gb-ntegrovana/m5155393",
+      "price_min": 18360,
+      "price_max": 18360,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, вул. Артура Савельєва, 5 (Черняховського)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-12T08:04:23Z",
+      "price_history": [
+        {
+          "price": 18360,
+          "at": "2026-04-12T08:04:23Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
       "name": "Ноутбук Apple macbook pro 13 2020 a2251/ core i5 2.0ghz/ ram 16gb/ ssd 512tb/ intel iris plus",
       "url": "https://tehnoskarb.ua/noutbuk-apple-macbook-pro-13-2020-a2251-core-i5-2-0ghz-ram-16gb-ssd-512tb-intel-iris-plus/m5166406",
       "price_min": 18420,
@@ -11198,26 +11258,6 @@
         {
           "price": 23500,
           "at": "2026-04-07T13:55:11Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
-      "name": "Ноутбук Asus 17/core i5-11400h ddr4/16gb ddr4/ssd 500 gb/geforce rtx3050ti 4gb",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-17-core-i5-11400h-ddr4-16gb-ddr4-ssd-500-gb-geforce-rtx3050ti-4gb/m5166754",
-      "price_min": 23770,
-      "price_max": 23770,
-      "city": "Тернопіль",
-      "addresses": [
-        "м. Тернопіль, б-р Шевченка, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-12T05:27:17Z",
-      "price_history": [
-        {
-          "price": 23770,
-          "at": "2026-04-12T05:27:17Z"
         }
       ],
       "category": "Ноутбуки",
@@ -12561,42 +12601,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Ноутбук Hp 15/core i3 7020u ddr3/8gb ddr3/ssd 240 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-15-core-i3-7020u-ddr3-8gb-ddr3-ssd-240-gb-ntegrovana/m5166687",
-      "price": 4620,
-      "city": "Кременчук",
-      "category": "Ноутбуки",
-      "at": "2026-04-10T21:04:03Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Dell 16/core i5-10210u ddr4/16gb ddr4/ssd 480 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-dell-16-core-i5-10210u-ddr4-16gb-ddr4-ssd-480-gb-ntegrovana/m5166612",
-      "price": 8000,
-      "city": "Кропивницький",
-      "category": "Ноутбуки",
-      "at": "2026-04-10T21:04:03Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук 15,6\" Hp ryzen 7 7445hs/ram16gb/ssd512gb/rtx2050",
-      "url": "https://tehnoskarb.ua/noutbuk-15-6-hp-ryzen-7-7445hs-ram16gb-ssd512gb-rtx2050/m5156421",
-      "price": 23490,
-      "city": "Миколаїв",
-      "category": "Ноутбуки",
-      "at": "2026-04-10T21:04:03Z"
-    },
-    {
-      "type": "new",
-      "name": "Системний блок Пк intel core i5-9400f/ram 16 gb/hdd відсутній/ssd 250 gb+250 gb/інтегрована",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-9400f-ram-16-gb-hdd-vdsutnjj-ssd-250-gb+250-gb-ntegrovana/m5166564",
-      "price": 9500,
-      "city": "Київ",
-      "category": "Системні блоки",
-      "at": "2026-04-10T21:04:03Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Msi pro mp251",
@@ -14370,6 +14374,42 @@
       "city": "Київ",
       "category": "Ноутбуки",
       "at": "2026-04-12T06:54:26Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Asus 17/core i5-11400h ddr4/16gb ddr4/ssd 500 gb/geforce rtx3050ti 4gb",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-17-core-i5-11400h-ddr4-16gb-ddr4-ssd-500-gb-geforce-rtx3050ti-4gb/m5166754",
+      "price": 23770,
+      "city": "Тернопіль",
+      "category": "Ноутбуки",
+      "at": "2026-04-12T08:04:23Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp251",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
+      "price": 2190,
+      "city": "Біла Церква",
+      "category": "Монітори",
+      "at": "2026-04-12T08:04:23Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Asus 15/core i7-1255u ddr5/16gb ddr5/hdd *відсутній/ssd 1000 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-15-core-i7-1255u-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-1000-gb-ntegrovana/m5155393",
+      "price": 18360,
+      "city": "Одеса",
+      "category": "Ноутбуки",
+      "at": "2026-04-12T08:04:23Z"
+    },
+    {
+      "type": "new",
+      "name": "Системний блок Пк intel core i5-3450s/ram 16 gb/hdd 500 gb/ssd 240 gb/amd/ ati radeon rx 570 4gb gddr5 256bit",
+      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-3450s-ram-16-gb-hdd-500-gb-ssd-240-gb-amd-ati-radeon-rx-570-4gb-gddr5-256bit/m5164596",
+      "price": 3500,
+      "city": "Запоріжжя",
+      "category": "Системні блоки",
+      "at": "2026-04-12T08:04:23Z"
     }
   ],
   "config": {
