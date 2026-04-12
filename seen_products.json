@@ -1621,25 +1621,6 @@
     "category": "Монітори",
     "category_emoji": "🖥"
   },
-  "https://tehnoskarb.ua/montor-lg-24mp76hmb/m5138962": {
-    "name": "Монітор Lg 24mp76hmb",
-    "price_min": 2630,
-    "price_max": 2630,
-    "city": "Вишневе",
-    "addresses": [
-      "м. Вишневе, вул. Святошинська, 27"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 2630,
-        "at": "2026-04-05T19:39:53Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
   "https://tehnoskarb.ua/montor-philips-275b1h-00/m5138688": {
     "name": "Монітор Philips 275b1h/00",
     "price_min": 7210,
@@ -5727,13 +5708,13 @@
   },
   "https://tehnoskarb.ua/noutbuk-dell-chromebook-11-3189/m5162425": {
     "name": "Ноутбук Dell chromebook 11 3189",
-    "price_min": 1600,
+    "price_min": 1380,
     "price_max": 1600,
     "city": "Буча",
     "addresses": [
       "м. Буча, вул. Героїв Майдану, 10"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Ноутбуки",
     "category_emoji": "💻",
     "first_seen": "2026-04-06T13:04:00Z",
@@ -5741,6 +5722,10 @@
       {
         "price": 1600,
         "at": "2026-04-06T13:04:00Z"
+      },
+      {
+        "price": 1380,
+        "at": "2026-04-12T09:24:55Z"
       }
     ],
     "details_failures": 0,
@@ -11905,27 +11890,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-11T05:12:18Z"
   },
-  "https://tehnoskarb.ua/noutbuk-lenovo-chromebook-ekr-14-mediatek-kompanio-520-ram-4gb-ssd-32gb/m5166767": {
-    "name": "Ноутбук Lenovo chromebook екр 14/ mediatek kompanio 520/ ram 4gb/ ssd 32gb",
-    "price_min": 2250,
-    "price_max": 2250,
-    "city": "Сокаль",
-    "addresses": [
-      "м. Сокаль, вул. Шептицького, 61"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-11T05:12:18Z",
-    "price_history": [
-      {
-        "price": 2250,
-        "at": "2026-04-11T05:12:18Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-11T05:12:18Z"
-  },
   "https://tehnoskarb.ua/noutbuk-hp-14-core-i5-4310u-ddr3-8gb-ddr2-hdd-vdsutnjj-ssd-256-gb-ntegrovana/m5166743": {
     "name": "Ноутбук Hp 14/core i5 4310u ddr3/8gb ddr2/hdd *відсутній/ssd 256 gb/*інтегрована",
     "price_min": 2930,
@@ -12279,9 +12243,9 @@
         "at": "2026-04-11T09:45:11Z"
       }
     ],
-    "details_failures": 6,
-    "details_last_attempt": "2026-04-12T02:54:10Z",
-    "details_retry_at": "2026-04-12T08:54:10Z"
+    "details_failures": 7,
+    "details_last_attempt": "2026-04-12T09:24:55Z",
+    "details_retry_at": "2026-04-12T15:24:55Z"
   },
   "https://tehnoskarb.ua/noutbuk-pixus-link-16-512gb/m5156447": {
     "name": "Ноутбук Pixus link 16/512gb",
@@ -12425,9 +12389,9 @@
         "at": "2026-04-11T09:45:11Z"
       }
     ],
-    "details_failures": 6,
-    "details_last_attempt": "2026-04-12T02:54:10Z",
-    "details_retry_at": "2026-04-12T08:54:10Z"
+    "details_failures": 7,
+    "details_last_attempt": "2026-04-12T09:24:55Z",
+    "details_retry_at": "2026-04-12T15:24:55Z"
   },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-5600-ram-32-gb-ssd-500-gb-ati-radeon-rx-580-4gb/m5166382": {
     "name": "Системний блок Пк amd ryzen 5 5600/ram 32 gb/ssd 500 gb/ ati radeon rx 580 4gb",
@@ -12890,5 +12854,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-12T08:04:23Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-asus-15-core-i7-12700h-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5155346": {
+    "name": "Ноутбук Asus 15/core i7-12700h ddr5/16gb ddr5/hdd *відсутній/ssd 512 gb/*інтегрована",
+    "price_min": 20250,
+    "price_max": 20250,
+    "city": "Одеса",
+    "addresses": [
+      "м. Одеса, вул. Корольова, 80"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-12T09:24:55Z",
+    "price_history": [
+      {
+        "price": 20250,
+        "at": "2026-04-12T09:24:55Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-12T09:24:55Z"
   }
 }
