@@ -25,8 +25,13 @@ jobs:
 
       - name: Run checker
         env:
-          BOT_TOKEN:            ${{ secrets.BOT_TOKEN }}
-          ALL_PRODUCTS_CHAT_ID: ${{ secrets.ALL_PRODUCTS_CHAT_ID }}
+          BOT_TOKEN:      ${{ secrets.BOT_TOKEN }}
+          CHAT_ID:        "-1003980198992"
+          THREAD_ALL:     "1"
+          THREAD_NEW:     "2"
+          THREAD_PRICE:   "3"
+          THREAD_SOLD:    "4"
+          THREAD_KHARKIV: "8"
         run: python tehnoskarb_check.py
 
       - name: Commit state & dashboard
