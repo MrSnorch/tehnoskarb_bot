@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-12T14:09:48Z",
+  "updated_at": "2026-04-12T15:06:45Z",
   "stats": {
-    "total": 621,
-    "avg_price": 9971,
+    "total": 622,
+    "avg_price": 9957,
     "min_price": 90,
     "max_price": 140000,
     "cities": [
@@ -1925,6 +1925,26 @@
         {
           "price": 1300,
           "at": "2026-04-05T19:39:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Eizo flexscan ev2316w",
+      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2316w/m5143535",
+      "price_min": 1310,
+      "price_max": 1310,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Проскурівська, 109"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-12T15:06:27Z",
+      "price_history": [
+        {
+          "price": 1310,
+          "at": "2026-04-12T15:06:27Z"
         }
       ],
       "category": "Монітори",
@@ -12587,15 +12607,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Ноутбук Acer 15/core i5-11300h ddr4/8gb ddr4/ssd 480 gb/geforce gtx1650 4gb",
-      "url": "https://tehnoskarb.ua/noutbuk-acer-15-core-i5-11300h-ddr4-8gb-ddr4-ssd-480-gb-geforce-gtx1650-4gb/m5166748",
-      "price": 16000,
-      "city": "Дрогобич",
-      "category": "Ноутбуки",
-      "at": "2026-04-11T05:12:18Z"
-    },
-    {
-      "type": "new",
       "name": "Ноутбук Asus 14/core i5-1135g7 ddr4/8gb ddr4/hdd *відсутній/ssd 256 gb/geforce mx330 2gb",
       "url": "https://tehnoskarb.ua/noutbuk-asus-14-core-i5-1135g7-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-256-gb-geforce-mx330-2gb/m5166745",
       "price": 7900,
@@ -14394,6 +14405,15 @@
       "city": "Луцьк",
       "category": "Ноутбуки",
       "at": "2026-04-12T13:20:12Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Eizo flexscan ev2316w",
+      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2316w/m5143535",
+      "price": 1310,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-04-12T15:06:27Z"
     }
   ],
   "config": {
