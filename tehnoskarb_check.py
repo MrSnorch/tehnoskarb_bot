@@ -32,12 +32,12 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 ALL_PRODUCTS_CHAT_ID = os.environ.get("ALL_PRODUCTS_CHAT_ID", "").strip()
 
 # ─── ID групи та тем (вшиті прямо в код) ─────────────────────────────────────
-CHAT_ID        = "-1003980198992"  # основна група (supergroup формат)
-THREAD_ALL     = "1"               # тема: абсолютно всі події
-THREAD_NEW     = "2"               # тема: нові товари
-THREAD_PRICE   = "3"               # тема: зміни цін
-THREAD_SOLD    = "4"               # тема: продажі
-THREAD_KHARKIV = "8"               # тема: всі події по Харкову
+CHAT_ID        = os.environ.get("CHAT_ID",        "-1003980198992").strip()
+THREAD_ALL     = os.environ.get("THREAD_ALL",     "1").strip()
+THREAD_NEW     = os.environ.get("THREAD_NEW",     "2").strip()
+THREAD_PRICE   = os.environ.get("THREAD_PRICE",   "3").strip()
+THREAD_SOLD    = os.environ.get("THREAD_SOLD",    "4").strip()
+THREAD_KHARKIV = os.environ.get("THREAD_KHARKIV", "8").strip()
 KHARKIV_CITY   = "харків"          # назва міста для порівняння (малими літерами)
 
 CONFIG_FILE   = "config.json"
