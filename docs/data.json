@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-12T19:59:50Z",
+  "updated_at": "2026-04-12T20:50:18Z",
   "stats": {
-    "total": 620,
-    "avg_price": 9965,
+    "total": 618,
+    "avg_price": 9958,
     "min_price": 90,
     "max_price": 140000,
     "cities": [
@@ -75,6 +75,7 @@
       "Харків",
       "Херсон",
       "Хмельницький",
+      "Червоноград",
       "Черкаси",
       "Чернівці",
       "Чортків"
@@ -1050,6 +1051,26 @@
       ],
       "category": "Системні блоки",
       "category_emoji": "🖨"
+    },
+    {
+      "name": "Монітор Asus vw223",
+      "url": "https://tehnoskarb.ua/montor-asus-vw223/m5005953",
+      "price_min": 650,
+      "price_max": 650,
+      "city": "Червоноград",
+      "addresses": [
+        "м. Червоноград, просп. Шевченка, 10"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-12T20:49:49Z",
+      "price_history": [
+        {
+          "price": 650,
+          "at": "2026-04-12T20:49:49Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
     },
     {
       "name": "Монітор Samsung sm t190 ls19twh",
@@ -8186,26 +8207,6 @@
       "category_emoji": "💻"
     },
     {
-      "name": "Системний блок Пк intel core i5-7400/ram 8 gb/hdd відсутній/ssd 240 gb/nvidia gtx 1050 ti (geforce) 4gb gddr5 128bit",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-7400-ram-8-gb-hdd-vdsutnjj-ssd-240-gb-nvidia-gtx-1050-ti-geforce-4gb-gddr5-128bit/m5152951",
-      "price_min": 7280,
-      "price_max": 7280,
-      "city": "Кривий Ріг",
-      "addresses": [
-        "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-06T13:04:00Z",
-      "price_history": [
-        {
-          "price": 7280,
-          "at": "2026-04-06T13:04:00Z"
-        }
-      ],
-      "category": "Системні блоки",
-      "category_emoji": "🖨"
-    },
-    {
       "name": "Монітор Samsung s27dg500",
       "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
       "price_min": 7340,
@@ -8443,26 +8444,6 @@
       ],
       "category": "Монітори",
       "category_emoji": "🖥"
-    },
-    {
-      "name": "Системний блок Пк intel core i5-6500/ram 16 gb/hdd 250 gb/ssd відсутній/nvidia gtx 1060 (geforce) 3gb gddr5 192bit",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-6500-ram-16-gb-hdd-250-gb-ssd-vdsutnjj-nvidia-gtx-1060-geforce-3gb-gddr5-192bit/m5162965",
-      "price_min": 8000,
-      "price_max": 8000,
-      "city": "Кривий Ріг",
-      "addresses": [
-        "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-06T13:04:00Z",
-      "price_history": [
-        {
-          "price": 8000,
-          "at": "2026-04-06T13:04:00Z"
-        }
-      ],
-      "category": "Системні блоки",
-      "category_emoji": "🖨"
     },
     {
       "name": "Монітор Samsung c34h890 / lc34h890",
@@ -8724,24 +8705,6 @@
       ],
       "category": "Ноутбуки",
       "category_emoji": "💻"
-    },
-    {
-      "name": "Системний блок Пк amd fx-8350/ram 16 gb/hdd відсутній/ssd 480 gb/nvidia gtx 1080 ti (geforce) 11gb gddr5x 352bit",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-fx-8350-ram-16-gb-hdd-vdsutnjj-ssd-480-gb-nvidia-gtx-1080-ti-geforce-11gb-gddr5x-352bit/m5147950",
-      "price_min": 9360,
-      "price_max": 9360,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-04-06T13:04:00Z",
-      "price_history": [
-        {
-          "price": 9360,
-          "at": "2026-04-06T13:04:00Z"
-        }
-      ],
-      "category": "Системні блоки",
-      "category_emoji": "🖨"
     },
     {
       "name": "Ноутбук Lenovo 15/ryzen 3 5300u ddr4/8gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
@@ -12563,42 +12526,6 @@
   ],
   "events": [
     {
-      "type": "new",
-      "name": "Ноутбук Lenovo 14/core i5 3320m ddr3/4gb ddr3/hdd 500 gb/ssd *відсутній/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-14-core-i5-3320m-ddr3-4gb-ddr3-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5157134",
-      "price": 2900,
-      "city": "Черкаси",
-      "category": "Ноутбуки",
-      "at": "2026-04-11T06:37:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Dell 16/core i9-13900hx ddr4/32gb ddr4/ssd 1000 gb/geforce rtx4070 8gb",
-      "url": "https://tehnoskarb.ua/noutbuk-dell-16-core-i9-13900hx-ddr4-32gb-ddr4-ssd-1000-gb-geforce-rtx4070-8gb/m5157135",
-      "price": 67350,
-      "city": "Харків",
-      "category": "Ноутбуки",
-      "at": "2026-04-11T06:37:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Asus 15/ryzen 7 260 ddr5/16gb ddr5/ssd 512 gb/geforce rtx 5050 8gb",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-7-260-ddr5-16gb-ddr5-ssd-512-gb-geforce-rtx-5050-8gb/m5156953",
-      "price": 50000,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-11T06:37:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Xiaomi 15/core i5-12500h ddr5/16gb ddr5/ssd 512 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-xiaomi-15-core-i5-12500h-ddr5-16gb-ddr5-ssd-512-gb-ntegrovana/m5156916",
-      "price": 18960,
-      "city": "Луцьк",
-      "category": "Ноутбуки",
-      "at": "2026-04-11T06:37:57Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Samsung s19c200bw",
       "url": "https://tehnoskarb.ua/nastlnijj-montor-samsung-s19c200bw/m5163822",
@@ -14370,6 +14297,42 @@
       "city": "Кам`янець-Подільський",
       "category": "Ноутбуки",
       "at": "2026-04-12T19:21:56Z"
+    },
+    {
+      "type": "sold",
+      "name": "Системний блок Пк intel core i5-6500/ram 16 gb/hdd 250 gb/ssd відсутній/nvidia gtx 1060 (geforce) 3gb gddr5 192bit",
+      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-6500-ram-16-gb-hdd-250-gb-ssd-vdsutnjj-nvidia-gtx-1060-geforce-3gb-gddr5-192bit/m5162965",
+      "price": 8000,
+      "city": "Кривий Ріг",
+      "category": "Системні блоки",
+      "at": "2026-04-12T20:49:49Z"
+    },
+    {
+      "type": "sold",
+      "name": "Системний блок Пк intel core i5-7400/ram 8 gb/hdd відсутній/ssd 240 gb/nvidia gtx 1050 ti (geforce) 4gb gddr5 128bit",
+      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-7400-ram-8-gb-hdd-vdsutnjj-ssd-240-gb-nvidia-gtx-1050-ti-geforce-4gb-gddr5-128bit/m5152951",
+      "price": 7280,
+      "city": "Кривий Ріг",
+      "category": "Системні блоки",
+      "at": "2026-04-12T20:49:49Z"
+    },
+    {
+      "type": "sold",
+      "name": "Системний блок Пк amd fx-8350/ram 16 gb/hdd відсутній/ssd 480 gb/nvidia gtx 1080 ti (geforce) 11gb gddr5x 352bit",
+      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-fx-8350-ram-16-gb-hdd-vdsutnjj-ssd-480-gb-nvidia-gtx-1080-ti-geforce-11gb-gddr5x-352bit/m5147950",
+      "price": 9360,
+      "city": "",
+      "category": "Системні блоки",
+      "at": "2026-04-12T20:49:49Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vw223",
+      "url": "https://tehnoskarb.ua/montor-asus-vw223/m5005953",
+      "price": 650,
+      "city": "Червоноград",
+      "category": "Монітори",
+      "at": "2026-04-12T20:49:49Z"
     }
   ],
   "config": {
