@@ -29,15 +29,14 @@ from telegram.error import RetryAfter
 # ─── Змінні середовища ───────────────────────────────────────────────────────
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
-ALL_PRODUCTS_CHAT_ID = os.environ.get("ALL_PRODUCTS_CHAT_ID", "").strip()
 
 # ─── ID групи та тем (вшиті прямо в код) ─────────────────────────────────────
-CHAT_ID        = os.environ.get("CHAT_ID",        "-1003980198992").strip()
-THREAD_ALL     = os.environ.get("THREAD_ALL",     "1").strip()
-THREAD_NEW     = os.environ.get("THREAD_NEW",     "2").strip()
-THREAD_PRICE   = os.environ.get("THREAD_PRICE",   "3").strip()
-THREAD_SOLD    = os.environ.get("THREAD_SOLD",    "4").strip()
-THREAD_KHARKIV = os.environ.get("THREAD_KHARKIV", "8").strip()
+CHAT_ID        = "-1003980198992"  # основна група (supergroup формат)
+THREAD_ALL     = "1"               # тема: абсолютно всі події
+THREAD_NEW     = "2"               # тема: нові товари
+THREAD_PRICE   = "3"               # тема: зміни цін
+THREAD_SOLD    = "4"               # тема: продажі
+THREAD_KHARKIV = "8"               # тема: всі події по Харкову
 KHARKIV_CITY   = "харків"          # назва міста для порівняння (малими літерами)
 
 CONFIG_FILE   = "config.json"
@@ -515,18 +514,6 @@ def compact_messages(messages: list, new_products: list[Product], max_individual
         sold_price.append(("new", msg_summary(new_products, len(new_products))))
     return sold_price
 
-def get_notification_targets(filtered_messages: list[str], all_messages: list[str]) -> list[tuple[str, str, list[str]]]:
-    targets = [("основний канал", CHAT_ID, filtered_messages)]
-    if not ALL_PRODUCTS_CHAT_ID:
-        return targets
-
-    if ALL_PRODUCTS_CHAT_ID == CHAT_ID:
-        log.warning("ALL_PRODUCTS_CHAT_ID збігається з CHAT_ID — дубльоване надсилання пропускаємо")
-        return targets
-
-    targets.append(("канал всіх товарів", ALL_PRODUCTS_CHAT_ID, all_messages))
-    return targets
-
 async def send_one(bot: Bot, chat_id: str, text: str, retries: int = 5, thread_id: Optional[int] = None):
     for attempt in range(retries):
         try:
@@ -751,32 +738,22 @@ def main():
 
     sent_any = False
 
-    # Якщо задані теми (threads) — надсилаємо в них по типу повідомлення
-    use_threads = any([THREAD_NEW, THREAD_PRICE, THREAD_SOLD])
-
+    # Надсилаємо по типу у відповідні теми (threads)
     if tg_msgs:
         sent_any = True
-        if use_threads:
-            log.info(f"Надсилаємо {len(tg_msgs)} повідомлень у теми групи {CHAT_ID}...")
-            asyncio.run(send_messages_by_type(CHAT_ID, tg_msgs))
-        else:
-            plain = [text for _, text in tg_msgs]
-            log.info(f"Надсилаємо {len(plain)} повідомлень у основний канал...")
-            asyncio.run(send_messages(CHAT_ID, plain))
+        log.info(f"Надсилаємо {len(tg_msgs)} повідомлень у теми групи {CHAT_ID}...")
+        asyncio.run(send_messages_by_type(CHAT_ID, tg_msgs))
 
-    if ALL_PRODUCTS_CHAT_ID and ALL_PRODUCTS_CHAT_ID != CHAT_ID and all_tg_msgs:
-        sent_any = True
-        log.info(f"Надсилаємо {len(all_tg_msgs)} повідомлень у канал всіх товарів...")
-        asyncio.run(send_messages(ALL_PRODUCTS_CHAT_ID, all_tg_msgs))
-
+    # Всі події → тема THREAD_ALL
     if all_tg_msgs:
         sent_any = True
-        log.info(f"Надсилаємо {len(all_tg_msgs)} повідомлень у тему 'Всі події'...")
+        log.info(f"Надсилаємо {len(all_tg_msgs)} повідомлень у тему 'Всі події' (thread {THREAD_ALL})...")
         asyncio.run(send_messages(CHAT_ID, all_tg_msgs, thread_id=int(THREAD_ALL)))
 
+    # Харків → тема THREAD_KHARKIV
     if kharkiv_msgs:
         sent_any = True
-        log.info(f"Надсилаємо {len(kharkiv_msgs)} повідомлень у тему Харків...")
+        log.info(f"Надсилаємо {len(kharkiv_msgs)} повідомлень у тему Харків (thread {THREAD_KHARKIV})...")
         asyncio.run(send_messages(CHAT_ID, kharkiv_msgs, thread_id=int(THREAD_KHARKIV)))
 
     if not sent_any:
