@@ -520,13 +520,13 @@
   },
   "https://tehnoskarb.ua/montor-acer-v223hq/m5158994": {
     "name": "Монітор Acer v223hq",
-    "price_min": 900,
+    "price_min": 790,
     "price_max": 900,
     "city": "Кременчук",
     "addresses": [
       "м. Кременчук, вул. Покровська, 15/34"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -536,6 +536,10 @@
       {
         "price": 900,
         "at": "2026-04-11T15:56:51Z"
+      },
+      {
+        "price": 790,
+        "at": "2026-04-13T18:18:57Z"
       }
     ],
     "category": "Монітори",
@@ -1669,7 +1673,7 @@
       "м. Львів, вул. Княгині Ольги, 114",
       "м. Київ,  вул. Драгоманова, 27"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -12398,27 +12402,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-13T11:07:47Z"
   },
-  "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-5-7535hs-ddr5-16gb-ddr5-ssd-1000-gb-geforce-rtx2050-4gb/m5153432": {
-    "name": "Ноутбук Asus 15/ryzen 5 7535hs ddr5/16gb ddr5/ssd 1000 gb/geforce rtx2050 4gb",
-    "price_min": 25400,
-    "price_max": 25400,
-    "city": "Вараш",
-    "addresses": [
-      "м. Вараш, мікрорайон Вараш, 11"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-13T11:07:47Z",
-    "price_history": [
-      {
-        "price": 25400,
-        "at": "2026-04-13T11:07:47Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-13T11:07:47Z"
-  },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-6500-ram-16-gb-hdd-250-gb-ssd-vdsutnjj-nvidia-gtx-1060-geforce-3gb-gddr5-192bit/m5162965": {
     "name": "Системний блок Пк intel core i5-6500/ram 16 gb/hdd 250 gb/ssd відсутній/nvidia gtx 1060 (geforce) 3gb gddr5 192bit",
     "price_min": 8000,
@@ -12621,28 +12604,6 @@
     "price_history": [
       {
         "price": 5000,
-        "at": "2026-04-13T15:17:40Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-13T15:17:40Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-apple-makbook-air-13-3-apple-m1-ram8gb-ssd256gb-7core-gpu/m5153183": {
-    "name": "Ноутбук Apple makbook air 13,3\"/apple m1/ram8gb/ssd256gb/7core gpu",
-    "price_min": 15700,
-    "price_max": 22400,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Княжий Затон, 2/30",
-      "м. Київ, вул. Юлії Здановської, 60/5"
-    ],
-    "offers_count": 2,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-13T15:17:40Z",
-    "price_history": [
-      {
-        "price": 15700,
         "at": "2026-04-13T15:17:40Z"
       }
     ],
@@ -12859,27 +12820,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-13T18:05:51Z"
   },
-  "https://tehnoskarb.ua/noutbuk-lenovo-15-ryzen-5-5600h-ddr4-16gb-ddr4-ssd-512-gb-geforce-rtx3060-6gb/m5167032": {
-    "name": "Ноутбук Lenovo 15/ryzen 5 5600h ddr4/16gb ddr4/ssd 512 gb/geforce rtx3060 6gb",
-    "price_min": 25300,
-    "price_max": 25300,
-    "city": "Кропивницький",
-    "addresses": [
-      "м. Кропивницький, вул. Соборна, 3"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-13T18:05:51Z",
-    "price_history": [
-      {
-        "price": 25300,
-        "at": "2026-04-13T18:05:51Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-13T18:05:51Z"
-  },
   "https://tehnoskarb.ua/noutbuk-hp-15-celeron-n4500-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-250-gb-ntegrovana/m5159214": {
     "name": "Ноутбук Hp 15/celeron n4500 ddr4/8gb ddr4/hdd *відсутній/ssd 250 gb/*інтегрована",
     "price_min": 5080,
@@ -12942,5 +12882,89 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-13T18:05:51Z"
+  },
+  "https://tehnoskarb.ua/montor-acer-b226hql/m5132545": {
+    "name": "Монітор Acer b226hql",
+    "price_min": 930,
+    "price_max": 930,
+    "city": "Харків",
+    "addresses": [
+      "м. Харків, Салтівське шосе 155/93"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-04-13T18:18:57Z",
+    "price_history": [
+      {
+        "price": 930,
+        "at": "2026-04-13T18:18:57Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-13T18:18:57Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-acer-15-pentium-n5030-siver-ddr4-4gb-ddr4-ssd-500-gb-ntegrovana/m5167102": {
+    "name": "Ноутбук Acer 15/pentium n5030 siver ddr4/4gb ddr4/ssd 500 gb/*інтегрована",
+    "price_min": 4990,
+    "price_max": 4990,
+    "city": "Кривий Ріг",
+    "addresses": [
+      "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-13T18:18:57Z",
+    "price_history": [
+      {
+        "price": 4990,
+        "at": "2026-04-13T18:18:57Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-13T18:18:57Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-acer-15-ryzen-3-7320u-ddr5-8gb-ddr5-ssd-240-gb-ntegrovana/m5167082": {
+    "name": "Ноутбук Acer 15/ryzen 3 7320u ddr5/8gb ddr5/ssd 240 gb/*інтегрована",
+    "price_min": 10150,
+    "price_max": 10150,
+    "city": "Суми",
+    "addresses": [
+      "м. Суми, вул. Збройних Сил України (Інтернаціоналістів), 12"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-13T18:18:57Z",
+    "price_history": [
+      {
+        "price": 10150,
+        "at": "2026-04-13T18:18:57Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-13T18:18:57Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-dell-14-core-i5-4310u-ddr3-16gb-ddr3-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5167078": {
+    "name": "Ноутбук Dell 14/core i5 4310u ddr3/16gb ddr3/hdd *відсутній/ssd 512 gb/*інтегрована",
+    "price_min": 4440,
+    "price_max": 4440,
+    "city": "Полтава",
+    "addresses": [
+      "м. Полтава, вул. Європейська, 22"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-13T18:18:57Z",
+    "price_history": [
+      {
+        "price": 4440,
+        "at": "2026-04-13T18:18:57Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-13T18:18:57Z"
   }
 }
