@@ -32,7 +32,6 @@ BOT_TOKEN = os.environ["BOT_TOKEN"]
 
 # ─── ID групи та тем (вшиті прямо в код) ─────────────────────────────────────
 CHAT_ID        = "-1003980198992"  # основна група (supergroup формат)
-THREAD_ALL     = "1"               # тема: абсолютно всі події
 THREAD_NEW     = "2"               # тема: нові товари
 THREAD_PRICE   = "3"               # тема: зміни цін
 THREAD_SOLD    = "4"               # тема: продажі
@@ -448,10 +447,10 @@ def cat_line(p: Product) -> str:
 def msg_new(p: Product) -> str:
     offers = f"{p.offers_count} пропозиц." if p.offers_count > 1 else "1 пропозиція"
     city = f"🏙 {p.city}\n" if p.city else ""
+    emoji = p.category_emoji or "🆕"
     return safe(
-        f"🆕 <b>Новий товар!</b>\n"
-        f"{cat_line(p)}"
-        f"<b>{p.name}</b>\n"
+        f"{emoji} <b>Новий товар!</b>\n"
+        f"{emoji} <b>{p.name}</b>\n"
         f"💰 <b>{fmt_price(p.price_min, p.price_max)}</b>  |  {offers}\n"
         f"{city}{addr_block(p.addresses)}\n"
         f"🔗 <a href=\"{p.url}\">Переглянути на Техноскарб</a>"
@@ -460,10 +459,10 @@ def msg_new(p: Product) -> str:
 def msg_drop(p: Product, old_min, old_max) -> str:
     offers = f"{p.offers_count} пропозиц." if p.offers_count > 1 else "1 пропозиція"
     city = f"🏙 {p.city}\n" if p.city else ""
+    emoji = p.category_emoji or "📉"
     return safe(
         f"📉 <b>Ціна знизилась{pct(old_min, p.price_min)}!</b>\n"
-        f"{cat_line(p)}"
-        f"<b>{p.name}</b>\n"
+        f"{emoji} <b>{p.name}</b>\n"
         f"💰 <s>{fmt_price(old_min, old_max)}</s> → <b>{fmt_price(p.price_min, p.price_max)}</b>  |  {offers}\n"
         f"{city}{addr_block(p.addresses)}\n"
         f"🔗 <a href=\"{p.url}\">Переглянути на Техноскарб</a>"
@@ -472,10 +471,10 @@ def msg_drop(p: Product, old_min, old_max) -> str:
 def msg_rise(p: Product, old_min, old_max) -> str:
     offers = f"{p.offers_count} пропозиц." if p.offers_count > 1 else "1 пропозиція"
     city = f"🏙 {p.city}\n" if p.city else ""
+    emoji = p.category_emoji or "📈"
     return safe(
         f"📈 <b>Ціна підвищилась{pct(old_min, p.price_min)}!</b>\n"
-        f"{cat_line(p)}"
-        f"<b>{p.name}</b>\n"
+        f"{emoji} <b>{p.name}</b>\n"
         f"💰 <s>{fmt_price(old_min, old_max)}</s> → <b>{fmt_price(p.price_min, p.price_max)}</b>  |  {offers}\n"
         f"{city}{addr_block(p.addresses)}\n"
         f"🔗 <a href=\"{p.url}\">Переглянути на Техноскарб</a>"
@@ -483,11 +482,10 @@ def msg_rise(p: Product, old_min, old_max) -> str:
 
 def msg_sold(name, url, price_min, price_max, city, category, emoji) -> str:
     city_str = f"🏙 {city}\n" if city else ""
-    cat_str  = f"{emoji} {category}\n" if category else ""
+    icon = emoji or "✅"
     return safe(
         f"✅ <b>Товар продано!</b>\n"
-        f"{cat_str}"
-        f"<b>{name}</b>\n"
+        f"{icon} <b>{name}</b>\n"
         f"💰 Була ціна: {fmt_price(price_min, price_max)}\n"
         f"{city_str}"
         f"🔗 <a href=\"{url}\">Посилання на Техноскарб</a>"
@@ -574,7 +572,6 @@ def main():
     log.info(f"Активних категорій: {len(active_cats)} — {[c['name'] for c in active_cats]}")
 
     tg_msgs       = []  # list of (msg_type, text): msg_type in "new","price","sold"
-    all_tg_msgs   = []
     kharkiv_msgs  = []  # всі події по місту Харків
     events        = []
     new_list      = []
@@ -617,7 +614,6 @@ def main():
 
                 sold_msg = msg_sold(name, known_url, d.get("price_min"),
                                     d.get("price_max"), sold_city, cat_name, cat_emoji)
-                all_tg_msgs.append(sold_msg)
                 if cfg.get("notify_sold", True):
                     fake = Product(name=name, url=known_url,
                                    price_min=d.get("price_min"), price_max=d.get("price_max"),
@@ -640,7 +636,6 @@ def main():
                 time.sleep(DETAILS_REQUEST_DELAY)
                 details_loaded = bool(p.city or p.addresses)
                 new_msg = msg_new(p)
-                all_tg_msgs.append(new_msg)
                 if cfg.get("notify_new", True) and passes_filters(p, cfg):
                     tg_msgs.append(("new", new_msg))
                     new_list.append(p)
@@ -699,7 +694,6 @@ def main():
                 if p.price_min < old_min:
                     log.info(f"  📉 [{p.category}] {p.name} | {old_min} → {p.price_min} грн")
                     drop_msg = msg_drop(p, old_min, old_max)
-                    all_tg_msgs.append(drop_msg)
                     if cfg.get("notify_price_drop", True) and passes_filters(p, cfg):
                         tg_msgs.append(("price", drop_msg))
                     if cfg.get("notify_price_drop", True) and is_kharkiv(p.city):
@@ -710,7 +704,6 @@ def main():
                 else:
                     log.info(f"  📈 [{p.category}] {p.name} | {old_min} → {p.price_min} грн")
                     rise_msg = msg_rise(p, old_min, old_max)
-                    all_tg_msgs.append(rise_msg)
                     if cfg.get("notify_price_rise", True) and passes_filters(p, cfg):
                         tg_msgs.append(("price", rise_msg))
                     if cfg.get("notify_price_rise", True) and is_kharkiv(p.city):
@@ -731,26 +724,19 @@ def main():
     if is_first_run:
         log.info(f"Перший запуск — зберігаємо базу ({len(state)} товарів), без сповіщень")
         tg_msgs = []
-        all_tg_msgs = []
         kharkiv_msgs = []
     else:
         tg_msgs = compact_messages(tg_msgs, new_list, max_individual)
 
     sent_any = False
 
-    # Надсилаємо по типу у відповідні теми (threads)
+    # Надсилаємо по типу у відповідні теми (threads 2, 3, 4)
     if tg_msgs:
         sent_any = True
         log.info(f"Надсилаємо {len(tg_msgs)} повідомлень у теми групи {CHAT_ID}...")
         asyncio.run(send_messages_by_type(CHAT_ID, tg_msgs))
 
-    # Всі події → тема THREAD_ALL
-    if all_tg_msgs:
-        sent_any = True
-        log.info(f"Надсилаємо {len(all_tg_msgs)} повідомлень у тему 'Всі події' (thread {THREAD_ALL})...")
-        asyncio.run(send_messages(CHAT_ID, all_tg_msgs, thread_id=int(THREAD_ALL)))
-
-    # Харків → тема THREAD_KHARKIV
+    # Харків → тема THREAD_KHARKIV (thread 8)
     if kharkiv_msgs:
         sent_any = True
         log.info(f"Надсилаємо {len(kharkiv_msgs)} повідомлень у тему Харків (thread {THREAD_KHARKIV})...")
