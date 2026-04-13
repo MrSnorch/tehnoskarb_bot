@@ -1161,25 +1161,6 @@
     "category": "Монітори",
     "category_emoji": "🖥"
   },
-  "https://tehnoskarb.ua/montor-aoc-c24g2u-bk/m5148499": {
-    "name": "Монітор Aoc c24g2u/bk",
-    "price_min": 4240,
-    "price_max": 4240,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, б-р М. Міхновського, 25"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 4240,
-        "at": "2026-04-05T19:39:53Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
   "https://tehnoskarb.ua/montor-samsung-ls24c360/m5147667": {
     "name": "Монітор Samsung ls24c360",
     "price_min": 2210,
@@ -11512,9 +11493,9 @@
         "at": "2026-04-11T09:45:11Z"
       }
     ],
-    "details_failures": 10,
-    "details_last_attempt": "2026-04-13T06:01:23Z",
-    "details_retry_at": "2026-04-13T12:01:23Z"
+    "details_failures": 11,
+    "details_last_attempt": "2026-04-13T13:46:30Z",
+    "details_retry_at": "2026-04-13T19:46:30Z"
   },
   "https://tehnoskarb.ua/noutbuk-pixus-link-16-512gb/m5156447": {
     "name": "Ноутбук Pixus link 16/512gb",
@@ -12120,9 +12101,9 @@
         "at": "2026-04-12T13:20:12Z"
       }
     ],
-    "details_failures": 6,
-    "details_last_attempt": "2026-04-13T06:01:23Z",
-    "details_retry_at": "2026-04-13T12:01:23Z"
+    "details_failures": 7,
+    "details_last_attempt": "2026-04-13T13:46:30Z",
+    "details_retry_at": "2026-04-13T19:46:30Z"
   },
   "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-7-7730u-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5155226": {
     "name": "Ноутбук Asus 15/ryzen 7 7730u ddr4/16gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
@@ -12288,9 +12269,9 @@
         "at": "2026-04-12T17:52:38Z"
       }
     ],
-    "details_failures": 5,
-    "details_last_attempt": "2026-04-13T06:01:23Z",
-    "details_retry_at": "2026-04-13T12:01:23Z"
+    "details_failures": 6,
+    "details_last_attempt": "2026-04-13T13:46:30Z",
+    "details_retry_at": "2026-04-13T19:46:30Z"
   },
   "https://tehnoskarb.ua/noutbuk-hp-15-core-i5-6200u-ddr3-6gb-ddr3-hdd-vdsutnjj-ssd-128-gb-ntegrovana/m5166878": {
     "name": "Ноутбук Hp 15/core i5 6200u ddr3/6gb ddr3/hdd *відсутній/ssd 128 gb/*інтегрована",
@@ -12813,30 +12794,9 @@
         "at": "2026-04-13T11:07:47Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-04-13T11:51:10Z",
-    "details_retry_at": "2026-04-13T12:51:10Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-asus-13-core-i3-1005g1-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-500-gb-ntegrovana/m5166815": {
-    "name": "Ноутбук Asus 13/core i3-1005g1 ddr4/8gb ddr4/hdd *відсутній/ssd 500 gb/*інтегрована",
-    "price_min": 5080,
-    "price_max": 5080,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Воскресенський, 34/2"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-13T11:51:10Z",
-    "price_history": [
-      {
-        "price": 5080,
-        "at": "2026-04-13T11:51:10Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-13T11:51:10Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-04-13T13:46:30Z",
+    "details_retry_at": "2026-04-13T15:46:30Z"
   },
   "https://tehnoskarb.ua/noutbuk-lenovo-chromebook-ekr-14-mediatek-kompanio-520-ram-4gb-ssd-32gb/m5166767": {
     "name": "Ноутбук Lenovo chromebook екр 14/ mediatek kompanio 520/ ram 4gb/ ssd 32gb",
@@ -12858,5 +12818,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-13T11:51:10Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-hp-15-ryzen-5-5600h-ddr4-16gb-ddr4-ssd-1000-gb-gtx1650/m5166377": {
+    "name": "Ноутбук Hp 15/ryzen 5 5600h ddr4/16gb ddr4/ssd 1000 gb/gtx1650",
+    "price_min": 15000,
+    "price_max": 15000,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Бажана, 3В (м. Харківська)"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-13T13:46:30Z",
+    "price_history": [
+      {
+        "price": 15000,
+        "at": "2026-04-13T13:46:30Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-13T13:46:30Z"
   }
 }
