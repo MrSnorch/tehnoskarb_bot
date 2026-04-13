@@ -2839,7 +2839,7 @@
   "https://tehnoskarb.ua/montor-acer-v193hq/m5019742": {
     "name": "Монітор Acer v193hq",
     "price_min": 720,
-    "price_max": 950,
+    "price_max": 750,
     "city": "Вишневе",
     "addresses": [
       "м. Вишневе, вул. Святошинська, 27",
@@ -2847,7 +2847,7 @@
       "м. Київ, вул. Кирилівська, 129",
       "м. Київ, вул. Мишуги, 3-в"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -10507,27 +10507,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-09T05:50:02Z"
   },
-  "https://tehnoskarb.ua/noutbuk-acer-11-celeron-1007u-ddr3-2gb-ddr3-hdd-320-gb-ssd-vdsutnjj-ntegrovana/m5166372": {
-    "name": "Ноутбук Acer 11/celeron 1007u ddr3/2gb ddr3/hdd 320 gb/ssd *відсутній/*інтегрована",
-    "price_min": 1100,
-    "price_max": 1100,
-    "city": "Полтава",
-    "addresses": [
-      "м. Полтава, вул. Івана Мазепи, 26"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-09T05:50:02Z",
-    "price_history": [
-      {
-        "price": 1100,
-        "at": "2026-04-09T05:50:02Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-09T05:50:02Z"
-  },
   "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i5-4210m-ddr3-8gb-ddr3-hdd-900-gb-ssd-vdsutnjj-ntegrovana/m5164719": {
     "name": "Ноутбук Lenovo 15/core i5 4210m ddr3/8gb ddr3/hdd 900 gb/ssd *відсутній/*інтегрована",
     "price_min": 4630,
@@ -12776,28 +12755,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-13T11:07:47Z"
   },
-  "https://tehnoskarb.ua/noutbuk-apple-makbook-air-13-3-apple-m1-ram8gb-ssd256gb-7core-gpu/m5153183": {
-    "name": "Ноутбук Apple makbook air 13,3\"/apple m1/ram8gb/ssd256gb/7core gpu",
-    "price_min": 15700,
-    "price_max": 22400,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Княжий Затон, 2/30",
-      "м. Київ, вул. Юлії Здановської, 60/5"
-    ],
-    "offers_count": 2,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-13T11:07:47Z",
-    "price_history": [
-      {
-        "price": 15700,
-        "at": "2026-04-13T11:07:47Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-13T11:07:47Z"
-  },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-6500-ram-16-gb-hdd-250-gb-ssd-vdsutnjj-nvidia-gtx-1060-geforce-3gb-gddr5-192bit/m5162965": {
     "name": "Системний блок Пк intel core i5-6500/ram 16 gb/hdd 250 gb/ssd відсутній/nvidia gtx 1060 (geforce) 3gb gddr5 192bit",
     "price_min": 8000,
@@ -12856,8 +12813,50 @@
         "at": "2026-04-13T11:07:47Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-04-13T11:07:47Z",
-    "details_retry_at": "2026-04-13T11:37:47Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-04-13T11:51:10Z",
+    "details_retry_at": "2026-04-13T12:51:10Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-asus-13-core-i3-1005g1-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-500-gb-ntegrovana/m5166815": {
+    "name": "Ноутбук Asus 13/core i3-1005g1 ddr4/8gb ddr4/hdd *відсутній/ssd 500 gb/*інтегрована",
+    "price_min": 5080,
+    "price_max": 5080,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Воскресенський, 34/2"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-13T11:51:10Z",
+    "price_history": [
+      {
+        "price": 5080,
+        "at": "2026-04-13T11:51:10Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-13T11:51:10Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-lenovo-chromebook-ekr-14-mediatek-kompanio-520-ram-4gb-ssd-32gb/m5166767": {
+    "name": "Ноутбук Lenovo chromebook екр 14/ mediatek kompanio 520/ ram 4gb/ ssd 32gb",
+    "price_min": 2250,
+    "price_max": 2250,
+    "city": "Сокаль",
+    "addresses": [
+      "м. Сокаль, вул. Шептицького, 61"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-13T11:51:10Z",
+    "price_history": [
+      {
+        "price": 2250,
+        "at": "2026-04-13T11:51:10Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-13T11:51:10Z"
   }
 }
