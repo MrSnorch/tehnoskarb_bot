@@ -1627,7 +1627,7 @@
       "м. Львів, вул. Княгині Ольги, 114",
       "м. Київ,  вул. Драгоманова, 27"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -4516,27 +4516,6 @@
     "price_history": [
       {
         "price": 7000,
-        "at": "2026-04-06T13:04:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-06T13:04:00Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-apple-macbook-pro-16-2019-a2141-core-i9-2-4ghz-ram16gb-ssd1tb-uhd-graphics-630/m5163659": {
-    "name": "Ноутбук Apple macbook pro 16\" 2019 a2141 core i9 2,4ghz/ram16gb/ssd1tb/uhd graphics 630",
-    "price_min": 20000,
-    "price_max": 20000,
-    "city": "Хмельницький",
-    "addresses": [
-      "м. Хмельницький, вул. Кам`янецька, 11"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-06T13:04:00Z",
-    "price_history": [
-      {
-        "price": 20000,
         "at": "2026-04-06T13:04:00Z"
       }
     ],
@@ -10842,9 +10821,9 @@
         "at": "2026-04-11T09:45:11Z"
       }
     ],
-    "details_failures": 14,
-    "details_last_attempt": "2026-04-14T09:03:48Z",
-    "details_retry_at": "2026-04-14T15:03:48Z"
+    "details_failures": 15,
+    "details_last_attempt": "2026-04-14T15:50:23Z",
+    "details_retry_at": "2026-04-14T21:50:23Z"
   },
   "https://tehnoskarb.ua/noutbuk-hp-13-pentium-n5000-ddr4-8gb-ddr4-ssd-128-gb-ntegrovana/m5156145": {
     "name": "Ноутбук Hp 13/pentium n5000 ddr4/8gb ddr4/ssd 128 gb/*інтегрована",
@@ -11518,9 +11497,9 @@
         "at": "2026-04-14T10:46:55Z"
       }
     ],
-    "details_failures": 9,
-    "details_last_attempt": "2026-04-14T09:03:48Z",
-    "details_retry_at": "2026-04-14T15:03:48Z"
+    "details_failures": 10,
+    "details_last_attempt": "2026-04-14T15:50:23Z",
+    "details_retry_at": "2026-04-14T21:50:23Z"
   },
   "https://tehnoskarb.ua/noutbuk-hp-15-core-i5-6200u-ddr3-6gb-ddr3-hdd-vdsutnjj-ssd-128-gb-ntegrovana/m5166878": {
     "name": "Ноутбук Hp 15/core i5 6200u ddr3/6gb ddr3/hdd *відсутній/ssd 128 gb/*інтегрована",
@@ -11832,9 +11811,9 @@
         "at": "2026-04-13T15:17:40Z"
       }
     ],
-    "details_failures": 6,
-    "details_last_attempt": "2026-04-14T09:03:48Z",
-    "details_retry_at": "2026-04-14T15:03:48Z"
+    "details_failures": 7,
+    "details_last_attempt": "2026-04-14T15:50:23Z",
+    "details_retry_at": "2026-04-14T21:50:23Z"
   },
   "https://tehnoskarb.ua/montor-lg-e2242/m5144072": {
     "name": "Монітор Lg e2242",
@@ -12968,5 +12947,89 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-14T14:05:55Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635": {
+    "name": "Монітор Msi pro mp252",
+    "price_min": 3100,
+    "price_max": 3100,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, б-р Чоколовський, 21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-04-14T15:50:23Z",
+    "price_history": [
+      {
+        "price": 3100,
+        "at": "2026-04-14T15:50:23Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-14T15:50:23Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-g24c6-optix/m5104633": {
+    "name": "Монітор Msi g24c6 optix",
+    "price_min": 2990,
+    "price_max": 2990,
+    "city": "Запоріжжя",
+    "addresses": [
+      "м. Запоріжжя, вул. Ентузіастів, 3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-04-14T15:50:23Z",
+    "price_history": [
+      {
+        "price": 2990,
+        "at": "2026-04-14T15:50:23Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-14T15:50:23Z"
+  },
+  "https://tehnoskarb.ua/noutbuk--15-core-i7-13620h-ddr5-16gb-ddr5-ssd-1000-gb-geforce-rtx4060-8gb/m5166651": {
+    "name": "Ноутбук  15/core i7-13620h ddr5/16gb ddr5/ssd 1000 gb/geforce rtx4060 8gb",
+    "price_min": 36000,
+    "price_max": 36000,
+    "city": "Біла Церква",
+    "addresses": [
+      "м. Біла Церква, вул. Ярослава Мудрого, 22"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-14T15:50:23Z",
+    "price_history": [
+      {
+        "price": 36000,
+        "at": "2026-04-14T15:50:23Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-14T15:50:23Z"
+  },
+  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-8100-ram-8-gb-hdd-vdsutnjj-ssd-128-gb-ntegrovana/m5164912": {
+    "name": "Системний блок Пк intel core i3-8100/ram 8 gb/hdd відсутній/ssd 128 gb/інтегрована",
+    "price_min": 4400,
+    "price_max": 4400,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Братства тарасівців, 2А"
+    ],
+    "offers_count": 1,
+    "category": "Системні блоки",
+    "category_emoji": "🖨",
+    "first_seen": "2026-04-14T15:50:23Z",
+    "price_history": [
+      {
+        "price": 4400,
+        "at": "2026-04-14T15:50:23Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-14T15:50:23Z"
   }
 }
