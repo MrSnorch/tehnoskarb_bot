@@ -11226,27 +11226,6 @@
     "details_last_attempt": "2026-04-14T02:51:40Z",
     "details_retry_at": "2026-04-14T08:51:40Z"
   },
-  "https://tehnoskarb.ua/noutbuk-pixus-link-16-512gb/m5156447": {
-    "name": "Ноутбук Pixus link 16/512gb",
-    "price_min": 12240,
-    "price_max": 12240,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Ялтинська, 8"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-11T09:45:11Z",
-    "price_history": [
-      {
-        "price": 12240,
-        "at": "2026-04-11T09:45:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-11T09:45:11Z"
-  },
   "https://tehnoskarb.ua/noutbuk-hp-13-pentium-n5000-ddr4-8gb-ddr4-ssd-128-gb-ntegrovana/m5156145": {
     "name": "Ноутбук Hp 13/pentium n5000 ddr4/8gb ddr4/ssd 128 gb/*інтегрована",
     "price_min": 3690,
@@ -12799,27 +12778,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-13T19:48:36Z"
   },
-  "https://tehnoskarb.ua/noutbuk-hp-14-celeron-n3450-ddr3-4gb-ddr3-hdd-vdsutnjj-ssd-64-gb-ntegrovana/m5154040": {
-    "name": "Ноутбук Hp 14/celeron n3450 ddr3/4gb ddr3/hdd *відсутній/ssd 64 gb/*інтегрована",
-    "price_min": 2115,
-    "price_max": 2115,
-    "city": "Львів",
-    "addresses": [
-      "м. Львів, вул. Промислова, 50/52"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-13T20:59:07Z",
-    "price_history": [
-      {
-        "price": 2115,
-        "at": "2026-04-13T20:59:07Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-13T20:59:07Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064": {
     "name": "Монітор Samsung syncmaster 931bf",
     "price_min": 580,
@@ -12878,9 +12836,9 @@
         "at": "2026-04-14T05:27:45Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-04-14T05:27:45Z",
-    "details_retry_at": "2026-04-14T05:57:45Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-04-14T07:08:48Z",
+    "details_retry_at": "2026-04-14T08:08:48Z"
   },
   "https://tehnoskarb.ua/montor-samsung-ls22b300/m5140878": {
     "name": "Монітор Samsung ls22b300",
@@ -13066,8 +13024,50 @@
         "at": "2026-04-14T05:27:45Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-04-14T05:27:45Z",
-    "details_retry_at": "2026-04-14T05:57:45Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-04-14T07:08:48Z",
+    "details_retry_at": "2026-04-14T08:08:48Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-acer-15-core-i5-4210u-ddr3-8gb-ddr3-hdd-1000-gb-ssd-240-gb-ntegrovana/m5166971": {
+    "name": "Ноутбук Acer 15/core i5 4210u ddr3/8gb ddr3/hdd 1000 gb/ssd 240 gb/*інтегрована",
+    "price_min": 3500,
+    "price_max": 3500,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-14T07:08:48Z",
+    "price_history": [
+      {
+        "price": 3500,
+        "at": "2026-04-14T07:08:48Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-14T07:08:48Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-dell-15-core-i5-12500h-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-512-gb-geforce-rtx4060-8gb/m5165203": {
+    "name": "Ноутбук Dell 15/core i5-12500h ddr5/16gb ddr5/hdd *відсутній/ssd 512 gb/geforce rtx4060 8gb",
+    "price_min": 36000,
+    "price_max": 36000,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Миру, 2/3"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-14T07:08:48Z",
+    "price_history": [
+      {
+        "price": 36000,
+        "at": "2026-04-14T07:08:48Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-14T07:08:48Z"
   }
 }
