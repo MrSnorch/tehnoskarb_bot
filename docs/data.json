@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-15T20:06:32Z",
+  "updated_at": "2026-04-15T21:27:34Z",
   "stats": {
     "total": 630,
-    "avg_price": 9689,
+    "avg_price": 9682,
     "min_price": 90,
     "max_price": 140000,
     "cities": [
@@ -4586,6 +4586,26 @@
       "category_emoji": "💻"
     },
     {
+      "name": "Ноутбук Asus 17/core i3 3120m ddr3/4gb ddr3/hdd 750 gb/ssd *відсутній/geforce 740m",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-17-core-i3-3120m-ddr3-4gb-ddr3-hdd-750-gb-ssd-vdsutnjj-geforce-740m/m5166506",
+      "price_min": 3140,
+      "price_max": 3140,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-15T21:27:12Z",
+      "price_history": [
+        {
+          "price": 3140,
+          "at": "2026-04-15T21:27:12Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
       "name": "Ноутбук Apple macbook air a1369 13,3\" core i7 1,7ghz/ram4gb/ssd256gb/intel hd graphics 3000",
       "url": "https://tehnoskarb.ua/noutbuk-apple-macbook-air-a1369-13-3-core-i7-1-7ghz-ram4gb-ssd256gb-intel-hd-graphics-3000/m5166121",
       "price_min": 3150,
@@ -8312,26 +8332,6 @@
       ],
       "category": "Монітори",
       "category_emoji": "🖥"
-    },
-    {
-      "name": "Ноутбук Acer 15/core i3-1115g4 ddr4/8gb ddr4/ssd 240 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-acer-15-core-i3-1115g4-ddr4-8gb-ddr4-ssd-240-gb-ntegrovana/m5166590",
-      "price_min": 7250,
-      "price_max": 7250,
-      "city": "Миколаїв",
-      "addresses": [
-        "м. Миколаїв, вул. 3-я Слобідська, 51"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-11T18:51:38Z",
-      "price_history": [
-        {
-          "price": 7250,
-          "at": "2026-04-11T18:51:38Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
     },
     {
       "name": "Ноутбук Hp 15/core i3-1115g4 ddr4/8gb ddr2/ssd 256 gb/*інтегрована",
@@ -12752,24 +12752,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Ноутбук Lenovo 15/athlon 7120u ddr5/8gb ddr5/hdd *відсутній/ssd 512 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-athlon-7120u-ddr5-8gb-ddr5-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5159212",
-      "price": 9570,
-      "city": "",
-      "category": "Ноутбуки",
-      "at": "2026-04-15T09:57:15Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Hp 15/celeron n4500 ddr4/8gb ddr4/hdd *відсутній/ssd 250 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-15-celeron-n4500-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-250-gb-ntegrovana/m5159214",
-      "price": 5080,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-15T09:57:15Z"
-    },
-    {
-      "type": "new",
       "name": "Ноутбук Dell 15/core i5 3360m ddr3/8gb ddr3/hdd *відсутній/ssd 250 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-dell-15-core-i5-3360m-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-250-gb-ntegrovana/m5159110",
       "price": 3340,
@@ -14549,6 +14531,24 @@
       "city": "Бориспіль",
       "category": "Системні блоки",
       "at": "2026-04-15T20:05:02Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Acer 15/core i3-1115g4 ddr4/8gb ddr4/ssd 240 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-acer-15-core-i3-1115g4-ddr4-8gb-ddr4-ssd-240-gb-ntegrovana/m5166590",
+      "price": 7250,
+      "city": "Миколаїв",
+      "category": "Ноутбуки",
+      "at": "2026-04-15T21:27:12Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Asus 17/core i3 3120m ddr3/4gb ddr3/hdd 750 gb/ssd *відсутній/geforce 740m",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-17-core-i3-3120m-ddr3-4gb-ddr3-hdd-750-gb-ssd-vdsutnjj-geforce-740m/m5166506",
+      "price": 3140,
+      "city": "Запоріжжя",
+      "category": "Ноутбуки",
+      "at": "2026-04-15T21:27:12Z"
     }
   ],
   "config": {
