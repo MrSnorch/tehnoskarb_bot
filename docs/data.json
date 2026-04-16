@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-16T12:45:17Z",
+  "updated_at": "2026-04-16T14:58:43Z",
   "stats": {
     "total": 632,
-    "avg_price": 9775,
+    "avg_price": 9796,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -8182,26 +8182,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Ноутбук Hp 14/ryzen 3 3200u ddr4/8gb ddr4/ssd 320 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-14-ryzen-3-3200u-ddr4-8gb-ddr4-ssd-320-gb-ntegrovana/m5161545",
-      "price_min": 6900,
-      "price_max": 6900,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Промислова, 50/52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-15T09:57:15Z",
-      "price_history": [
-        {
-          "price": 6900,
-          "at": "2026-04-15T09:57:15Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
       "name": "Системний блок Пк intel core i5-6600k/ram 8 gb/hdd 1000 gb/ssd 120 gb/інтегрована",
       "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-6600k-ram-8-gb-hdd-1000-gb-ssd-120-gb-ntegrovana/m5161264",
       "price_min": 6900,
@@ -11159,6 +11139,26 @@
       "category_emoji": "🖨"
     },
     {
+      "name": "Ноутбук Asus 15/ryzen 7 5800h ddr4/16gb ddr4/hdd *відсутній/ssd 1000 gb/geforce rtx3050 4gb",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-7-5800h-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-1000-gb-geforce-rtx3050-4gb/m5154580",
+      "price_min": 19800,
+      "price_max": 19800,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-16T14:58:16Z",
+      "price_history": [
+        {
+          "price": 19800,
+          "at": "2026-04-16T14:58:16Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
       "name": "Ноутбук Asus 15/core i7-13620h ddr5/16gb ddr4/ssd 512 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-asus-15-core-i7-13620h-ddr5-16gb-ddr4-ssd-512-gb-ntegrovana/m5167030",
       "price_min": 20010,
@@ -12822,24 +12822,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Системний блок Пк amd a10-5800k/ ram 4gb/ hdd 500gb/ ssd 120gb/ amd radeon hd7660d 768mb",
-      "url": "https://tehnoskarb.ua/sistemnijj-blok-pk-amd-a10-5800k-ram-4gb-hdd-500gb-ssd-120gb-amd-radeon-hd7660d-768mb/m5161732",
-      "price": 1900,
-      "city": "Кривий Ріг",
-      "category": "Системні блоки",
-      "at": "2026-04-15T09:57:15Z"
-    },
-    {
-      "type": "new",
-      "name": "Системний блок Пк intel core i5-6600k/ram 8 gb/hdd 320 gb/ssd відсутній/nvidia gt 730 (geforce) 2gb ddr3 64bit",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-6600k-ram-8-gb-hdd-320-gb-ssd-vdsutnjj-nvidia-gt-730-geforce-2gb-ddr3-64bit/m5161583",
-      "price": 5170,
-      "city": "Одеса",
-      "category": "Системні блоки",
-      "at": "2026-04-15T09:57:15Z"
-    },
     {
       "type": "new",
       "name": "Системний блок Пк amd ryzen 5 5500/ram 16 gb/hdd 160 gb/ssd 1000 gb/nvidia rtx 3060 (geforce) 8gb gddr6 128bit",
@@ -14628,6 +14610,24 @@
       "city": "Львів",
       "category": "Системні блоки",
       "at": "2026-04-16T12:43:25Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Hp 14/ryzen 3 3200u ddr4/8gb ddr4/ssd 320 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-hp-14-ryzen-3-3200u-ddr4-8gb-ddr4-ssd-320-gb-ntegrovana/m5161545",
+      "price": 6900,
+      "city": "Львів",
+      "category": "Ноутбуки",
+      "at": "2026-04-16T14:58:16Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Asus 15/ryzen 7 5800h ddr4/16gb ddr4/hdd *відсутній/ssd 1000 gb/geforce rtx3050 4gb",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-7-5800h-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-1000-gb-geforce-rtx3050-4gb/m5154580",
+      "price": 19800,
+      "city": "Київ",
+      "category": "Ноутбуки",
+      "at": "2026-04-16T14:58:16Z"
     }
   ],
   "config": {
