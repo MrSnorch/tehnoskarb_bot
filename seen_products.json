@@ -3492,26 +3492,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-06T13:04:00Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-730bf/m5068988": {
-    "name": "Монітор Samsung 730bf",
-    "price_min": 90,
-    "price_max": 90,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-04-06T13:45:17Z",
-    "price_history": [
-      {
-        "price": 90,
-        "at": "2026-04-06T13:45:17Z"
-      }
-    ],
-    "details_failures": 38,
-    "details_last_attempt": "2026-04-16T06:03:56Z",
-    "details_retry_at": "2026-04-16T12:03:56Z"
-  },
   "https://tehnoskarb.ua/noutbuk-lenovo-15-pentium-3558u-ddr3-4gb-ddr3-hdd-500-gb-radeon-hd8550m/m5165958": {
     "name": "Ноутбук Lenovo 15/pentium 3558u ddr3/4gb ddr3/hdd 500 gb/radeon hd8550m",
     "price_min": 3750,
@@ -10829,27 +10809,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-15T09:57:15Z"
   },
-  "https://tehnoskarb.ua/noutbuk-asus-15-core-i7-12700h-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5155346": {
-    "name": "Ноутбук Asus 15/core i7-12700h ddr5/16gb ddr5/hdd *відсутній/ssd 512 gb/*інтегрована",
-    "price_min": 20250,
-    "price_max": 20250,
-    "city": "Одеса",
-    "addresses": [
-      "м. Одеса, вул. Корольова, 80"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-15T09:57:15Z",
-    "price_history": [
-      {
-        "price": 20250,
-        "at": "2026-04-15T09:57:15Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-15T09:57:15Z"
-  },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-6300-ram-8-gb-hdd-vdsutnjj-ssd-256-gb-ntegrovana/m5163235": {
     "name": "Системний блок Пк intel core i3-6300/ram 8 gb/hdd відсутній/ssd 256 gb/інтегрована",
     "price_min": 4320,
@@ -12170,8 +12129,8 @@
   },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-3470-ram-8-gb-hdd-500-gb-ssd-120-gb-amd-ati-radeon-rx-550-2gb-gddr5-128bit/m5149076": {
     "name": "Системний блок Пк intel core i5-3470/ram 8 gb/hdd 500 gb/ssd 120 gb/amd/ ati radeon rx 550 2gb gddr5 128bit",
-    "price_min": 5000,
-    "price_max": 5000,
+    "price_min": 4500,
+    "price_max": 4500,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
@@ -12184,6 +12143,10 @@
       {
         "price": 5000,
         "at": "2026-04-15T09:57:15Z"
+      },
+      {
+        "price": 4500,
+        "at": "2026-04-16T08:14:04Z"
       }
     ],
     "details_failures": 0,
@@ -12420,8 +12383,8 @@
   },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-7100t-ram-4-gb-hdd-80-gb-ssd-vdsutnjj-ntegrovana/m5079383": {
     "name": "Системний блок Пк intel core i3-7100t/ram 4 gb/hdd 80 gb/ssd відсутній/інтегрована",
-    "price_min": 3200,
-    "price_max": 3200,
+    "price_min": 2900,
+    "price_max": 2900,
     "city": "Київ",
     "addresses": [
       "м. Київ, б-р М. Міхновського, 25"
@@ -12434,6 +12397,10 @@
       {
         "price": 3200,
         "at": "2026-04-15T09:57:15Z"
+      },
+      {
+        "price": 2900,
+        "at": "2026-04-16T08:14:04Z"
       }
     ],
     "details_failures": 0,
@@ -13174,5 +13141,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-16T06:03:56Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-hp-15-amd-a6-7310-ddr3-4gb-ddr3-hdd-vdsutnjj-ssd-128-gb-ntegrovana/m5167264": {
+    "name": "Ноутбук Hp 15/amd a6 7310 ddr3/4gb ddr3/hdd *відсутній/ssd 128 gb/*інтегрована",
+    "price_min": 3270,
+    "price_max": 3270,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Правди, 41-А"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-16T08:14:04Z",
+    "price_history": [
+      {
+        "price": 3270,
+        "at": "2026-04-16T08:14:04Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-16T08:14:04Z"
   }
 }
