@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-17T10:41:18Z",
+  "updated_at": "2026-04-17T11:55:31Z",
   "stats": {
-    "total": 638,
-    "avg_price": 9696,
+    "total": 637,
+    "avg_price": 9851,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -358,28 +358,6 @@
         {
           "price": 300,
           "at": "2026-04-09T17:38:03Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 236v3lab/01",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
-      "price_min": 300,
-      "price_max": 870,
-      "city": "",
-      "addresses": [],
-      "offers": 2,
-      "first_seen": "2026-04-14T05:27:45Z",
-      "price_history": [
-        {
-          "price": 870,
-          "at": "2026-04-14T05:27:45Z"
-        },
-        {
-          "price": 300,
-          "at": "2026-04-17T09:22:15Z"
         }
       ],
       "category": "Монітори",
@@ -1630,6 +1608,32 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Philips 236v3lab/01",
+      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
+      "price_min": 870,
+      "price_max": 870,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-04-14T05:27:45Z",
+      "price_history": [
+        {
+          "price": 870,
+          "at": "2026-04-14T05:27:45Z"
+        },
+        {
+          "price": 300,
+          "at": "2026-04-17T09:22:15Z"
+        },
+        {
+          "price": 870,
+          "at": "2026-04-17T11:54:08Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg e2241",
       "url": "https://tehnoskarb.ua/montor-lg-e2241/m5157951",
       "price_min": 880,
@@ -1941,26 +1945,6 @@
         {
           "price": 1140,
           "at": "2026-04-05T19:39:53Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung ls22b300",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls22b300/m5140878",
-      "price_min": 1140,
-      "price_max": 1140,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-14T05:27:45Z",
-      "price_history": [
-        {
-          "price": 1140,
-          "at": "2026-04-14T05:27:45Z"
         }
       ],
       "category": "Монітори",
@@ -5318,6 +5302,26 @@
         {
           "price": 3620,
           "at": "2026-04-08T07:26:44Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung c32f391fwn",
+      "url": "https://tehnoskarb.ua/montor-samsung-c32f391fwn/m5167553",
+      "price_min": 3620,
+      "price_max": 3620,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Тулузи, 2/58"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-17T11:54:08Z",
+      "price_history": [
+        {
+          "price": 3620,
+          "at": "2026-04-17T11:54:08Z"
         }
       ],
       "category": "Монітори",
@@ -9005,26 +9009,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Ноутбук Hp 15/ryzen 5 4500u ddr4/8gb ddr4/ssd 500 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-15-ryzen-5-4500u-ddr4-8gb-ddr4-ssd-500-gb-ntegrovana/m5159903",
-      "price_min": 8790,
-      "price_max": 8790,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. В. Перспективна, 18/14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-15T09:57:15Z",
-      "price_history": [
-        {
-          "price": 8790,
-          "at": "2026-04-15T09:57:15Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
       "name": "Системний блок Пк intel core i5-6500/ram 16 gb/hdd 500 gb/ssd 120 gb/amd/ ati radeon rx 580 8gb gddr5 256bit",
       "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-6500-ram-16-gb-hdd-500-gb-ssd-120-gb-amd-ati-radeon-rx-580-8gb-gddr5-256bit/m5161343",
       "price_min": 8800,
@@ -9039,26 +9023,6 @@
         {
           "price": 8800,
           "at": "2026-04-16T06:03:56Z"
-        }
-      ],
-      "category": "Системні блоки",
-      "category_emoji": "🖨"
-    },
-    {
-      "name": "Системний блок Пк intel core i5-9400f/ram 8 gb/hdd відсутній/ssd 128 gb/nvidia gtx 1650 (geforce) 4gb gddr5 128bit",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-9400f-ram-8-gb-hdd-vdsutnjj-ssd-128-gb-nvidia-gtx-1650-geforce-4gb-gddr5-128bit/m5167134",
-      "price_min": 8800,
-      "price_max": 8800,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. О. Архипенка, 1/12"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-17T09:22:15Z",
-      "price_history": [
-        {
-          "price": 8800,
-          "at": "2026-04-17T09:22:15Z"
         }
       ],
       "category": "Системні блоки",
@@ -12927,6 +12891,26 @@
       "category_emoji": "💻"
     },
     {
+      "name": "Ноутбук Apple macbook pro 16 late 2024 / apple m4 max/ ram 36gb / ssd 1tb / m4 max 40 core gpu",
+      "url": "https://tehnoskarb.ua/noutbuk-apple-macbook-pro-16-late-2024-apple-m4-max-ram-36gb-ssd-1tb-m4-max-40-core-gpu/m5167276",
+      "price_min": 103250,
+      "price_max": 103250,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Велика Васильківська, 74 (м. Олімпійська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-17T11:54:08Z",
+      "price_history": [
+        {
+          "price": 103250,
+          "at": "2026-04-17T11:54:08Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
       "name": "Ноутбук Lenovo 16/core i9-14900hx ddr5/16gb ddr5/ssd 1000 gb/geforce rtx4090 16gb",
       "url": "https://tehnoskarb.ua/noutbuk-lenovo-16-core-i9-14900hx-ddr5-16gb-ddr5-ssd-1000-gb-geforce-rtx4090-16gb/m5160756",
       "price_min": 125220,
@@ -12968,60 +12952,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Ноутбук Msi 16/ryzen 7 4800h ddr4/16gb ddr4/ssd 1000 gb/geforce rtx3060 6gb",
-      "url": "https://tehnoskarb.ua/noutbuk-msi-16-ryzen-7-4800h-ddr4-16gb-ddr4-ssd-1000-gb-geforce-rtx3060-6gb/m5167104",
-      "price": 26100,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-15T12:11:28Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Lenovo 11/celeron n3050 ddr3/3gb ddr3/hdd *відсутній/ssd 32 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-11-celeron-n3050-ddr3-3gb-ddr3-hdd-vdsutnjj-ssd-32-gb-ntegrovana/m5154624",
-      "price": 1700,
-      "city": "Хмельницький",
-      "category": "Ноутбуки",
-      "at": "2026-04-15T12:11:28Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Lenovo 11/celeron n3050 ddr3/3gb ddr3/hdd *відсутній/ssd 24 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-11-celeron-n3050-ddr3-3gb-ddr3-hdd-vdsutnjj-ssd-24-gb-ntegrovana/m5154623",
-      "price": 1500,
-      "city": "Хмельницький",
-      "category": "Ноутбуки",
-      "at": "2026-04-15T12:11:28Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Asus 15/ryzen 7 5800h ddr4/16gb ddr4/hdd *відсутній/ssd 1000 gb/geforce rtx3050 4gb",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-7-5800h-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-1000-gb-geforce-rtx3050-4gb/m5154580",
-      "price": 19800,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-15T12:11:28Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Asus 15/ryzen 5 4600h ddr4/16gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-5-4600h-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5154579",
-      "price": 10920,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-15T12:11:28Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Acer 15/ryzen 5 7535hs ddr5/16gb ddr4/hdd *відсутній/ssd 512 gb/geforce rtx4050 6gb",
-      "url": "https://tehnoskarb.ua/noutbuk-acer-15-ryzen-5-7535hs-ddr5-16gb-ddr4-hdd-vdsutnjj-ssd-512-gb-geforce-rtx4050-6gb/m5154508",
-      "price": 28000,
-      "city": "Львів",
-      "category": "Ноутбуки",
-      "at": "2026-04-15T12:11:28Z"
-    },
     {
       "type": "new",
       "name": "Ноутбук Lenovo 14/core i5-4300u ddr3/4gb ddr3/ssd 240 gb/*інтегрована",
@@ -14782,6 +14712,61 @@
       "city": "Малин",
       "category": "Ноутбуки",
       "at": "2026-04-17T10:40:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung ls22b300",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls22b300/m5140878",
+      "price": 1140,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-04-17T11:54:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Hp 15/ryzen 5 4500u ddr4/8gb ddr4/ssd 500 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-hp-15-ryzen-5-4500u-ddr4-8gb-ddr4-ssd-500-gb-ntegrovana/m5159903",
+      "price": 8790,
+      "city": "Кропивницький",
+      "category": "Ноутбуки",
+      "at": "2026-04-17T11:54:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Системний блок Пк intel core i5-9400f/ram 8 gb/hdd відсутній/ssd 128 gb/nvidia gtx 1650 (geforce) 4gb gddr5 128bit",
+      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-9400f-ram-8-gb-hdd-vdsutnjj-ssd-128-gb-nvidia-gtx-1650-geforce-4gb-gddr5-128bit/m5167134",
+      "price": 8800,
+      "city": "Київ",
+      "category": "Системні блоки",
+      "at": "2026-04-17T11:54:08Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung c32f391fwn",
+      "url": "https://tehnoskarb.ua/montor-samsung-c32f391fwn/m5167553",
+      "price": 3620,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-04-17T11:54:08Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Philips 236v3lab/01",
+      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
+      "price_old": 300,
+      "price_new": 870,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-04-17T11:54:08Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Apple macbook pro 16 late 2024 / apple m4 max/ ram 36gb / ssd 1tb / m4 max 40 core gpu",
+      "url": "https://tehnoskarb.ua/noutbuk-apple-macbook-pro-16-late-2024-apple-m4-max-ram-36gb-ssd-1tb-m4-max-40-core-gpu/m5167276",
+      "price": 103250,
+      "city": "Київ",
+      "category": "Ноутбуки",
+      "at": "2026-04-17T11:54:08Z"
     }
   ],
   "config": {
