@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-17T13:26:54Z",
+  "updated_at": "2026-04-17T14:42:16Z",
   "stats": {
-    "total": 634,
-    "avg_price": 9871,
+    "total": 631,
+    "avg_price": 9906,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -591,27 +591,6 @@
       "price_history": [
         {
           "price": 370,
-          "at": "2026-04-05T19:39:53Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vw193d-b",
-      "url": "https://tehnoskarb.ua/montor-asus-vw193d-b/m5157389",
-      "price_min": 400,
-      "price_max": 840,
-      "city": "Полтава",
-      "addresses": [
-        "м. Полтава, вул. Івана Мазепи, 26",
-        "м. Кам`янське, вул. Мурахтова, 4"
-      ],
-      "offers": 2,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 400,
           "at": "2026-04-05T19:39:53Z"
         }
       ],
@@ -1528,6 +1507,31 @@
         {
           "price": 820,
           "at": "2026-04-05T19:39:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vw193d-b",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d-b/m5157389",
+      "price_min": 840,
+      "price_max": 840,
+      "city": "Полтава",
+      "addresses": [
+        "м. Полтава, вул. Івана Мазепи, 26",
+        "м. Кам`янське, вул. Мурахтова, 4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-05T19:39:53Z",
+      "price_history": [
+        {
+          "price": 400,
+          "at": "2026-04-05T19:39:53Z"
+        },
+        {
+          "price": 840,
+          "at": "2026-04-17T14:41:51Z"
         }
       ],
       "category": "Монітори",
@@ -3136,26 +3140,6 @@
       "category_emoji": "💻"
     },
     {
-      "name": "Монітор Lg 24mk430h",
-      "url": "https://tehnoskarb.ua/montor-lg-24mk430h/m5153163",
-      "price_min": 2110,
-      "price_max": 2110,
-      "city": "Суми",
-      "addresses": [
-        "м. Суми, вул. Збройних Сил України (Інтернаціоналістів), 12"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-07T19:18:46Z",
-      "price_history": [
-        {
-          "price": 2110,
-          "at": "2026-04-07T19:18:46Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq gl2460",
       "url": "https://tehnoskarb.ua/montor-benq-gl2460/m5165717",
       "price_min": 2110,
@@ -3194,26 +3178,6 @@
       ],
       "category": "Ноутбуки",
       "category_emoji": "💻"
-    },
-    {
-      "name": "Монітор Vinga 24s110-11b",
-      "url": "https://tehnoskarb.ua/montor-vinga-24s110-11b/m5166926",
-      "price_min": 2120,
-      "price_max": 2120,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Грушевського, 67"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-13T18:05:51Z",
-      "price_history": [
-        {
-          "price": 2120,
-          "at": "2026-04-13T18:05:51Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
     },
     {
       "name": "Ноутбук Lenovo 15/pentium b950 ddr3/4gb ddr3/ssd 120 gb/*інтегрована",
@@ -5306,26 +5270,6 @@
         {
           "price": 3660,
           "at": "2026-04-08T14:54:17Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Aoc q24v4ea",
-      "url": "https://tehnoskarb.ua/montor-aoc-q24v4ea/m5154011",
-      "price_min": 3690,
-      "price_max": 3690,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 3690,
-          "at": "2026-04-05T19:39:53Z"
         }
       ],
       "category": "Монітори",
@@ -12901,42 +12845,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Системний блок Пк intel core i3-4130/ram 8 gb/hdd 500 gb/ssd відсутній/інтегрована",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-4130-ram-8-gb-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5079035",
-      "price": 1530,
-      "city": "",
-      "category": "Системні блоки",
-      "at": "2026-04-15T15:47:58Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Msi 16/ryzen 7 4800h ddr4/16gb ddr4/ssd 1000 gb/geforce rtx3060 6gb",
-      "url": "https://tehnoskarb.ua/noutbuk-msi-16-ryzen-7-4800h-ddr4-16gb-ddr4-ssd-1000-gb-geforce-rtx3060-6gb/m5167104",
-      "price": 26100,
-      "city": "",
-      "category": "Ноутбуки",
-      "at": "2026-04-15T15:47:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Dell 14/core i5 4310u ddr3/8gb ddr3/hdd 500 gb/ssd *відсутній/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-dell-14-core-i5-4310u-ddr3-8gb-ddr3-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5159469",
-      "price": 2830,
-      "city": "Вишневе",
-      "category": "Ноутбуки",
-      "at": "2026-04-15T15:47:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Asus 17/ryzen 7 6800h ddr5/16gb ddr5/hdd *відсутній/ssd 512 gb/geforce rtx3050 6gb",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-17-ryzen-7-6800h-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-512-gb-geforce-rtx3050-6gb/m5154053",
-      "price": 20000,
-      "city": "Хмельницький",
-      "category": "Ноутбуки",
-      "at": "2026-04-15T15:47:58Z"
-    },
-    {
       "type": "new",
       "name": "Ноутбук Hp 14/celeron n3450 ddr3/4gb ddr3/hdd *відсутній/ssd 64 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-hp-14-celeron-n3450-ddr3-4gb-ddr3-hdd-vdsutnjj-ssd-64-gb-ntegrovana/m5154040",
@@ -14717,6 +14625,43 @@
       "city": "Бровари",
       "category": "Системні блоки",
       "at": "2026-04-17T13:26:11Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc q24v4ea",
+      "url": "https://tehnoskarb.ua/montor-aoc-q24v4ea/m5154011",
+      "price": 3690,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-04-17T14:41:51Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 24mk430h",
+      "url": "https://tehnoskarb.ua/montor-lg-24mk430h/m5153163",
+      "price": 2110,
+      "city": "Суми",
+      "category": "Монітори",
+      "at": "2026-04-17T14:41:51Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Vinga 24s110-11b",
+      "url": "https://tehnoskarb.ua/montor-vinga-24s110-11b/m5166926",
+      "price": 2120,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-04-17T14:41:51Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Asus vw193d-b",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d-b/m5157389",
+      "price_old": 400,
+      "price_new": 840,
+      "city": "Полтава",
+      "category": "Монітори",
+      "at": "2026-04-17T14:41:51Z"
     }
   ],
   "config": {
