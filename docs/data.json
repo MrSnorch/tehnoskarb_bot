@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-18T15:07:27Z",
+  "updated_at": "2026-04-18T16:03:27Z",
   "stats": {
     "total": 631,
-    "avg_price": 9801,
+    "avg_price": 9802,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -359,38 +359,6 @@
         {
           "price": 300,
           "at": "2026-04-09T17:38:03Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 236v3lab/01",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
-      "price_min": 300,
-      "price_max": 870,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. О. Архипенка, 1/12"
-      ],
-      "offers": 2,
-      "first_seen": "2026-04-14T05:27:45Z",
-      "price_history": [
-        {
-          "price": 870,
-          "at": "2026-04-14T05:27:45Z"
-        },
-        {
-          "price": 300,
-          "at": "2026-04-17T09:22:15Z"
-        },
-        {
-          "price": 870,
-          "at": "2026-04-17T11:54:08Z"
-        },
-        {
-          "price": 300,
-          "at": "2026-04-17T13:26:11Z"
         }
       ],
       "category": "Монітори",
@@ -1639,6 +1607,42 @@
         {
           "price": 870,
           "at": "2026-04-05T19:39:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 236v3lab/01",
+      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
+      "price_min": 870,
+      "price_max": 870,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. О. Архипенка, 1/12"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-14T05:27:45Z",
+      "price_history": [
+        {
+          "price": 870,
+          "at": "2026-04-14T05:27:45Z"
+        },
+        {
+          "price": 300,
+          "at": "2026-04-17T09:22:15Z"
+        },
+        {
+          "price": 870,
+          "at": "2026-04-17T11:54:08Z"
+        },
+        {
+          "price": 300,
+          "at": "2026-04-17T13:26:11Z"
+        },
+        {
+          "price": 870,
+          "at": "2026-04-18T16:02:25Z"
         }
       ],
       "category": "Монітори",
@@ -12889,15 +12893,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Системний блок Пк amd ryzen 7 5800x/ram 32 gb/hdd відсутній/ssd 1000 gb+256 gb/nvidia rtx 3080 (geforce) 10gb gddr6x 3",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-7-5800x-ram-32-gb-hdd-vdsutnjj-ssd-1000-gb+256-gb-nvidia-rtx-3080-geforce-10gb-gddr6x-3/m5162415",
-      "price": 45000,
-      "city": "Буча",
-      "category": "Системні блоки",
-      "at": "2026-04-16T18:09:04Z"
-    },
-    {
-      "type": "sold",
       "name": "Ноутбук Asus 15/ryzen 7 5800h ddr4/16gb ddr4/hdd *відсутній/ssd 1000 gb/geforce rtx3050 4gb",
       "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-7-5800h-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-1000-gb-geforce-rtx3050-4gb/m5154580",
       "price": 19800,
@@ -14708,6 +14703,16 @@
       "city": "Одеса",
       "category": "Ноутбуки",
       "at": "2026-04-18T15:07:05Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Philips 236v3lab/01",
+      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
+      "price_old": 300,
+      "price_new": 870,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-04-18T16:02:25Z"
     }
   ],
   "config": {
