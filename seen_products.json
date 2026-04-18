@@ -1373,25 +1373,6 @@
     "category": "Монітори",
     "category_emoji": "🖥"
   },
-  "https://tehnoskarb.ua/montor-philips-203v5lsb26-10/m5138395": {
-    "name": "Монітор Philips 203v5lsb26/10",
-    "price_min": 700,
-    "price_max": 700,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 700,
-        "at": "2026-04-05T19:39:53Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
   "https://tehnoskarb.ua/montor-philips-191ew9fb/m5138394": {
     "name": "Монітор Philips 191ew9fb",
     "price_min": 410,
@@ -4072,27 +4053,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-08T19:22:18Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i3-2328m-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-240-gb-geforce-gt540m/m5166342": {
-    "name": "Ноутбук Lenovo 15/core i3 2328m ddr3/8gb ddr3/hdd *відсутній/ssd 240 gb/geforce gt540m",
-    "price_min": 2320,
-    "price_max": 2320,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Гната Юри, 11"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-08T21:11:40Z",
-    "price_history": [
-      {
-        "price": 2320,
-        "at": "2026-04-08T21:11:40Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-08T21:11:40Z"
   },
   "https://tehnoskarb.ua/montor-lg-23mp48hq-p/m5083687": {
     "name": "Монітор Lg 23mp48hq-p",
@@ -13256,5 +13216,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-18T13:21:07Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-lenovo-15-ryzen-5-5500u-ddr4-16gb-ddr4-ssd-512-gb-ntegrovana/m5155348": {
+    "name": "Ноутбук Lenovo 15/ryzen 5 5500u ddr4/16gb ddr4/ssd 512 gb/*інтегрована",
+    "price_min": 13000,
+    "price_max": 13000,
+    "city": "Одеса",
+    "addresses": [
+      "м. Одеса, вул. Фонтанська дорога, 65"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-18T15:07:05Z",
+    "price_history": [
+      {
+        "price": 13000,
+        "at": "2026-04-18T15:07:05Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-18T15:07:05Z"
   }
 }
