@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-18T16:03:27Z",
+  "updated_at": "2026-04-18T17:06:55Z",
   "stats": {
     "total": 631,
-    "avg_price": 9802,
+    "avg_price": 9795,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -359,6 +359,46 @@
         {
           "price": 300,
           "at": "2026-04-09T17:38:03Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 236v3lab/01",
+      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
+      "price_min": 300,
+      "price_max": 870,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. О. Архипенка, 1/12"
+      ],
+      "offers": 2,
+      "first_seen": "2026-04-14T05:27:45Z",
+      "price_history": [
+        {
+          "price": 870,
+          "at": "2026-04-14T05:27:45Z"
+        },
+        {
+          "price": 300,
+          "at": "2026-04-17T09:22:15Z"
+        },
+        {
+          "price": 870,
+          "at": "2026-04-17T11:54:08Z"
+        },
+        {
+          "price": 300,
+          "at": "2026-04-17T13:26:11Z"
+        },
+        {
+          "price": 870,
+          "at": "2026-04-18T16:02:25Z"
+        },
+        {
+          "price": 300,
+          "at": "2026-04-18T17:06:28Z"
         }
       ],
       "category": "Монітори",
@@ -1607,42 +1647,6 @@
         {
           "price": 870,
           "at": "2026-04-05T19:39:53Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 236v3lab/01",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
-      "price_min": 870,
-      "price_max": 870,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. О. Архипенка, 1/12"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-14T05:27:45Z",
-      "price_history": [
-        {
-          "price": 870,
-          "at": "2026-04-14T05:27:45Z"
-        },
-        {
-          "price": 300,
-          "at": "2026-04-17T09:22:15Z"
-        },
-        {
-          "price": 870,
-          "at": "2026-04-17T11:54:08Z"
-        },
-        {
-          "price": 300,
-          "at": "2026-04-17T13:26:11Z"
-        },
-        {
-          "price": 870,
-          "at": "2026-04-18T16:02:25Z"
         }
       ],
       "category": "Монітори",
@@ -3609,6 +3613,26 @@
       ],
       "category": "Монітори",
       "category_emoji": "🖥"
+    },
+    {
+      "name": "Ноутбук  10/celeron n4120 ddr4/6gb ddr3/hdd *відсутній/ssd 120 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk--10-celeron-n4120-ddr4-6gb-ddr3-hdd-vdsutnjj-ssd-120-gb-ntegrovana/m5155252",
+      "price_min": 2420,
+      "price_max": 2420,
+      "city": "Житомир",
+      "addresses": [
+        "м. Житомир, вул. Небесної Сотні, 15"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-18T17:06:28Z",
+      "price_history": [
+        {
+          "price": 2420,
+          "at": "2026-04-18T17:06:28Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
     },
     {
       "name": "Ноутбук Acer 15/e1 1200 ddr3/2gb ddr3/hdd 250 gb/ssd *відсутній/*інтегрована",
@@ -7985,26 +8009,6 @@
       ],
       "category": "Монітори",
       "category_emoji": "🖥"
-    },
-    {
-      "name": "Ноутбук Lenovo 16/n100 ddr4/8gb ddr4/hdd *відсутній/ssd 1200 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-16-n100-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-1200-gb-ntegrovana/m5166925",
-      "price_min": 6230,
-      "price_max": 6230,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Фединця, 17"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-18T05:10:20Z",
-      "price_history": [
-        {
-          "price": 6230,
-          "at": "2026-04-18T05:10:20Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
     },
     {
       "name": "Монітор Msi mag 275qf",
@@ -12892,33 +12896,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Ноутбук Asus 15/ryzen 7 5800h ddr4/16gb ddr4/hdd *відсутній/ssd 1000 gb/geforce rtx3050 4gb",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-7-5800h-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-1000-gb-geforce-rtx3050-4gb/m5154580",
-      "price": 19800,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-16T18:09:04Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Asus 15/ryzen 5 4600h ddr4/16gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-5-4600h-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5154579",
-      "price": 10920,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-16T18:09:04Z"
-    },
-    {
-      "type": "sold",
-      "name": "Системний блок Пк intel celeron g1840/ram 4 gb/hdd 250 gb/ssd відсутній/інтегрована",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-celeron-g1840-ram-4-gb-hdd-250-gb-ssd-vdsutnjj-ntegrovana/m5167429",
-      "price": 760,
-      "city": "Київ",
-      "category": "Системні блоки",
-      "at": "2026-04-16T18:09:04Z"
-    },
-    {
       "type": "new",
       "name": "Ноутбук Lenovo 16/ryzen 5 7535hs ddr5/16gb ddr5/ssd 512 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-lenovo-16-ryzen-5-7535hs-ddr5-16gb-ddr5-ssd-512-gb-ntegrovana/m5167495",
@@ -14713,6 +14690,34 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-04-18T16:02:25Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Lenovo 16/n100 ddr4/8gb ddr4/hdd *відсутній/ssd 1200 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-16-n100-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-1200-gb-ntegrovana/m5166925",
+      "price": 6230,
+      "city": "Ужгород",
+      "category": "Ноутбуки",
+      "at": "2026-04-18T17:06:28Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Philips 236v3lab/01",
+      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
+      "price_old": 870,
+      "price_new": 300,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-04-18T17:06:28Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук  10/celeron n4120 ddr4/6gb ddr3/hdd *відсутній/ssd 120 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk--10-celeron-n4120-ddr4-6gb-ddr3-hdd-vdsutnjj-ssd-120-gb-ntegrovana/m5155252",
+      "price": 2420,
+      "city": "Житомир",
+      "category": "Ноутбуки",
+      "at": "2026-04-18T17:06:28Z"
     }
   ],
   "config": {

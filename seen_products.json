@@ -5278,13 +5278,13 @@
   },
   "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554": {
     "name": "Монітор Philips 236v3lab/01",
-    "price_min": 870,
+    "price_min": 300,
     "price_max": 870,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. О. Архипенка, 1/12"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-04-14T05:27:45Z",
@@ -5308,6 +5308,10 @@
       {
         "price": 870,
         "at": "2026-04-18T16:02:25Z"
+      },
+      {
+        "price": 300,
+        "at": "2026-04-18T17:06:28Z"
       }
     ],
     "details_failures": 0,
@@ -12844,27 +12848,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-18T05:10:20Z"
   },
-  "https://tehnoskarb.ua/noutbuk-lenovo-16-n100-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-1200-gb-ntegrovana/m5166925": {
-    "name": "Ноутбук Lenovo 16/n100 ddr4/8gb ddr4/hdd *відсутній/ssd 1200 gb/*інтегрована",
-    "price_min": 6230,
-    "price_max": 6230,
-    "city": "Ужгород",
-    "addresses": [
-      "м. Ужгород, вул. Фединця, 17"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-18T05:10:20Z",
-    "price_history": [
-      {
-        "price": 6230,
-        "at": "2026-04-18T05:10:20Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-18T05:10:20Z"
-  },
   "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-5-7530u-ddr4-16gb-ddr4-ssd-512-gb-ntegrovana/m5164016": {
     "name": "Ноутбук Asus 15/ryzen 5 7530u ddr4/16gb ddr4/ssd 512 gb/*інтегрована",
     "price_min": 20000,
@@ -13241,5 +13224,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-18T15:07:05Z"
+  },
+  "https://tehnoskarb.ua/noutbuk--10-celeron-n4120-ddr4-6gb-ddr3-hdd-vdsutnjj-ssd-120-gb-ntegrovana/m5155252": {
+    "name": "Ноутбук  10/celeron n4120 ddr4/6gb ddr3/hdd *відсутній/ssd 120 gb/*інтегрована",
+    "price_min": 2420,
+    "price_max": 2420,
+    "city": "Житомир",
+    "addresses": [
+      "м. Житомир, вул. Небесної Сотні, 15"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-18T17:06:28Z",
+    "price_history": [
+      {
+        "price": 2420,
+        "at": "2026-04-18T17:06:28Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-18T17:06:28Z"
   }
 }
