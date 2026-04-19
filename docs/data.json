@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-19T07:25:19Z",
+  "updated_at": "2026-04-19T08:32:36Z",
   "stats": {
     "total": 634,
-    "avg_price": 10029,
+    "avg_price": 10023,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -3276,6 +3276,26 @@
       ],
       "category": "Монітори",
       "category_emoji": "🖥"
+    },
+    {
+      "name": "Ноутбук Asus 17/core i5 2450m ddr3/6gb ddr3/hdd 500 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-17-core-i5-2450m-ddr3-6gb-ddr3-hdd-500-gb-ntegrovana/m5167848",
+      "price_min": 2180,
+      "price_max": 2180,
+      "city": "Вишгород",
+      "addresses": [
+        "м. Вишгород, просп. Мазепи, 5"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-19T08:32:08Z",
+      "price_history": [
+        {
+          "price": 2180,
+          "at": "2026-04-19T08:32:08Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
     },
     {
       "name": "Монітор Lg m2352d",
@@ -7988,26 +8008,6 @@
       ],
       "category": "Монітори",
       "category_emoji": "🖥"
-    },
-    {
-      "name": "Ноутбук Lenovo 16/n100 ddr4/8gb ddr4/hdd *відсутній/ssd 1200 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-16-n100-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-1200-gb-ntegrovana/m5166925",
-      "price_min": 6230,
-      "price_max": 6230,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Фединця, 17"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-19T07:24:41Z",
-      "price_history": [
-        {
-          "price": 6230,
-          "at": "2026-04-19T07:24:41Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
     },
     {
       "name": "Монітор Msi mag 275qf",
@@ -12955,26 +12955,6 @@
   ],
   "events": [
     {
-      "type": "drop",
-      "name": "Монітор Samsung lf22t350f",
-      "url": "https://tehnoskarb.ua/montor-samsung-lf22t350f/m5139636",
-      "price_old": 2470,
-      "price_new": 2170,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-04-17T05:31:09Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Msi g255f",
-      "url": "https://tehnoskarb.ua/montor-msi-g255f/m5091244",
-      "price_old": 4500,
-      "price_new": 3900,
-      "city": "Жмеринка",
-      "category": "Монітори",
-      "at": "2026-04-17T05:31:09Z"
-    },
-    {
       "type": "new",
       "name": "Ноутбук Hp 17/core i3-n305 ddr5/8gb ddr5/hdd 500 gb/ssd *відсутній/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-hp-17-core-i3-n305-ddr5-8gb-ddr5-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5167650",
@@ -14778,6 +14758,24 @@
       "city": "",
       "category": "Ноутбуки",
       "at": "2026-04-19T07:24:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Lenovo 16/n100 ddr4/8gb ddr4/hdd *відсутній/ssd 1200 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-16-n100-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-1200-gb-ntegrovana/m5166925",
+      "price": 6230,
+      "city": "Ужгород",
+      "category": "Ноутбуки",
+      "at": "2026-04-19T08:32:08Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Asus 17/core i5 2450m ddr3/6gb ddr3/hdd 500 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-17-core-i5-2450m-ddr3-6gb-ddr3-hdd-500-gb-ntegrovana/m5167848",
+      "price": 2180,
+      "city": "Вишгород",
+      "category": "Ноутбуки",
+      "at": "2026-04-19T08:32:08Z"
     }
   ],
   "config": {
