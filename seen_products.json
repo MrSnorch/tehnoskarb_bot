@@ -13129,31 +13129,6 @@
     "details_last_attempt": "2026-04-19T13:08:44Z",
     "details_retry_at": "2026-04-19T17:08:44Z"
   },
-  "https://tehnoskarb.ua/noutbuk-asus-17-core-i5-2450m-ddr3-6gb-ddr3-hdd-500-gb-ntegrovana/m5167848": {
-    "name": "Ноутбук Asus 17/core i5 2450m ddr3/6gb ddr3/hdd 500 gb/*інтегрована",
-    "price_min": 2300,
-    "price_max": 2300,
-    "city": "Вишгород",
-    "addresses": [
-      "м. Вишгород, просп. Мазепи, 5"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-19T08:32:08Z",
-    "price_history": [
-      {
-        "price": 2180,
-        "at": "2026-04-19T08:32:08Z"
-      },
-      {
-        "price": 2300,
-        "at": "2026-04-19T09:51:05Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-19T08:32:08Z"
-  },
   "https://tehnoskarb.ua/noutbuk-dell-15-core-i5-5200u-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-240-gb-geforce-920m-2gb/m5167232": {
     "name": "Ноутбук Dell 15/core i5 5200u ddr3/8gb ddr3/hdd *відсутній/ssd 240 gb/geforce 920m 2gb",
     "price_min": 4650,
@@ -13237,5 +13212,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-19T13:08:44Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-3-7320u-ddr5-8gb-ddr5-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5155596": {
+    "name": "Ноутбук Asus 15/ryzen 3 7320u ddr5/8gb ddr5/hdd *відсутній/ssd 512 gb/*інтегрована",
+    "price_min": 13200,
+    "price_max": 13200,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Солом`янська , 22"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-19T15:07:28Z",
+    "price_history": [
+      {
+        "price": 13200,
+        "at": "2026-04-19T15:07:28Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-19T15:07:28Z"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-19T14:10:31Z",
+  "updated_at": "2026-04-19T15:07:53Z",
   "stats": {
     "total": 631,
-    "avg_price": 9909,
+    "avg_price": 9926,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -3490,30 +3490,6 @@
       ],
       "category": "Системні блоки",
       "category_emoji": "🖨"
-    },
-    {
-      "name": "Ноутбук Asus 17/core i5 2450m ddr3/6gb ddr3/hdd 500 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-17-core-i5-2450m-ddr3-6gb-ddr3-hdd-500-gb-ntegrovana/m5167848",
-      "price_min": 2300,
-      "price_max": 2300,
-      "city": "Вишгород",
-      "addresses": [
-        "м. Вишгород, просп. Мазепи, 5"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-19T08:32:08Z",
-      "price_history": [
-        {
-          "price": 2180,
-          "at": "2026-04-19T08:32:08Z"
-        },
-        {
-          "price": 2300,
-          "at": "2026-04-19T09:51:05Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
     },
     {
       "name": "Ноутбук Dell 15/core i5 2410m ddr3/8gb ddr3/hdd *відсутній/ssd 128 gb/*інтегрована",
@@ -10037,6 +10013,26 @@
       "category_emoji": "🖨"
     },
     {
+      "name": "Ноутбук Asus 15/ryzen 3 7320u ddr5/8gb ddr5/hdd *відсутній/ssd 512 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-3-7320u-ddr5-8gb-ddr5-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5155596",
+      "price_min": 13200,
+      "price_max": 13200,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Солом`янська , 22"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-19T15:07:28Z",
+      "price_history": [
+        {
+          "price": 13200,
+          "at": "2026-04-19T15:07:28Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
       "name": "Ноутбук Asus 15/ryzen 5 7520u ddr5/16gb ddr4/ssd 1000 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-5-7520u-ddr5-16gb-ddr4-ssd-1000-gb-ntegrovana/m5167033",
       "price_min": 13370,
@@ -12883,25 +12879,6 @@
   ],
   "events": [
     {
-      "type": "rise",
-      "name": "Монітор Benq gl2250-t",
-      "url": "https://tehnoskarb.ua/montor-benq-gl2250-t/m5086866",
-      "price_old": 700,
-      "price_new": 855,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-04-17T07:53:46Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Lenovo 15/core i3 8130u ddr4/8gb ddr4/ssd 160 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i3-8130u-ddr4-8gb-ddr4-ssd-160-gb-ntegrovana/m5167622",
-      "price": 4000,
-      "city": "Суми",
-      "category": "Ноутбуки",
-      "at": "2026-04-17T07:53:46Z"
-    },
-    {
       "type": "new",
       "name": "Ноутбук Asus 15/ryzen 3 7320u ddr5/8gb ddr5/hdd *відсутній/ssd 512 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-3-7320u-ddr5-8gb-ddr5-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5155596",
@@ -14704,6 +14681,24 @@
       "city": "Львів",
       "category": "Ноутбуки",
       "at": "2026-04-19T13:08:44Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Asus 17/core i5 2450m ddr3/6gb ddr3/hdd 500 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-17-core-i5-2450m-ddr3-6gb-ddr3-hdd-500-gb-ntegrovana/m5167848",
+      "price": 2300,
+      "city": "Вишгород",
+      "category": "Ноутбуки",
+      "at": "2026-04-19T15:07:28Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Asus 15/ryzen 3 7320u ddr5/8gb ddr5/hdd *відсутній/ssd 512 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-3-7320u-ddr5-8gb-ddr5-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5155596",
+      "price": 13200,
+      "city": "Київ",
+      "category": "Ноутбуки",
+      "at": "2026-04-19T15:07:28Z"
     }
   ],
   "config": {
