@@ -4383,27 +4383,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-11T06:37:57Z"
   },
-  "https://tehnoskarb.ua/noutbuk-asus-14-core-i5-1135g7-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-256-gb-geforce-mx330-2gb/m5166745": {
-    "name": "Ноутбук Asus 14/core i5-1135g7 ddr4/8gb ddr4/hdd *відсутній/ssd 256 gb/geforce mx330 2gb",
-    "price_min": 7900,
-    "price_max": 7900,
-    "city": "Львів",
-    "addresses": [
-      "м. Львів, вул. Степана Бандери, 89"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-11T07:51:58Z",
-    "price_history": [
-      {
-        "price": 7900,
-        "at": "2026-04-11T07:51:58Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-11T07:51:58Z"
-  },
   "https://tehnoskarb.ua/nastlnijj-montor-samsung-s19c200bw/m5163822": {
     "name": "Монітор Samsung s19c200bw",
     "price_min": 530,
@@ -13307,8 +13286,29 @@
         "at": "2026-04-20T14:19:34Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-04-20T14:19:34Z",
-    "details_retry_at": "2026-04-20T14:49:34Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-04-20T15:53:20Z",
+    "details_retry_at": "2026-04-20T16:53:20Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-hp-11-pentium-n4200-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-128-gb-ntegrovana/m5156380": {
+    "name": "Ноутбук Hp 11/pentium n4200 ddr3/8gb ddr3/hdd *відсутній/ssd 128 gb/*інтегрована",
+    "price_min": 2550,
+    "price_max": 2550,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-20T15:53:20Z",
+    "price_history": [
+      {
+        "price": 2550,
+        "at": "2026-04-20T15:53:20Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-20T15:53:20Z"
   }
 }
