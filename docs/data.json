@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T20:07:29Z",
+  "updated_at": "2026-04-22T21:27:09Z",
   "stats": {
     "total": 640,
     "avg_price": 10078,
@@ -2062,27 +2062,6 @@
       "category_emoji": "🖨"
     },
     {
-      "name": "Ноутбук Dell chromebook 11 3189",
-      "url": "https://tehnoskarb.ua/noutbuk-dell-chromebook-11-3189/m5162425",
-      "price_min": 1380,
-      "price_max": 1600,
-      "city": "Буча",
-      "addresses": [
-        "м. Буча, вул. Героїв Майдану, 10",
-        "м. Переяслав, вул. Б.Хмельницького, 137"
-      ],
-      "offers": 2,
-      "first_seen": "2026-04-15T09:57:15Z",
-      "price_history": [
-        {
-          "price": 1380,
-          "at": "2026-04-15T09:57:15Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
       "name": "Монітор Lg 23mp48hq-p",
       "url": "https://tehnoskarb.ua/montor-lg-23mp48hq-p/m5083687",
       "price_min": 1400,
@@ -2296,6 +2275,31 @@
         {
           "price": 1600,
           "at": "2026-04-15T09:57:15Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
+      "name": "Ноутбук Dell chromebook 11 3189",
+      "url": "https://tehnoskarb.ua/noutbuk-dell-chromebook-11-3189/m5162425",
+      "price_min": 1600,
+      "price_max": 1600,
+      "city": "Буча",
+      "addresses": [
+        "м. Буча, вул. Героїв Майдану, 10",
+        "м. Переяслав, вул. Б.Хмельницького, 137"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-15T09:57:15Z",
+      "price_history": [
+        {
+          "price": 1380,
+          "at": "2026-04-15T09:57:15Z"
+        },
+        {
+          "price": 1600,
+          "at": "2026-04-22T21:26:52Z"
         }
       ],
       "category": "Ноутбуки",
@@ -13123,15 +13127,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Ноутбук Xiaomi 15/core i5-12500h ddr5/16gb ddr5/ssd 512 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-xiaomi-15-core-i5-12500h-ddr5-16gb-ddr5-ssd-512-gb-ntegrovana/m5156916",
-      "price": 17500,
-      "city": "Луцьк",
-      "category": "Ноутбуки",
-      "at": "2026-04-21T06:04:38Z"
-    },
-    {
-      "type": "sold",
       "name": "Ноутбук Acer 15/ryzen 5 3500u ddr4/8gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-acer-15-ryzen-5-3500u-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5156917",
       "price": 8700,
@@ -14939,6 +14934,16 @@
       "city": "Олександрія",
       "category": "Ноутбуки",
       "at": "2026-04-22T20:06:51Z"
+    },
+    {
+      "type": "rise",
+      "name": "Ноутбук Dell chromebook 11 3189",
+      "url": "https://tehnoskarb.ua/noutbuk-dell-chromebook-11-3189/m5162425",
+      "price_old": 1380,
+      "price_new": 1600,
+      "city": "Буча",
+      "category": "Ноутбуки",
+      "at": "2026-04-22T21:26:52Z"
     }
   ],
   "config": {
