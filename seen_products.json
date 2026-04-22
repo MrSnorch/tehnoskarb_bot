@@ -971,30 +971,6 @@
     "category": "Монітори",
     "category_emoji": "🖥"
   },
-  "https://tehnoskarb.ua/montor-aoc-24b2xh/m5147578": {
-    "name": "Монітор Aoc 24b2xh",
-    "price_min": 3300,
-    "price_max": 3300,
-    "city": "Хмельницький",
-    "addresses": [
-      "м. Хмельницький, вул. Кам`янецька, 11",
-      "м. Львів, вул. Промислова, 50/52"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 2000,
-        "at": "2026-04-05T19:39:53Z"
-      },
-      {
-        "price": 3300,
-        "at": "2026-04-09T14:03:27Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
   "https://tehnoskarb.ua/montor-acer-g195hqv/m5146468": {
     "name": "Монітор Acer g195hqv",
     "price_min": 585,
@@ -9107,7 +9083,7 @@
       "м. Бровари, б-р Незалежності, 11",
       "м. Львів, вул. Промислова, 50/52"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Системні блоки",
     "category_emoji": "🖨",
     "first_seen": "2026-04-15T09:57:15Z",
@@ -12770,27 +12746,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-21T18:00:25Z"
   },
-  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-xeon-e5-2650-v3-ram-16-gb-hdd-1000-gb-ssd-220-gb-amd-ati-radeon-rx-570-8gb-gddr5-256bit/m5168299": {
-    "name": "Системний блок Пк intel xeon e5-2650 v3/ram 16 gb/hdd 1000 gb/ssd 220 gb/amd/ ati radeon rx 570 8gb gddr5 256bit",
-    "price_min": 6580,
-    "price_max": 6580,
-    "city": "Шостка",
-    "addresses": [
-      "м. Шостка, вул. Свободи, 24"
-    ],
-    "offers_count": 1,
-    "category": "Системні блоки",
-    "category_emoji": "🖨",
-    "first_seen": "2026-04-21T18:00:25Z",
-    "price_history": [
-      {
-        "price": 6580,
-        "at": "2026-04-21T18:00:25Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-21T18:00:25Z"
-  },
   "https://tehnoskarb.ua/sistemnijj-blok-pk-ryzen-5-5600-ram-32gb-ssd-1tb-rtx-5060-8gb/m5168162": {
     "name": "Системний блок Пк ryzen 5 5600 /ram 32gb/ssd 1tb/rtx 5060 8gb",
     "price_min": 38900,
@@ -13444,49 +13399,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-22T14:04:18Z"
   },
-  "https://tehnoskarb.ua/noutbuk-acer-15-ryzen-5-3500u-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5156917": {
-    "name": "Ноутбук Acer 15/ryzen 5 3500u ddr4/8gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
-    "price_min": 8000,
-    "price_max": 8990,
-    "city": "Львів",
-    "addresses": [
-      "м. Львів, вул. Промислова, 50/52",
-      "м. Запоріжжя, просп. Соборний, 224"
-    ],
-    "offers_count": 2,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-22T14:04:18Z",
-    "price_history": [
-      {
-        "price": 8000,
-        "at": "2026-04-22T14:04:18Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-22T14:04:18Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-hp-amd-athlon-silver-3050u-8-gb-ddr4-hdd-6-gb-amd-picasso-2-gb/m5156709": {
-    "name": "Ноутбук Hp amd athlon silver 3050u 8 gb ddr4/hdd 6 gb/amd picasso 2 gb",
-    "price_min": 4950,
-    "price_max": 4950,
-    "city": "Броди",
-    "addresses": [
-      "м. Броди, вул. Героїв Авіаторів, 1"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-22T14:04:18Z",
-    "price_history": [
-      {
-        "price": 4950,
-        "at": "2026-04-22T14:04:18Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-22T14:04:18Z"
-  },
   "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i7-10750h-ddr4-8gb-ddr4-ssd-512-gb-geforce-gtx1650-4gb/m5166663": {
     "name": "Ноутбук Lenovo 15/core i7-10750h ddr4/8gb ddr4/ssd 512 gb/geforce gtx1650 4gb",
     "price_min": 17660,
@@ -13508,25 +13420,67 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-22T15:51:13Z"
   },
-  "https://tehnoskarb.ua/noutbuk-acer-15-core-i5-9300h-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-256-gb-geforce-gtx1050-3gb/m5156614": {
-    "name": "Ноутбук Acer 15/core i5 9300h ddr4/8gb ddr4/hdd *відсутній/ssd 256 gb/geforce gtx1050 3gb",
-    "price_min": 13900,
-    "price_max": 13900,
-    "city": "Олександрія",
+  "https://tehnoskarb.ua/noutbuk-acer-15-core-i7-9750h-ddr4-16gb-ddr3-ssd-512-gb-geforce-rtx2060-6gb/m5167403": {
+    "name": "Ноутбук Acer 15/core i7 9750h ddr4/16gb ddr3/ssd 512 gb/geforce rtx2060 6gb",
+    "price_min": 26290,
+    "price_max": 26290,
+    "city": "Київ",
     "addresses": [
-      "м. Олександрія, просп. Соборний, 98"
+      "м. Київ, просп. Берестейський, 104 (м. Святошин)"
     ],
     "offers_count": 1,
     "category": "Ноутбуки",
     "category_emoji": "💻",
-    "first_seen": "2026-04-22T15:51:13Z",
+    "first_seen": "2026-04-22T17:05:53Z",
     "price_history": [
       {
-        "price": 13900,
-        "at": "2026-04-22T15:51:13Z"
+        "price": 26290,
+        "at": "2026-04-22T17:05:53Z"
       }
     ],
     "details_failures": 0,
-    "details_last_attempt": "2026-04-22T15:51:13Z"
+    "details_last_attempt": "2026-04-22T17:05:53Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i7-10750h-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-512-gb-geforce-gtx1650-4gb/m5167215": {
+    "name": "Ноутбук Lenovo 15/core i7-10750h ddr4/16gb ddr4/hdd *відсутній/ssd 512 gb/geforce gtx1650 4gb",
+    "price_min": 17500,
+    "price_max": 17500,
+    "city": "Харків",
+    "addresses": [
+      "м. Харків, вул. Отакара Яроша, 23"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-22T17:05:53Z",
+    "price_history": [
+      {
+        "price": 17500,
+        "at": "2026-04-22T17:05:53Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-22T17:05:53Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-msi-15-ryzen-5-7535hs-ddr5-8gb-ddr5-ssd-512-gb-geforce-rtx2050-4gb/m5162926": {
+    "name": "Ноутбук Msi 15/ryzen 5 7535hs ddr5/8gb ddr5/ssd 512 gb/geforce rtx2050 4gb",
+    "price_min": 19200,
+    "price_max": 19200,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Гарматна, 44/2"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-22T17:05:53Z",
+    "price_history": [
+      {
+        "price": 19200,
+        "at": "2026-04-22T17:05:53Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-22T17:05:53Z"
   }
 }
