@@ -11405,27 +11405,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-18T20:49:56Z"
   },
-  "https://tehnoskarb.ua/noutbuk-hp-15-core-i3-7020u-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-256-gb-geforce-mx110-2gb/m5167506": {
-    "name": "Ноутбук Hp 15/core i3 7020u ddr3/8gb ddr3/hdd *відсутній/ssd 256 gb/geforce mx110 2gb",
-    "price_min": 5100,
-    "price_max": 5100,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Олени Теліги , 17"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-19T07:24:41Z",
-    "price_history": [
-      {
-        "price": 5100,
-        "at": "2026-04-19T07:24:41Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-19T07:24:41Z"
-  },
   "https://tehnoskarb.ua/noutbuk-dell-15-core-i5-5200u-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-240-gb-geforce-920m-2gb/m5167232": {
     "name": "Ноутбук Dell 15/core i5 5200u ddr3/8gb ddr3/hdd *відсутній/ssd 240 gb/geforce 920m 2gb",
     "price_min": 4650,
@@ -11796,27 +11775,6 @@
     "price_history": [
       {
         "price": 1600,
-        "at": "2026-04-20T10:51:50Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-20T10:51:50Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-acer-14-core-i5-1135g7-ddr4-8gb-ddr2-hdd-1200-gb-ntegrovana/m5160748": {
-    "name": "Ноутбук Acer 14/core i5-1135g7 ddr4/8gb ddr2/hdd 1200 gb/*інтегрована",
-    "price_min": 6260,
-    "price_max": 6260,
-    "city": "Вінниця",
-    "addresses": [
-      "м. Вінниця, вул Київська, 47"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-20T10:51:50Z",
-    "price_history": [
-      {
-        "price": 6260,
         "at": "2026-04-20T10:51:50Z"
       }
     ],
@@ -13487,5 +13445,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-23T13:52:28Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-hp-15-celeron-n3050-ddr3-4gb-ddr3-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5166021": {
+    "name": "Ноутбук Hp 15/celeron n3050 ddr3/4gb ddr3/hdd 500 gb/ssd *відсутній/*інтегрована",
+    "price_min": 1430,
+    "price_max": 1430,
+    "city": "Миколаїв",
+    "addresses": [
+      "м. Миколаїв, вул. 3-я Слобідська, 51"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-23T15:57:35Z",
+    "price_history": [
+      {
+        "price": 1430,
+        "at": "2026-04-23T15:57:35Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-23T15:57:35Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-acer-15-core-i5-12450h-ddr5-16gb-ddr4-hdd-vdsutnjj-ssd-1000-gb-ntegrovana/m5156516": {
+    "name": "Ноутбук Acer 15/core i5-12450h ddr5/16gb ddr4/hdd *відсутній/ssd 1000 gb/*інтегрована",
+    "price_min": 15700,
+    "price_max": 15700,
+    "city": "Тернопіль",
+    "addresses": [
+      "м. Тернопіль, б-р Шевченка, 14"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-23T15:57:35Z",
+    "price_history": [
+      {
+        "price": 15700,
+        "at": "2026-04-23T15:57:35Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-23T15:57:35Z"
   }
 }
