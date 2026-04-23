@@ -13570,9 +13570,9 @@
         "at": "2026-04-23T19:16:20Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-04-23T19:16:20Z",
-    "details_retry_at": "2026-04-23T19:46:20Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-04-23T20:31:45Z",
+    "details_retry_at": "2026-04-23T21:31:45Z"
   },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-3600-ram-32-gb-hdd-vdsutnjj-ssd-512-gb-nvidia-gtx-1060-geforce-6gb-gddr5-192bit/m5167299": {
     "name": "Системний блок Пк amd ryzen 5 3600/ram 32 gb/hdd відсутній/ssd 512 gb/nvidia gtx 1060 (geforce) 6gb gddr5 192bit",
@@ -13590,9 +13590,9 @@
         "at": "2026-04-23T19:16:20Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-04-23T19:16:20Z",
-    "details_retry_at": "2026-04-23T19:46:20Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-04-23T20:31:45Z",
+    "details_retry_at": "2026-04-23T21:31:45Z"
   },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-3600xt-ram-32-gb-hdd-vdsutnjj-ssd-512-gb-nvidia-rtx-2070-super-geforce-8gb-gddr6-256b/m5167300": {
     "name": "Системний блок Пк amd ryzen 5 3600xt/ram 32 gb/hdd відсутній/ssd 512 gb/nvidia rtx 2070 super (geforce) 8gb gddr6 256b",
@@ -13610,9 +13610,9 @@
         "at": "2026-04-23T19:16:20Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-04-23T19:16:20Z",
-    "details_retry_at": "2026-04-23T19:46:20Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-04-23T20:31:45Z",
+    "details_retry_at": "2026-04-23T21:31:45Z"
   },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-760-ram-4-gb-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5134867": {
     "name": "Системний блок Пк intel core i5-760/ram 4 gb/hdd 500 gb/ssd відсутній/інтегрована",
@@ -13630,8 +13630,28 @@
         "at": "2026-04-23T19:16:20Z"
       }
     ],
+    "details_failures": 2,
+    "details_last_attempt": "2026-04-23T20:31:45Z",
+    "details_retry_at": "2026-04-23T21:31:45Z"
+  },
+  "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289": {
+    "name": "Монітор Viewsonic va703b",
+    "price_min": 380,
+    "price_max": 380,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-04-23T20:31:45Z",
+    "price_history": [
+      {
+        "price": 380,
+        "at": "2026-04-23T20:31:45Z"
+      }
+    ],
     "details_failures": 1,
-    "details_last_attempt": "2026-04-23T19:16:20Z",
-    "details_retry_at": "2026-04-23T19:46:20Z"
+    "details_last_attempt": "2026-04-23T20:31:45Z",
+    "details_retry_at": "2026-04-23T21:01:45Z"
   }
 }

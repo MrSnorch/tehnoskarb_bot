@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-23T19:17:20Z",
+  "updated_at": "2026-04-23T20:32:17Z",
   "stats": {
-    "total": 645,
-    "avg_price": 10040,
+    "total": 646,
+    "avg_price": 10025,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -523,6 +523,24 @@
         {
           "price": 350,
           "at": "2026-04-07T19:18:46Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Viewsonic va703b",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
+      "price_min": 380,
+      "price_max": 380,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-04-23T20:31:45Z",
+      "price_history": [
+        {
+          "price": 380,
+          "at": "2026-04-23T20:31:45Z"
         }
       ],
       "category": "Монітори",
@@ -13239,15 +13257,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Ноутбук Lenovo core i5 8250u ddr4/12gb ddr4/hdd 500 gb/geforce mx150 2gb",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-core-i5-8250u-ddr4-12gb-ddr4-hdd-500-gb-geforce-mx150-2gb/m5168357",
-      "price": 7250,
-      "city": "Харків",
-      "category": "Ноутбуки",
-      "at": "2026-04-21T19:45:43Z"
-    },
-    {
-      "type": "new",
       "name": "Ноутбук Lenovo 15/celeron 1000m ddr3/2gb ddr3/hdd 500 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-celeron-1000m-ddr3-2gb-ddr3-hdd-500-gb-ntegrovana/m5168287",
       "price": 730,
@@ -15049,6 +15058,15 @@
       "city": "",
       "category": "Системні блоки",
       "at": "2026-04-23T19:16:20Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Viewsonic va703b",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
+      "price": 380,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-04-23T20:31:45Z"
     }
   ],
   "config": {
