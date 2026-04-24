@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-24T15:13:06Z",
+  "updated_at": "2026-04-24T16:33:46Z",
   "stats": {
     "total": 647,
-    "avg_price": 10128,
+    "avg_price": 9902,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -54,7 +54,6 @@
       "Олександрія",
       "Павлоград",
       "Первомайськ",
-      "Переяслав",
       "Полтава",
       "Прилуки",
       "Рівне",
@@ -1987,7 +1986,7 @@
         "м. Київ, б-р Чоколовський, 21",
         "м. Київ, просп. Воскресенський, 34/2"
       ],
-      "offers": 9,
+      "offers": 8,
       "first_seen": "2026-04-05T19:39:53Z",
       "price_history": [
         {
@@ -2429,6 +2428,26 @@
       ],
       "category": "Системні блоки",
       "category_emoji": "🖨"
+    },
+    {
+      "name": "Ноутбук Lenovo 12/a8 4555m ddr3/4gb ddr3/hdd *відсутній/ssd 128 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-12-a8-4555m-ddr3-4gb-ddr3-hdd-vdsutnjj-ssd-128-gb-ntegrovana/m5168663",
+      "price_min": 1635,
+      "price_max": 1635,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, вул. Дудинської, 1-А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-24T16:32:50Z",
+      "price_history": [
+        {
+          "price": 1635,
+          "at": "2026-04-24T16:32:50Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
     },
     {
       "name": "Монітор Samsung s22f350fhi",
@@ -4275,7 +4294,7 @@
       "addresses": [
         "м. Львів, вул. Широка, 70-В"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-04-17T05:31:09Z",
       "price_history": [
         {
@@ -5223,26 +5242,6 @@
       "category_emoji": "💻"
     },
     {
-      "name": "Ноутбук Lenovo 15/core i5 3320m ddr3/8gb ddr3/ssd 250 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i5-3320m-ddr3-8gb-ddr3-ssd-250-gb-ntegrovana/m5168288",
-      "price_min": 3480,
-      "price_max": 3480,
-      "city": "Прилуки",
-      "addresses": [
-        "м. Прилуки, вул. Незалежності, 65/4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-23T11:40:24Z",
-      "price_history": [
-        {
-          "price": 3480,
-          "at": "2026-04-23T11:40:24Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
       "name": "Монітор Samsung professional s24c430",
       "url": "https://tehnoskarb.ua/montor-samsung-professional-s24c430/m5154762",
       "price_min": 3500,
@@ -5614,6 +5613,30 @@
       "category_emoji": "🖨"
     },
     {
+      "name": "Ноутбук Lenovo 15/core i5 3320m ddr3/8gb ddr3/ssd 250 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i5-3320m-ddr3-8gb-ddr3-ssd-250-gb-ntegrovana/m5168288",
+      "price_min": 3700,
+      "price_max": 3700,
+      "city": "Прилуки",
+      "addresses": [
+        "м. Прилуки, вул. Незалежності, 65/4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-23T11:40:24Z",
+      "price_history": [
+        {
+          "price": 3480,
+          "at": "2026-04-23T11:40:24Z"
+        },
+        {
+          "price": 3700,
+          "at": "2026-04-24T16:32:50Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
       "name": "Ноутбук Lenovo 15/pentium 3558u ddr3/4gb ddr3/hdd 500 gb/radeon hd8550m",
       "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-pentium-3558u-ddr3-4gb-ddr3-hdd-500-gb-radeon-hd8550m/m5165958",
       "price_min": 3750,
@@ -5688,6 +5711,26 @@
         {
           "price": 3790,
           "at": "2026-04-15T06:02:05Z"
+        }
+      ],
+      "category": "Системні блоки",
+      "category_emoji": "🖨"
+    },
+    {
+      "name": "Системний блок Пк intel core i5-6500/ram 4 gb/hdd 500 gb/ssd відсутній/інтегрована",
+      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-6500-ram-4-gb-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5168691",
+      "price_min": 3790,
+      "price_max": 3790,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, вул. Дудинської, 1-А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-24T16:32:50Z",
+      "price_history": [
+        {
+          "price": 3790,
+          "at": "2026-04-24T16:32:50Z"
         }
       ],
       "category": "Системні блоки",
@@ -5888,6 +5931,26 @@
         {
           "price": 3960,
           "at": "2026-04-15T09:57:15Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
+      "name": "Ноутбук Dell 14/core i5 6300u ddr3/8gb ddr3/ssd 240 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-dell-14-core-i5-6300u-ddr3-8gb-ddr3-ssd-240-gb-ntegrovana/m5168422",
+      "price_min": 3980,
+      "price_max": 3980,
+      "city": "Житомир",
+      "addresses": [
+        "м. Житомир, вул. Небесної Сотні, 15"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-24T16:32:50Z",
+      "price_history": [
+        {
+          "price": 3980,
+          "at": "2026-04-24T16:32:50Z"
         }
       ],
       "category": "Ноутбуки",
@@ -8975,6 +9038,24 @@
       "category_emoji": "💻"
     },
     {
+      "name": "Ноутбук Lenovo 14/core i3-1115g4 ddr4/8gb ddr4/ssd 120 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-14-core-i3-1115g4-ddr4-8gb-ddr4-ssd-120-gb-ntegrovana/m5160665",
+      "price_min": 7430,
+      "price_max": 7430,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-04-24T16:32:50Z",
+      "price_history": [
+        {
+          "price": 7430,
+          "at": "2026-04-24T16:32:50Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
       "name": "Монітор Hp e24q g5",
       "url": "https://tehnoskarb.ua/montor-hp-e24q-g5/m5158061",
       "price_min": 7500,
@@ -9813,6 +9894,26 @@
       "category_emoji": "🖨"
     },
     {
+      "name": "Ноутбук Lenovo 17/ryzen 3 7320u ddr5/8gb ddr5/ssd 240 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-17-ryzen-3-7320u-ddr5-8gb-ddr5-ssd-240-gb-ntegrovana/m5168433",
+      "price_min": 10800,
+      "price_max": 10800,
+      "city": "Тернопіль",
+      "addresses": [
+        "м. Тернопіль, вул. Мазепи, 5"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-24T16:32:50Z",
+      "price_history": [
+        {
+          "price": 10800,
+          "at": "2026-04-24T16:32:50Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
       "name": "Ноутбук Asus ryzen 5 7520u ddr5/8gb ddr5/ssd 1000 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-asus-ryzen-5-7520u-ddr5-8gb-ddr5-ssd-1000-gb-ntegrovana/m5168117",
       "price_min": 10900,
@@ -10273,26 +10374,6 @@
         {
           "price": 13000,
           "at": "2026-04-23T08:20:26Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
-      "name": "Ноутбук Asus 15/ryzen 5 7520u ddr5/16gb ddr4/ssd 1000 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-5-7520u-ddr5-16gb-ddr4-ssd-1000-gb-ntegrovana/m5167033",
-      "price_min": 13370,
-      "price_max": 13370,
-      "city": "Умань",
-      "addresses": [
-        "м. Умань, вул. Європейська, 58"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-13T19:48:36Z",
-      "price_history": [
-        {
-          "price": 13370,
-          "at": "2026-04-13T19:48:36Z"
         }
       ],
       "category": "Ноутбуки",
@@ -11086,26 +11167,6 @@
       "category_emoji": "🖨"
     },
     {
-      "name": "Ноутбук Xiaomi 15/core i5-12500h ddr5/16gb ddr5/ssd 512 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-xiaomi-15-core-i5-12500h-ddr5-16gb-ddr5-ssd-512-gb-ntegrovana/m5156916",
-      "price_min": 17500,
-      "price_max": 17500,
-      "city": "Луцьк",
-      "addresses": [
-        "м. Луцьк, вул. Лесі Українки, 24"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-24T13:43:08Z",
-      "price_history": [
-        {
-          "price": 17500,
-          "at": "2026-04-24T13:43:08Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
       "name": "Ноутбук Lenovo 15/core i7-10750h ddr4/8gb ddr4/ssd 512 gb/geforce gtx1650 4gb",
       "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i7-10750h-ddr4-8gb-ddr4-ssd-512-gb-geforce-gtx1650-4gb/m5166663",
       "price_min": 17660,
@@ -11224,6 +11285,26 @@
         {
           "price": 18270,
           "at": "2026-04-08T19:22:18Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
+      "name": "Ноутбук Hp 14/core i7-1255u ddr5/8gb ddr5/ssd 256 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-hp-14-core-i7-1255u-ddr5-8gb-ddr5-ssd-256-gb-ntegrovana/m5168204",
+      "price_min": 18410,
+      "price_max": 18410,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Васильківська 8, прим. 223"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-24T16:32:50Z",
+      "price_history": [
+        {
+          "price": 18410,
+          "at": "2026-04-24T16:32:50Z"
         }
       ],
       "category": "Ноутбуки",
@@ -11996,26 +12077,6 @@
       "category_emoji": "💻"
     },
     {
-      "name": "Системний блок Пк amd ryzen 5 5500/ram 16 gb/hdd 160 gb/ssd 1000 gb/nvidia rtx 3060 (geforce) 8gb gddr6 128bit",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-5500-ram-16-gb-hdd-160-gb-ssd-1000-gb-nvidia-rtx-3060-geforce-8gb-gddr6-128bit/m5161544",
-      "price_min": 25500,
-      "price_max": 25500,
-      "city": "Переяслав",
-      "addresses": [
-        "м. Переяслав, вул. Б.Хмельницького, 137"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-15T09:57:15Z",
-      "price_history": [
-        {
-          "price": 25500,
-          "at": "2026-04-15T09:57:15Z"
-        }
-      ],
-      "category": "Системні блоки",
-      "category_emoji": "🖨"
-    },
-    {
       "name": "Ноутбук Lenovo 14/core 5 210h ddr4/16gb ddr4/ssd 512 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-lenovo-14-core-5-210h-ddr4-16gb-ddr4-ssd-512-gb-ntegrovana/m5164117",
       "price_min": 26000,
@@ -12070,26 +12131,6 @@
         {
           "price": 27000,
           "at": "2026-04-15T09:57:15Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
-      "name": "Ноутбук Lenovo 15/ryzen 5 5600h ddr4/16gb ddr4/hdd *відсутній/ssd 1000 gb/geforce rtx3060 6gb",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-ryzen-5-5600h-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-1000-gb-geforce-rtx3060-6gb/m5160469",
-      "price_min": 28000,
-      "price_max": 28000,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Корольова, 80"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-16T06:03:56Z",
-      "price_history": [
-        {
-          "price": 28000,
-          "at": "2026-04-16T06:03:56Z"
         }
       ],
       "category": "Ноутбуки",
@@ -12872,26 +12913,6 @@
       "category_emoji": "💻"
     },
     {
-      "name": "Ноутбук Asus 15/ryzen 7 260 ddr5/16gb ddr5/ssd 512 gb/geforce rtx 5050 8gb",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-7-260-ddr5-16gb-ddr5-ssd-512-gb-geforce-rtx-5050-8gb/m5156953",
-      "price_min": 46000,
-      "price_max": 46000,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-24T13:43:08Z",
-      "price_history": [
-        {
-          "price": 46000,
-          "at": "2026-04-24T13:43:08Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
       "name": "Ноутбук Hp 15/core i5-13420h ddr5/16gb ddr5/hdd *відсутній/ssd 512 gb/geforce rtx 5050 8gb",
       "url": "https://tehnoskarb.ua/noutbuk-hp-15-core-i5-13420h-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-512-gb-geforce-rtx-5050-8gb/m5158306",
       "price_min": 47900,
@@ -13070,26 +13091,6 @@
         {
           "price": 60000,
           "at": "2026-04-23T11:40:24Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
-      "name": "Ноутбук Dell 16/core i9-13900hx ddr4/32gb ddr4/ssd 1000 gb/geforce rtx4070 8gb",
-      "url": "https://tehnoskarb.ua/noutbuk-dell-16-core-i9-13900hx-ddr4-32gb-ddr4-ssd-1000-gb-geforce-rtx4070-8gb/m5157135",
-      "price_min": 62000,
-      "price_max": 62000,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, вул. Дудинської, 1-А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-24T13:43:08Z",
-      "price_history": [
-        {
-          "price": 62000,
-          "at": "2026-04-24T13:43:08Z"
         }
       ],
       "category": "Ноутбуки",
@@ -13277,124 +13278,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Ноутбук Fujitsu 15/core i5 7200u ddr3/4gb ddr3/ssd 120 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-fujitsu-15-core-i5-7200u-ddr3-4gb-ddr3-ssd-120-gb-ntegrovana/m5168410",
-      "price": 5750,
-      "city": "Рівне",
-      "category": "Ноутбуки",
-      "at": "2026-04-22T18:39:04Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Lenovo 15/pentium 6405u ddr4/8gb ddr4/hdd *відсутній/ssd 240 gb/geforce mx130 2gb",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-pentium-6405u-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-240-gb-geforce-mx130-2gb/m5168358",
-      "price": 6000,
-      "city": "Кропивницький",
-      "category": "Ноутбуки",
-      "at": "2026-04-22T18:39:04Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Fujitsu 15/core i3 5005u ddr3/8gb ddr3/hdd *відсутній/ssd 120 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-fujitsu-15-core-i3-5005u-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-120-gb-ntegrovana/m5168227",
-      "price": 3270,
-      "city": "Вишневе",
-      "category": "Ноутбуки",
-      "at": "2026-04-22T18:39:04Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Dell 15/pentium 3558u ddr3/2gb ddr3/hdd 500 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-dell-15-pentium-3558u-ddr3-2gb-ddr3-hdd-500-gb-ntegrovana/m5167905",
-      "price": 1600,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-22T18:39:04Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Chuwi 14/core i3-1215u ddr5/16gb ddr5/ssd 512 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-chuwi-14-core-i3-1215u-ddr5-16gb-ddr5-ssd-512-gb-ntegrovana/m5159467",
-      "price": 13690,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-22T20:06:51Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus vz249hg",
-      "url": "https://tehnoskarb.ua/montor-asus-vz249hg/m5154430",
-      "price": 2280,
-      "city": "Самар",
-      "category": "Монітори",
-      "at": "2026-04-22T20:06:51Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Lenovo 15/celeron 1000m ddr3/2gb ddr3/ssd 256 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-celeron-1000m-ddr3-2gb-ddr3-ssd-256-gb-ntegrovana/m5168424",
-      "price": 1900,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-22T20:06:51Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Dell 15/pentium 3558u ddr3/2gb ddr3/hdd 500 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-dell-15-pentium-3558u-ddr3-2gb-ddr3-hdd-500-gb-ntegrovana/m5167905",
-      "price": 1600,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-22T20:06:51Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Acer 15/ryzen 5 3500u ddr4/8gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-acer-15-ryzen-5-3500u-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5156917",
-      "price": 8000,
-      "city": "Львів",
-      "category": "Ноутбуки",
-      "at": "2026-04-22T20:06:51Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Hp amd athlon silver 3050u 8 gb ddr4/hdd 6 gb/amd picasso 2 gb",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-amd-athlon-silver-3050u-8-gb-ddr4-hdd-6-gb-amd-picasso-2-gb/m5156709",
-      "price": 4950,
-      "city": "Броди",
-      "category": "Ноутбуки",
-      "at": "2026-04-22T20:06:51Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Acer 15/core i5 9300h ddr4/8gb ddr4/hdd *відсутній/ssd 256 gb/geforce gtx1050 3gb",
-      "url": "https://tehnoskarb.ua/noutbuk-acer-15-core-i5-9300h-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-256-gb-geforce-gtx1050-3gb/m5156614",
-      "price": 13900,
-      "city": "Олександрія",
-      "category": "Ноутбуки",
-      "at": "2026-04-22T20:06:51Z"
-    },
-    {
-      "type": "rise",
-      "name": "Ноутбук Dell chromebook 11 3189",
-      "url": "https://tehnoskarb.ua/noutbuk-dell-chromebook-11-3189/m5162425",
-      "price_old": 1380,
-      "price_new": 1600,
-      "city": "Буча",
-      "category": "Ноутбуки",
-      "at": "2026-04-22T21:26:52Z"
-    },
-    {
-      "type": "sold",
-      "name": "Системний блок Пк intel core i5-8500t/ram 16 gb/hdd відсутній+відсутній/ssd 256 gb+256 gb/інтегрована",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-8500t-ram-16-gb-hdd-vdsutnjj+vdsutnjj-ssd-256-gb+256-gb-ntegrovana/m5166947",
-      "price": 7520,
-      "city": "Київ",
-      "category": "Системні блоки",
-      "at": "2026-04-23T06:07:53Z"
-    },
     {
       "type": "sold",
       "name": "Ноутбук Dell 16/core i9-13900hx ddr4/32gb ddr4/ssd 1000 gb/geforce rtx4070 8gb",
@@ -15086,6 +14969,124 @@
       "city": "Івано-Франківськ",
       "category": "Ноутбуки",
       "at": "2026-04-24T15:10:55Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Asus 15/ryzen 5 7520u ddr5/16gb ddr4/ssd 1000 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-5-7520u-ddr5-16gb-ddr4-ssd-1000-gb-ntegrovana/m5167033",
+      "price": 13370,
+      "city": "Умань",
+      "category": "Ноутбуки",
+      "at": "2026-04-24T16:32:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Системний блок Пк amd ryzen 5 5500/ram 16 gb/hdd 160 gb/ssd 1000 gb/nvidia rtx 3060 (geforce) 8gb gddr6 128bit",
+      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-5500-ram-16-gb-hdd-160-gb-ssd-1000-gb-nvidia-rtx-3060-geforce-8gb-gddr6-128bit/m5161544",
+      "price": 25500,
+      "city": "Переяслав",
+      "category": "Системні блоки",
+      "at": "2026-04-24T16:32:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Lenovo 15/ryzen 5 5600h ddr4/16gb ddr4/hdd *відсутній/ssd 1000 gb/geforce rtx3060 6gb",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-ryzen-5-5600h-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-1000-gb-geforce-rtx3060-6gb/m5160469",
+      "price": 28000,
+      "city": "Одеса",
+      "category": "Ноутбуки",
+      "at": "2026-04-24T16:32:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Dell 16/core i9-13900hx ddr4/32gb ddr4/ssd 1000 gb/geforce rtx4070 8gb",
+      "url": "https://tehnoskarb.ua/noutbuk-dell-16-core-i9-13900hx-ddr4-32gb-ddr4-ssd-1000-gb-geforce-rtx4070-8gb/m5157135",
+      "price": 62000,
+      "city": "Харків",
+      "category": "Ноутбуки",
+      "at": "2026-04-24T16:32:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Asus 15/ryzen 7 260 ddr5/16gb ddr5/ssd 512 gb/geforce rtx 5050 8gb",
+      "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-7-260-ddr5-16gb-ddr5-ssd-512-gb-geforce-rtx-5050-8gb/m5156953",
+      "price": 46000,
+      "city": "Київ",
+      "category": "Ноутбуки",
+      "at": "2026-04-24T16:32:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Xiaomi 15/core i5-12500h ddr5/16gb ddr5/ssd 512 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-xiaomi-15-core-i5-12500h-ddr5-16gb-ddr5-ssd-512-gb-ntegrovana/m5156916",
+      "price": 17500,
+      "city": "Луцьк",
+      "category": "Ноутбуки",
+      "at": "2026-04-24T16:32:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Lenovo 12/a8 4555m ddr3/4gb ddr3/hdd *відсутній/ssd 128 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-12-a8-4555m-ddr3-4gb-ddr3-hdd-vdsutnjj-ssd-128-gb-ntegrovana/m5168663",
+      "price": 1635,
+      "city": "Харків",
+      "category": "Ноутбуки",
+      "at": "2026-04-24T16:32:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Lenovo 17/ryzen 3 7320u ddr5/8gb ddr5/ssd 240 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-17-ryzen-3-7320u-ddr5-8gb-ddr5-ssd-240-gb-ntegrovana/m5168433",
+      "price": 10800,
+      "city": "Тернопіль",
+      "category": "Ноутбуки",
+      "at": "2026-04-24T16:32:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Dell 14/core i5 6300u ddr3/8gb ddr3/ssd 240 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-dell-14-core-i5-6300u-ddr3-8gb-ddr3-ssd-240-gb-ntegrovana/m5168422",
+      "price": 3980,
+      "city": "Житомир",
+      "category": "Ноутбуки",
+      "at": "2026-04-24T16:32:50Z"
+    },
+    {
+      "type": "rise",
+      "name": "Ноутбук Lenovo 15/core i5 3320m ddr3/8gb ddr3/ssd 250 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i5-3320m-ddr3-8gb-ddr3-ssd-250-gb-ntegrovana/m5168288",
+      "price_old": 3480,
+      "price_new": 3700,
+      "city": "Прилуки",
+      "category": "Ноутбуки",
+      "at": "2026-04-24T16:32:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Hp 14/core i7-1255u ddr5/8gb ddr5/ssd 256 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-hp-14-core-i7-1255u-ddr5-8gb-ddr5-ssd-256-gb-ntegrovana/m5168204",
+      "price": 18410,
+      "city": "Київ",
+      "category": "Ноутбуки",
+      "at": "2026-04-24T16:32:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Lenovo 14/core i3-1115g4 ddr4/8gb ddr4/ssd 120 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-14-core-i3-1115g4-ddr4-8gb-ddr4-ssd-120-gb-ntegrovana/m5160665",
+      "price": 7430,
+      "city": "",
+      "category": "Ноутбуки",
+      "at": "2026-04-24T16:32:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Системний блок Пк intel core i5-6500/ram 4 gb/hdd 500 gb/ssd відсутній/інтегрована",
+      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-6500-ram-4-gb-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5168691",
+      "price": 3790,
+      "city": "Харків",
+      "category": "Системні блоки",
+      "at": "2026-04-24T16:32:50Z"
     }
   ],
   "config": {
