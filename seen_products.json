@@ -12970,27 +12970,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-24T05:40:01Z"
   },
-  "https://tehnoskarb.ua/noutbuk-acer-15-ryzen-5-5500u-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-512-gb-radeon-rx550-4gb/m5168669": {
-    "name": "Ноутбук Acer 15/ryzen 5 5500u ddr4/8gb ddr4/hdd *відсутній/ssd 512 gb/radeon rx550 4gb",
-    "price_min": 13400,
-    "price_max": 13400,
-    "city": "Херсон",
-    "addresses": [
-      "м. Херсон, просп. 200 років Херсона, 15"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-24T05:40:01Z",
-    "price_history": [
-      {
-        "price": 13400,
-        "at": "2026-04-24T05:40:01Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-24T05:40:01Z"
-  },
   "https://tehnoskarb.ua/noutbuk-acer-15-ryzen-5-7520u-ddr5-16gb-ddr5-ssd-480-gb-ntegrovana/m5168670": {
     "name": "Ноутбук Acer 15/ryzen 5 7520u ddr5/16gb ddr5/ssd 480 gb/*інтегрована",
     "price_min": 11000,
@@ -13283,9 +13262,9 @@
         "at": "2026-04-24T10:06:29Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-24T16:32:50Z",
-    "details_retry_at": "2026-04-24T20:32:50Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-04-24T20:56:22Z",
+    "details_retry_at": "2026-04-25T02:56:22Z"
   },
   "https://tehnoskarb.ua/noutbuk-hp-16-pentium-n3710-ddr3-8gb-ddr3-hdd-300-gb-ssd-120-gb-ntegrovana/m5165404": {
     "name": "Ноутбук Hp 16/pentium n3710 ddr3/8gb ddr3/hdd 300 gb/ssd 120 gb/*інтегрована",
@@ -13518,27 +13497,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-24T17:52:13Z"
   },
-  "https://tehnoskarb.ua/noutbuk-lenovo-14-core-i7-8565u-ddr3-16gb-ddr3-hdd-vdsutnjj-ssd-240-gb-ntegrovana/m5168601": {
-    "name": "Ноутбук Lenovo 14/core i7 8565u ddr3/16gb ddr3/hdd *відсутній/ssd 240 gb/*інтегрована",
-    "price_min": 6310,
-    "price_max": 6310,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул Р. Окіпної, 5"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-24T17:52:13Z",
-    "price_history": [
-      {
-        "price": 6310,
-        "at": "2026-04-24T17:52:13Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-24T17:52:13Z"
-  },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-9400-ram-16-gb-hdd-500-gb-ssd-vdsutnjj-nvidia-gtx-1070-geforce-8gb-gddr5-256bit/m5168482": {
     "name": "Системний блок Пк intel core i5-9400/ram 16 gb/hdd 500 gb/ssd відсутній/nvidia gtx 1070 (geforce) 8gb gddr5 256bit",
     "price_min": 14500,
@@ -13706,5 +13664,67 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-24T19:56:10Z"
+  },
+  "https://tehnoskarb.ua/montor-aoc-24b1xh/m5074368": {
+    "name": "Монітор Aoc 24b1xh",
+    "price_min": 2540,
+    "price_max": 2540,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Бажана, 3В (м. Харківська)"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-04-24T20:56:22Z",
+    "price_history": [
+      {
+        "price": 2540,
+        "at": "2026-04-24T20:56:22Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-24T20:56:22Z"
+  },
+  "https://tehnoskarb.ua/noutbuk--15-ryzen-5-3500u-ddr4-16gb-ddr4-ssd-512-gb-ntegrovana/m5168850": {
+    "name": "Ноутбук  15/ryzen 5 3500u ddr4/16gb ddr4/ssd 512 gb/*інтегрована",
+    "price_min": 5800,
+    "price_max": 5800,
+    "city": "Прилуки",
+    "addresses": [
+      "м. Прилуки, вул. Незалежності, 65/4"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-24T20:56:22Z",
+    "price_history": [
+      {
+        "price": 5800,
+        "at": "2026-04-24T20:56:22Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-24T20:56:22Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-asus-17-core-i5-11400h-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-512-gb-geforce-rtx2050-4gb/m5168431": {
+    "name": "Ноутбук Asus 17/core i5-11400h ddr4/16gb ddr4/hdd *відсутній/ssd 512 gb/geforce rtx2050 4gb",
+    "price_min": 23200,
+    "price_max": 23200,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-24T20:56:22Z",
+    "price_history": [
+      {
+        "price": 23200,
+        "at": "2026-04-24T20:56:22Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-04-24T20:56:22Z",
+    "details_retry_at": "2026-04-24T21:26:22Z"
   }
 }
