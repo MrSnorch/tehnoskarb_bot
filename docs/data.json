@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T05:19:06Z",
+  "updated_at": "2026-04-25T06:51:42Z",
   "stats": {
     "total": 652,
     "avg_price": 10001,
@@ -4953,26 +4953,6 @@
       "category_emoji": "💻"
     },
     {
-      "name": "Ноутбук Fujitsu 15/core i3 5005u ddr3/8gb ddr3/hdd *відсутній/ssd 120 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-fujitsu-15-core-i3-5005u-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-120-gb-ntegrovana/m5168227",
-      "price_min": 3270,
-      "price_max": 3270,
-      "city": "Вишневе",
-      "addresses": [
-        "м. Вишневе, вул. Остапа Вишні, 4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-22T18:39:04Z",
-      "price_history": [
-        {
-          "price": 3270,
-          "at": "2026-04-22T18:39:04Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
       "name": "Ноутбук Hp 14/core i3 7100u ddr3/8gb ddr4/ssd 128 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-hp-14-core-i3-7100u-ddr3-8gb-ddr4-ssd-128-gb-ntegrovana/m5168950",
       "price_min": 3280,
@@ -5213,6 +5193,30 @@
         {
           "price": 3340,
           "at": "2026-04-25T05:15:10Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
+      "name": "Ноутбук Fujitsu 15/core i3 5005u ddr3/8gb ddr3/hdd *відсутній/ssd 120 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-fujitsu-15-core-i3-5005u-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-120-gb-ntegrovana/m5168227",
+      "price_min": 3400,
+      "price_max": 3400,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Остапа Вишні, 4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-22T18:39:04Z",
+      "price_history": [
+        {
+          "price": 3270,
+          "at": "2026-04-22T18:39:04Z"
+        },
+        {
+          "price": 3400,
+          "at": "2026-04-25T06:51:12Z"
         }
       ],
       "category": "Ноутбуки",
@@ -13374,15 +13378,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Ноутбук Lenovo 16/core i3 7020u ddr3/6gb ddr3/ssd 1000 gb/geforce mx130 2gb",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-16-core-i3-7020u-ddr3-6gb-ddr3-ssd-1000-gb-geforce-mx130-2gb/m5164406",
-      "price": 5800,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-23T17:41:02Z"
-    },
-    {
-      "type": "sold",
       "name": "Ноутбук Lenovo 17/ryzen 3 7320u ddr5/8gb ddr5/ssd 240 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-lenovo-17-ryzen-3-7320u-ddr5-8gb-ddr5-ssd-240-gb-ntegrovana/m5168433",
       "price": 10800,
@@ -15177,6 +15172,16 @@
       "city": "Київ",
       "category": "Системні блоки",
       "at": "2026-04-25T05:15:10Z"
+    },
+    {
+      "type": "rise",
+      "name": "Ноутбук Fujitsu 15/core i3 5005u ddr3/8gb ddr3/hdd *відсутній/ssd 120 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-fujitsu-15-core-i3-5005u-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-120-gb-ntegrovana/m5168227",
+      "price_old": 3270,
+      "price_new": 3400,
+      "city": "Вишневе",
+      "category": "Ноутбуки",
+      "at": "2026-04-25T06:51:12Z"
     }
   ],
   "config": {
