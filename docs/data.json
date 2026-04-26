@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-26T13:47:15Z",
+  "updated_at": "2026-04-26T14:50:00Z",
   "stats": {
     "total": 644,
-    "avg_price": 9983,
+    "avg_price": 9995,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -215,7 +215,7 @@
       "addresses": [
         "м. Ужгород, вул. Мукачівська, 2"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-04-10T09:16:04Z",
       "price_history": [
         {
@@ -4676,26 +4676,6 @@
       ],
       "category": "Монітори",
       "category_emoji": "🖥"
-    },
-    {
-      "name": "Ноутбук Hp 14/core i5 3320m ddr3/6gb ddr3/hdd 500 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-14-core-i5-3320m-ddr3-6gb-ddr3-hdd-500-gb-ntegrovana/m5160243",
-      "price_min": 3100,
-      "price_max": 3100,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Соборна, 3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-15T09:57:15Z",
-      "price_history": [
-        {
-          "price": 3100,
-          "at": "2026-04-15T09:57:15Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
     },
     {
       "name": "Ноутбук Dynabook 13,7/celeron 3867u ddr4/8gb ddr4/hdd *відсутній/ssd 128 gb/*інтегрова",
@@ -9790,6 +9770,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Ноутбук Lenovo 15/core i7 8550u ddr3/16gb ddr3/ssd 128 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i7-8550u-ddr3-16gb-ddr3-ssd-128-gb-ntegrovana/m5157299",
+      "price_min": 10600,
+      "price_max": 10600,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Велика Васильківська, 74 (м. Олімпійська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-26T14:49:37Z",
+      "price_history": [
+        {
+          "price": 10600,
+          "at": "2026-04-26T14:49:37Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
       "name": "Ноутбук Asus 15/ryzen 3 7320u ddr5/8gb ddr5/ssd 512 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-3-7320u-ddr5-8gb-ddr5-ssd-512-gb-ntegrovana/m5163943",
       "price_min": 10700,
@@ -13222,24 +13222,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Ноутбук Hp 16/ryzen 3 7330u ddr4/8gb ddr4/ssd 256 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-16-ryzen-3-7330u-ddr4-8gb-ddr4-ssd-256-gb-ntegrovana/m5157582",
-      "price": 13620,
-      "city": "Миколаїв",
-      "category": "Ноутбуки",
-      "at": "2026-04-24T11:40:54Z"
-    },
-    {
-      "type": "new",
-      "name": "Ноутбук Lenovo 15/core i7 8550u ddr3/16gb ddr3/ssd 128 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i7-8550u-ddr3-16gb-ddr3-ssd-128-gb-ntegrovana/m5157299",
-      "price": 10600,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-04-24T11:40:54Z"
-    },
-    {
-      "type": "new",
       "name": "Ноутбук Lenovo 15/celeron n4500 ddr4/8gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-celeron-n4500-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5157296",
       "price": 6530,
@@ -15022,6 +15004,24 @@
       "city": "Одеса",
       "category": "Ноутбуки",
       "at": "2026-04-26T13:46:47Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Hp 14/core i5 3320m ddr3/6gb ddr3/hdd 500 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-hp-14-core-i5-3320m-ddr3-6gb-ddr3-hdd-500-gb-ntegrovana/m5160243",
+      "price": 3100,
+      "city": "Кропивницький",
+      "category": "Ноутбуки",
+      "at": "2026-04-26T14:49:37Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Lenovo 15/core i7 8550u ddr3/16gb ddr3/ssd 128 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i7-8550u-ddr3-16gb-ddr3-ssd-128-gb-ntegrovana/m5157299",
+      "price": 10600,
+      "city": "Київ",
+      "category": "Ноутбуки",
+      "at": "2026-04-26T14:49:37Z"
     }
   ],
   "config": {

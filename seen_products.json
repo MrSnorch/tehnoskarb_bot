@@ -3794,7 +3794,7 @@
     "addresses": [
       "м. Ужгород, вул. Мукачівська, 2"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-04-10T09:16:04Z",
@@ -7184,27 +7184,6 @@
     "price_history": [
       {
         "price": 3440,
-        "at": "2026-04-15T09:57:15Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-15T09:57:15Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-hp-14-core-i5-3320m-ddr3-6gb-ddr3-hdd-500-gb-ntegrovana/m5160243": {
-    "name": "Ноутбук Hp 14/core i5 3320m ddr3/6gb ddr3/hdd 500 gb/*інтегрована",
-    "price_min": 3100,
-    "price_max": 3100,
-    "city": "Кропивницький",
-    "addresses": [
-      "м. Кропивницький, вул. Соборна, 3"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-15T09:57:15Z",
-    "price_history": [
-      {
-        "price": 3100,
         "at": "2026-04-15T09:57:15Z"
       }
     ],
@@ -13624,5 +13603,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-26T13:46:47Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i7-8550u-ddr3-16gb-ddr3-ssd-128-gb-ntegrovana/m5157299": {
+    "name": "Ноутбук Lenovo 15/core i7 8550u ddr3/16gb ddr3/ssd 128 gb/*інтегрована",
+    "price_min": 10600,
+    "price_max": 10600,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Велика Васильківська, 74 (м. Олімпійська)"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-26T14:49:37Z",
+    "price_history": [
+      {
+        "price": 10600,
+        "at": "2026-04-26T14:49:37Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-26T14:49:37Z"
   }
 }
