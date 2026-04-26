@@ -13250,27 +13250,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-26T12:05:09Z"
   },
-  "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982": {
-    "name": "Монітор Philips 27e1n1900ae/00",
-    "price_min": 4820,
-    "price_max": 4820,
-    "city": "Новий Розділ",
-    "addresses": [
-      "м. Новий Розділ, просп. Тараса Шевченка, 34"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-04-26T13:46:47Z",
-    "price_history": [
-      {
-        "price": 4820,
-        "at": "2026-04-26T13:46:47Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-26T13:46:47Z"
-  },
   "https://tehnoskarb.ua/noutbuk-nec-15-core-i5-4210m-ddr3-4gb-ddr3-ssd-480-gb-ntegrovana/m5167455": {
     "name": "Ноутбук Nec 15/core i5-4210m ddr3/4gb ddr3/ssd 480 gb/*інтегрована",
     "price_min": 3000,
@@ -13412,27 +13391,6 @@
     "price_history": [
       {
         "price": 8500,
-        "at": "2026-04-26T20:03:12Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-26T20:03:12Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-hp-15-ryzen-5-5600h-ddr4-16gb-ddr4-ssd-1000-gb-gtx1650/m5166377": {
-    "name": "Ноутбук Hp 15/ryzen 5 5600h ddr4/16gb ddr4/ssd 1000 gb/gtx1650",
-    "price_min": 7000,
-    "price_max": 7000,
-    "city": "Львів",
-    "addresses": [
-      "м. Львів, вул. Промислова, 50/52"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-26T20:03:12Z",
-    "price_history": [
-      {
-        "price": 7000,
         "at": "2026-04-26T20:03:12Z"
       }
     ],
@@ -13648,5 +13606,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-26T20:03:12Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-hp-15-core-i7-2760qm-ddr3-4gb-ddr3-hdd-vdsutnjj-ssd-128-gb-ntegrovana/m5158049": {
+    "name": "Ноутбук Hp 15/core i7 2760qm ddr3/4gb ddr3/hdd *відсутній/ssd 128 gb/*інтегрована",
+    "price_min": 4100,
+    "price_max": 4100,
+    "city": "Могилів-Подільський",
+    "addresses": [
+      "м. Могилів-Подільський, вул. Стависька, 42/78А"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-26T21:05:41Z",
+    "price_history": [
+      {
+        "price": 4100,
+        "at": "2026-04-26T21:05:41Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-26T21:05:41Z"
   }
 }
