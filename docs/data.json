@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-26T15:46:45Z",
+  "updated_at": "2026-04-26T16:52:04Z",
   "stats": {
-    "total": 642,
-    "avg_price": 9979,
+    "total": 640,
+    "avg_price": 9999,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -1425,26 +1425,6 @@
         {
           "price": 790,
           "at": "2026-04-13T18:18:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 2333hd",
-      "url": "https://tehnoskarb.ua/montor-samsung-2333hd/m5066774",
-      "price_min": 790,
-      "price_max": 790,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Порика Василя, 13"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-14T05:27:45Z",
-      "price_history": [
-        {
-          "price": 790,
-          "at": "2026-04-14T05:27:45Z"
         }
       ],
       "category": "Монітори",
@@ -8393,26 +8373,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi mag 275qf",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
-      "price_min": 6300,
-      "price_max": 6300,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Проскурівська, 109"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 6300,
-          "at": "2026-04-05T19:39:53Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Ноутбук Asus 15/core i3-10110u ddr4/8gb ddr3/hdd 250 gb/ssd *відсутній/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-asus-15-core-i3-10110u-ddr4-8gb-ddr3-hdd-250-gb-ssd-vdsutnjj-ntegrovana/m5163688",
       "price_min": 6400,
@@ -13186,24 +13146,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Ноутбук Lenovo 13/core i7 6500u ddr3/16gb ddr3/hdd *відсутній/ssd 256 gb/radeon r5 m330",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-13-core-i7-6500u-ddr3-16gb-ddr3-hdd-vdsutnjj-ssd-256-gb-radeon-r5-m330/m5158887",
-      "price": 4800,
-      "city": "Івано-Франківськ",
-      "category": "Ноутбуки",
-      "at": "2026-04-24T13:43:08Z"
-    },
-    {
-      "type": "sold",
-      "name": "Системний блок Пк amd ryzen 7 5700x/ram 32 gb/hdd 1000 gb/ssd 960 gb/nvidia rtx 4060 (geforce) 8gb gddr6 128bit",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-7-5700x-ram-32-gb-hdd-1000-gb-ssd-960-gb-nvidia-rtx-4060-geforce-8gb-gddr6-128bit/m5157151",
-      "price": 27000,
-      "city": "Кропивницький",
-      "category": "Системні блоки",
-      "at": "2026-04-24T13:43:08Z"
-    },
-    {
-      "type": "sold",
       "name": "Ноутбук Asus 15/celeron n4000 ddr4/4gb ddr4/hdd 1000 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-asus-15-celeron-n4000-ddr4-4gb-ddr4-hdd-1000-gb-ntegrovana/m5168726",
       "price": 2700,
@@ -14987,6 +14929,24 @@
       "city": "Білгород-Дністровський",
       "category": "Ноутбуки",
       "at": "2026-04-26T15:46:17Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi mag 275qf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
+      "price": 6300,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-04-26T16:50:13Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 2333hd",
+      "url": "https://tehnoskarb.ua/montor-samsung-2333hd/m5066774",
+      "price": 790,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-04-26T16:50:13Z"
     }
   ],
   "config": {
