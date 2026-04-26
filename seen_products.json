@@ -1600,13 +1600,13 @@
   },
   "https://tehnoskarb.ua/montor-msi-g255f/m5091244": {
     "name": "Монітор Msi g255f",
-    "price_min": 3290,
+    "price_min": 3900,
     "price_max": 4500,
     "city": "Жмеринка",
     "addresses": [
       "м. Жмеринка, вул. Соборна, 2, прим.№25"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -1620,6 +1620,10 @@
       {
         "price": 3290,
         "at": "2026-04-21T18:00:25Z"
+      },
+      {
+        "price": 3900,
+        "at": "2026-04-26T15:46:17Z"
       }
     ],
     "category": "Монітори",
@@ -1751,12 +1755,12 @@
   "https://tehnoskarb.ua/montor-philips-223v5l/m5061207": {
     "name": "Монітор Philips 223v5l",
     "price_min": 700,
-    "price_max": 890,
+    "price_max": 850,
     "city": "Запоріжжя",
     "addresses": [
       "м. Запоріжжя, вул. Ентузіастів, 3"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -12365,27 +12369,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-24T11:40:54Z"
   },
-  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-6500-ram-16-gb-hdd-500-gb-ssd-120-gb-amd-ati-radeon-rx-580-8gb-gddr5-256bit/m5161343": {
-    "name": "Системний блок Пк intel core i5-6500/ram 16 gb/hdd 500 gb/ssd 120 gb/amd/ ati radeon rx 580 8gb gddr5 256bit",
-    "price_min": 8800,
-    "price_max": 8800,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Січових Стрільців, 76"
-    ],
-    "offers_count": 1,
-    "category": "Системні блоки",
-    "category_emoji": "🖨",
-    "first_seen": "2026-04-24T13:43:08Z",
-    "price_history": [
-      {
-        "price": 8800,
-        "at": "2026-04-24T13:43:08Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-24T13:43:08Z"
-  },
   "https://tehnoskarb.ua/noutbuk-lenovo-17-ryzen-3-7320u-ddr5-8gb-ddr5-ssd-240-gb-ntegrovana/m5168433": {
     "name": "Ноутбук Lenovo 17/ryzen 3 7320u ddr5/8gb ddr5/ssd 240 gb/*інтегрована",
     "price_min": 10800,
@@ -12485,27 +12468,6 @@
     "price_history": [
       {
         "price": 2000,
-        "at": "2026-04-24T17:52:13Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-24T17:52:13Z"
-  },
-  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-9400-ram-16-gb-hdd-500-gb-ssd-vdsutnjj-nvidia-gtx-1070-geforce-8gb-gddr5-256bit/m5168482": {
-    "name": "Системний блок Пк intel core i5-9400/ram 16 gb/hdd 500 gb/ssd відсутній/nvidia gtx 1070 (geforce) 8gb gddr5 256bit",
-    "price_min": 14500,
-    "price_max": 14500,
-    "city": "Хмельницький",
-    "addresses": [
-      "м. Хмельницький, вул. Подільська, 38"
-    ],
-    "offers_count": 1,
-    "category": "Системні блоки",
-    "category_emoji": "🖨",
-    "first_seen": "2026-04-24T17:52:13Z",
-    "price_history": [
-      {
-        "price": 14500,
         "at": "2026-04-24T17:52:13Z"
       }
     ],
@@ -13604,25 +13566,25 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-26T13:46:47Z"
   },
-  "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i7-8550u-ddr3-16gb-ddr3-ssd-128-gb-ntegrovana/m5157299": {
-    "name": "Ноутбук Lenovo 15/core i7 8550u ddr3/16gb ddr3/ssd 128 gb/*інтегрована",
-    "price_min": 10600,
-    "price_max": 10600,
-    "city": "Київ",
+  "https://tehnoskarb.ua/noutbuk-nec-15-core-i5-4210m-ddr3-4gb-ddr3-ssd-480-gb-ntegrovana/m5167455": {
+    "name": "Ноутбук Nec 15/core i5-4210m ddr3/4gb ddr3/ssd 480 gb/*інтегрована",
+    "price_min": 3000,
+    "price_max": 3000,
+    "city": "Білгород-Дністровський",
     "addresses": [
-      "м. Київ, вул. Велика Васильківська, 74 (м. Олімпійська)"
+      "м. Білгород-Дністровський, вул. Українська, 73"
     ],
     "offers_count": 1,
     "category": "Ноутбуки",
     "category_emoji": "💻",
-    "first_seen": "2026-04-26T14:49:37Z",
+    "first_seen": "2026-04-26T15:46:17Z",
     "price_history": [
       {
-        "price": 10600,
-        "at": "2026-04-26T14:49:37Z"
+        "price": 3000,
+        "at": "2026-04-26T15:46:17Z"
       }
     ],
     "details_failures": 0,
-    "details_last_attempt": "2026-04-26T14:49:37Z"
+    "details_last_attempt": "2026-04-26T15:46:17Z"
   }
 }
