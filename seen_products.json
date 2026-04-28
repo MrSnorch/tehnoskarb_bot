@@ -13143,9 +13143,9 @@
         "at": "2026-04-28T06:38:41Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-28T15:57:57Z",
-    "details_retry_at": "2026-04-28T19:57:57Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-04-28T21:09:45Z",
+    "details_retry_at": "2026-04-29T03:09:45Z"
   },
   "https://tehnoskarb.ua/noutbuk-hp-15-pentium-n3710-ddr3-4gb-ddr3-hdd-500-gb-ntegrovana/m5169322": {
     "name": "Ноутбук Hp 15/pentium n3710 ddr3/4gb ddr3/hdd 500 gb/*інтегрована",
@@ -13247,9 +13247,9 @@
         "at": "2026-04-28T06:38:41Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-28T15:57:57Z",
-    "details_retry_at": "2026-04-28T19:57:57Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-04-28T21:09:45Z",
+    "details_retry_at": "2026-04-29T03:09:45Z"
   },
   "https://tehnoskarb.ua/noutbuk-hp-kr-14-core-i5-8350u-1-7ghz-ram16gb-ssd256gb-uhd620/m5168947": {
     "name": "Ноутбук Hp єкр. 14/ core i5 8350u 1,7ghz/ ram16gb/ ssd256gb/ uhd620",
@@ -13545,27 +13545,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-28T15:57:57Z"
   },
-  "https://tehnoskarb.ua/noutbuk-xiaomi-15-core-i5-12500h-ddr5-16gb-ddr5-ssd-512-gb-ntegrovana/m5156916": {
-    "name": "Ноутбук Xiaomi 15/core i5-12500h ddr5/16gb ddr5/ssd 512 gb/*інтегрована",
-    "price_min": 17500,
-    "price_max": 17500,
-    "city": "Луцьк",
-    "addresses": [
-      "м. Луцьк, вул. Лесі Українки, 24"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-28T15:57:57Z",
-    "price_history": [
-      {
-        "price": 17500,
-        "at": "2026-04-28T15:57:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-28T15:57:57Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717": {
     "name": "Монітор Samsung c24f390fhi",
     "price_min": 1860,
@@ -13734,27 +13713,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-28T19:45:49Z"
   },
-  "https://tehnoskarb.ua/noutbuk-acer-15-ryzen-5-3500u-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5156917": {
-    "name": "Ноутбук Acer 15/ryzen 5 3500u ddr4/8gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
-    "price_min": 8990,
-    "price_max": 8990,
-    "city": "Запоріжжя",
-    "addresses": [
-      "м. Запоріжжя, просп. Соборний, 224"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-28T19:45:49Z",
-    "price_history": [
-      {
-        "price": 8990,
-        "at": "2026-04-28T19:45:49Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-28T19:45:49Z"
-  },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i7-6700-ram-8-gb-hdd-vdsutnjj-ssd-256-gb-amd-ati-radeon-hd-6450-2gb-gddr3-64bit/m5169372": {
     "name": "Системний блок Пк intel core i7-6700/ram 8 gb/hdd відсутній/ssd 256 gb/amd/ ati radeon hd 6450 2gb gddr3 64bit",
     "price_min": 5850,
@@ -13796,5 +13754,89 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-28T19:45:49Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-c24f396fhi/m5160256": {
+    "name": "Монітор Samsung c24f396fhi",
+    "price_min": 2170,
+    "price_max": 2170,
+    "city": "Біла Церква",
+    "addresses": [
+      "м. Біла Церква, б-р Олександрійський, 62"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-04-28T21:09:45Z",
+    "price_history": [
+      {
+        "price": 2170,
+        "at": "2026-04-28T21:09:45Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-28T21:09:45Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-compaq-15-pentium-dual-core-t4500-ddr2-4gb-ddr2-ssd-128-gb-ntegrovana/m5169476": {
+    "name": "Ноутбук Compaq 15/pentium dual core t4500 ddr2/4gb ddr2/ssd 128 gb/*інтегрована",
+    "price_min": 1000,
+    "price_max": 1000,
+    "city": "Рівне",
+    "addresses": [
+      "м. Рівне, вул. Грушевського, 1"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-28T21:09:45Z",
+    "price_history": [
+      {
+        "price": 1000,
+        "at": "2026-04-28T21:09:45Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-28T21:09:45Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-asus-18-core-ultra-7-255hx-ddr5-32gb-ddr5-ssd-1000-gb-rtx-5070-8gb/m5169391": {
+    "name": "Ноутбук Asus 18/core ultra 7 255hx ddr5/32gb ddr5/ssd 1000 gb/rtx 5070 8gb",
+    "price_min": 72500,
+    "price_max": 72500,
+    "city": "Буча",
+    "addresses": [
+      "м. Буча, вул. Героїв Майдану, 10"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-28T21:09:45Z",
+    "price_history": [
+      {
+        "price": 72500,
+        "at": "2026-04-28T21:09:45Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-28T21:09:45Z"
+  },
+  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-9500t-ram-16-gb-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5169299": {
+    "name": "Системний блок Пк intel core i5-9500t/ram 16 gb/hdd відсутній/ssd 512 gb/інтегрована",
+    "price_min": 8120,
+    "price_max": 8120,
+    "city": "Луцьк",
+    "addresses": [
+      "м. Луцьк, вул. Лесі Українки, 24"
+    ],
+    "offers_count": 1,
+    "category": "Системні блоки",
+    "category_emoji": "🖨",
+    "first_seen": "2026-04-28T21:09:45Z",
+    "price_history": [
+      {
+        "price": 8120,
+        "at": "2026-04-28T21:09:45Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-28T21:09:45Z"
   }
 }
