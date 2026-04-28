@@ -1364,8 +1364,8 @@
   },
   "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378": {
     "name": "Відеомонітор Konvision kvm-1930w",
-    "price_min": 3500,
-    "price_max": 3500,
+    "price_min": 3150,
+    "price_max": 3150,
     "city": "Львів",
     "addresses": [
       "м. Львів, вул. Промислова, 50/52"
@@ -1380,6 +1380,10 @@
       {
         "price": 3500,
         "at": "2026-04-14T10:46:55Z"
+      },
+      {
+        "price": 3150,
+        "at": "2026-04-28T13:14:37Z"
       }
     ],
     "category": "Монітори",
@@ -4904,27 +4908,6 @@
     "price_history": [
       {
         "price": 38000,
-        "at": "2026-04-15T09:57:15Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-15T09:57:15Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-asus-15-pentium-4417u-ddr4-8gb-ddr4-ssd-120-gb-geforce-mx110-2gb/m5164893": {
-    "name": "Ноутбук Asus 15/pentium 4417u ddr4/8gb ddr4/ssd 120 gb/geforce mx110 2gb",
-    "price_min": 5400,
-    "price_max": 5400,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул Р. Окіпної, 5"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-15T09:57:15Z",
-    "price_history": [
-      {
-        "price": 5400,
         "at": "2026-04-15T09:57:15Z"
       }
     ],
@@ -11449,9 +11432,9 @@
         "at": "2026-04-23T19:16:20Z"
       }
     ],
-    "details_failures": 19,
-    "details_last_attempt": "2026-04-28T06:38:41Z",
-    "details_retry_at": "2026-04-28T12:38:41Z"
+    "details_failures": 20,
+    "details_last_attempt": "2026-04-28T13:14:37Z",
+    "details_retry_at": "2026-04-28T19:14:37Z"
   },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-3600-ram-32-gb-hdd-vdsutnjj-ssd-512-gb-nvidia-gtx-1060-geforce-6gb-gddr5-192bit/m5167299": {
     "name": "Системний блок Пк amd ryzen 5 3600/ram 32 gb/hdd відсутній/ssd 512 gb/nvidia gtx 1060 (geforce) 6gb gddr5 192bit",
@@ -11469,9 +11452,9 @@
         "at": "2026-04-23T19:16:20Z"
       }
     ],
-    "details_failures": 19,
-    "details_last_attempt": "2026-04-28T06:38:41Z",
-    "details_retry_at": "2026-04-28T12:38:41Z"
+    "details_failures": 20,
+    "details_last_attempt": "2026-04-28T13:14:37Z",
+    "details_retry_at": "2026-04-28T19:14:37Z"
   },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-3600xt-ram-32-gb-hdd-vdsutnjj-ssd-512-gb-nvidia-rtx-2070-super-geforce-8gb-gddr6-256b/m5167300": {
     "name": "Системний блок Пк amd ryzen 5 3600xt/ram 32 gb/hdd відсутній/ssd 512 gb/nvidia rtx 2070 super (geforce) 8gb gddr6 256b",
@@ -11489,9 +11472,9 @@
         "at": "2026-04-23T19:16:20Z"
       }
     ],
-    "details_failures": 19,
-    "details_last_attempt": "2026-04-28T06:38:41Z",
-    "details_retry_at": "2026-04-28T12:38:41Z"
+    "details_failures": 20,
+    "details_last_attempt": "2026-04-28T13:14:37Z",
+    "details_retry_at": "2026-04-28T19:14:37Z"
   },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-760-ram-4-gb-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5134867": {
     "name": "Системний блок Пк intel core i5-760/ram 4 gb/hdd 500 gb/ssd відсутній/інтегрована",
@@ -11509,9 +11492,9 @@
         "at": "2026-04-23T19:16:20Z"
       }
     ],
-    "details_failures": 19,
-    "details_last_attempt": "2026-04-28T06:38:41Z",
-    "details_retry_at": "2026-04-28T12:38:41Z"
+    "details_failures": 20,
+    "details_last_attempt": "2026-04-28T13:14:37Z",
+    "details_retry_at": "2026-04-28T19:14:37Z"
   },
   "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289": {
     "name": "Монітор Viewsonic va703b",
@@ -12074,9 +12057,9 @@
         "at": "2026-04-25T05:15:10Z"
       }
     ],
-    "details_failures": 14,
-    "details_last_attempt": "2026-04-28T06:38:41Z",
-    "details_retry_at": "2026-04-28T12:38:41Z"
+    "details_failures": 15,
+    "details_last_attempt": "2026-04-28T13:14:37Z",
+    "details_retry_at": "2026-04-28T19:14:37Z"
   },
   "https://tehnoskarb.ua/noutbuk-lenovo-14-core-i5-12450hx-ddr5-16gb-ddr5-ssd-512-gb-geforce-rtx3050-4gb/m5162915": {
     "name": "Ноутбук Lenovo 14/core i5-12450hx ddr5/16gb ddr5/ssd 512 gb/geforce rtx3050 4gb",
@@ -12094,9 +12077,9 @@
         "at": "2026-04-25T05:15:10Z"
       }
     ],
-    "details_failures": 14,
-    "details_last_attempt": "2026-04-28T06:38:41Z",
-    "details_retry_at": "2026-04-28T12:38:41Z"
+    "details_failures": 15,
+    "details_last_attempt": "2026-04-28T13:14:37Z",
+    "details_retry_at": "2026-04-28T19:14:37Z"
   },
   "https://tehnoskarb.ua/noutbuk-asus-15-core-i3-4005u-ddr3-8gb-ddr3-hdd-60-gb-ssd-vdsutnjj-geforce-920m-2gb/m5162395": {
     "name": "Ноутбук Asus 15/core i3 4005u ddr3/8gb ddr3/hdd 60 gb/ssd *відсутній/geforce 920m 2gb",
@@ -12156,9 +12139,9 @@
         "at": "2026-04-25T05:15:10Z"
       }
     ],
-    "details_failures": 14,
-    "details_last_attempt": "2026-04-28T06:38:41Z",
-    "details_retry_at": "2026-04-28T12:38:41Z"
+    "details_failures": 15,
+    "details_last_attempt": "2026-04-28T13:14:37Z",
+    "details_retry_at": "2026-04-28T19:14:37Z"
   },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-12400f-ram-32-gb-hdd-vdsutnjj-ssd-1000-gb-nvidia-rtx-4060-geforce-8gb-gddr6-128bit/m5135470": {
     "name": "Системний блок Пк intel core i5-12400f/ram 32 gb/hdd відсутній/ssd 1000 gb/nvidia rtx 4060 (geforce) 8gb gddr6 128bit",
@@ -13287,27 +13270,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-27T19:28:02Z"
   },
-  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core2-duo-e8500-ram-4-gb-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5169176": {
-    "name": "Системний блок Пк intel core2 duo e8500/ram 4 gb/hdd 500 gb/ssd відсутній/інтегрована",
-    "price_min": 1000,
-    "price_max": 1000,
-    "city": "Біла Церква",
-    "addresses": [
-      "м. Біла Церква, вул. О.Гончара, 1А/42А"
-    ],
-    "offers_count": 1,
-    "category": "Системні блоки",
-    "category_emoji": "🖨",
-    "first_seen": "2026-04-27T19:28:02Z",
-    "price_history": [
-      {
-        "price": 1000,
-        "at": "2026-04-27T19:28:02Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-27T19:28:02Z"
-  },
   "https://tehnoskarb.ua/noutbuk-dell-14-core-i5-6300u-ddr3-4gb-ddr3-hdd-vdsutnjj-ssd-128-gb-ntegrovana/m5169069": {
     "name": "Ноутбук Dell 14/core i5 6300u ddr3/4gb ddr3/hdd *відсутній/ssd 128 gb/*інтегрована",
     "price_min": 3190,
@@ -13726,48 +13688,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-28T11:21:42Z"
   },
-  "https://tehnoskarb.ua/noutbuk-lenovo-15-celeron-n4500-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5157296": {
-    "name": "Ноутбук Lenovo 15/celeron n4500 ddr4/8gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
-    "price_min": 6530,
-    "price_max": 6530,
-    "city": "Івано-Франківськ",
-    "addresses": [
-      "м. Івано-Франківськ, вул. Василя Стуса, 17А"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-28T11:21:42Z",
-    "price_history": [
-      {
-        "price": 6530,
-        "at": "2026-04-28T11:21:42Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-28T11:21:42Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-dell-13-pentium-n6000-ddr4-4gb-ddr4-hdd-vdsutnjj-ssd-120-gb-ntegrovana/m5157152": {
-    "name": "Ноутбук Dell 13/pentium n6000 ddr4/4gb ddr4/hdd *відсутній/ssd 120 gb/*інтегрована",
-    "price_min": 7250,
-    "price_max": 7250,
-    "city": "Луцьк",
-    "addresses": [
-      "м. Луцьк, просп. Соборності, 38"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-28T11:21:42Z",
-    "price_history": [
-      {
-        "price": 7250,
-        "at": "2026-04-28T11:21:42Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-28T11:21:42Z"
-  },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-athlon-x4-880k-ram-8-gb-hdd-1000-gb-ssd-120-gb-amd-ati-radeon-rx-550-4gb-gddr5-128bit/m5168733": {
     "name": "Системний блок Пк amd athlon x4 880k/ram 8 gb/hdd 1000 gb/ssd 120 gb/amd/ ati radeon rx 550 4gb gddr5 128bit",
     "price_min": 4000,
@@ -13788,5 +13708,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-28T11:21:42Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-samsung-15-core-i3-2370m-ddr3-6gb-ddr3-hdd-vdsutnjj-ssd-128-gb-geforce-610m/m5168811": {
+    "name": "Ноутбук Samsung 15/core i3 2370m ddr3/6gb ddr3/hdd *відсутній/ssd 128 gb/geforce 610m",
+    "price_min": 2180,
+    "price_max": 2180,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ,  вул. Бучми, 2"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-28T13:14:37Z",
+    "price_history": [
+      {
+        "price": 2180,
+        "at": "2026-04-28T13:14:37Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-28T13:14:37Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-lenovo-15-ryzen-7-7435hs-ddr5-32gb-ddr5-hdd-500-gb-ssd-500-gb-geforce-rtx4070-8gb/m5168729": {
+    "name": "Ноутбук Lenovo 15/ryzen 7 7435hs ddr5/32gb ddr5/hdd 500 gb/ssd 500 gb/geforce rtx4070 8gb",
+    "price_min": 42000,
+    "price_max": 42000,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. А. Малишка, 15/1"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-28T13:14:37Z",
+    "price_history": [
+      {
+        "price": 42000,
+        "at": "2026-04-28T13:14:37Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-28T13:14:37Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-acer-15-intel-core-i5-11400h-ram-32gb-ssd-960-+-256-+-1000gb-rtx-3050/m5168667": {
+    "name": "Ноутбук Acer 15/intel core i5-11400h/ram 32gb/ssd 960 + 256 + 1000gb/rtx 3050",
+    "price_min": 29500,
+    "price_max": 29500,
+    "city": "Суми",
+    "addresses": [
+      "м. Суми, просп. Перемоги, 115"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-28T13:14:37Z",
+    "price_history": [
+      {
+        "price": 29500,
+        "at": "2026-04-28T13:14:37Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-28T13:14:37Z"
   }
 }
