@@ -2334,27 +2334,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-06T13:04:00Z"
   },
-  "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-7-7735hs-ddr5-16gb-ddr5-ssd-512-gb-geforce-rtx4060-8gb/m5165507": {
-    "name": "Ноутбук Asus 15/ryzen 7 7735hs ddr5/16gb ddr5/ssd 512 gb/geforce rtx4060 8gb",
-    "price_min": 44500,
-    "price_max": 44500,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Миру, 2/3"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-06T13:04:00Z",
-    "price_history": [
-      {
-        "price": 44500,
-        "at": "2026-04-06T13:04:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-06T13:04:00Z"
-  },
   "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i3-1215u-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-256-gb-ntegrovana/m5165503": {
     "name": "Ноутбук Lenovo 15/core i3-1215u ddr5/16gb ddr5/hdd *відсутній/ssd 256 gb/*інтегрована",
     "price_min": 11800,
@@ -2843,13 +2822,13 @@
   },
   "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009": {
     "name": "Монітор Samsung bx2235 ls22b3uvmn",
-    "price_min": 850,
+    "price_min": 790,
     "price_max": 850,
     "city": "Харків",
     "addresses": [
       "м. Харків, вул. Дудинської, 1-А"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-04-07T11:59:05Z",
@@ -2857,6 +2836,10 @@
       {
         "price": 850,
         "at": "2026-04-07T11:59:05Z"
+      },
+      {
+        "price": 790,
+        "at": "2026-04-30T19:27:16Z"
       }
     ],
     "details_failures": 0,
@@ -3494,26 +3477,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-04-10T17:55:25Z"
-  },
-  "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-5600-ram-16-gb-hdd-vdsutnjj-ssd-1000-gb-amd-ati-radeon-rx-6800-xt-16gb-gddr6-256bit/m5165112": {
-    "name": "Системний блок Пк amd ryzen 5 5600/ram 16 gb/hdd відсутній/ssd 1000 gb/amd/ ati radeon rx 6800 xt 16gb gddr6 256bit",
-    "price_min": 35000,
-    "price_max": 35000,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Системні блоки",
-    "category_emoji": "🖨",
-    "first_seen": "2026-04-10T17:55:25Z",
-    "price_history": [
-      {
-        "price": 35000,
-        "at": "2026-04-10T17:55:25Z"
-      }
-    ],
-    "details_failures": 73,
-    "details_last_attempt": "2026-04-30T17:51:13Z",
-    "details_retry_at": "2026-04-30T23:51:13Z"
   },
   "https://tehnoskarb.ua/montor-lg-22mp58d/m5166757": {
     "name": "Монітор Lg 22mp58d",
@@ -13144,9 +13107,9 @@
         "at": "2026-04-30T07:09:41Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-30T14:04:52Z",
-    "details_retry_at": "2026-04-30T18:04:52Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-04-30T19:27:16Z",
+    "details_retry_at": "2026-05-01T01:27:16Z"
   },
   "https://tehnoskarb.ua/montor-samsung-c27f396fhi/m5145006": {
     "name": "Монітор Samsung c27f396fhi",
@@ -13185,9 +13148,9 @@
         "at": "2026-04-30T07:09:41Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-30T14:04:52Z",
-    "details_retry_at": "2026-04-30T18:04:52Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-04-30T19:27:16Z",
+    "details_retry_at": "2026-05-01T01:27:16Z"
   },
   "https://tehnoskarb.ua/rk-montor-samsung-740n/m5016002": {
     "name": "Монітор Samsung 740n",
@@ -13205,9 +13168,9 @@
         "at": "2026-04-30T07:09:41Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-30T14:04:52Z",
-    "details_retry_at": "2026-04-30T18:04:52Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-04-30T19:27:16Z",
+    "details_retry_at": "2026-05-01T01:27:16Z"
   },
   "https://tehnoskarb.ua/noutbuk-lenovo-13-core-i7-2640m-ddr3-4gb-ddr3-hdd-500-gb-ntegrovana/m5169798": {
     "name": "Ноутбук Lenovo 13/core i7 2640m ddr3/4gb ddr3/hdd 500 gb/*інтегрована",
@@ -13330,9 +13293,9 @@
         "at": "2026-04-30T07:09:41Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-30T14:04:52Z",
-    "details_retry_at": "2026-04-30T18:04:52Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-04-30T19:27:16Z",
+    "details_retry_at": "2026-05-01T01:27:16Z"
   },
   "https://tehnoskarb.ua/noutbuk-dell-core-i5-4310m-ram-16gb-ssd-256gb-amd-firepro-w4170m/m5168735": {
     "name": "Ноутбук Dell core i5-4310m /ram 16gb / ssd 256gb / amd firepro w4170m",
@@ -13350,9 +13313,9 @@
         "at": "2026-04-30T07:09:41Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-30T14:04:52Z",
-    "details_retry_at": "2026-04-30T18:04:52Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-04-30T19:27:16Z",
+    "details_retry_at": "2026-05-01T01:27:16Z"
   },
   "https://tehnoskarb.ua/noutbuk-hp-15-ryzen-5-3500u-ddr4-8gb-ddr4-ssd-240-gb-ntegrovana/m5168668": {
     "name": "Ноутбук Hp 15/ryzen 5 3500u ddr4/8gb ddr4/ssd 240 gb/*інтегрована",
@@ -13412,9 +13375,9 @@
         "at": "2026-04-30T07:09:41Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-30T14:04:52Z",
-    "details_retry_at": "2026-04-30T18:04:52Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-04-30T19:27:16Z",
+    "details_retry_at": "2026-05-01T01:27:16Z"
   },
   "https://tehnoskarb.ua/noutbuk-hp-15-e1-1200-ddr3-6gb-ddr3-hdd-120-gb-ssd-vdsutnjj-ntegrovana/m5158023": {
     "name": "Ноутбук Hp 15/e1 1200 ddr3/6gb ddr3/hdd 120 gb/ssd *відсутній/*інтегрована",
@@ -13432,9 +13395,9 @@
         "at": "2026-04-30T07:09:41Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-04-30T14:04:52Z",
-    "details_retry_at": "2026-04-30T18:04:52Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-04-30T19:27:16Z",
+    "details_retry_at": "2026-05-01T01:27:16Z"
   },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-7500-ram-16-gb-hdd-1000-gb+vdsutnjj-ssd-240-gb+vdsutnjj-nvidia-gtx-1050-ti-geforce/m5169685": {
     "name": "Системний блок Пк intel core i5-7500/ram 16 gb/hdd 1000 gb+відсутній/ssd 240 gb+відсутній/nvidia gtx 1050 ti (geforce",
@@ -13793,27 +13756,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-30T16:02:04Z"
   },
-  "https://tehnoskarb.ua/noutbuk-xiaomi-15-core-i5-12500h-ddr5-16gb-ddr5-ssd-512-gb-ntegrovana/m5156916": {
-    "name": "Ноутбук Xiaomi 15/core i5-12500h ddr5/16gb ddr5/ssd 512 gb/*інтегрована",
-    "price_min": 17500,
-    "price_max": 17500,
-    "city": "Луцьк",
-    "addresses": [
-      "м. Луцьк, вул. Лесі Українки, 24"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-30T16:02:04Z",
-    "price_history": [
-      {
-        "price": 17500,
-        "at": "2026-04-30T16:02:04Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-30T16:02:04Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-s24e391hl/m5065257": {
     "name": "Монітор Samsung s24e391hl",
     "price_min": 1500,
@@ -13856,46 +13798,130 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-30T17:51:13Z"
   },
-  "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i5-11320h-ddr4-16gb-ddr4-ssd1000gb+ssd256gb-geforce-rtx3050-4gb/m5169852": {
-    "name": "Ноутбук Lenovo 15/core i5-11320h ddr4/16gb ddr4/ssd1000gb+ssd256gb/geforce rtx3050 4gb",
-    "price_min": 22500,
-    "price_max": 22500,
-    "city": "Луцьк",
+  "https://tehnoskarb.ua/montor-benq-gw2280/m5042255": {
+    "name": "Монітор Benq gw2280",
+    "price_min": 1750,
+    "price_max": 1750,
+    "city": "Рівне",
     "addresses": [
-      "м. Луцьк, просп. Соборності, 4"
+      "м. Рівне, вул. Князя Романа, 1"
     ],
     "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-04-30T17:51:13Z",
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-04-30T19:27:16Z",
     "price_history": [
       {
-        "price": 22500,
-        "at": "2026-04-30T17:51:13Z"
+        "price": 1750,
+        "at": "2026-04-30T19:27:16Z"
       }
     ],
     "details_failures": 0,
-    "details_last_attempt": "2026-04-30T17:51:13Z"
+    "details_last_attempt": "2026-04-30T19:27:16Z"
   },
-  "https://tehnoskarb.ua/noutbuk-acer-15-ryzen-5-3500u-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5156917": {
-    "name": "Ноутбук Acer 15/ryzen 5 3500u ddr4/8gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
-    "price_min": 8990,
-    "price_max": 8990,
-    "city": "Запоріжжя",
+  "https://tehnoskarb.ua/noutbuk-acer-16-core-i5-13420h-ddr5-ram16gb-ssd512gb-rtx3050-6gb/m5169857": {
+    "name": "Ноутбук Acer 16\"/core i5-13420h ddr5/ram16gb/ssd512gb/rtx3050 6gb",
+    "price_min": 28500,
+    "price_max": 28500,
+    "city": "Рівне",
     "addresses": [
-      "м. Запоріжжя, просп. Соборний, 224"
+      "м. Рівне, вул. Корольова, 8"
     ],
     "offers_count": 1,
     "category": "Ноутбуки",
     "category_emoji": "💻",
-    "first_seen": "2026-04-30T17:51:13Z",
+    "first_seen": "2026-04-30T19:27:16Z",
     "price_history": [
       {
-        "price": 8990,
-        "at": "2026-04-30T17:51:13Z"
+        "price": 28500,
+        "at": "2026-04-30T19:27:16Z"
       }
     ],
     "details_failures": 0,
-    "details_last_attempt": "2026-04-30T17:51:13Z"
+    "details_last_attempt": "2026-04-30T19:27:16Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-dell-14-core-i5-7440hq-ddr3-8gb-ddr3-ssd-256-gb-ntegrovana/m5169849": {
+    "name": "Ноутбук Dell 14/core i5 7440hq ddr3/8gb ddr3/ssd 256 gb/*інтегрована",
+    "price_min": 4500,
+    "price_max": 4500,
+    "city": "Рівне",
+    "addresses": [
+      "м. Рівне, вул. Князя Романа, 1"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-30T19:27:16Z",
+    "price_history": [
+      {
+        "price": 4500,
+        "at": "2026-04-30T19:27:16Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-30T19:27:16Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-xiaomi-15-core-i5-12450h-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5169840": {
+    "name": "Ноутбук Xiaomi 15/core i5-12450h ddr5/16gb ddr5/hdd *відсутній/ssd 512 gb/*інтегрована",
+    "price_min": 18850,
+    "price_max": 18850,
+    "city": "Суми",
+    "addresses": [
+      "м. Суми, вул. Іллінська, 7"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-30T19:27:16Z",
+    "price_history": [
+      {
+        "price": 18850,
+        "at": "2026-04-30T19:27:16Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-30T19:27:16Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-apple-macbook-pro-a1502-13-3-core-i5-2-7ghz-ram8gb-ssd128gb-iris-6100/m5162508": {
+    "name": "Ноутбук Apple macbook pro/ a1502 13,3\"/ core i5 2.7ghz/ ram8gb/ ssd128gb/ iris 6100",
+    "price_min": 4350,
+    "price_max": 4350,
+    "city": "Івано-Франківськ",
+    "addresses": [
+      "м. Івано-Франківськ, вул. Гетьмана Мазепи, 20/1"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-04-30T19:27:16Z",
+    "price_history": [
+      {
+        "price": 4350,
+        "at": "2026-04-30T19:27:16Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-30T19:27:16Z"
+  },
+  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-8100-ram-8-gb-hdd-vdsutnjj-ssd-256-gb-nvidia-gt-710-geforce-1gb-ddr3-64bit/m5169606": {
+    "name": "Системний блок Пк intel core i3-8100/ram 8 gb/hdd відсутній/ssd 256 gb/nvidia gt 710 (geforce) 1gb ddr3 64bit",
+    "price_min": 4490,
+    "price_max": 4490,
+    "city": "Івано-Франківськ",
+    "addresses": [
+      "м. Івано-Франківськ, вул. Василіянок, 7"
+    ],
+    "offers_count": 1,
+    "category": "Системні блоки",
+    "category_emoji": "🖨",
+    "first_seen": "2026-04-30T19:27:16Z",
+    "price_history": [
+      {
+        "price": 4490,
+        "at": "2026-04-30T19:27:16Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-04-30T19:27:16Z"
   }
 }
