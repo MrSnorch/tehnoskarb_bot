@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-01T18:02:18Z",
+  "updated_at": "2026-05-01T19:48:04Z",
   "stats": {
     "total": 663,
-    "avg_price": 10318,
+    "avg_price": 10337,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -1933,26 +1933,6 @@
       ],
       "category": "Монітори",
       "category_emoji": "🖥"
-    },
-    {
-      "name": "Ноутбук Acer 11.6/atom n2600/ram 2gb/hdd 320gb/інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-acer-11-6-atom-n2600-ram-2gb-hdd-320gb-ntegrovana/m5170060",
-      "price_min": 990,
-      "price_max": 990,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Фединця, 17"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-01T18:01:05Z",
-      "price_history": [
-        {
-          "price": 990,
-          "at": "2026-05-01T18:01:05Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
     },
     {
       "name": "Системний блок Пк intel core2 duo e8500/ram 4 gb/hdd 500 gb/ssd відсутній/інтегрована",
@@ -11059,6 +11039,26 @@
       "category_emoji": "💻"
     },
     {
+      "name": "Ноутбук Acer 15/core i5 9300h ddr4/8gb ddr4/hdd *відсутній/ssd 256 gb/geforce gtx1050 3gb",
+      "url": "https://tehnoskarb.ua/noutbuk-acer-15-core-i5-9300h-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-256-gb-geforce-gtx1050-3gb/m5156614",
+      "price_min": 13900,
+      "price_max": 13900,
+      "city": "Олександрія",
+      "addresses": [
+        "м. Олександрія, просп. Соборний, 98"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-01T19:47:41Z",
+      "price_history": [
+        {
+          "price": 13900,
+          "at": "2026-05-01T19:47:41Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
       "name": "Ноутбук Asus 15/core i3-n305 ddr5/8gb ddr4/ssd 512 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-asus-15-core-i3-n305-ddr5-8gb-ddr4-ssd-512-gb-ntegrovana/m5167507",
       "price_min": 13920,
@@ -14190,24 +14190,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Lg 29wk500",
-      "url": "https://tehnoskarb.ua/montor-lg-29wk500/m5142416",
-      "price": 4500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-01T11:09:25Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Hp 16/core i3 6006u ddr3/4gb ddr3/hdd *відсутній/ssd 250 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-16-core-i3-6006u-ddr3-4gb-ddr3-hdd-vdsutnjj-ssd-250-gb-ntegrovana/m5161665",
-      "price": 3600,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-05-01T11:09:25Z"
-    },
-    {
-      "type": "sold",
       "name": "Ноутбук Lenovo 15/ryzen 3 5300u ddr4/8gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-ryzen-3-5300u-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5161614",
       "price": 9500,
@@ -16126,6 +16108,24 @@
       "city": "Харків",
       "category": "Системні блоки",
       "at": "2026-05-01T18:01:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Acer 11.6/atom n2600/ram 2gb/hdd 320gb/інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-acer-11-6-atom-n2600-ram-2gb-hdd-320gb-ntegrovana/m5170060",
+      "price": 990,
+      "city": "Ужгород",
+      "category": "Ноутбуки",
+      "at": "2026-05-01T19:47:41Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Acer 15/core i5 9300h ddr4/8gb ddr4/hdd *відсутній/ssd 256 gb/geforce gtx1050 3gb",
+      "url": "https://tehnoskarb.ua/noutbuk-acer-15-core-i5-9300h-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-256-gb-geforce-gtx1050-3gb/m5156614",
+      "price": 13900,
+      "city": "Олександрія",
+      "category": "Ноутбуки",
+      "at": "2026-05-01T19:47:41Z"
     }
   ],
   "config": {
