@@ -151,25 +151,6 @@
     "category": "Монітори",
     "category_emoji": "🖥"
   },
-  "https://tehnoskarb.ua/montor-evromedia-i22/m5162964": {
-    "name": "Монітор Evromedia i22",
-    "price_min": 2000,
-    "price_max": 2000,
-    "city": "Кривий Ріг",
-    "addresses": [
-      "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 2000,
-        "at": "2026-04-05T19:39:53Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
   "https://tehnoskarb.ua/montor-asus-vh203/m5162712": {
     "name": "Монітор Asus vh203",
     "price_min": 870,
@@ -14005,27 +13986,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-01T12:12:11Z"
   },
-  "https://tehnoskarb.ua/noutbuk-lenovo-15-celeron-n4500-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5157296": {
-    "name": "Ноутбук Lenovo 15/celeron n4500 ddr4/8gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
-    "price_min": 6530,
-    "price_max": 6530,
-    "city": "Івано-Франківськ",
-    "addresses": [
-      "м. Івано-Франківськ, вул. Василя Стуса, 17А"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-05-01T12:12:11Z",
-    "price_history": [
-      {
-        "price": 6530,
-        "at": "2026-05-01T12:12:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-01T12:12:11Z"
-  },
   "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-10105-ram-16-gb-hdd-250-gb-ssd-240-gb-amd-ati-radeon-rx-5500-xt-4gb-gddr6-128bit/m5170049": {
     "name": "Системний блок Пк intel core i3-10105/ram 16 gb/hdd 250 gb/ssd 240 gb/amd/ ati radeon rx 5500 xt 4gb gddr6 128bit",
     "price_min": 8740,
@@ -14613,5 +14573,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-02T10:55:33Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-asus-zenbook-flip-ux360c-14-core-m5-6y54-1-10ghz-ram-8gb-ssd-256gb-touch-ntegrrovana/m5159690": {
+    "name": "Ноутбук Asus zenbook flip ux360c 14\"/core m5-6y54 1.10ghz/ram 8gb / ssd 256gb /touch/*інтегрірована",
+    "price_min": 5770,
+    "price_max": 5770,
+    "city": "Одеса",
+    "addresses": [
+      "м. Одеса, вул. Корольова, 80"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-05-02T11:49:32Z",
+    "price_history": [
+      {
+        "price": 5770,
+        "at": "2026-05-02T11:49:32Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-02T11:49:32Z"
   }
 }
