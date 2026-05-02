@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-02T13:19:55Z",
+  "updated_at": "2026-05-02T14:30:50Z",
   "stats": {
-    "total": 662,
-    "avg_price": 10506,
+    "total": 660,
+    "avg_price": 10513,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -3781,26 +3781,6 @@
         {
           "price": 2220,
           "at": "2026-04-08T10:11:03Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer r242y",
-      "url": "https://tehnoskarb.ua/montor-acer-r242y/m5169264",
-      "price_min": 2230,
-      "price_max": 2230,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-29T08:38:58Z",
-      "price_history": [
-        {
-          "price": 2230,
-          "at": "2026-04-29T08:38:58Z"
         }
       ],
       "category": "Монітори",
@@ -11068,24 +11048,6 @@
       "category_emoji": "💻"
     },
     {
-      "name": "Системний блок Пк amd ryzen 5 3600/ram 32 gb/hdd відсутній/ssd 512 gb/nvidia gtx 1060 (geforce) 6gb gddr5 192bit",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-3600-ram-32-gb-hdd-vdsutnjj-ssd-512-gb-nvidia-gtx-1060-geforce-6gb-gddr5-192bit/m5167299",
-      "price_min": 14500,
-      "price_max": 14500,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-04-23T19:16:20Z",
-      "price_history": [
-        {
-          "price": 14500,
-          "at": "2026-04-23T19:16:20Z"
-        }
-      ],
-      "category": "Системні блоки",
-      "category_emoji": "🖨"
-    },
-    {
       "name": "Ноутбук Acer 15/core 3 n355 ddr4/16gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-acer-15-core-3-n355-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5162226",
       "price_min": 14580,
@@ -14175,26 +14137,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Dell se2222h",
-      "url": "https://tehnoskarb.ua/montor-dell-se2222h/m5132196",
-      "price_old": 1930,
-      "price_new": 1740,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-01T12:12:11Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Philips 240v5qdsb",
-      "url": "https://tehnoskarb.ua/montor-philips-240v5qdsb/m5100973",
-      "price_old": 2000,
-      "price_new": 1800,
-      "city": "Лозова",
-      "category": "Монітори",
-      "at": "2026-05-01T12:12:11Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Dell se2222h / 210-azku",
       "url": "https://tehnoskarb.ua/montor-dell-se2222h-210-azku/m5093740",
       "price_old": 2200,
@@ -16070,6 +16012,24 @@
       "city": "Київ",
       "category": "Системні блоки",
       "at": "2026-05-02T13:19:21Z"
+    },
+    {
+      "type": "sold",
+      "name": "Системний блок Пк amd ryzen 5 3600/ram 32 gb/hdd відсутній/ssd 512 gb/nvidia gtx 1060 (geforce) 6gb gddr5 192bit",
+      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-3600-ram-32-gb-hdd-vdsutnjj-ssd-512-gb-nvidia-gtx-1060-geforce-6gb-gddr5-192bit/m5167299",
+      "price": 14500,
+      "city": "",
+      "category": "Системні блоки",
+      "at": "2026-05-02T14:30:27Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer r242y",
+      "url": "https://tehnoskarb.ua/montor-acer-r242y/m5169264",
+      "price": 2230,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-02T14:30:27Z"
     }
   ],
   "config": {
