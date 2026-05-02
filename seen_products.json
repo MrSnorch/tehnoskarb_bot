@@ -8183,12 +8183,12 @@
   "https://tehnoskarb.ua/noutbuk-hp-15-athlon-7220u-ddr5-8gb-ddr5-hdd-vdsutnjj-ssd-256-gb-ntegrovana/m5159470": {
     "name": "Ноутбук Hp 15/athlon 7220u ddr5/8gb ddr5/hdd *відсутній/ssd 256 gb/*інтегрована",
     "price_min": 9360,
-    "price_max": 9360,
+    "price_max": 10150,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Воскресенський, 34/2"
     ],
-    "offers_count": 1,
+    "offers_count": 3,
     "category": "Ноутбуки",
     "category_emoji": "💻",
     "first_seen": "2026-04-15T20:05:02Z",
@@ -13976,13 +13976,13 @@
   },
   "https://tehnoskarb.ua/noutbuk-asus-15-ryzen-7-7735hs-ddr5-16gb-ddr5-ssd-512-gb-geforce-rtx4060-8gb/m5165507": {
     "name": "Ноутбук Asus 15/ryzen 7 7735hs ddr5/16gb ddr5/ssd 512 gb/geforce rtx4060 8gb",
-    "price_min": 44500,
+    "price_min": 39150,
     "price_max": 44500,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Миру, 2/3"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Ноутбуки",
     "category_emoji": "💻",
     "first_seen": "2026-05-02T06:09:02Z",
@@ -13990,6 +13990,10 @@
       {
         "price": 44500,
         "at": "2026-05-02T06:09:02Z"
+      },
+      {
+        "price": 39150,
+        "at": "2026-05-02T19:04:48Z"
       }
     ],
     "details_failures": 0,
@@ -14305,9 +14309,9 @@
         "at": "2026-05-02T16:53:43Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-05-02T17:48:40Z",
-    "details_retry_at": "2026-05-02T18:48:40Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-05-02T19:04:48Z",
+    "details_retry_at": "2026-05-02T21:04:48Z"
   },
   "https://tehnoskarb.ua/montor-lg-e2360/m5164732": {
     "name": "Монітор Lg e2360",
@@ -14345,27 +14349,6 @@
     "price_history": [
       {
         "price": 2800,
-        "at": "2026-05-02T16:53:43Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-02T16:53:43Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-asus-15-celeron-1007u-ddr3-4gb-ddr3-hdd-vdsutnjj-ssd-256-gb-ntegrovana/m5170201": {
-    "name": "Ноутбук Asus 15/celeron 1007u ddr3/4gb ddr3/hdd *відсутній/ssd 256 gb/*інтегрована",
-    "price_min": 1720,
-    "price_max": 1720,
-    "city": "Черкаси",
-    "addresses": [
-      "м. Черкаси, б-р Шевченко, 243"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-05-02T16:53:43Z",
-    "price_history": [
-      {
-        "price": 1720,
         "at": "2026-05-02T16:53:43Z"
       }
     ],
@@ -14477,25 +14460,67 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-02T17:48:40Z"
   },
-  "https://tehnoskarb.ua/noutbuk-xiaomi-15-core-i7-10750h-ddr4-32gb-ddr4-ssd-512-gb-geforce-gtx1650ti-4gb/m5170208": {
-    "name": "Ноутбук Xiaomi 15/core i7-10750h ddr4/32gb ddr4/ssd 512 gb/geforce gtx1650ti 4gb",
-    "price_min": 16000,
-    "price_max": 16000,
-    "city": "Миколаїв",
+  "https://tehnoskarb.ua/montor-lg-22mk600m/m5145581": {
+    "name": "Монітор Lg 22mk600m",
+    "price_min": 2400,
+    "price_max": 2400,
+    "city": "Київ",
     "addresses": [
-      "м. Миколаїв, вул. 3-я Слобідська, 51"
+      "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-02T19:04:48Z",
+    "price_history": [
+      {
+        "price": 2400,
+        "at": "2026-05-02T19:04:48Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-02T19:04:48Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-dream-machines-15-core-i7-9750h-ddr4-16gb-ddr4-ssd-1000-gb-geforce-rtx2080-max-q-8gb/m5170109": {
+    "name": "Ноутбук Dream Machines 15/core i7 9750h ddr4/16gb ddr4/ssd 1000 gb/geforce rtx2080 max-q 8gb",
+    "price_min": 27000,
+    "price_max": 27000,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
     ],
     "offers_count": 1,
     "category": "Ноутбуки",
     "category_emoji": "💻",
-    "first_seen": "2026-05-02T17:48:40Z",
+    "first_seen": "2026-05-02T19:04:48Z",
     "price_history": [
       {
-        "price": 16000,
-        "at": "2026-05-02T17:48:40Z"
+        "price": 27000,
+        "at": "2026-05-02T19:04:48Z"
       }
     ],
     "details_failures": 0,
-    "details_last_attempt": "2026-05-02T17:48:40Z"
+    "details_last_attempt": "2026-05-02T19:04:48Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-hp-13-core-i5-1245u-ddr4-16gb-ddr4-ssd-250-gb-ntegrovana/m5170102": {
+    "name": "Ноутбук Hp 13/core i5-1245u ddr4/16gb ddr4/ssd 250 gb/*інтегрована",
+    "price_min": 14500,
+    "price_max": 14500,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-05-02T19:04:48Z",
+    "price_history": [
+      {
+        "price": 14500,
+        "at": "2026-05-02T19:04:48Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-02T19:04:48Z"
   }
 }
