@@ -132,25 +132,6 @@
     "category": "Монітори",
     "category_emoji": "🖥"
   },
-  "https://tehnoskarb.ua/montor-philips-224e5q/m5162421": {
-    "name": "Монітор Philips 224e5q",
-    "price_min": 1480,
-    "price_max": 1480,
-    "city": "Ужгород",
-    "addresses": [
-      "м. Ужгород, вул. Мукачівська, 2"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 1480,
-        "at": "2026-04-05T19:39:53Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
   "https://tehnoskarb.ua/montor-samsung-s24e650/m5162299": {
     "name": "Монітор Samsung s24e650",
     "price_min": 1530,
@@ -13839,27 +13820,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-03T04:28:12Z"
   },
-  "https://tehnoskarb.ua/noutbuk-lenovo-12-core-i5-4210u-ddr3-8gb-ddr3-ssd-120-gb-ntegrovana/m5170192": {
-    "name": "Ноутбук Lenovo 12/core i5 4210u ddr3/8gb ddr3/ssd 120 gb/*інтегрована",
-    "price_min": 2090,
-    "price_max": 2090,
-    "city": "Харків",
-    "addresses": [
-      "м. Харків, просп. Тракторобудівників, 108"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-05-03T04:28:12Z",
-    "price_history": [
-      {
-        "price": 2090,
-        "at": "2026-05-03T04:28:12Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-03T04:28:12Z"
-  },
   "https://tehnoskarb.ua/noutbuk-hp-15-core-i3-7020u-ddr3-8gb-ddr3-ssd-256-gb-geforce-mx110-2gb/m5170202": {
     "name": "Ноутбук Hp 15/core i3 7020u ddr3/8gb ddr3/ssd 256 gb/geforce mx110 2gb",
     "price_min": 5440,
@@ -14082,27 +14042,6 @@
     "price_history": [
       {
         "price": 1600,
-        "at": "2026-05-03T09:04:23Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-03T09:04:23Z"
-  },
-  "https://tehnoskarb.ua/noutbuk-asus-15-celeron-1007u-ddr3-4gb-ddr3-hdd-vdsutnjj-ssd-256-gb-ntegrovana/m5170201": {
-    "name": "Ноутбук Asus 15/celeron 1007u ddr3/4gb ddr3/hdd *відсутній/ssd 256 gb/*інтегрована",
-    "price_min": 1720,
-    "price_max": 1720,
-    "city": "Черкаси",
-    "addresses": [
-      "м. Черкаси, б-р Шевченко, 243"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-05-03T09:04:23Z",
-    "price_history": [
-      {
-        "price": 1720,
         "at": "2026-05-03T09:04:23Z"
       }
     ],
@@ -14360,5 +14299,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-03T13:18:34Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-hp-14-core-i7-8665u-ddr4-16gb-ddr4-ssd-256-gb-ntegrovana/m5170198": {
+    "name": "Ноутбук Hp 14/core i7-8665u ddr4/16gb ddr4/ssd 256 gb/*інтегрована",
+    "price_min": 6530,
+    "price_max": 6530,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Юлії Здановської, 60/5"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-05-03T14:29:33Z",
+    "price_history": [
+      {
+        "price": 6530,
+        "at": "2026-05-03T14:29:33Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-03T14:29:33Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-lenovo-15-celeron-n4000-ddr4-4gb-ddr4-hdd-vdsutnjj-ssd-240-gb-ntegrovana/m5169983": {
+    "name": "Ноутбук Lenovo 15/celeron n4000 ddr4/4gb ddr4/hdd *відсутній/ssd 240 gb/*інтегрована",
+    "price_min": 3770,
+    "price_max": 3770,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Братства тарасівців, 2А"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-05-03T14:29:33Z",
+    "price_history": [
+      {
+        "price": 3770,
+        "at": "2026-05-03T14:29:33Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-03T14:29:33Z"
+  },
+  "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-13400f-ram-32-gb-hdd-vdsutnjj-ssd-2000-gb-nvidia-rtx-4070ti-geforce-12gb-gddr6x-19/m5170271": {
+    "name": "Системний блок Пк intel core i5-13400f/ram 32 gb/hdd відсутній/ssd 2000 gb/nvidia rtx 4070ti (geforce) 12gb gddr6x 19",
+    "price_min": 46850,
+    "price_max": 46850,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Юлії Здановської, 60/5"
+    ],
+    "offers_count": 1,
+    "category": "Системні блоки",
+    "category_emoji": "🖨",
+    "first_seen": "2026-05-03T14:29:33Z",
+    "price_history": [
+      {
+        "price": 46850,
+        "at": "2026-05-03T14:29:33Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-03T14:29:33Z"
   }
 }
