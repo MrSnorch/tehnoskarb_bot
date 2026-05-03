@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-03T18:37:25Z",
+  "updated_at": "2026-05-03T19:34:22Z",
   "stats": {
-    "total": 196,
-    "avg_price": 2474,
+    "total": 197,
+    "avg_price": 2465,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -956,6 +956,26 @@
         {
           "price": 600,
           "at": "2026-04-27T19:28:02Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung e2220n",
+      "url": "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230",
+      "price_min": 600,
+      "price_max": 600,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-03T19:34:14Z",
+      "price_history": [
+        {
+          "price": 600,
+          "at": "2026-05-03T19:34:14Z"
         }
       ],
       "category": "Монітори",
@@ -4391,15 +4411,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Ноутбук Dell 17/core i7 6700hq ddr3/16gb ddr3/hdd *відсутній/ssd 960 gb/geforce gtx1070 8gb",
-      "url": "https://tehnoskarb.ua/noutbuk-dell-17-core-i7-6700hq-ddr3-16gb-ddr3-hdd-vdsutnjj-ssd-960-gb-geforce-gtx1070-8gb/m5165448",
-      "price": 17000,
-      "city": "Могилів-Подільський",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
       "name": "Ноутбук  15/pentium p6000 ddr3/2gb ddr3/hdd 250 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk--15-pentium-p6000-ddr3-2gb-ddr3-hdd-250-gb-ntegrovana/m5161856",
       "price": 1350,
@@ -6188,6 +6199,15 @@
       "city": "Черкаси",
       "category": "Системні блоки",
       "at": "2026-05-03T18:12:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung e2220n",
+      "url": "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230",
+      "price": 600,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-05-03T19:34:14Z"
     }
   ],
   "config": {
