@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-03T14:30:09Z",
+  "updated_at": "2026-05-03T15:25:13Z",
   "stats": {
-    "total": 651,
-    "avg_price": 10679,
+    "total": 650,
+    "avg_price": 10707,
     "min_price": 110,
     "max_price": 140000,
     "cities": [
@@ -3490,24 +3490,6 @@
         {
           "price": 2200,
           "at": "2026-04-20T21:12:05Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi pro mp252",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
-      "price_min": 2200,
-      "price_max": 2200,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-04-30T07:09:41Z",
-      "price_history": [
-        {
-          "price": 2200,
-          "at": "2026-04-30T07:09:41Z"
         }
       ],
       "category": "Монітори",
@@ -8847,26 +8829,6 @@
       "category_emoji": "💻"
     },
     {
-      "name": "Ноутбук Hp 14/core i7-8665u ddr4/16gb ddr4/ssd 256 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-14-core-i7-8665u-ddr4-16gb-ddr4-ssd-256-gb-ntegrovana/m5170198",
-      "price_min": 6530,
-      "price_max": 6530,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Юлії Здановської, 60/5"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-03T14:29:33Z",
-      "price_history": [
-        {
-          "price": 6530,
-          "at": "2026-05-03T14:29:33Z"
-        }
-      ],
-      "category": "Ноутбуки",
-      "category_emoji": "💻"
-    },
-    {
       "name": "Системний блок Пк intel core i5-7400/ram 8 gb/hdd відсутній/ssd 240 gb/nvidia gtx 1050 ti (geforce) 4gb gddr5 128bit",
       "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-7400-ram-8-gb-hdd-vdsutnjj-ssd-240-gb-nvidia-gtx-1050-ti-geforce-4gb-gddr5-128bit/m5152951",
       "price_min": 6600,
@@ -11140,6 +11102,26 @@
         {
           "price": 16200,
           "at": "2026-05-02T08:08:34Z"
+        }
+      ],
+      "category": "Ноутбуки",
+      "category_emoji": "💻"
+    },
+    {
+      "name": "Ноутбук Lenovo 15/core i5-12450h ddr5/16gb ddr5/hdd *відсутній/ssd *відсутній/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i5-12450h-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-vdsutnjj-ntegrovana/m5158372",
+      "price_min": 16320,
+      "price_max": 16320,
+      "city": "Івано-Франківськ",
+      "addresses": [
+        "м. Івано-Франківськ, вул. Василя Стуса, 17А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-03T15:24:48Z",
+      "price_history": [
+        {
+          "price": 16320,
+          "at": "2026-05-03T15:24:48Z"
         }
       ],
       "category": "Ноутбуки",
@@ -13918,36 +13900,6 @@
   ],
   "events": [
     {
-      "type": "drop",
-      "name": "Монітор Viewsonic va703b",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
-      "price_old": 380,
-      "price_new": 310,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-02T06:09:02Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Lg w2043s",
-      "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
-      "price_old": 800,
-      "price_new": 690,
-      "city": "Лозова",
-      "category": "Монітори",
-      "at": "2026-05-02T06:09:02Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Lg 22mp58d-p",
-      "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
-      "price_old": 1050,
-      "price_new": 1070,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-02T06:09:02Z"
-    },
-    {
       "type": "new",
       "name": "Ноутбук  15/core i7 7500u ddr3/8gb ddr3/hdd *відсутній/ssd 256 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk--15-core-i7-7500u-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-256-gb-ntegrovana/m5170080",
@@ -15730,6 +15682,33 @@
       "city": "Київ",
       "category": "Системні блоки",
       "at": "2026-05-03T14:29:33Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp252",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
+      "price": 2200,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-03T15:24:48Z"
+    },
+    {
+      "type": "sold",
+      "name": "Ноутбук Hp 14/core i7-8665u ddr4/16gb ddr4/ssd 256 gb/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-hp-14-core-i7-8665u-ddr4-16gb-ddr4-ssd-256-gb-ntegrovana/m5170198",
+      "price": 6530,
+      "city": "Київ",
+      "category": "Ноутбуки",
+      "at": "2026-05-03T15:24:48Z"
+    },
+    {
+      "type": "new",
+      "name": "Ноутбук Lenovo 15/core i5-12450h ddr5/16gb ddr5/hdd *відсутній/ssd *відсутній/*інтегрована",
+      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i5-12450h-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-vdsutnjj-ntegrovana/m5158372",
+      "price": 16320,
+      "city": "Івано-Франківськ",
+      "category": "Ноутбуки",
+      "at": "2026-05-03T15:24:48Z"
     }
   ],
   "config": {

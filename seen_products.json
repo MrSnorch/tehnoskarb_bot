@@ -11913,26 +11913,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-30T07:09:41Z"
   },
-  "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635": {
-    "name": "Монітор Msi pro mp252",
-    "price_min": 2200,
-    "price_max": 2200,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-04-30T07:09:41Z",
-    "price_history": [
-      {
-        "price": 2200,
-        "at": "2026-04-30T07:09:41Z"
-      }
-    ],
-    "details_failures": 14,
-    "details_last_attempt": "2026-05-03T10:31:26Z",
-    "details_retry_at": "2026-05-03T16:31:26Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-c27f396fhi/m5145006": {
     "name": "Монітор Samsung c27f396fhi",
     "price_min": 3210,
@@ -14300,27 +14280,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-03T13:18:34Z"
   },
-  "https://tehnoskarb.ua/noutbuk-hp-14-core-i7-8665u-ddr4-16gb-ddr4-ssd-256-gb-ntegrovana/m5170198": {
-    "name": "Ноутбук Hp 14/core i7-8665u ddr4/16gb ddr4/ssd 256 gb/*інтегрована",
-    "price_min": 6530,
-    "price_max": 6530,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Юлії Здановської, 60/5"
-    ],
-    "offers_count": 1,
-    "category": "Ноутбуки",
-    "category_emoji": "💻",
-    "first_seen": "2026-05-03T14:29:33Z",
-    "price_history": [
-      {
-        "price": 6530,
-        "at": "2026-05-03T14:29:33Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-03T14:29:33Z"
-  },
   "https://tehnoskarb.ua/noutbuk-lenovo-15-celeron-n4000-ddr4-4gb-ddr4-hdd-vdsutnjj-ssd-240-gb-ntegrovana/m5169983": {
     "name": "Ноутбук Lenovo 15/celeron n4000 ddr4/4gb ddr4/hdd *відсутній/ssd 240 gb/*інтегрована",
     "price_min": 3770,
@@ -14362,5 +14321,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-03T14:29:33Z"
+  },
+  "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i5-12450h-ddr5-16gb-ddr5-hdd-vdsutnjj-ssd-vdsutnjj-ntegrovana/m5158372": {
+    "name": "Ноутбук Lenovo 15/core i5-12450h ddr5/16gb ddr5/hdd *відсутній/ssd *відсутній/*інтегрована",
+    "price_min": 16320,
+    "price_max": 16320,
+    "city": "Івано-Франківськ",
+    "addresses": [
+      "м. Івано-Франківськ, вул. Василя Стуса, 17А"
+    ],
+    "offers_count": 1,
+    "category": "Ноутбуки",
+    "category_emoji": "💻",
+    "first_seen": "2026-05-03T15:24:48Z",
+    "price_history": [
+      {
+        "price": 16320,
+        "at": "2026-05-03T15:24:48Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-03T15:24:48Z"
   }
 }
