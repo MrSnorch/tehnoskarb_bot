@@ -916,8 +916,8 @@
   },
   "https://tehnoskarb.ua/montor-philips-275b1h-00/m5138688": {
     "name": "Монітор Philips 275b1h/00",
-    "price_min": 6500,
-    "price_max": 6500,
+    "price_min": 6000,
+    "price_max": 6000,
     "city": "Тернопіль",
     "addresses": [
       "м. Тернопіль, б-р Шевченка, 14"
@@ -932,6 +932,10 @@
       {
         "price": 6500,
         "at": "2026-04-18T06:47:13Z"
+      },
+      {
+        "price": 6000,
+        "at": "2026-05-04T09:23:01Z"
       }
     ],
     "category": "Монітори",
@@ -4418,5 +4422,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-04T06:41:47Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-smart-m7-m70d-uhd-ls32dm703ui/m5158036": {
+    "name": "Монітор Samsung smart m7 m70d uhd ls32dm703ui",
+    "price_min": 7500,
+    "price_max": 7500,
+    "city": "Дніпро",
+    "addresses": [
+      "м. Дніпро, просп. Слобожанський, 1"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-04T09:23:01Z",
+    "price_history": [
+      {
+        "price": 7500,
+        "at": "2026-05-04T09:23:01Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-04T09:23:01Z"
   }
 }

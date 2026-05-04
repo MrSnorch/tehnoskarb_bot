@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-04T06:42:38Z",
+  "updated_at": "2026-05-04T09:23:14Z",
   "stats": {
-    "total": 198,
-    "avg_price": 2456,
+    "total": 199,
+    "avg_price": 2478,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -15,6 +15,7 @@
       "Білгород-Дністровський",
       "Вишневе",
       "Вінниця",
+      "Дніпро",
       "Житомир",
       "Жмеринка",
       "Запоріжжя",
@@ -4068,6 +4069,34 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Philips 275b1h/00",
+      "url": "https://tehnoskarb.ua/montor-philips-275b1h-00/m5138688",
+      "price_min": 6000,
+      "price_max": 6000,
+      "city": "Тернопіль",
+      "addresses": [
+        "м. Тернопіль, б-р Шевченка, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-05T19:39:53Z",
+      "price_history": [
+        {
+          "price": 7210,
+          "at": "2026-04-05T19:39:53Z"
+        },
+        {
+          "price": 6500,
+          "at": "2026-04-18T06:47:13Z"
+        },
+        {
+          "price": 6000,
+          "at": "2026-05-04T09:23:01Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung odyssey g5 lc27g55t",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-lc27g55t/m5117557",
       "price_min": 6040,
@@ -4106,30 +4135,6 @@
         {
           "price": 6240,
           "at": "2026-05-01T11:09:25Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 275b1h/00",
-      "url": "https://tehnoskarb.ua/montor-philips-275b1h-00/m5138688",
-      "price_min": 6500,
-      "price_max": 6500,
-      "city": "Тернопіль",
-      "addresses": [
-        "м. Тернопіль, б-р Шевченка, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 7210,
-          "at": "2026-04-05T19:39:53Z"
-        },
-        {
-          "price": 6500,
-          "at": "2026-04-18T06:47:13Z"
         }
       ],
       "category": "Монітори",
@@ -4235,6 +4240,26 @@
         {
           "price": 7500,
           "at": "2026-04-10T05:59:49Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung smart m7 m70d uhd ls32dm703ui",
+      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7-m70d-uhd-ls32dm703ui/m5158036",
+      "price_min": 7500,
+      "price_max": 7500,
+      "city": "Дніпро",
+      "addresses": [
+        "м. Дніпро, просп. Слобожанський, 1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-04T09:23:01Z",
+      "price_history": [
+        {
+          "price": 7500,
+          "at": "2026-05-04T09:23:01Z"
         }
       ],
       "category": "Монітори",
@@ -4429,24 +4454,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Ноутбук Hyundai 10/celeron n4020 ddr4/4gb ddr4/ssd 64 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-hyundai-10-celeron-n4020-ddr4-4gb-ddr4-ssd-64-gb-ntegrovana/m5168333",
-      "price": 2610,
-      "city": "Кривий Ріг",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Hp 16/core i3 7020u ddr3/8gb ddr3/hdd *відсутній/ssd 256 gb/geforce mx110 2gb",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-16-core-i3-7020u-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-256-gb-geforce-mx110-2gb/m5168324",
-      "price": 5900,
-      "city": "Хмельницький",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
     {
       "type": "sold",
       "name": "Системний блок Пк ryzen 5 5600 /ram 32gb/ssd 1tb/rtx 5060 8gb",
@@ -6228,6 +6235,25 @@
       "city": "Запоріжжя",
       "category": "Монітори",
       "at": "2026-05-04T06:41:47Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung smart m7 m70d uhd ls32dm703ui",
+      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7-m70d-uhd-ls32dm703ui/m5158036",
+      "price": 7500,
+      "city": "Дніпро",
+      "category": "Монітори",
+      "at": "2026-05-04T09:23:01Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Philips 275b1h/00",
+      "url": "https://tehnoskarb.ua/montor-philips-275b1h-00/m5138688",
+      "price_old": 6500,
+      "price_new": 6000,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-05-04T09:23:01Z"
     }
   ],
   "config": {
