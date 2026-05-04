@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-04T09:23:14Z",
+  "updated_at": "2026-05-04T11:22:49Z",
   "stats": {
-    "total": 199,
-    "avg_price": 2478,
+    "total": 200,
+    "avg_price": 2472,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -1990,6 +1990,26 @@
         {
           "price": 1280,
           "at": "2026-05-01T05:09:10Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Hp elitedisplay s231d",
+      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-s231d/m5164660",
+      "price_min": 1290,
+      "price_max": 1290,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Свободи, 15/1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-04T11:22:38Z",
+      "price_history": [
+        {
+          "price": 1290,
+          "at": "2026-05-04T11:22:38Z"
         }
       ],
       "category": "Монітори",
@@ -4456,15 +4476,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Системний блок Пк ryzen 5 5600 /ram 32gb/ssd 1tb/rtx 5060 8gb",
-      "url": "https://tehnoskarb.ua/sistemnijj-blok-pk-ryzen-5-5600-ram-32gb-ssd-1tb-rtx-5060-8gb/m5168162",
-      "price": 38900,
-      "city": "Кривий Ріг",
-      "category": "Системні блоки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
       "name": "Ноутбук Hp 15/core i3 6100u ddr3/16gb ddr3/hdd *відсутній/ssd 256 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-hp-15-core-i3-6100u-ddr3-16gb-ddr3-hdd-vdsutnjj-ssd-256-gb-ntegrovana/m5159362",
       "price": 4830,
@@ -6254,6 +6265,15 @@
       "city": "Тернопіль",
       "category": "Монітори",
       "at": "2026-05-04T09:23:01Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp elitedisplay s231d",
+      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-s231d/m5164660",
+      "price": 1290,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-04T11:22:38Z"
     }
   ],
   "config": {
