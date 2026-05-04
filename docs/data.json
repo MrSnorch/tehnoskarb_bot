@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-04T03:33:09Z",
+  "updated_at": "2026-05-04T06:42:38Z",
   "stats": {
-    "total": 197,
-    "avg_price": 2465,
+    "total": 198,
+    "avg_price": 2456,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -1038,6 +1038,26 @@
         {
           "price": 620,
           "at": "2026-05-02T16:53:43Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg w2241st",
+      "url": "https://tehnoskarb.ua/montor-lg-w2241st/m5125216",
+      "price_min": 620,
+      "price_max": 620,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-04T06:41:47Z",
+      "price_history": [
+        {
+          "price": 620,
+          "at": "2026-05-04T06:41:47Z"
         }
       ],
       "category": "Монітори",
@@ -2111,12 +2131,12 @@
       "name": "Монітор Samsung s24e391hl",
       "url": "https://tehnoskarb.ua/montor-samsung-s24e391hl/m5065257",
       "price_min": 1500,
-      "price_max": 1500,
+      "price_max": 2700,
       "city": "Ужгород",
       "addresses": [
         "м. Ужгород, вул. Фединця, 17"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-04-30T17:51:13Z",
       "price_history": [
         {
@@ -4411,15 +4431,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Ноутбук  15/pentium p6000 ddr3/2gb ddr3/hdd 250 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk--15-pentium-p6000-ddr3-2gb-ddr3-hdd-250-gb-ntegrovana/m5161856",
-      "price": 1350,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
       "name": "Ноутбук Hyundai 10/celeron n4020 ddr4/4gb ddr4/ssd 64 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-hyundai-10-celeron-n4020-ddr4-4gb-ddr4-ssd-64-gb-ntegrovana/m5168333",
       "price": 2610,
@@ -6208,6 +6219,15 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-05-03T19:34:14Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg w2241st",
+      "url": "https://tehnoskarb.ua/montor-lg-w2241st/m5125216",
+      "price": 620,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-05-04T06:41:47Z"
     }
   ],
   "config": {
