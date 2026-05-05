@@ -135,12 +135,12 @@
   "https://tehnoskarb.ua/montor-samsung-s24e650/m5162299": {
     "name": "Монітор Samsung s24e650",
     "price_min": 1530,
-    "price_max": 1530,
+    "price_max": 1700,
     "city": "Бровари",
     "addresses": [
       "м. Бровари, б-р Незалежності, 11"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -202,7 +202,7 @@
     "addresses": [
       "м. Бровари, б-р Незалежності, 11"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -1973,13 +1973,13 @@
   },
   "https://tehnoskarb.ua/montor-dell-u2412m/m5000090": {
     "name": "Монітор Dell u2412m",
-    "price_min": 1680,
-    "price_max": 1830,
+    "price_min": 1500,
+    "price_max": 2030,
     "city": "Бровари",
     "addresses": [
       "м. Бровари, б-р Незалежності, 11"
     ],
-    "offers_count": 2,
+    "offers_count": 6,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -1993,6 +1993,10 @@
       {
         "price": 1680,
         "at": "2026-05-01T11:09:25Z"
+      },
+      {
+        "price": 1500,
+        "at": "2026-05-05T06:19:24Z"
       }
     ],
     "category": "Монітори",
@@ -4464,5 +4468,88 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-04T11:22:38Z"
+  },
+  "https://tehnoskarb.ua/montor-viewsonic-vx2453mh-led/m5170771": {
+    "name": "Монітор Viewsonic vx2453mh-led",
+    "price_min": 1200,
+    "price_max": 1200,
+    "city": "Самар",
+    "addresses": [
+      "м. Самар, вул. Гетьманська, 35/21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-05T06:19:24Z",
+    "price_history": [
+      {
+        "price": 1200,
+        "at": "2026-05-05T06:19:24Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-05T06:19:24Z"
+  },
+  "https://tehnoskarb.ua/montor-benq-g2420/m5165716": {
+    "name": "Монітор Benq g2420",
+    "price_min": 1670,
+    "price_max": 1670,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, б-р Чоколовський, 21"
+    ],
+    "offers_count": 2,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-05T06:19:24Z",
+    "price_history": [
+      {
+        "price": 1670,
+        "at": "2026-05-05T06:19:24Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-05T06:19:24Z"
+  },
+  "https://tehnoskarb.ua/montor-dell-u2414hb/m5165739": {
+    "name": "Монітор Dell u2414hb",
+    "price_min": 2640,
+    "price_max": 2640,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, б-р Чоколовський, 21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-05T06:19:24Z",
+    "price_history": [
+      {
+        "price": 2640,
+        "at": "2026-05-05T06:19:24Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-05T06:19:24Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-29wk500/m5142416": {
+    "name": "Монітор Lg 29wk500",
+    "price_min": 4500,
+    "price_max": 4500,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-05T06:19:24Z",
+    "price_history": [
+      {
+        "price": 4500,
+        "at": "2026-05-05T06:19:24Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-05-05T06:19:24Z",
+    "details_retry_at": "2026-05-05T06:49:24Z"
   }
 }
