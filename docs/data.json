@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-05T06:19:48Z",
+  "updated_at": "2026-05-05T08:33:12Z",
   "stats": {
-    "total": 204,
-    "avg_price": 2472,
+    "total": 205,
+    "avg_price": 2437,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -1685,6 +1685,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Viewsonic va2261-2",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va2261-2/m5170734",
+      "price_min": 900,
+      "price_max": 900,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-05T08:32:54Z",
+      "price_history": [
+        {
+          "price": 900,
+          "at": "2026-05-05T08:32:54Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Hp n223",
       "url": "https://tehnoskarb.ua/montor-hp-n223/m5108257",
       "price_min": 910,
@@ -3144,6 +3164,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus curved gaming monitor",
+      "url": "https://tehnoskarb.ua/montor-asus-curved-gaming-monitor/m5142940",
+      "price_min": 2960,
+      "price_max": 2960,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Василя Порика, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-05T08:32:54Z",
+      "price_history": [
+        {
+          "price": 2960,
+          "at": "2026-05-05T08:32:54Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Prologix gm2425c",
       "url": "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801",
       "price_min": 3000,
@@ -4428,26 +4468,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus pg259qn",
-      "url": "https://tehnoskarb.ua/montor-asus-pg259qn/m5115751",
-      "price_min": 8500,
-      "price_max": 8500,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Княжий Затон, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-02T17:48:40Z",
-      "price_history": [
-        {
-          "price": 8500,
-          "at": "2026-05-02T17:48:40Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Alienware aw2724dm",
       "url": "https://tehnoskarb.ua/montor-alienware-aw2724dm/m5137539",
       "price_min": 9110,
@@ -4556,33 +4576,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Системний блок Amd ryzen 7 7800x3d/ram32gb/ssd1024gb/radeon rx9070",
-      "url": "https://tehnoskarb.ua/sis-blok-amd-ryzen-7-7800x3d-ram32gb-ssd1024gb-radeon-rx9070/m5161507",
-      "price": 81000,
-      "city": "Київ",
-      "category": "Системні блоки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Msi 15/ryzen 5 7535hs ddr5/8gb ddr5/ssd 512 gb/geforce rtx2050 4gb",
-      "url": "https://tehnoskarb.ua/noutbuk-msi-15-ryzen-5-7535hs-ddr5-8gb-ddr5-ssd-512-gb-geforce-rtx2050-4gb/m5162926",
-      "price": 18500,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Lenovo 15/pentium 6405u ddr4/8gb ddr4/hdd *відсутній/ssd 240 gb/geforce mx130 2gb",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-pentium-6405u-ddr4-8gb-ddr4-hdd-vdsutnjj-ssd-240-gb-geforce-mx130-2gb/m5168358",
-      "price": 6000,
-      "city": "Кропивницький",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
     {
       "type": "sold",
       "name": "Ноутбук Fujitsu 15/core i3 5005u ddr3/8gb ddr3/hdd *відсутній/ssd 120 gb/*інтегрована",
@@ -6357,6 +6350,33 @@
       "city": "Бровари",
       "category": "Монітори",
       "at": "2026-05-05T06:19:24Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus pg259qn",
+      "url": "https://tehnoskarb.ua/montor-asus-pg259qn/m5115751",
+      "price": 8500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-05T08:32:54Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Viewsonic va2261-2",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va2261-2/m5170734",
+      "price": 900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-05T08:32:54Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus curved gaming monitor",
+      "url": "https://tehnoskarb.ua/montor-asus-curved-gaming-monitor/m5142940",
+      "price": 2960,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-05T08:32:54Z"
     }
   ],
   "config": {

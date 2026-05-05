@@ -4302,27 +4302,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-02T16:53:43Z"
   },
-  "https://tehnoskarb.ua/montor-asus-pg259qn/m5115751": {
-    "name": "Монітор Asus pg259qn",
-    "price_min": 8500,
-    "price_max": 8500,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Княжий Затон, 11"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-02T17:48:40Z",
-    "price_history": [
-      {
-        "price": 8500,
-        "at": "2026-05-02T17:48:40Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-02T17:48:40Z"
-  },
   "https://tehnoskarb.ua/montor-lg-22mk600m/m5145581": {
     "name": "Монітор Lg 22mk600m",
     "price_min": 2400,
@@ -4548,8 +4527,50 @@
         "at": "2026-05-05T06:19:24Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-05-05T06:19:24Z",
-    "details_retry_at": "2026-05-05T06:49:24Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-05-05T08:32:54Z",
+    "details_retry_at": "2026-05-05T09:32:54Z"
+  },
+  "https://tehnoskarb.ua/montor-viewsonic-va2261-2/m5170734": {
+    "name": "Монітор Viewsonic va2261-2",
+    "price_min": 900,
+    "price_max": 900,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-05T08:32:54Z",
+    "price_history": [
+      {
+        "price": 900,
+        "at": "2026-05-05T08:32:54Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-05T08:32:54Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-curved-gaming-monitor/m5142940": {
+    "name": "Монітор Asus curved gaming monitor",
+    "price_min": 2960,
+    "price_max": 2960,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Василя Порика, 14"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-05T08:32:54Z",
+    "price_history": [
+      {
+        "price": 2960,
+        "at": "2026-05-05T08:32:54Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-05T08:32:54Z"
   }
 }
