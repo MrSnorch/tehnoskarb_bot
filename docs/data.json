@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-05T10:50:06Z",
+  "updated_at": "2026-05-05T12:05:50Z",
   "stats": {
     "total": 203,
-    "avg_price": 2436,
+    "avg_price": 2439,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -13,6 +13,7 @@
       "Буча",
       "Біла Церква",
       "Білгород-Дністровський",
+      "Вишгород",
       "Вишневе",
       "Вінниця",
       "Дніпро",
@@ -2074,20 +2075,20 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 243v5q",
-      "url": "https://tehnoskarb.ua/montor-philips-243v5q/m5110293",
+      "name": "Монітор Lg 24mp58vq-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
       "price_min": 1320,
       "price_max": 1320,
       "city": "Київ",
       "addresses": [
-        "м. Київ, б-р Кольцова, 13"
+        "м. Київ, вул. Гарматна, 44/2"
       ],
       "offers": 1,
-      "first_seen": "2026-04-08T13:26:50Z",
+      "first_seen": "2026-05-05T12:05:34Z",
       "price_history": [
         {
           "price": 1320,
-          "at": "2026-04-08T13:26:50Z"
+          "at": "2026-05-05T12:05:34Z"
         }
       ],
       "category": "Монітори",
@@ -2117,26 +2118,6 @@
         {
           "price": 1460,
           "at": "2026-05-05T10:49:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s24a350t",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24a350t/m5069757",
-      "price_min": 1480,
-      "price_max": 1480,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Кольцова, 13"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 1480,
-          "at": "2026-04-05T19:39:53Z"
         }
       ],
       "category": "Монітори",
@@ -2644,6 +2625,26 @@
         {
           "price": 1980,
           "at": "2026-05-01T12:12:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell s2340lc",
+      "url": "https://tehnoskarb.ua/montor-dell-s2340lc/m5170368",
+      "price_min": 2080,
+      "price_max": 2080,
+      "city": "Вишгород",
+      "addresses": [
+        "м. Вишгород, просп. Мазепи, 5"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-05T12:05:34Z",
+      "price_history": [
+        {
+          "price": 2080,
+          "at": "2026-05-05T12:05:34Z"
         }
       ],
       "category": "Монітори",
@@ -4542,42 +4543,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Ноутбук Lenovo 12/atom z3735f ddr3/2gb ddr3/hdd *відсутній/ssd 64 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-12-atom-z3735f-ddr3-2gb-ddr3-hdd-vdsutnjj-ssd-64-gb-ntegrovana/m5168334",
-      "price": 1600,
-      "city": "Вінниця",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Системний блок Пк intel core i3-6100/ram 4 gb/hdd 500 gb+відсутній/ssd відсутній+відсутній/nvidia gt 730 (geforce) 2g",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i3-6100-ram-4-gb-hdd-500-gb+vdsutnjj-ssd-vdsutnjj+vdsutnjj-nvidia-gt-730-geforce-2g/m5168579",
-      "price": 4500,
-      "city": "Самбір",
-      "category": "Системні блоки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Lenovo 15/core i5 3320m ddr3/8gb ddr3/ssd 250 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i5-3320m-ddr3-8gb-ddr3-ssd-250-gb-ntegrovana/m5168288",
-      "price": 3700,
-      "city": "Прилуки",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Системний блок Пк intel core i5-12600k/ram 64 gb/hdd відсутній/ssd 1000 gb/інтегрована",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-12600k-ram-64-gb-hdd-vdsutnjj-ssd-1000-gb-ntegrovana/m5168210",
-      "price": 28450,
-      "city": "Київ",
-      "category": "Системні блоки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
       "name": "Ноутбук Lenovo 15/core i5-13450hx ddr5/16gb ddr5/ssd 1000 gb/rtx 5060 8gb",
       "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-core-i5-13450hx-ddr5-16gb-ddr5-ssd-1000-gb-rtx-5060-8gb/m5167081",
       "price": 45020,
@@ -6342,6 +6307,42 @@
       "city": "Рівне",
       "category": "Монітори",
       "at": "2026-05-05T10:49:11Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s24a350t",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24a350t/m5069757",
+      "price": 1480,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-05T12:05:34Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 243v5q",
+      "url": "https://tehnoskarb.ua/montor-philips-243v5q/m5110293",
+      "price": 1320,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-05T12:05:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell s2340lc",
+      "url": "https://tehnoskarb.ua/montor-dell-s2340lc/m5170368",
+      "price": 2080,
+      "city": "Вишгород",
+      "category": "Монітори",
+      "at": "2026-05-05T12:05:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 24mp58vq-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
+      "price": 1320,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-05T12:05:34Z"
     }
   ],
   "config": {
