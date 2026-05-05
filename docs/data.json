@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-05T18:00:19Z",
+  "updated_at": "2026-05-05T19:47:33Z",
   "stats": {
     "total": 198,
-    "avg_price": 2385,
+    "avg_price": 2372,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -418,6 +418,26 @@
         {
           "price": 320,
           "at": "2026-04-14T21:25:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips hnv9170t/170v9fb",
+      "url": "https://tehnoskarb.ua/montor-philips-hnv9170t-170v9fb/m5170843",
+      "price_min": 320,
+      "price_max": 320,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Шептицького, 24"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-05T19:47:17Z",
+      "price_history": [
+        {
+          "price": 320,
+          "at": "2026-05-05T19:47:17Z"
         }
       ],
       "category": "Монітори",
@@ -1840,30 +1860,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus vh242",
-      "url": "https://tehnoskarb.ua/montor-asus-vh242/m5148772",
-      "price_min": 1030,
-      "price_max": 1030,
-      "city": "Кривий Ріг",
-      "addresses": [
-        "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 1140,
-          "at": "2026-04-05T19:39:53Z"
-        },
-        {
-          "price": 1030,
-          "at": "2026-05-01T12:12:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 22mp58d-p",
       "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
       "price_min": 1070,
@@ -1897,6 +1893,26 @@
         {
           "price": 1070,
           "at": "2026-05-02T06:09:02Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg e2260s",
+      "url": "https://tehnoskarb.ua/montor-lg-e2260s/m5042471",
+      "price_min": 1070,
+      "price_max": 1070,
+      "city": "Луцьк",
+      "addresses": [
+        "м. Луцьк, просп. Соборності, 4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-05T19:47:17Z",
+      "price_history": [
+        {
+          "price": 1070,
+          "at": "2026-05-05T19:47:17Z"
         }
       ],
       "category": "Монітори",
@@ -3127,30 +3143,6 @@
         {
           "price": 2820,
           "at": "2026-04-05T19:39:53Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Prologix gm2425c",
-      "url": "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801",
-      "price_min": 3000,
-      "price_max": 3000,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. О.Фредра, 6"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 3330,
-          "at": "2026-04-05T19:39:53Z"
-        },
-        {
-          "price": 3000,
-          "at": "2026-05-01T12:12:11Z"
         }
       ],
       "category": "Монітори",
@@ -4441,42 +4433,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Системний блок Пк amd ryzen 5 3600xt/ram 32 gb/hdd відсутній/ssd 512 gb/nvidia rtx 2070 super (geforce) 8gb gddr6 256b",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-3600xt-ram-32-gb-hdd-vdsutnjj-ssd-512-gb-nvidia-rtx-2070-super-geforce-8gb-gddr6-256b/m5167300",
-      "price": 22000,
-      "city": "",
-      "category": "Системні блоки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Системний блок Пк intel core i5-760/ram 4 gb/hdd 500 gb/ssd відсутній/інтегрована",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-760-ram-4-gb-hdd-500-gb-ssd-vdsutnjj-ntegrovana/m5134867",
-      "price": 1600,
-      "city": "",
-      "category": "Системні блоки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Asus 16/core 7 240h ddr4/32gb ddr4/hdd *відсутній/ssd 1000 gb/geforce rtx4050 6gb",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-16-core-7-240h-ddr4-32gb-ddr4-hdd-vdsutnjj-ssd-1000-gb-geforce-rtx4050-6gb/m5168767",
-      "price": 49900,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Dell 16/core i5 7200u ddr3/8gb ddr3/hdd *відсутній/ssd 240 gb/radeon r5 m430",
-      "url": "https://tehnoskarb.ua/noutbuk-dell-16-core-i5-7200u-ddr3-8gb-ddr3-hdd-vdsutnjj-ssd-240-gb-radeon-r5-m430/m5168768",
-      "price": 5900,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
     {
       "type": "sold",
       "name": "Системний блок Пк amd ryzen 5 5500/ram 16 gb/hdd відсутній/ssd 1000 gb/nvidia rtx 4060 (geforce) 8gb gddr6 128bit",
@@ -6245,6 +6201,42 @@
       "city": "Кривий Ріг",
       "category": "Монітори",
       "at": "2026-05-05T17:59:29Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Prologix gm2425c",
+      "url": "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801",
+      "price": 3000,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-05-05T19:47:17Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vh242",
+      "url": "https://tehnoskarb.ua/montor-asus-vh242/m5148772",
+      "price": 1030,
+      "city": "Кривий Ріг",
+      "category": "Монітори",
+      "at": "2026-05-05T19:47:17Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips hnv9170t/170v9fb",
+      "url": "https://tehnoskarb.ua/montor-philips-hnv9170t-170v9fb/m5170843",
+      "price": 320,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-05T19:47:17Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg e2260s",
+      "url": "https://tehnoskarb.ua/montor-lg-e2260s/m5042471",
+      "price": 1070,
+      "city": "Луцьк",
+      "category": "Монітори",
+      "at": "2026-05-05T19:47:17Z"
     }
   ],
   "config": {

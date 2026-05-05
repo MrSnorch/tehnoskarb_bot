@@ -427,29 +427,6 @@
     "category": "Монітори",
     "category_emoji": "🖥"
   },
-  "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801": {
-    "name": "Монітор Prologix gm2425c",
-    "price_min": 3000,
-    "price_max": 3000,
-    "city": "Львів",
-    "addresses": [
-      "м. Львів, вул. О.Фредра, 6"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 3330,
-        "at": "2026-04-05T19:39:53Z"
-      },
-      {
-        "price": 3000,
-        "at": "2026-05-01T12:12:11Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
   "https://tehnoskarb.ua/montor-samsung-professional-s24c430/m5154762": {
     "name": "Монітор Samsung professional s24c430",
     "price_min": 3500,
@@ -627,29 +604,6 @@
       {
         "price": 1890,
         "at": "2026-05-01T09:49:12Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
-  "https://tehnoskarb.ua/montor-asus-vh242/m5148772": {
-    "name": "Монітор Asus vh242",
-    "price_min": 1030,
-    "price_max": 1030,
-    "city": "Кривий Ріг",
-    "addresses": [
-      "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 1140,
-        "at": "2026-04-05T19:39:53Z"
-      },
-      {
-        "price": 1030,
-        "at": "2026-05-01T12:12:11Z"
       }
     ],
     "category": "Монітори",
@@ -4435,5 +4389,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-05T16:28:02Z"
+  },
+  "https://tehnoskarb.ua/montor-philips-hnv9170t-170v9fb/m5170843": {
+    "name": "Монітор Philips hnv9170t/170v9fb",
+    "price_min": 320,
+    "price_max": 320,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Шептицького, 24"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-05T19:47:17Z",
+    "price_history": [
+      {
+        "price": 320,
+        "at": "2026-05-05T19:47:17Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-05T19:47:17Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-e2260s/m5042471": {
+    "name": "Монітор Lg e2260s",
+    "price_min": 1070,
+    "price_max": 1070,
+    "city": "Луцьк",
+    "addresses": [
+      "м. Луцьк, просп. Соборності, 4"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-05T19:47:17Z",
+    "price_history": [
+      {
+        "price": 1070,
+        "at": "2026-05-05T19:47:17Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-05T19:47:17Z"
   }
 }
