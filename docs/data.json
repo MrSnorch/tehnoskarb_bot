@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-06T09:04:36Z",
+  "updated_at": "2026-05-06T11:26:32Z",
   "stats": {
-    "total": 198,
-    "avg_price": 2276,
+    "total": 199,
+    "avg_price": 2280,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -1930,7 +1930,7 @@
         "м. Київ, б-р Чоколовський, 21",
         "м. Київ, просп. Воскресенський, 34/2"
       ],
-      "offers": 6,
+      "offers": 5,
       "first_seen": "2026-04-05T19:39:53Z",
       "price_history": [
         {
@@ -3250,6 +3250,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Prologix gm2425c",
+      "url": "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801",
+      "price_min": 3000,
+      "price_max": 3000,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. О.Фредра, 6"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-06T11:25:39Z",
+      "price_history": [
+        {
+          "price": 3000,
+          "at": "2026-05-06T11:25:39Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
       "price_min": 3080,
@@ -3977,7 +3997,7 @@
       "name": "Монітор Eizo flexscan ev2430",
       "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
       "price_min": 5075,
-      "price_max": 7800,
+      "price_max": 7100,
       "city": "Харків",
       "addresses": [
         "м. Харків, вул. Отакара Яроша, 23",
@@ -4436,15 +4456,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Ноутбук Acer 15/ryzen 5 7535hs ddr5/16gb ddr5//ssd 512gb/geforce rtx3050 6gb",
-      "url": "https://tehnoskarb.ua/noutbuk-acer-15-ryzen-5-7535hs-ddr5-16gb-ddr5-ssd-512gb-geforce-rtx3050-6gb/m5168561",
-      "price": 28000,
-      "city": "Івано-Франківськ",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
     {
       "type": "sold",
       "name": "Ноутбук Lenovo 14/core i5-12450hx ddr5/16gb ddr5/ssd 512 gb/geforce rtx3050 4gb",
@@ -6241,6 +6252,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-06T09:04:09Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Prologix gm2425c",
+      "url": "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801",
+      "price": 3000,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-05-06T11:25:39Z"
     }
   ],
   "config": {
