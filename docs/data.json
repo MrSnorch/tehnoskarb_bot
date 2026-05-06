@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-06T11:26:32Z",
+  "updated_at": "2026-05-06T13:15:09Z",
   "stats": {
-    "total": 199,
-    "avg_price": 2280,
+    "total": 200,
+    "avg_price": 2293,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -3974,6 +3974,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey g5 ls27cg550",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
+      "price_min": 4970,
+      "price_max": 4970,
+      "city": "Буча",
+      "addresses": [
+        "м. Буча, вул. Героїв Майдану, 10"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-06T13:14:59Z",
+      "price_history": [
+        {
+          "price": 4970,
+          "at": "2026-05-06T13:14:59Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi optix g2712f",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g2712f/m5163816",
       "price_min": 5020,
@@ -4456,15 +4476,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Ноутбук Lenovo 14/core i5-12450hx ddr5/16gb ddr5/ssd 512 gb/geforce rtx3050 4gb",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-14-core-i5-12450hx-ddr5-16gb-ddr5-ssd-512-gb-geforce-rtx3050-4gb/m5162915",
-      "price": 30500,
-      "city": "",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
     {
       "type": "sold",
       "name": "Ноутбук Asus 15/core i3 4005u ddr3/8gb ddr3/hdd 60 gb/ssd *відсутній/geforce 920m 2gb",
@@ -6261,6 +6272,15 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-05-06T11:25:39Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey g5 ls27cg550",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
+      "price": 4970,
+      "city": "Буча",
+      "category": "Монітори",
+      "at": "2026-05-06T13:14:59Z"
     }
   ],
   "config": {
