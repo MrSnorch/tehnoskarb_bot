@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-06T15:41:57Z",
+  "updated_at": "2026-05-06T17:44:46Z",
   "stats": {
-    "total": 197,
-    "avg_price": 2281,
+    "total": 195,
+    "avg_price": 2271,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -2993,30 +2993,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell p2219h",
-      "url": "https://tehnoskarb.ua/montor-dell-p2219h/m5140655",
-      "price_min": 2430,
-      "price_max": 2430,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Княгині Ольги, 114"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 2699,
-          "at": "2026-04-05T19:39:53Z"
-        },
-        {
-          "price": 2430,
-          "at": "2026-05-01T12:12:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq gw2283",
       "url": "https://tehnoskarb.ua/montor-benq-gw2283/m5131752",
       "price_min": 2450,
@@ -3580,30 +3556,6 @@
         {
           "price": 4000,
           "at": "2026-04-05T19:39:53Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Gigabyte g24f 2 gaming monitor",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-g24f-2-gaming-monitor/m5159406",
-      "price_min": 4050,
-      "price_max": 4050,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, вул. Героїв майдану, 48"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-16T06:03:56Z",
-      "price_history": [
-        {
-          "price": 4500,
-          "at": "2026-04-16T06:03:56Z"
-        },
-        {
-          "price": 4050,
-          "at": "2026-05-01T13:59:57Z"
         }
       ],
       "category": "Монітори",
@@ -4416,24 +4368,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Ноутбук Hp 15/core i7 4600m ddr3/8gb ddr4/ssd 240 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-15-core-i7-4600m-ddr3-8gb-ddr4-ssd-240-gb-ntegrovana/m5166750",
-      "price": 5400,
-      "city": "Львів",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Apple macbook air a1369 13,3\" core i7 1,7ghz/ram4gb/ssd256gb/intel hd graphics 3000",
-      "url": "https://tehnoskarb.ua/noutbuk-apple-macbook-air-a1369-13-3-core-i7-1-7ghz-ram4gb-ssd256gb-intel-hd-graphics-3000/m5166121",
-      "price": 3150,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
     {
       "type": "sold",
       "name": "Ноутбук Acer 16/celeron n4500 ddr4/4gb ddr4/hdd 120 gb/*інтегрована",
@@ -6221,6 +6155,24 @@
       "city": "Вишгород",
       "category": "Монітори",
       "at": "2026-05-06T15:41:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell p2219h",
+      "url": "https://tehnoskarb.ua/montor-dell-p2219h/m5140655",
+      "price": 2430,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-05-06T17:43:54Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Gigabyte g24f 2 gaming monitor",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-g24f-2-gaming-monitor/m5159406",
+      "price": 4050,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-05-06T17:43:54Z"
     }
   ],
   "config": {
