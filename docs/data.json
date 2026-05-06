@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-06T19:50:26Z",
+  "updated_at": "2026-05-06T21:13:34Z",
   "stats": {
-    "total": 196,
-    "avg_price": 2268,
+    "total": 197,
+    "avg_price": 2276,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -3585,6 +3585,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi optix g2412f",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g2412f/m5103531",
+      "price_min": 3860,
+      "price_max": 3860,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-05-06T21:13:25Z",
+      "price_history": [
+        {
+          "price": 3860,
+          "at": "2026-05-06T21:13:25Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung f24t452fqr",
       "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
       "price_min": 4000,
@@ -4389,15 +4407,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Ноутбук Lenovo 16/core i7-14650hx ddr5/16gb ddr5/ssd 1000 gb/geforce rtx4060 8gb",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-16-core-i7-14650hx-ddr5-16gb-ddr5-ssd-1000-gb-geforce-rtx4060-8gb/m5163337",
-      "price": 56400,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
     {
       "type": "sold",
       "name": "Ноутбук Nec 15/core i5-4210m ddr3/4gb ddr3/ssd 480 gb/*інтегрована",
@@ -6194,6 +6203,15 @@
       "city": "Бориспіль",
       "category": "Монітори",
       "at": "2026-05-06T19:50:11Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi optix g2412f",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g2412f/m5103531",
+      "price": 3860,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-06T21:13:25Z"
     }
   ],
   "config": {
