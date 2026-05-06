@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-05-06T17:44:46Z",
+  "updated_at": "2026-05-06T19:50:26Z",
   "stats": {
-    "total": 195,
-    "avg_price": 2271,
+    "total": 196,
+    "avg_price": 2268,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
       "Івано-Франківськ",
       "Ірпінь",
+      "Бориспіль",
       "Боярка",
       "Бровари",
       "Буча",
@@ -3168,6 +3169,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Acer nitro vg3",
+      "url": "https://tehnoskarb.ua/montor-acer-nitro-vg3/m5171043",
+      "price_min": 2900,
+      "price_max": 2900,
+      "city": "Білгород-Дністровський",
+      "addresses": [
+        "м. Білгород-Дністровський, вул. Українська, 73"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-06T19:50:11Z",
+      "price_history": [
+        {
+          "price": 2900,
+          "at": "2026-05-06T19:50:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell s2421hn",
       "url": "https://tehnoskarb.ua/montor-dell-s2421hn/m5058716",
       "price_min": 3000,
@@ -3518,6 +3539,26 @@
         {
           "price": 3750,
           "at": "2026-04-27T19:28:02Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Benq gl-2760b",
+      "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
+      "price_min": 3840,
+      "price_max": 3840,
+      "city": "Бориспіль",
+      "addresses": [
+        "м. Бориспіль, вул. Київський шлях, 47"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-06T19:50:11Z",
+      "price_history": [
+        {
+          "price": 3840,
+          "at": "2026-05-06T19:50:11Z"
         }
       ],
       "category": "Монітори",
@@ -3880,26 +3921,6 @@
         {
           "price": 4950,
           "at": "2026-05-01T11:09:25Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi optix g2712f",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g2712f/m5163816",
-      "price_min": 5020,
-      "price_max": 5020,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, просп. Червоної Калини, 121"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 5020,
-          "at": "2026-04-05T19:39:53Z"
         }
       ],
       "category": "Монітори",
@@ -4368,33 +4389,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Ноутбук Acer 16/celeron n4500 ddr4/4gb ddr4/hdd 120 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-acer-16-celeron-n4500-ddr4-4gb-ddr4-hdd-120-gb-ntegrovana/m5168952",
-      "price": 4050,
-      "city": "Львів",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Dell 16/core i7 6600u ddr3/8gb ddr3/ssd 128 gb/radeon r7 m360",
-      "url": "https://tehnoskarb.ua/noutbuk-dell-16-core-i7-6600u-ddr3-8gb-ddr3-ssd-128-gb-radeon-r7-m360/m5168953",
-      "price": 7250,
-      "city": "Львів",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Asus 15/celeron b820 ddr3/6gb ddr3/ssd 120 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-15-celeron-b820-ddr3-6gb-ddr3-ssd-120-gb-ntegrovana/m5167846",
-      "price": 1950,
-      "city": "Калуш",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
     {
       "type": "sold",
       "name": "Ноутбук Lenovo 16/core i7-14650hx ddr5/16gb ddr5/ssd 1000 gb/geforce rtx4060 8gb",
@@ -6173,6 +6167,33 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-05-06T17:43:54Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix g2712f",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g2712f/m5163816",
+      "price": 5020,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-05-06T19:50:11Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer nitro vg3",
+      "url": "https://tehnoskarb.ua/montor-acer-nitro-vg3/m5171043",
+      "price": 2900,
+      "city": "Білгород-Дністровський",
+      "category": "Монітори",
+      "at": "2026-05-06T19:50:11Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Benq gl-2760b",
+      "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
+      "price": 3840,
+      "city": "Бориспіль",
+      "category": "Монітори",
+      "at": "2026-05-06T19:50:11Z"
     }
   ],
   "config": {
