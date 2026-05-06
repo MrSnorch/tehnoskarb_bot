@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-06T03:31:00Z",
+  "updated_at": "2026-05-06T06:19:00Z",
   "stats": {
-    "total": 198,
-    "avg_price": 2372,
+    "total": 200,
+    "avg_price": 2354,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -596,6 +596,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung 720n",
+      "url": "https://tehnoskarb.ua/montor-samsung-720n/m5042700",
+      "price_min": 420,
+      "price_max": 420,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Шептицького, 24"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-06T06:18:43Z",
+      "price_history": [
+        {
+          "price": 420,
+          "at": "2026-05-06T06:18:43Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg w2343",
       "url": "https://tehnoskarb.ua/montor-lg-w2343/m5092164",
       "price_min": 450,
@@ -1177,6 +1197,26 @@
         {
           "price": 650,
           "at": "2026-05-01T11:09:25Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung ls20t",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls20t/m5159939",
+      "price_min": 650,
+      "price_max": 650,
+      "city": "Вінниця",
+      "addresses": [
+        "м. Вінниця, вул. Замостянська, 37 пр.77"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-06T06:18:43Z",
+      "price_history": [
+        {
+          "price": 650,
+          "at": "2026-05-06T06:18:43Z"
         }
       ],
       "category": "Монітори",
@@ -2412,35 +2452,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell se2416h",
-      "url": "https://tehnoskarb.ua/montor-dell-se2416h/m5050200",
-      "price_min": 1700,
-      "price_max": 1870,
-      "city": "Боярка",
-      "addresses": [
-        "м. Боярка, вул. Ярослава Мудрого, 50/61",
-        "м. Київ, вул. Заболотного, 20А"
-      ],
-      "offers": 3,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 1700,
-          "at": "2026-04-05T19:39:53Z"
-        },
-        {
-          "price": 1780,
-          "at": "2026-04-30T09:34:18Z"
-        },
-        {
-          "price": 1700,
-          "at": "2026-04-30T11:40:12Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 22mp58d",
       "url": "https://tehnoskarb.ua/montor-lg-22mp58d/m5166757",
       "price_min": 1700,
@@ -2517,6 +2528,39 @@
         {
           "price": 1740,
           "at": "2026-05-01T12:12:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell se2416h",
+      "url": "https://tehnoskarb.ua/montor-dell-se2416h/m5050200",
+      "price_min": 1780,
+      "price_max": 1870,
+      "city": "Боярка",
+      "addresses": [
+        "м. Боярка, вул. Ярослава Мудрого, 50/61",
+        "м. Київ, вул. Заболотного, 20А"
+      ],
+      "offers": 2,
+      "first_seen": "2026-04-05T19:39:53Z",
+      "price_history": [
+        {
+          "price": 1700,
+          "at": "2026-04-05T19:39:53Z"
+        },
+        {
+          "price": 1780,
+          "at": "2026-04-30T09:34:18Z"
+        },
+        {
+          "price": 1700,
+          "at": "2026-04-30T11:40:12Z"
+        },
+        {
+          "price": 1780,
+          "at": "2026-05-06T06:18:43Z"
         }
       ],
       "category": "Монітори",
@@ -4435,33 +4479,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Системний блок Пк amd ryzen 5 5500/ram 16 gb/hdd відсутній/ssd 1000 gb/nvidia rtx 4060 (geforce) 8gb gddr6 128bit",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-amd-ryzen-5-5500-ram-16-gb-hdd-vdsutnjj-ssd-1000-gb-nvidia-rtx-4060-geforce-8gb-gddr6-128bit/m5095989",
-      "price": 28000,
-      "city": "Київ",
-      "category": "Системні блоки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Hp 16/pentium n3710 ddr3/8gb ddr3/hdd 300 gb/ssd 120 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-16-pentium-n3710-ddr3-8gb-ddr3-hdd-300-gb-ssd-120-gb-ntegrovana/m5165404",
-      "price": 2700,
-      "city": "Кропивницький",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Lenovo 17/ryzen 3 7320u ddr5/8gb ddr5/ssd 240 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-17-ryzen-3-7320u-ddr5-8gb-ddr5-ssd-240-gb-ntegrovana/m5168433",
-      "price": 10800,
-      "city": "Тернопіль",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
       "name": "Ноутбук Hp 14/core i7-1255u ddr5/8gb ddr5/ssd 256 gb/*інтегрована",
       "url": "https://tehnoskarb.ua/noutbuk-hp-14-core-i7-1255u-ddr5-8gb-ddr5-ssd-256-gb-ntegrovana/m5168204",
       "price": 18410,
@@ -6237,6 +6254,34 @@
       "city": "Луцьк",
       "category": "Монітори",
       "at": "2026-05-05T19:47:17Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung ls20t",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls20t/m5159939",
+      "price": 650,
+      "city": "Вінниця",
+      "category": "Монітори",
+      "at": "2026-05-06T06:18:43Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Dell se2416h",
+      "url": "https://tehnoskarb.ua/montor-dell-se2416h/m5050200",
+      "price_old": 1700,
+      "price_new": 1780,
+      "city": "Боярка",
+      "category": "Монітори",
+      "at": "2026-05-06T06:18:43Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 720n",
+      "url": "https://tehnoskarb.ua/montor-samsung-720n/m5042700",
+      "price": 420,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-06T06:18:43Z"
     }
   ],
   "config": {
