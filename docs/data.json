@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-07T07:48:39Z",
+  "updated_at": "2026-05-07T10:27:45Z",
   "stats": {
-    "total": 199,
-    "avg_price": 2339,
+    "total": 197,
+    "avg_price": 2313,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -1352,26 +1352,6 @@
       "price_history": [
         {
           "price": 700,
-          "at": "2026-04-05T19:39:53Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer v193hqv",
-      "url": "https://tehnoskarb.ua/montor-acer-v193hqv/m5025821",
-      "price_min": 710,
-      "price_max": 710,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 136"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 710,
           "at": "2026-04-05T19:39:53Z"
         }
       ],
@@ -4372,28 +4352,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Alienware aw2724dm",
-      "url": "https://tehnoskarb.ua/montor-alienware-aw2724dm/m5137539",
-      "price_min": 9110,
-      "price_max": 9110,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 10125,
-          "at": "2026-04-05T19:39:53Z"
-        },
-        {
-          "price": 9110,
-          "at": "2026-04-20T10:51:50Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung smart m7",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
       "price_min": 10500,
@@ -4460,24 +4418,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Ноутбук Asus 15/core i7-1065g7 ddr4/16gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-asus-15-core-i7-1065g7-ddr4-16gb-ddr4-hdd-vdsutnjj-ssd-512-gb-ntegrovana/m5166541",
-      "price": 10750,
-      "city": "",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Apple a2338 /macbook pro 13,3\" /m1 8-gpu/ ram16gb/ ssd 256gb/ retina, truetone, touch bar",
-      "url": "https://tehnoskarb.ua/noutbuk-apple-a2338-macbook-pro-13-3-m1-8-gpu-ram16gb-ssd-256gb-retina-truetone-touch-bar/m5163043",
-      "price": 15000,
-      "city": "Львів",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
     {
       "type": "sold",
       "name": "Ноутбук Asus 15/celeron n4000 ddr4/4gb ddr4/hdd 500 gb/*інтегрована",
@@ -6268,6 +6208,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-07T07:47:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Alienware aw2724dm",
+      "url": "https://tehnoskarb.ua/montor-alienware-aw2724dm/m5137539",
+      "price": 9110,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-07T10:27:34Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer v193hqv",
+      "url": "https://tehnoskarb.ua/montor-acer-v193hqv/m5025821",
+      "price": 710,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-07T10:27:34Z"
     }
   ],
   "config": {
