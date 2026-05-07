@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-07T19:15:49Z",
+  "updated_at": "2026-05-07T20:48:31Z",
   "stats": {
-    "total": 199,
-    "avg_price": 2322,
+    "total": 198,
+    "avg_price": 2330,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -1201,26 +1201,6 @@
       "price_history": [
         {
           "price": 690,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 223v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
-      "price_min": 700,
-      "price_max": 700,
-      "city": "Запоріжжя",
-      "addresses": [
-        "м. Запоріжжя, вул. Ентузіастів, 3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 700,
           "at": "2026-05-07T17:17:22Z"
         }
       ],
@@ -4109,15 +4089,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Samsung 151b",
-      "url": "https://tehnoskarb.ua/montor-samsung-151b/m5048220",
-      "price": 120,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Gigabyte m27q",
       "url": "https://tehnoskarb.ua/montor-gigabyte-m27q/m5103012",
       "price": 7500,
@@ -5907,6 +5878,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-07T19:14:57Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 223v5l",
+      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
+      "price": 700,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-05-07T20:47:47Z"
     }
   ],
   "config": {
