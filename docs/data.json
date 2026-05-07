@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-07T04:58:42Z",
+  "updated_at": "2026-05-07T07:48:39Z",
   "stats": {
-    "total": 200,
-    "avg_price": 2338,
+    "total": 199,
+    "avg_price": 2339,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -2347,7 +2347,7 @@
       "addresses": [
         "м. Бровари, б-р Незалежності, 11"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-04-05T19:39:53Z",
       "price_history": [
         {
@@ -2742,26 +2742,6 @@
         {
           "price": 2080,
           "at": "2026-05-05T12:05:34Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Qube b24f75-va",
-      "url": "https://tehnoskarb.ua/montor-qube-b24f75-va/m5050755",
-      "price_min": 2100,
-      "price_max": 2100,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олени Теліги , 17"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-29T08:38:58Z",
-      "price_history": [
-        {
-          "price": 2100,
-          "at": "2026-04-29T08:38:58Z"
         }
       ],
       "category": "Монітори",
@@ -4480,15 +4460,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Ноутбук Lenovo 15/pentium b980 ddr3/4gb ddr3/hdd 250 gb/geforce 610m",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-pentium-b980-ddr3-4gb-ddr3-hdd-250-gb-geforce-610m/m5167587",
-      "price": 1600,
-      "city": "Хмельницький",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
     {
       "type": "sold",
       "name": "Ноутбук Asus 15/core i7-1065g7 ddr4/16gb ddr4/hdd *відсутній/ssd 512 gb/*інтегрована",
@@ -6288,6 +6259,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-07T04:58:17Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Qube b24f75-va",
+      "url": "https://tehnoskarb.ua/montor-qube-b24f75-va/m5050755",
+      "price": 2100,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-07T07:47:50Z"
     }
   ],
   "config": {
