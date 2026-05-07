@@ -201,14 +201,14 @@
   },
   "https://tehnoskarb.ua/montor-dell-p2314ht/m5159268": {
     "name": "Монітор Dell p2314ht",
-    "price_min": 1460,
+    "price_min": 1310,
     "price_max": 1460,
     "city": "Рівне",
     "addresses": [
       "м. Рівне, вул. Чорновола, 12-А",
       "м. Запоріжжя, вул. Ентузіастів, 3"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -222,6 +222,10 @@
       {
         "price": 1460,
         "at": "2026-05-05T10:49:11Z"
+      },
+      {
+        "price": 1310,
+        "at": "2026-05-07T04:58:17Z"
       }
     ],
     "category": "Монітори",
@@ -321,14 +325,14 @@
   },
   "https://tehnoskarb.ua/montor-asus-vw193d-b/m5157389": {
     "name": "Монітор Asus vw193d-b",
-    "price_min": 840,
+    "price_min": 550,
     "price_max": 840,
     "city": "Полтава",
     "addresses": [
       "м. Полтава, вул. Івана Мазепи, 26",
       "м. Кам`янське, вул. Мурахтова, 4"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -338,6 +342,10 @@
       {
         "price": 840,
         "at": "2026-04-17T14:41:51Z"
+      },
+      {
+        "price": 550,
+        "at": "2026-05-07T04:58:17Z"
       }
     ],
     "category": "Монітори",
@@ -1669,7 +1677,7 @@
       "м. Київ, вул. Кирилівська, 129",
       "м. Київ, вул. Мишуги, 3-в"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -2515,13 +2523,13 @@
   },
   "https://tehnoskarb.ua/montor-msi-g27c4x/m5147258": {
     "name": "Монітор Msi g27c4x",
-    "price_min": 5580,
+    "price_min": 5040,
     "price_max": 5580,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Бажана, 3В (м. Харківська)"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-04-15T18:42:11Z",
@@ -2533,6 +2541,10 @@
       {
         "price": 5580,
         "at": "2026-05-01T11:09:25Z"
+      },
+      {
+        "price": 5040,
+        "at": "2026-05-07T04:58:17Z"
       }
     ],
     "details_failures": 0,
@@ -4410,8 +4422,71 @@
         "at": "2026-05-06T21:13:25Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-05-06T23:27:45Z",
-    "details_retry_at": "2026-05-07T01:27:45Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-05-07T04:58:17Z",
+    "details_retry_at": "2026-05-07T08:58:17Z"
+  },
+  "https://tehnoskarb.ua/montor-iiyama-gb2770qsu-b5/m5170947": {
+    "name": "Монітор Iiyama gb2770qsu-b5",
+    "price_min": 8900,
+    "price_max": 8900,
+    "city": "Івано-Франківськ",
+    "addresses": [
+      "м. Івано-Франківськ, вул. Василіянок, 7"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-07T04:58:17Z",
+    "price_history": [
+      {
+        "price": 8900,
+        "at": "2026-05-07T04:58:17Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-07T04:58:17Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-e1942c/m5076612": {
+    "name": "Монітор Lg e1942c",
+    "price_min": 690,
+    "price_max": 690,
+    "city": "Стрий",
+    "addresses": [
+      "м. Стрий, вул. Валова, 2/2"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-07T04:58:17Z",
+    "price_history": [
+      {
+        "price": 690,
+        "at": "2026-05-07T04:58:17Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-07T04:58:17Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136": {
+    "name": "Монітор Samsung smart m7",
+    "price_min": 10500,
+    "price_max": 10500,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Бажана, 3В (м. Харківська)"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-07T04:58:17Z",
+    "price_history": [
+      {
+        "price": 10500,
+        "at": "2026-05-07T04:58:17Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-07T04:58:17Z"
   }
 }

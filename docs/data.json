@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-07T01:18:35Z",
+  "updated_at": "2026-05-07T04:58:42Z",
   "stats": {
-    "total": 197,
-    "avg_price": 2276,
+    "total": 200,
+    "avg_price": 2338,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -45,6 +45,7 @@
       "Самар",
       "Самбір",
       "Свалява",
+      "Стрий",
       "Суми",
       "Тернопіль",
       "Ужгород",
@@ -886,6 +887,35 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus vw193d-b",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d-b/m5157389",
+      "price_min": 550,
+      "price_max": 840,
+      "city": "Полтава",
+      "addresses": [
+        "м. Полтава, вул. Івана Мазепи, 26",
+        "м. Кам`янське, вул. Мурахтова, 4"
+      ],
+      "offers": 2,
+      "first_seen": "2026-04-05T19:39:53Z",
+      "price_history": [
+        {
+          "price": 400,
+          "at": "2026-04-05T19:39:53Z"
+        },
+        {
+          "price": 840,
+          "at": "2026-04-17T14:41:51Z"
+        },
+        {
+          "price": 550,
+          "at": "2026-05-07T04:58:17Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung syncmaster 931bf",
       "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
       "price_min": 580,
@@ -1163,7 +1193,7 @@
         "м. Київ, вул. Кирилівська, 129",
         "м. Київ, вул. Мишуги, 3-в"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-04-05T19:39:53Z",
       "price_history": [
         {
@@ -1283,6 +1313,26 @@
         {
           "price": 690,
           "at": "2026-05-02T06:09:02Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg e1942c",
+      "url": "https://tehnoskarb.ua/montor-lg-e1942c/m5076612",
+      "price_min": 690,
+      "price_max": 690,
+      "city": "Стрий",
+      "addresses": [
+        "м. Стрий, вул. Валова, 2/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-07T04:58:17Z",
+      "price_history": [
+        {
+          "price": 690,
+          "at": "2026-05-07T04:58:17Z"
         }
       ],
       "category": "Монітори",
@@ -1506,31 +1556,6 @@
         {
           "price": 790,
           "at": "2026-05-05T16:28:02Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vw193d-b",
-      "url": "https://tehnoskarb.ua/montor-asus-vw193d-b/m5157389",
-      "price_min": 840,
-      "price_max": 840,
-      "city": "Полтава",
-      "addresses": [
-        "м. Полтава, вул. Івана Мазепи, 26",
-        "м. Кам`янське, вул. Мурахтова, 4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 400,
-          "at": "2026-04-05T19:39:53Z"
-        },
-        {
-          "price": 840,
-          "at": "2026-04-17T14:41:51Z"
         }
       ],
       "category": "Монітори",
@@ -2159,6 +2184,39 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell p2314ht",
+      "url": "https://tehnoskarb.ua/montor-dell-p2314ht/m5159268",
+      "price_min": 1310,
+      "price_max": 1460,
+      "city": "Рівне",
+      "addresses": [
+        "м. Рівне, вул. Чорновола, 12-А",
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 2,
+      "first_seen": "2026-04-05T19:39:53Z",
+      "price_history": [
+        {
+          "price": 1460,
+          "at": "2026-04-05T19:39:53Z"
+        },
+        {
+          "price": 1310,
+          "at": "2026-05-01T12:12:11Z"
+        },
+        {
+          "price": 1460,
+          "at": "2026-05-05T10:49:11Z"
+        },
+        {
+          "price": 1310,
+          "at": "2026-05-07T04:58:17Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 24mp58vq-p",
       "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
       "price_min": 1320,
@@ -2173,35 +2231,6 @@
         {
           "price": 1320,
           "at": "2026-05-05T12:05:34Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Dell p2314ht",
-      "url": "https://tehnoskarb.ua/montor-dell-p2314ht/m5159268",
-      "price_min": 1460,
-      "price_max": 1460,
-      "city": "Рівне",
-      "addresses": [
-        "м. Рівне, вул. Чорновола, 12-А",
-        "м. Запоріжжя, вул. Ентузіастів, 3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 1460,
-          "at": "2026-04-05T19:39:53Z"
-        },
-        {
-          "price": 1310,
-          "at": "2026-05-01T12:12:11Z"
-        },
-        {
-          "price": 1460,
-          "at": "2026-05-05T10:49:11Z"
         }
       ],
       "category": "Монітори",
@@ -3945,6 +3974,34 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi g27c4x",
+      "url": "https://tehnoskarb.ua/montor-msi-g27c4x/m5147258",
+      "price_min": 5040,
+      "price_max": 5580,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Бажана, 3В (м. Харківська)"
+      ],
+      "offers": 2,
+      "first_seen": "2026-04-15T18:42:11Z",
+      "price_history": [
+        {
+          "price": 6200,
+          "at": "2026-04-15T18:42:11Z"
+        },
+        {
+          "price": 5580,
+          "at": "2026-05-01T11:09:25Z"
+        },
+        {
+          "price": 5040,
+          "at": "2026-05-07T04:58:17Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Eizo flexscan ev2430",
       "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
       "price_min": 5075,
@@ -4028,30 +4085,6 @@
         {
           "price": 5570,
           "at": "2026-04-30T16:02:04Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi g27c4x",
-      "url": "https://tehnoskarb.ua/montor-msi-g27c4x/m5147258",
-      "price_min": 5580,
-      "price_max": 5580,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Бажана, 3В (м. Харківська)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-15T18:42:11Z",
-      "price_history": [
-        {
-          "price": 6200,
-          "at": "2026-04-15T18:42:11Z"
-        },
-        {
-          "price": 5580,
-          "at": "2026-05-01T11:09:25Z"
         }
       ],
       "category": "Монітори",
@@ -4339,6 +4372,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Iiyama gb2770qsu-b5",
+      "url": "https://tehnoskarb.ua/montor-iiyama-gb2770qsu-b5/m5170947",
+      "price_min": 8900,
+      "price_max": 8900,
+      "city": "Івано-Франківськ",
+      "addresses": [
+        "м. Івано-Франківськ, вул. Василіянок, 7"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-07T04:58:17Z",
+      "price_history": [
+        {
+          "price": 8900,
+          "at": "2026-05-07T04:58:17Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Alienware aw2724dm",
       "url": "https://tehnoskarb.ua/montor-alienware-aw2724dm/m5137539",
       "price_min": 9110,
@@ -4355,6 +4408,26 @@
         {
           "price": 9110,
           "at": "2026-04-20T10:51:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung smart m7",
+      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
+      "price_min": 10500,
+      "price_max": 10500,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Бажана, 3В (м. Харківська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-07T04:58:17Z",
+      "price_history": [
+        {
+          "price": 10500,
+          "at": "2026-05-07T04:58:17Z"
         }
       ],
       "category": "Монітори",
@@ -4407,60 +4480,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Ноутбук Nec 15/core i5-4210m ddr3/4gb ddr3/ssd 480 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-nec-15-core-i5-4210m-ddr3-4gb-ddr3-ssd-480-gb-ntegrovana/m5167455",
-      "price": 3000,
-      "city": "Білгород-Дністровський",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Chuwi 14/core i3-1215u ddr5/16gb ddr5/ssd 512 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-chuwi-14-core-i3-1215u-ddr5-16gb-ddr5-ssd-512-gb-ntegrovana/m5159467",
-      "price": 12320,
-      "city": "Київ",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Lenovo 15/pentium 3558u ddr3/4gb ddr3/hdd 500 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-lenovo-15-pentium-3558u-ddr3-4gb-ddr3-hdd-500-gb-ntegrovana/m5164892",
-      "price": 3000,
-      "city": "Львів",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Ноутбук Hp 14/ryzen 5 7520u ddr5/8gb ddr5/ssd 250 gb/*інтегрована",
-      "url": "https://tehnoskarb.ua/noutbuk-hp-14-ryzen-5-7520u-ddr5-8gb-ddr5-ssd-250-gb-ntegrovana/m5164887",
-      "price": 12000,
-      "city": "Львів",
-      "category": "Ноутбуки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Системний блок Пк intel core i5-4460/ram 8 gb/hdd 600 gb/ssd відсутній/nvidia gtx 650 ti (geforce) 1gb gddr5 128bit",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-core-i5-4460-ram-8-gb-hdd-600-gb-ssd-vdsutnjj-nvidia-gtx-650-ti-geforce-1gb-gddr5-128bit/m5164742",
-      "price": 2500,
-      "city": "Львів",
-      "category": "Системні блоки",
-      "at": "2026-05-03T18:12:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Системний блок Пк intel pentium g4560/ram 8 gb/hdd 1000 gb/ssd відсутній/amd/ ati radeon rx 560 2gb gddr5 128bit",
-      "url": "https://tehnoskarb.ua/sistemnyi-blok-pk-intel-pentium-g4560-ram-8-gb-hdd-1000-gb-ssd-vdsutnjj-amd-ati-radeon-rx-560-2gb-gddr5-128bit/m5150639",
-      "price": 4000,
-      "city": "Львів",
-      "category": "Системні блоки",
-      "at": "2026-05-03T18:12:34Z"
-    },
     {
       "type": "sold",
       "name": "Ноутбук Lenovo 15/pentium b980 ddr3/4gb ddr3/hdd 250 gb/geforce 610m",
@@ -6212,6 +6231,63 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-05-06T21:13:25Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Iiyama gb2770qsu-b5",
+      "url": "https://tehnoskarb.ua/montor-iiyama-gb2770qsu-b5/m5170947",
+      "price": 8900,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-05-07T04:58:17Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Dell p2314ht",
+      "url": "https://tehnoskarb.ua/montor-dell-p2314ht/m5159268",
+      "price_old": 1460,
+      "price_new": 1310,
+      "city": "Рівне",
+      "category": "Монітори",
+      "at": "2026-05-07T04:58:17Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Asus vw193d-b",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d-b/m5157389",
+      "price_old": 840,
+      "price_new": 550,
+      "city": "Полтава",
+      "category": "Монітори",
+      "at": "2026-05-07T04:58:17Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Msi g27c4x",
+      "url": "https://tehnoskarb.ua/montor-msi-g27c4x/m5147258",
+      "price_old": 5580,
+      "price_new": 5040,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-07T04:58:17Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg e1942c",
+      "url": "https://tehnoskarb.ua/montor-lg-e1942c/m5076612",
+      "price": 690,
+      "city": "Стрий",
+      "category": "Монітори",
+      "at": "2026-05-07T04:58:17Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung smart m7",
+      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
+      "price": 10500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-07T04:58:17Z"
     }
   ],
   "config": {
