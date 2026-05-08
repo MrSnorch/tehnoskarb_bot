@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-08T06:53:19Z",
+  "updated_at": "2026-05-08T08:22:18Z",
   "stats": {
     "total": 197,
-    "avg_price": 2327,
+    "avg_price": 2325,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -3379,6 +3379,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Aoc c27g4zxu",
+      "url": "https://tehnoskarb.ua/montor-aoc-c27g4zxu/m5151341",
+      "price_min": 4400,
+      "price_max": 4400,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-07T17:17:22Z",
+      "price_history": [
+        {
+          "price": 4800,
+          "at": "2026-05-07T17:17:22Z"
+        },
+        {
+          "price": 4400,
+          "at": "2026-05-08T08:22:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung curved cr50",
       "url": "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496",
       "price_min": 4400,
@@ -3509,26 +3533,6 @@
         {
           "price": 4780,
           "at": "2026-04-29T06:26:36Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Aoc c27g4zxu",
-      "url": "https://tehnoskarb.ua/montor-aoc-c27g4zxu/m5151341",
-      "price_min": 4800,
-      "price_max": 4800,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 4800,
-          "at": "2026-05-07T17:17:22Z"
         }
       ],
       "category": "Монітори",
@@ -4067,15 +4071,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 740n",
-      "url": "https://tehnoskarb.ua/montor-samsung-740n/m4996661",
-      "price": 250,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Acer g227hgl",
@@ -5867,6 +5862,16 @@
       "city": "Білгород-Дністровський",
       "category": "Монітори",
       "at": "2026-05-08T06:53:12Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Aoc c27g4zxu",
+      "url": "https://tehnoskarb.ua/montor-aoc-c27g4zxu/m5151341",
+      "price_old": 4800,
+      "price_new": 4400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-08T08:22:11Z"
     }
   ],
   "config": {
