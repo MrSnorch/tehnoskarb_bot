@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-08T11:55:28Z",
+  "updated_at": "2026-05-08T13:57:47Z",
   "stats": {
-    "total": 193,
-    "avg_price": 2306,
+    "total": 190,
+    "avg_price": 2275,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -730,27 +730,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung 2243bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-2243bw/m5048356",
-      "price_min": 500,
-      "price_max": 620,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Порика Василя, 13",
-        "м. Київ, вул. Лятошинського, 14"
-      ],
-      "offers": 2,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 500,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung 2043nwx",
       "url": "https://tehnoskarb.ua/montor-samsung-2043nwx/m5163893",
       "price_min": 510,
@@ -981,6 +960,31 @@
         {
           "price": 620,
           "at": "2026-05-07T17:17:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 2243bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-2243bw/m5048356",
+      "price_min": 620,
+      "price_max": 620,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Порика Василя, 13",
+        "м. Київ, вул. Лятошинського, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-07T17:17:22Z",
+      "price_history": [
+        {
+          "price": 500,
+          "at": "2026-05-07T17:17:22Z"
+        },
+        {
+          "price": 620,
+          "at": "2026-05-08T13:57:34Z"
         }
       ],
       "category": "Монітори",
@@ -1794,26 +1798,6 @@
         {
           "price": 1110,
           "at": "2026-05-01T12:12:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Dell p2317hf",
-      "url": "https://tehnoskarb.ua/montor-dell-p2317hf/m5169258",
-      "price_min": 1180,
-      "price_max": 1180,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Заболотного, 20А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-30T07:09:41Z",
-      "price_history": [
-        {
-          "price": 1180,
-          "at": "2026-04-30T07:09:41Z"
         }
       ],
       "category": "Монітори",
@@ -2977,26 +2961,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung c27f396fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27f396fhi/m5145006",
-      "price_min": 3210,
-      "price_max": 3210,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, просп. Олександрівський, 91, прим. №2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 3210,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus va259hga",
       "url": "https://tehnoskarb.ua/montor-asus-va259hga/m5168218",
       "price_min": 3320,
@@ -3899,26 +3863,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus pg259qn",
-      "url": "https://tehnoskarb.ua/montor-asus-pg259qn/m5115751",
-      "price_min": 8500,
-      "price_max": 8500,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Княжий Затон, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 8500,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Iiyama gb2770qsu-b5",
       "url": "https://tehnoskarb.ua/montor-iiyama-gb2770qsu-b5/m5170947",
       "price_min": 8900,
@@ -4001,42 +3945,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung t220",
-      "url": "https://tehnoskarb.ua/montor-samsung-t220/m4997755",
-      "price": 340,
-      "city": "Ірпінь",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung s24r358f",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24r358f/m5155371",
-      "price": 2800,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Philips 273v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-273v5l/m5153965",
-      "price": 2460,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 2243sn",
-      "url": "https://tehnoskarb.ua/montor-samsung-2243sn/m5048184",
-      "price": 490,
-      "city": "Калуш",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Benq gw2480",
@@ -5804,6 +5712,43 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-08T11:54:32Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell p2317hf",
+      "url": "https://tehnoskarb.ua/montor-dell-p2317hf/m5169258",
+      "price": 1180,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-08T13:57:34Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung c27f396fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27f396fhi/m5145006",
+      "price": 3210,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-05-08T13:57:34Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus pg259qn",
+      "url": "https://tehnoskarb.ua/montor-asus-pg259qn/m5115751",
+      "price": 8500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-08T13:57:34Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung 2243bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-2243bw/m5048356",
+      "price_old": 500,
+      "price_new": 620,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-08T13:57:34Z"
     }
   ],
   "config": {
