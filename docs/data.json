@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-08T17:22:29Z",
+  "updated_at": "2026-05-08T18:53:18Z",
   "stats": {
-    "total": 188,
-    "avg_price": 2287,
+    "total": 191,
+    "avg_price": 2305,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -1186,6 +1186,26 @@
         {
           "price": 730,
           "at": "2026-05-07T17:17:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung ls20b3u",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls20b3u/m5171325",
+      "price_min": 730,
+      "price_max": 730,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Кирилівська, 129"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-08T18:52:20Z",
+      "price_history": [
+        {
+          "price": 730,
+          "at": "2026-05-08T18:52:20Z"
         }
       ],
       "category": "Монітори",
@@ -3369,6 +3389,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lenovo 27-10",
+      "url": "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317",
+      "price_min": 4660,
+      "price_max": 4660,
+      "city": "Біла Церква",
+      "addresses": [
+        "м. Біла Церква, вул. Ярослава Мудрого, 22"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-08T18:52:20Z",
+      "price_history": [
+        {
+          "price": 4660,
+          "at": "2026-05-08T18:52:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi mag 255xf",
       "url": "https://tehnoskarb.ua/montor-msi-mag-255xf/m5137057",
       "price_min": 4730,
@@ -3487,6 +3527,26 @@
         {
           "price": 4950,
           "at": "2026-05-01T11:09:25Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi optix g2712f",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g2712f/m5163816",
+      "price_min": 5020,
+      "price_max": 5020,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-08T18:52:20Z",
+      "price_history": [
+        {
+          "price": 5020,
+          "at": "2026-05-08T18:52:20Z"
         }
       ],
       "category": "Монітори",
@@ -3905,33 +3965,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Philips 221v8a/00",
-      "url": "https://tehnoskarb.ua/montor-philips-221v8a-00/m5125141",
-      "price": 2200,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Dell p2211h",
-      "url": "https://tehnoskarb.ua/montor-dell-p2211h/m5086583",
-      "price": 930,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung s22f350fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22f350fhi/m5139689",
-      "price": 1480,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Acer v226hql",
@@ -5709,6 +5742,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-08T17:22:21Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo 27-10",
+      "url": "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317",
+      "price": 4660,
+      "city": "Біла Церква",
+      "category": "Монітори",
+      "at": "2026-05-08T18:52:20Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung ls20b3u",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls20b3u/m5171325",
+      "price": 730,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-08T18:52:20Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi optix g2712f",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g2712f/m5163816",
+      "price": 5020,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-05-08T18:52:20Z"
     }
   ],
   "config": {
