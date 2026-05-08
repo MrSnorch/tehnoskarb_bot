@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-08T04:39:16Z",
+  "updated_at": "2026-05-08T06:53:19Z",
   "stats": {
-    "total": 198,
-    "avg_price": 2330,
+    "total": 197,
+    "avg_price": 2327,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -2895,26 +2895,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Acer nitro vg3",
-      "url": "https://tehnoskarb.ua/montor-acer-nitro-vg3/m5171043",
-      "price_min": 2900,
-      "price_max": 2900,
-      "city": "Білгород-Дністровський",
-      "addresses": [
-        "м. Білгород-Дністровський, вул. Українська, 73"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-06T19:50:11Z",
-      "price_history": [
-        {
-          "price": 2900,
-          "at": "2026-05-06T19:50:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Philips 241v8l/00",
       "url": "https://tehnoskarb.ua/montor-philips-241v8l-00/m5167405",
       "price_min": 3000,
@@ -4087,15 +4067,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Gigabyte m27q",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-m27q/m5103012",
-      "price": 7500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung 740n",
@@ -5887,6 +5858,15 @@
       "city": "Запоріжжя",
       "category": "Монітори",
       "at": "2026-05-07T20:47:47Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer nitro vg3",
+      "url": "https://tehnoskarb.ua/montor-acer-nitro-vg3/m5171043",
+      "price": 2900,
+      "city": "Білгород-Дністровський",
+      "category": "Монітори",
+      "at": "2026-05-08T06:53:12Z"
     }
   ],
   "config": {
