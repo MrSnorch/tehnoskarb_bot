@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-09T13:59:11Z",
+  "updated_at": "2026-05-09T15:03:45Z",
   "stats": {
-    "total": 194,
-    "avg_price": 2255,
+    "total": 193,
+    "avg_price": 2265,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -298,26 +298,6 @@
         {
           "price": 310,
           "at": "2026-04-24T08:09:54Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg e1940s",
-      "url": "https://tehnoskarb.ua/montor-lg-e1940s/m5137124",
-      "price_min": 310,
-      "price_max": 310,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Заньковецької, 77, прим.38"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 310,
-          "at": "2026-05-07T17:17:22Z"
         }
       ],
       "category": "Монітори",
@@ -4026,15 +4006,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Aoc q24g2a/bk",
-      "url": "https://tehnoskarb.ua/montor-aoc-q24g2a-bk/m5143122",
-      "price": 5400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Samsung c24f390fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
       "price": 1860,
@@ -5828,6 +5799,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-09T13:58:59Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg e1940s",
+      "url": "https://tehnoskarb.ua/montor-lg-e1940s/m5137124",
+      "price": 310,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-05-09T15:03:38Z"
     }
   ],
   "config": {
