@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-09T06:32:11Z",
+  "updated_at": "2026-05-09T08:43:16Z",
   "stats": {
-    "total": 194,
-    "avg_price": 2304,
+    "total": 195,
+    "avg_price": 2277,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -38,6 +38,7 @@
       "Ніжин",
       "Одеса",
       "Первомайськ",
+      "Переяслав",
       "Рівне",
       "Самар",
       "Самбір",
@@ -1399,6 +1400,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg flatron e2240s",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2240s/m5152011",
+      "price_min": 840,
+      "price_max": 840,
+      "city": "Переяслав",
+      "addresses": [
+        "м. Переяслав, вул. Б.Хмельницького, 137"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-09T08:43:02Z",
+      "price_history": [
+        {
+          "price": 840,
+          "at": "2026-05-09T08:43:02Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lenovo lt2252pwa",
       "url": "https://tehnoskarb.ua/montor-lenovo-lt2252pwa/m5159261",
       "price_min": 850,
@@ -1989,6 +2010,26 @@
         {
           "price": 1320,
           "at": "2026-05-07T17:17:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Acer vg240y",
+      "url": "https://tehnoskarb.ua/montor-acer-vg240y/m5044081",
+      "price_min": 1390,
+      "price_max": 1390,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Червоної Калини, 47"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-09T08:43:02Z",
+      "price_history": [
+        {
+          "price": 1390,
+          "at": "2026-05-09T08:43:02Z"
         }
       ],
       "category": "Монітори",
@@ -3655,30 +3696,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell s2722dc",
-      "url": "https://tehnoskarb.ua/montor-dell-s2722dc/m5156582",
-      "price_min": 5100,
-      "price_max": 5100,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Заболотного, 20А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 5600,
-          "at": "2026-05-07T17:17:22Z"
-        },
-        {
-          "price": 5100,
-          "at": "2026-05-08T11:54:32Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lenovo legion r27i-30",
       "url": "https://tehnoskarb.ua/montor-lenovo-legion-r27i-30/m5135184",
       "price_min": 5100,
@@ -4025,33 +4042,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lg 27mk430",
-      "url": "https://tehnoskarb.ua/montor-lg-27mk430/m5145924",
-      "price": 2420,
-      "city": "Біла Церква",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Philips 27e1n1900ae/00",
-      "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
-      "price": 4340,
-      "city": "Новий Розділ",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Acer b226hql",
-      "url": "https://tehnoskarb.ua/montor-acer-b226hql/m5132545",
-      "price": 930,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung odyssey g5 ls32cg550",
@@ -5829,6 +5819,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-09T06:31:53Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell s2722dc",
+      "url": "https://tehnoskarb.ua/montor-dell-s2722dc/m5156582",
+      "price": 5100,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-09T08:43:02Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg flatron e2240s",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2240s/m5152011",
+      "price": 840,
+      "city": "Переяслав",
+      "category": "Монітори",
+      "at": "2026-05-09T08:43:02Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer vg240y",
+      "url": "https://tehnoskarb.ua/montor-acer-vg240y/m5044081",
+      "price": 1390,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-09T08:43:02Z"
     }
   ],
   "config": {
