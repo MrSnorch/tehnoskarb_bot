@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-09T15:03:45Z",
+  "updated_at": "2026-05-09T16:29:01Z",
   "stats": {
-    "total": 193,
-    "avg_price": 2265,
+    "total": 191,
+    "avg_price": 2281,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -643,26 +643,6 @@
         {
           "price": 500,
           "at": "2026-04-22T18:39:04Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Hanns-G hsg1145",
-      "url": "https://tehnoskarb.ua/montor-hanns-g-hsg1145/m5140270",
-      "price_min": 500,
-      "price_max": 500,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Соборна, 3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 500,
-          "at": "2026-05-07T17:17:22Z"
         }
       ],
       "category": "Монітори",
@@ -1694,26 +1674,6 @@
       "price_history": [
         {
           "price": 1000,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vh242",
-      "url": "https://tehnoskarb.ua/montor-asus-vh242/m5148772",
-      "price_min": 1030,
-      "price_max": 1030,
-      "city": "Кривий Ріг",
-      "addresses": [
-        "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 1030,
           "at": "2026-05-07T17:17:22Z"
         }
       ],
@@ -4006,24 +3966,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Samsung c24f390fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
-      "price": 1860,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung s24d300",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24d300/m5149081",
-      "price": 2190,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Msi optix g2712",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g2712/m5147416",
       "price": 3090,
@@ -5808,6 +5750,24 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-05-09T15:03:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vh242",
+      "url": "https://tehnoskarb.ua/montor-asus-vh242/m5148772",
+      "price": 1030,
+      "city": "Кривий Ріг",
+      "category": "Монітори",
+      "at": "2026-05-09T16:28:10Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hanns-G hsg1145",
+      "url": "https://tehnoskarb.ua/montor-hanns-g-hsg1145/m5140270",
+      "price": 500,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-05-09T16:28:10Z"
     }
   ],
   "config": {
