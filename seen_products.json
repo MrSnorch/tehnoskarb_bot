@@ -937,27 +937,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-29T18:14:15Z"
   },
-  "https://tehnoskarb.ua/montor-philips-27m2c5501-00/m5168133": {
-    "name": "Монітор Philips 27m2c5501/00",
-    "price_min": 5570,
-    "price_max": 5570,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Гарматна, 44/2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-04-30T16:02:04Z",
-    "price_history": [
-      {
-        "price": 5570,
-        "at": "2026-04-30T16:02:04Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-30T16:02:04Z"
-  },
   "https://tehnoskarb.ua/montor-acer-pm161q/m5170050": {
     "name": "Монітор Acer pm161q",
     "price_min": 3320,
@@ -4145,5 +4124,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-09T08:43:02Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-24m38a-b/m5081801": {
+    "name": "Монітор Lg 24m38a-b",
+    "price_min": 1400,
+    "price_max": 1400,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Берестейський, 136"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-09T13:58:59Z",
+    "price_history": [
+      {
+        "price": 1400,
+        "at": "2026-05-09T13:58:59Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-09T13:58:59Z"
   }
 }
