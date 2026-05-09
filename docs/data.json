@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-09T16:29:01Z",
+  "updated_at": "2026-05-09T17:31:05Z",
   "stats": {
-    "total": 191,
-    "avg_price": 2281,
+    "total": 190,
+    "avg_price": 2287,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -1755,30 +1755,6 @@
         {
           "price": 1100,
           "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Nec e222w-bk",
-      "url": "https://tehnoskarb.ua/montor-nec-e222w-bk/m5161167",
-      "price_min": 1110,
-      "price_max": 1110,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-05T19:39:53Z",
-      "price_history": [
-        {
-          "price": 1500,
-          "at": "2026-04-05T19:39:53Z"
-        },
-        {
-          "price": 1110,
-          "at": "2026-05-01T12:12:11Z"
         }
       ],
       "category": "Монітори",
@@ -3966,15 +3942,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Msi optix g2712",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g2712/m5147416",
-      "price": 3090,
-      "city": "Суми",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Dell s2240lc",
       "url": "https://tehnoskarb.ua/montor-dell-s2240lc/m5057261",
       "price": 1800,
@@ -5768,6 +5735,15 @@
       "city": "Кропивницький",
       "category": "Монітори",
       "at": "2026-05-09T16:28:10Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Nec e222w-bk",
+      "url": "https://tehnoskarb.ua/montor-nec-e222w-bk/m5161167",
+      "price": 1110,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-09T17:30:58Z"
     }
   ],
   "config": {
