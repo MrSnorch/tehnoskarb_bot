@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-09T10:08:56Z",
+  "updated_at": "2026-05-09T11:26:20Z",
   "stats": {
-    "total": 195,
-    "avg_price": 2277,
+    "total": 194,
+    "avg_price": 2276,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -2743,24 +2743,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 273v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-273v5l/m5153965",
-      "price_min": 2460,
-      "price_max": 2460,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 2460,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq gw2480",
       "url": "https://tehnoskarb.ua/montor-benq-gw2480/m5124510",
       "price_min": 2490,
@@ -4042,15 +4024,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung odyssey g5 ls32cg550",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125",
-      "price": 7900,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lenovo legion r24e",
@@ -5846,6 +5819,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-09T08:43:02Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 273v5l",
+      "url": "https://tehnoskarb.ua/montor-philips-273v5l/m5153965",
+      "price": 2460,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-09T11:26:12Z"
     }
   ],
   "config": {
