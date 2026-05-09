@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-09T04:04:26Z",
+  "updated_at": "2026-05-09T06:32:11Z",
   "stats": {
-    "total": 191,
-    "avg_price": 2305,
+    "total": 194,
+    "avg_price": 2304,
     "min_price": 110,
     "max_price": 14810,
     "cities": [
@@ -1166,6 +1166,26 @@
         {
           "price": 690,
           "at": "2026-05-07T17:17:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Acer v193hqv",
+      "url": "https://tehnoskarb.ua/montor-acer-v193hqv/m5025821",
+      "price_min": 710,
+      "price_max": 710,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Заболотного, 20А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-09T06:31:53Z",
+      "price_history": [
+        {
+          "price": 710,
+          "at": "2026-05-09T06:31:53Z"
         }
       ],
       "category": "Монітори",
@@ -2400,6 +2420,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 24mp59g-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
+      "price_min": 1900,
+      "price_max": 1900,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Вишгородська, 56/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-09T06:31:53Z",
+      "price_history": [
+        {
+          "price": 1900,
+          "at": "2026-05-09T06:31:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg m2352d",
       "url": "https://tehnoskarb.ua/montor-lg-m2352d/m5161269",
       "price_min": 1980,
@@ -3229,6 +3269,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus zenscreen mb169ck",
+      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
+      "price_min": 4050,
+      "price_max": 4050,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-09T06:31:53Z",
+      "price_history": [
+        {
+          "price": 4050,
+          "at": "2026-05-09T06:31:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung odyssey g3 s27dg302ei",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-s27dg302ei/m5143819",
       "price_min": 4250,
@@ -3965,33 +4025,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Acer v226hql",
-      "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
-      "price": 950,
-      "city": "Самбір",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg 19en33sa",
-      "url": "https://tehnoskarb.ua/montor-lg-19en33sa/m5138269",
-      "price": 640,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Aoc 24b1xh",
-      "url": "https://tehnoskarb.ua/montor-aoc-24b1xh/m5074368",
-      "price": 2290,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lg 27mk430",
@@ -5769,6 +5802,33 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-05-08T18:52:20Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus zenscreen mb169ck",
+      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
+      "price": 4050,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-09T06:31:53Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 24mp59g-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
+      "price": 1900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-09T06:31:53Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer v193hqv",
+      "url": "https://tehnoskarb.ua/montor-acer-v193hqv/m5025821",
+      "price": 710,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-09T06:31:53Z"
     }
   ],
   "config": {
