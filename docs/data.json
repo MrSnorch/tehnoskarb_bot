@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-10T14:37:28Z",
+  "updated_at": "2026-05-10T15:57:48Z",
   "stats": {
-    "total": 188,
-    "avg_price": 2511,
+    "total": 187,
+    "avg_price": 2519,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1499,26 +1499,6 @@
         {
           "price": 900,
           "at": "2026-04-18T13:21:07Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Viewsonic va2261-2",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va2261-2/m5170734",
-      "price_min": 900,
-      "price_max": 900,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-05T08:32:54Z",
-      "price_history": [
-        {
-          "price": 900,
-          "at": "2026-05-05T08:32:54Z"
         }
       ],
       "category": "Монітори",
@@ -3918,15 +3898,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Lg e2260s",
-      "url": "https://tehnoskarb.ua/montor-lg-e2260s/m5042471",
-      "price": 1070,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Samsung 720n",
       "url": "https://tehnoskarb.ua/montor-samsung-720n/m5042700",
       "price": 420,
@@ -5724,6 +5695,15 @@
       "city": "Боярка",
       "category": "Монітори",
       "at": "2026-05-10T14:36:36Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Viewsonic va2261-2",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va2261-2/m5170734",
+      "price": 900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-10T15:57:42Z"
     }
   ],
   "config": {
