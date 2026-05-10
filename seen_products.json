@@ -2440,13 +2440,13 @@
   },
   "https://tehnoskarb.ua/montor-asus-vg249q1/m5114747": {
     "name": "Монітор Asus vg249q1",
-    "price_min": 3800,
+    "price_min": 3000,
     "price_max": 3800,
     "city": "Житомир",
     "addresses": [
       "м. Житомир, вул. Довженко, 44"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-05-07T17:17:22Z",
@@ -2454,6 +2454,10 @@
       {
         "price": 3800,
         "at": "2026-05-07T17:17:22Z"
+      },
+      {
+        "price": 3000,
+        "at": "2026-05-10T18:31:58Z"
       }
     ],
     "details_failures": 0,
@@ -2619,27 +2623,6 @@
     "price_history": [
       {
         "price": 343,
-        "at": "2026-05-07T17:17:22Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-07T17:17:22Z"
-  },
-  "https://tehnoskarb.ua/montor-dell-u2415b/m5094796": {
-    "name": "Монітор Dell u2415b",
-    "price_min": 2820,
-    "price_max": 2820,
-    "city": "Харків",
-    "addresses": [
-      "м. Харків, вул. Отакара Яроша, 23"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-07T17:17:22Z",
-    "price_history": [
-      {
-        "price": 2820,
         "at": "2026-05-07T17:17:22Z"
       }
     ],
@@ -3113,12 +3096,12 @@
   "https://tehnoskarb.ua/montor-dell-se2416h/m5050200": {
     "name": "Монітор Dell se2416h",
     "price_min": 1780,
-    "price_max": 1780,
+    "price_max": 1870,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Вишгородська, 56/2"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-05-07T17:17:22Z",
@@ -3126,32 +3109,6 @@
       {
         "price": 1780,
         "at": "2026-05-07T17:17:22Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-07T17:17:22Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-2243bw/m5048356": {
-    "name": "Монітор Samsung 2243bw",
-    "price_min": 620,
-    "price_max": 620,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Порика Василя, 13",
-      "м. Київ, вул. Лятошинського, 14"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-07T17:17:22Z",
-    "price_history": [
-      {
-        "price": 500,
-        "at": "2026-05-07T17:17:22Z"
-      },
-      {
-        "price": 620,
-        "at": "2026-05-08T13:57:34Z"
       }
     ],
     "details_failures": 0,
@@ -4009,5 +3966,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-10T14:36:36Z"
+  },
+  "https://tehnoskarb.ua/nastlnijj-montor-samsung-s19c200bw/m5163822": {
+    "name": "Монітор Samsung s19c200bw",
+    "price_min": 530,
+    "price_max": 530,
+    "city": "Львів",
+    "addresses": [
+      "м. Львів, вул. О.Фредра, 6"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-10T18:31:58Z",
+    "price_history": [
+      {
+        "price": 530,
+        "at": "2026-05-10T18:31:58Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-10T18:31:58Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-thinkvision-t24d-10/m5158787": {
+    "name": "Монітор Lenovo thinkvision t24d-10",
+    "price_min": 2610,
+    "price_max": 2610,
+    "city": "Одеса",
+    "addresses": [
+      "м. Одеса, вул. Заболотного Академіка, 52"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-10T18:31:58Z",
+    "price_history": [
+      {
+        "price": 2610,
+        "at": "2026-05-10T18:31:58Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-10T18:31:58Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-24gs60f-b/m5147280": {
+    "name": "Монітор Lg 24gs60f-b",
+    "price_min": 3800,
+    "price_max": 3800,
+    "city": "Івано-Франківськ",
+    "addresses": [
+      "м. Івано-Франківськ, вул. Василя Стуса, 17А"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-10T18:31:58Z",
+    "price_history": [
+      {
+        "price": 3800,
+        "at": "2026-05-10T18:31:58Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-10T18:31:58Z"
   }
 }
