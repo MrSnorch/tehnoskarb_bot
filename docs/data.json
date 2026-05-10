@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-10T09:13:49Z",
+  "updated_at": "2026-05-10T10:45:42Z",
   "stats": {
-    "total": 189,
-    "avg_price": 2411,
+    "total": 188,
+    "avg_price": 2460,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -562,26 +562,6 @@
       "price_history": [
         {
           "price": 460,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 2243sn",
-      "url": "https://tehnoskarb.ua/montor-samsung-2243sn/m5048184",
-      "price_min": 490,
-      "price_max": 490,
-      "city": "Калуш",
-      "addresses": [
-        "м. Калуш, вул. Богдана Хмельницького, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 490,
           "at": "2026-05-07T17:17:22Z"
         }
       ],
@@ -2520,26 +2500,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Aoc 24b1xh",
-      "url": "https://tehnoskarb.ua/montor-aoc-24b1xh/m5074368",
-      "price_min": 2290,
-      "price_max": 2290,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Бажана, 3В (м. Харківська)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 2290,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Tft панель Delta Electronics dop-b05s111",
       "url": "https://tehnoskarb.ua/tft-panel-operatora-delta-electronics-dop-b05s111/m5152927",
       "price_min": 2340,
@@ -2674,27 +2634,6 @@
         {
           "price": 2640,
           "at": "2026-05-05T06:19:24Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung odyssey g3",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3/m5043875",
-      "price_min": 2640,
-      "price_max": 3465,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Бажана, 3В (м. Харківська)",
-        "м. Київ, вул. Радунська, 7"
-      ],
-      "offers": 2,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 2640,
-          "at": "2026-05-07T17:17:22Z"
         }
       ],
       "category": "Монітори",
@@ -2943,6 +2882,31 @@
         {
           "price": 3400,
           "at": "2026-04-28T09:25:10Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung odyssey g3",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3/m5043875",
+      "price_min": 3465,
+      "price_max": 3465,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Бажана, 3В (м. Харківська)",
+        "м. Київ, вул. Радунська, 7"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-07T17:17:22Z",
+      "price_history": [
+        {
+          "price": 2640,
+          "at": "2026-05-07T17:17:22Z"
+        },
+        {
+          "price": 3465,
+          "at": "2026-05-10T10:45:29Z"
         }
       ],
       "category": "Монітори",
@@ -3807,6 +3771,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey g5 c34g55tw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
+      "price_min": 8820,
+      "price_max": 8820,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Червоної Калини, 60/10"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-10T10:45:29Z",
+      "price_history": [
+        {
+          "price": 8820,
+          "at": "2026-05-10T10:45:29Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Iiyama gb2770qsu-b5",
       "url": "https://tehnoskarb.ua/montor-iiyama-gb2770qsu-b5/m5170947",
       "price_min": 8900,
@@ -3929,42 +3913,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор 2E a2222b",
-      "url": "https://tehnoskarb.ua/montor-2e-a2222b/m5065370",
-      "price": 1280,
-      "city": "Білгород-Дністровський",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg flatron e2240s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2240s/m5152011",
-      "price": 840,
-      "city": "Переяслав",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus vz249hg",
-      "url": "https://tehnoskarb.ua/montor-asus-vz249hg/m5154430",
-      "price": 2280,
-      "city": "Самар",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg 22mk600m",
-      "url": "https://tehnoskarb.ua/montor-lg-22mk600m/m5145581",
-      "price": 2400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lg 22mp58vq-p",
@@ -5735,6 +5683,43 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-10T09:13:40Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc 24b1xh",
+      "url": "https://tehnoskarb.ua/montor-aoc-24b1xh/m5074368",
+      "price": 2290,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-10T10:45:29Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 2243sn",
+      "url": "https://tehnoskarb.ua/montor-samsung-2243sn/m5048184",
+      "price": 490,
+      "city": "Калуш",
+      "category": "Монітори",
+      "at": "2026-05-10T10:45:29Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey g5 c34g55tw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
+      "price": 8820,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-10T10:45:29Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung odyssey g3",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3/m5043875",
+      "price_old": 2640,
+      "price_new": 3465,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-10T10:45:29Z"
     }
   ],
   "config": {
