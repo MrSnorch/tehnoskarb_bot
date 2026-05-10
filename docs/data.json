@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-10T07:27:06Z",
+  "updated_at": "2026-05-10T09:13:49Z",
   "stats": {
-    "total": 191,
-    "avg_price": 2397,
+    "total": 189,
+    "avg_price": 2411,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1524,26 +1524,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 221v2",
-      "url": "https://tehnoskarb.ua/montor-philips-221v2/m5169395",
-      "price_min": 900,
-      "price_max": 900,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Грушевського, 67"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-29T18:14:15Z",
-      "price_history": [
-        {
-          "price": 900,
-          "at": "2026-04-29T18:14:15Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Viewsonic va2261-2",
       "url": "https://tehnoskarb.ua/montor-viewsonic-va2261-2/m5170734",
       "price_min": 900,
@@ -1927,26 +1907,6 @@
         {
           "price": 1320,
           "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer vg240y",
-      "url": "https://tehnoskarb.ua/montor-acer-vg240y/m5044081",
-      "price_min": 1390,
-      "price_max": 1390,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Червоної Калини, 47"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-09T08:43:02Z",
-      "price_history": [
-        {
-          "price": 1390,
-          "at": "2026-05-09T08:43:02Z"
         }
       ],
       "category": "Монітори",
@@ -3971,24 +3931,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Msi mag 255xf",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-255xf/m5137057",
-      "price": 4730,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus vh222",
-      "url": "https://tehnoskarb.ua/montor-asus-vh222/m5136501",
-      "price": 1080,
-      "city": "Ніжин",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор 2E a2222b",
       "url": "https://tehnoskarb.ua/montor-2e-a2222b/m5065370",
       "price": 1280,
@@ -5775,6 +5717,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-05-10T07:26:17Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 221v2",
+      "url": "https://tehnoskarb.ua/montor-philips-221v2/m5169395",
+      "price": 900,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-05-10T09:13:40Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer vg240y",
+      "url": "https://tehnoskarb.ua/montor-acer-vg240y/m5044081",
+      "price": 1390,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-10T09:13:40Z"
     }
   ],
   "config": {
