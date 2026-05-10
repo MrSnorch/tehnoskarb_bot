@@ -346,31 +346,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-04-08T19:22:18Z"
   },
-  "https://tehnoskarb.ua/montor-lg-m2352d/m5161269": {
-    "name": "Монітор Lg m2352d",
-    "price_min": 1980,
-    "price_max": 1980,
-    "city": "Первомайськ",
-    "addresses": [
-      "м. Первомайськ, вул. Коротченка, 3/68"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-04-10T15:57:29Z",
-    "price_history": [
-      {
-        "price": 2200,
-        "at": "2026-04-10T15:57:29Z"
-      },
-      {
-        "price": 1980,
-        "at": "2026-05-01T12:12:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-04-10T15:57:29Z"
-  },
   "https://tehnoskarb.ua/montor-qube-g27f240/m5166596": {
     "name": "Монітор Qube g27f240",
     "price_min": 4910,
@@ -1635,14 +1610,14 @@
   },
   "https://tehnoskarb.ua/montor-msi-g27c4x/m5147258": {
     "name": "Монітор Msi g27c4x",
-    "price_min": 5040,
+    "price_min": 5580,
     "price_max": 5580,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Бажана, 3В (м. Харківська)",
       "м. Київ, вул. Олекси Тихого, 40/16"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-05-07T17:17:22Z",
@@ -1650,6 +1625,10 @@
       {
         "price": 5040,
         "at": "2026-05-07T17:17:22Z"
+      },
+      {
+        "price": 5580,
+        "at": "2026-05-10T13:25:33Z"
       }
     ],
     "details_failures": 0,
@@ -1945,27 +1924,6 @@
     "price_history": [
       {
         "price": 765,
-        "at": "2026-05-07T17:17:22Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-07T17:17:22Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-s24d391hl/m5140115": {
-    "name": "Монітор Samsung s24d391hl",
-    "price_min": 1820,
-    "price_max": 1820,
-    "city": "Чернівці",
-    "addresses": [
-      "м. Чернівці, вул. Героїв майдану, 48"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-07T17:17:22Z",
-    "price_history": [
-      {
-        "price": 1820,
         "at": "2026-05-07T17:17:22Z"
       }
     ],
@@ -4029,5 +3987,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-10T10:45:29Z"
+  },
+  "https://tehnoskarb.ua/montor-xiaomi-mi-curved-gaming-monitor-34-xmmntwq34/m5171135": {
+    "name": "Монітор Xiaomi mi curved gaming monitor 34 xmmntwq34",
+    "price_min": 8500,
+    "price_max": 8500,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Щербаківського, 45"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-10T13:25:33Z",
+    "price_history": [
+      {
+        "price": 8500,
+        "at": "2026-05-10T13:25:33Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-10T13:25:33Z"
   }
 }
