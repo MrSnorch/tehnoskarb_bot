@@ -3833,27 +3833,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-10T13:25:33Z"
   },
-  "https://tehnoskarb.ua/montor-lg-m2352d/m5161269": {
-    "name": "Монітор Lg m2352d",
-    "price_min": 1980,
-    "price_max": 1980,
-    "city": "Первомайськ",
-    "addresses": [
-      "м. Первомайськ, вул. Коротченка, 3/68"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-10T14:36:36Z",
-    "price_history": [
-      {
-        "price": 1980,
-        "at": "2026-05-10T14:36:36Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-10T14:36:36Z"
-  },
   "https://tehnoskarb.ua/montor-lenovo-legion-r27qe-gen-2/m5160896": {
     "name": "Монітор Lenovo legion r27qe gen 2",
     "price_min": 6180,
@@ -4042,5 +4021,25 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-11T15:17:47Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-s24a350t/m5069757": {
+    "name": "Монітор Samsung s24a350t",
+    "price_min": 1480,
+    "price_max": 1480,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-11T17:33:29Z",
+    "price_history": [
+      {
+        "price": 1480,
+        "at": "2026-05-11T17:33:29Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-05-11T17:33:29Z",
+    "details_retry_at": "2026-05-11T18:03:29Z"
   }
 }

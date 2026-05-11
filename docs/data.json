@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-11T15:18:01Z",
+  "updated_at": "2026-05-11T17:33:39Z",
   "stats": {
     "total": 188,
-    "avg_price": 2487,
+    "avg_price": 2484,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -38,7 +38,6 @@
       "Новий Розділ",
       "Ніжин",
       "Одеса",
-      "Первомайськ",
       "Переяслав",
       "Рівне",
       "Самар",
@@ -1940,6 +1939,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s24a350t",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24a350t/m5069757",
+      "price_min": 1480,
+      "price_max": 1480,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-05-11T17:33:29Z",
+      "price_history": [
+        {
+          "price": 1480,
+          "at": "2026-05-11T17:33:29Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s22d300",
       "url": "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194",
       "price_min": 1485,
@@ -2301,26 +2318,6 @@
         {
           "price": 1890,
           "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg m2352d",
-      "url": "https://tehnoskarb.ua/montor-lg-m2352d/m5161269",
-      "price_min": 1980,
-      "price_max": 1980,
-      "city": "Первомайськ",
-      "addresses": [
-        "м. Первомайськ, вул. Коротченка, 3/68"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-10T14:36:36Z",
-      "price_history": [
-        {
-          "price": 1980,
-          "at": "2026-05-10T14:36:36Z"
         }
       ],
       "category": "Монітори",
@@ -3928,24 +3925,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Viewsonic vg930m",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-vg930m/m5154329",
-      "price": 200,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 273v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-273v5l/m5153965",
-      "price": 2460,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung odyssey g5 s27ag500",
@@ -5740,6 +5719,24 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-05-11T15:17:47Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg m2352d",
+      "url": "https://tehnoskarb.ua/montor-lg-m2352d/m5161269",
+      "price": 1980,
+      "city": "Первомайськ",
+      "category": "Монітори",
+      "at": "2026-05-11T17:33:29Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s24a350t",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24a350t/m5069757",
+      "price": 1480,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-11T17:33:29Z"
     }
   ],
   "config": {
