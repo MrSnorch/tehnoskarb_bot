@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-11T19:53:14Z",
+  "updated_at": "2026-05-11T21:20:26Z",
   "stats": {
-    "total": 190,
-    "avg_price": 2448,
+    "total": 191,
+    "avg_price": 2442,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1804,6 +1804,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Benq gl2460",
+      "url": "https://tehnoskarb.ua/montor-benq-gl2460/m5165717",
+      "price_min": 1250,
+      "price_max": 2110,
+      "city": "Бровари",
+      "addresses": [
+        "м. Бровари, б-р Незалежності, 11"
+      ],
+      "offers": 2,
+      "first_seen": "2026-04-08T19:22:18Z",
+      "price_history": [
+        {
+          "price": 2110,
+          "at": "2026-04-08T19:22:18Z"
+        },
+        {
+          "price": 1250,
+          "at": "2026-05-11T21:20:14Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lenovo thinkvision t2054pc",
       "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2054pc/m5134008",
       "price_min": 1250,
@@ -2384,26 +2408,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Benq gl2460",
-      "url": "https://tehnoskarb.ua/montor-benq-gl2460/m5165717",
-      "price_min": 2110,
-      "price_max": 2110,
-      "city": "Бровари",
-      "addresses": [
-        "м. Бровари, б-р Незалежності, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-08T19:22:18Z",
-      "price_history": [
-        {
-          "price": 2110,
-          "at": "2026-04-08T19:22:18Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung ls22f350fhixci",
       "url": "https://tehnoskarb.ua/montor-samsung-ls22f350fhixci/m5154566",
       "price_min": 2170,
@@ -2476,6 +2480,24 @@
         {
           "price": 2200,
           "at": "2026-05-07T17:17:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t23i-10-t2364pa/m5165636",
+      "price_min": 2220,
+      "price_max": 2220,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-05-11T21:20:14Z",
+      "price_history": [
+        {
+          "price": 2220,
+          "at": "2026-05-11T21:20:14Z"
         }
       ],
       "category": "Монітори",
@@ -3961,24 +3983,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Aoc c27g4zxu",
-      "url": "https://tehnoskarb.ua/montor-aoc-c27g4zxu/m5151341",
-      "price": 4800,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Dell e2222hs",
-      "url": "https://tehnoskarb.ua/montor-dell-e2222hs/m5149071",
-      "price": 1890,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s24d300",
@@ -5773,6 +5777,25 @@
       "city": "Кропивницький",
       "category": "Монітори",
       "at": "2026-05-11T19:52:18Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Benq gl2460",
+      "url": "https://tehnoskarb.ua/montor-benq-gl2460/m5165717",
+      "price_old": 2110,
+      "price_new": 1250,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-05-11T21:20:14Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t23i-10-t2364pa/m5165636",
+      "price": 2220,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-11T21:20:14Z"
     }
   ],
   "config": {
