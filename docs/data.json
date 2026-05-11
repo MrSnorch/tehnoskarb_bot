@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-11T00:01:39Z",
+  "updated_at": "2026-05-11T04:45:17Z",
   "stats": {
     "total": 188,
-    "avg_price": 2520,
+    "avg_price": 2512,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -300,6 +300,26 @@
         {
           "price": 310,
           "at": "2026-04-24T08:09:54Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 940bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-940bw/m4996862",
+      "price_min": 310,
+      "price_max": 310,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Порика Василя, 13"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-11T04:44:26Z",
+      "price_history": [
+        {
+          "price": 310,
+          "at": "2026-05-11T04:44:26Z"
         }
       ],
       "category": "Монітори",
@@ -2014,24 +2034,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell se2219hx",
-      "url": "https://tehnoskarb.ua/montor-dell-se2219hx/m5170160",
-      "price_min": 1650,
-      "price_max": 1650,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-05-02T16:53:43Z",
-      "price_history": [
-        {
-          "price": 1650,
-          "at": "2026-05-02T16:53:43Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc 22p1",
       "url": "https://tehnoskarb.ua/montor-aoc-22p1/m5169396",
       "price_min": 1670,
@@ -3091,6 +3093,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey g3 s27dg302ei",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-s27dg302ei/m5143819",
+      "price_min": 4000,
+      "price_max": 4250,
+      "city": "Коростень",
+      "addresses": [
+        "м. Коростень, вул. Грушевського, 31"
+      ],
+      "offers": 2,
+      "first_seen": "2026-05-07T17:17:22Z",
+      "price_history": [
+        {
+          "price": 4250,
+          "at": "2026-05-07T17:17:22Z"
+        },
+        {
+          "price": 4000,
+          "at": "2026-05-11T04:44:26Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus zenscreen mb169ck",
       "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
       "price_min": 4050,
@@ -3127,26 +3153,6 @@
         {
           "price": 4100,
           "at": "2026-05-10T07:26:17Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung odyssey g3 s27dg302ei",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-s27dg302ei/m5143819",
-      "price_min": 4250,
-      "price_max": 4250,
-      "city": "Коростень",
-      "addresses": [
-        "м. Коростень, вул. Грушевського, 31"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 4250,
-          "at": "2026-05-07T17:17:22Z"
         }
       ],
       "category": "Монітори",
@@ -3915,34 +3921,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lg e1942c",
-      "url": "https://tehnoskarb.ua/montor-lg-e1942c/m5076612",
-      "price": 690,
-      "city": "Стрий",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung smart m7",
-      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
-      "price": 10500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Samsung s24e650",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24e650/m5162299",
-      "price_old": 1530,
-      "price_new": 1700,
-      "city": "Бровари",
-      "category": "Монітори",
-      "at": "2026-05-07T15:13:35Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vw193d-b",
@@ -5724,6 +5702,34 @@
       "city": "Житомир",
       "category": "Монітори",
       "at": "2026-05-10T18:31:58Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell se2219hx",
+      "url": "https://tehnoskarb.ua/montor-dell-se2219hx/m5170160",
+      "price": 1650,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-11T04:44:26Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung odyssey g3 s27dg302ei",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-s27dg302ei/m5143819",
+      "price_old": 4250,
+      "price_new": 4000,
+      "city": "Коростень",
+      "category": "Монітори",
+      "at": "2026-05-11T04:44:26Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 940bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-940bw/m4996862",
+      "price": 310,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-11T04:44:26Z"
     }
   ],
   "config": {
