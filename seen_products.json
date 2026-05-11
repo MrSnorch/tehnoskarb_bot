@@ -182,14 +182,14 @@
   },
   "https://tehnoskarb.ua/montor-dell-p2314ht/m5159268": {
     "name": "Монітор Dell p2314ht",
-    "price_min": 1310,
+    "price_min": 1460,
     "price_max": 1460,
     "city": "Рівне",
     "addresses": [
       "м. Рівне, вул. Чорновола, 12-А",
       "м. Запоріжжя, вул. Ентузіастів, 3"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "first_seen": "2026-04-05T19:39:53Z",
     "price_history": [
       {
@@ -207,6 +207,10 @@
       {
         "price": 1310,
         "at": "2026-05-07T04:58:17Z"
+      },
+      {
+        "price": 1460,
+        "at": "2026-05-11T15:17:47Z"
       }
     ],
     "category": "Монітори",
@@ -3232,13 +3236,13 @@
   },
   "https://tehnoskarb.ua/montor-lg-22m38a/m5041899": {
     "name": "Монітор Lg 22m38a",
-    "price_min": 770,
+    "price_min": 870,
     "price_max": 870,
     "city": "Ужгород",
     "addresses": [
       "м. Ужгород, вул. Мукачівська, 2"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-05-07T17:17:22Z",
@@ -3246,6 +3250,10 @@
       {
         "price": 770,
         "at": "2026-05-07T17:17:22Z"
+      },
+      {
+        "price": 870,
+        "at": "2026-05-11T15:17:47Z"
       }
     ],
     "details_failures": 0,
@@ -4013,5 +4021,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-11T11:42:07Z"
+  },
+  "https://tehnoskarb.ua/montor-aoc-c27g4zxu/m5151341": {
+    "name": "Монітор Aoc c27g4zxu",
+    "price_min": 4400,
+    "price_max": 4400,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-11T15:17:47Z",
+    "price_history": [
+      {
+        "price": 4400,
+        "at": "2026-05-11T15:17:47Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-11T15:17:47Z"
   }
 }
