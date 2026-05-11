@@ -3720,27 +3720,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-09T06:31:53Z"
   },
-  "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545": {
-    "name": "Монітор Lg 24mp59g-p",
-    "price_min": 1900,
-    "price_max": 1900,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Вишгородська, 56/2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-09T06:31:53Z",
-    "price_history": [
-      {
-        "price": 1900,
-        "at": "2026-05-09T06:31:53Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-09T06:31:53Z"
-  },
   "https://tehnoskarb.ua/montor-acer-v193hqv/m5025821": {
     "name": "Монітор Acer v193hqv",
     "price_min": 710,
@@ -4034,5 +4013,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-11T04:44:26Z"
+  },
+  "https://tehnoskarb.ua/montor-dell-u2415b/m5094796": {
+    "name": "Монітор Dell u2415b",
+    "price_min": 2820,
+    "price_max": 2820,
+    "city": "Харків",
+    "addresses": [
+      "м. Харків, вул. Отакара Яроша, 23"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-11T08:25:13Z",
+    "price_history": [
+      {
+        "price": 2820,
+        "at": "2026-05-11T08:25:13Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-11T08:25:13Z"
   }
 }
