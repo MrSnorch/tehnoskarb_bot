@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-12T10:04:47Z",
+  "updated_at": "2026-05-12T12:25:23Z",
   "stats": {
-    "total": 188,
-    "avg_price": 2443,
+    "total": 190,
+    "avg_price": 2448,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1799,12 +1799,12 @@
       "name": "Монітор Benq gl2460",
       "url": "https://tehnoskarb.ua/montor-benq-gl2460/m5165717",
       "price_min": 1250,
-      "price_max": 2110,
+      "price_max": 1250,
       "city": "Бровари",
       "addresses": [
         "м. Бровари, б-р Незалежності, 11"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-04-08T19:22:18Z",
       "price_history": [
         {
@@ -2458,6 +2458,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Philips 221v8a/00",
+      "url": "https://tehnoskarb.ua/montor-philips-221v8a-00/m5125141",
+      "price_min": 2200,
+      "price_max": 2200,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лятошинського, 18"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-12T12:24:31Z",
+      "price_history": [
+        {
+          "price": 2200,
+          "at": "2026-05-12T12:24:31Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
       "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t23i-10-t2364pa/m5165636",
       "price_min": 2220,
@@ -3047,6 +3067,26 @@
         {
           "price": 3620,
           "at": "2026-04-08T07:26:44Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi g255pf-e2",
+      "url": "https://tehnoskarb.ua/montor-msi-g255pf-e2/m5160160",
+      "price_min": 3700,
+      "price_max": 3700,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Заболотного, 20А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-12T12:24:31Z",
+      "price_history": [
+        {
+          "price": 3700,
+          "at": "2026-05-12T12:24:31Z"
         }
       ],
       "category": "Монітори",
@@ -3935,24 +3975,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vp249qgr",
-      "url": "https://tehnoskarb.ua/montor-asus-vp249qgr/m5146115",
-      "price": 2620,
-      "city": "Тернопіль",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 27mk430",
-      "url": "https://tehnoskarb.ua/montor-lg-27mk430/m5145924",
-      "price": 2420,
-      "city": "Біла Церква",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Eizo flexscan ev2430",
@@ -5751,6 +5773,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-12T10:04:32Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi g255pf-e2",
+      "url": "https://tehnoskarb.ua/montor-msi-g255pf-e2/m5160160",
+      "price": 3700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-12T12:24:31Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 221v8a/00",
+      "url": "https://tehnoskarb.ua/montor-philips-221v8a-00/m5125141",
+      "price": 2200,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-12T12:24:31Z"
     }
   ],
   "config": {
