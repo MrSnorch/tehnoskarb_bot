@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-12T12:25:23Z",
+  "updated_at": "2026-05-12T15:21:57Z",
   "stats": {
-    "total": 190,
-    "avg_price": 2448,
+    "total": 189,
+    "avg_price": 2438,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -35,7 +35,6 @@
       "Миколаїв",
       "Миргород",
       "Могилів-Подільський",
-      "Новий Розділ",
       "Ніжин",
       "Одеса",
       "Переяслав",
@@ -1578,6 +1577,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus vs239",
+      "url": "https://tehnoskarb.ua/montor-asus-vs239/m5169186",
+      "price_min": 900,
+      "price_max": 900,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Верховної Ради, 21-А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-12T15:21:44Z",
+      "price_history": [
+        {
+          "price": 900,
+          "at": "2026-05-12T15:21:44Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Hp n223",
       "url": "https://tehnoskarb.ua/montor-hp-n223/m5108257",
       "price_min": 910,
@@ -1670,26 +1689,6 @@
         {
           "price": 950,
           "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Iiyama pl2288h",
-      "url": "https://tehnoskarb.ua/montor-iiyama-pl2288h/m5171685",
-      "price_min": 950,
-      "price_max": 950,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Незалежності, 9А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-11T19:52:18Z",
-      "price_history": [
-        {
-          "price": 950,
-          "at": "2026-05-11T19:52:18Z"
         }
       ],
       "category": "Монітори",
@@ -3237,26 +3236,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 27e1n1900ae/00",
-      "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
-      "price_min": 4340,
-      "price_max": 4340,
-      "city": "Новий Розділ",
-      "addresses": [
-        "м. Новий Розділ, просп. Тараса Шевченка, 34"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 4340,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung curved cr50",
       "url": "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496",
       "price_min": 4400,
@@ -3975,33 +3954,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Eizo flexscan ev2430",
-      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
-      "price": 5075,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Iiyama prolite e2083hsd",
-      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2083hsd/m5145732",
-      "price": 750,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 22mk600m",
-      "url": "https://tehnoskarb.ua/montor-lg-22mk600m/m5145581",
-      "price": 2400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung c27f396fhi",
@@ -5791,6 +5743,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-12T12:24:31Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 27e1n1900ae/00",
+      "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
+      "price": 4340,
+      "city": "Новий Розділ",
+      "category": "Монітори",
+      "at": "2026-05-12T15:21:44Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Iiyama pl2288h",
+      "url": "https://tehnoskarb.ua/montor-iiyama-pl2288h/m5171685",
+      "price": 950,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-05-12T15:21:44Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vs239",
+      "url": "https://tehnoskarb.ua/montor-asus-vs239/m5169186",
+      "price": 900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-12T15:21:44Z"
     }
   ],
   "config": {
