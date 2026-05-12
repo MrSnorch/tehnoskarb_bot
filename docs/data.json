@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-12T04:24:37Z",
+  "updated_at": "2026-05-12T07:23:02Z",
   "stats": {
-    "total": 192,
+    "total": 190,
     "avg_price": 2442,
     "min_price": 110,
     "max_price": 16060,
@@ -1792,26 +1792,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 244e1sb",
-      "url": "https://tehnoskarb.ua/montor-philips-244e1sb/m5101267",
-      "price_min": 1200,
-      "price_max": 1200,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 1200,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq gl2460",
       "url": "https://tehnoskarb.ua/montor-benq-gl2460/m5165717",
       "price_min": 1250,
@@ -3109,26 +3089,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lenovo legion r24e",
-      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
-      "price_min": 3750,
-      "price_max": 3750,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Голосіївський, 102/1а"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 3750,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 24gs60f-b",
       "url": "https://tehnoskarb.ua/montor-lg-24gs60f-b/m5147280",
       "price_min": 3800,
@@ -4011,24 +3971,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi optix g2712",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g2712/m5147416",
-      "price": 3090,
-      "city": "Суми",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung syncmaster 713n",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-713n/m5147386",
-      "price": 200,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi g27c4x",
@@ -5826,6 +5768,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-12T04:23:44Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo legion r24e",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
+      "price": 3750,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-12T07:22:54Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 244e1sb",
+      "url": "https://tehnoskarb.ua/montor-philips-244e1sb/m5101267",
+      "price": 1200,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-12T07:22:54Z"
     }
   ],
   "config": {
