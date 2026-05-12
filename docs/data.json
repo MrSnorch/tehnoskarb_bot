@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-12T15:21:57Z",
+  "updated_at": "2026-05-12T17:33:10Z",
   "stats": {
-    "total": 189,
-    "avg_price": 2438,
+    "total": 186,
+    "avg_price": 2407,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -35,6 +35,7 @@
       "Миколаїв",
       "Миргород",
       "Могилів-Подільський",
+      "Новий Розділ",
       "Ніжин",
       "Одеса",
       "Переяслав",
@@ -182,26 +183,6 @@
         {
           "price": 200,
           "at": "2026-05-11T19:52:18Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg l1717s",
-      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
-      "price_min": 250,
-      "price_max": 250,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Лятошинського, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 250,
-          "at": "2026-05-07T17:17:22Z"
         }
       ],
       "category": "Монітори",
@@ -548,26 +529,6 @@
       "price_history": [
         {
           "price": 420,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg w2343",
-      "url": "https://tehnoskarb.ua/montor-lg-w2343/m5092164",
-      "price_min": 450,
-      "price_max": 450,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Свободи, 15/1"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 450,
           "at": "2026-05-07T17:17:22Z"
         }
       ],
@@ -3236,6 +3197,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Philips 27e1n1900ae/00",
+      "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
+      "price_min": 4340,
+      "price_max": 4340,
+      "city": "Новий Розділ",
+      "addresses": [
+        "м. Новий Розділ, просп. Тараса Шевченка, 34"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-12T17:32:52Z",
+      "price_history": [
+        {
+          "price": 4340,
+          "at": "2026-05-12T17:32:52Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung curved cr50",
       "url": "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496",
       "price_min": 4400,
@@ -3624,26 +3605,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey ag50 s27ag502",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-ag50-s27ag502/m5139683",
-      "price_min": 6240,
-      "price_max": 6240,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Свободи, 15/1"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 6240,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung odyssey g5 s27ag500",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-s27ag500/m5153471",
       "price_min": 6700,
@@ -3872,26 +3833,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung gaming odyssey g7 lc27g75tq",
-      "url": "https://tehnoskarb.ua/montor-samsung-gaming-odyssey-g7-lc27g75tq/m5171463",
-      "price_min": 10560,
-      "price_max": 10560,
-      "city": "Самар",
-      "addresses": [
-        "м. Самар, вул. Гетьманська, 35/21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-10T04:32:23Z",
-      "price_history": [
-        {
-          "price": 10560,
-          "at": "2026-05-10T04:32:23Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung odyssey g7 smart ls27dg700e",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-smart-ls27dg700e/m5129201",
       "price_min": 12470,
@@ -3954,51 +3895,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung c27f396fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27f396fhi/m5145006",
-      "price": 3210,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg e2242",
-      "url": "https://tehnoskarb.ua/montor-lg-e2242/m5144072",
-      "price": 420,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung odyssey g3 s27dg302ei",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-s27dg302ei/m5143819",
-      "price": 4250,
-      "city": "Коростень",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Aoc q24g2a/bk",
-      "url": "https://tehnoskarb.ua/montor-aoc-q24g2a-bk/m5143122",
-      "price": 5400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 29wk500",
-      "url": "https://tehnoskarb.ua/montor-lg-29wk500/m5142416",
-      "price": 4500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lenovo legion r24e",
@@ -5770,6 +5666,51 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-12T15:21:44Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey ag50 s27ag502",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-ag50-s27ag502/m5139683",
+      "price": 6240,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-12T17:32:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg w2343",
+      "url": "https://tehnoskarb.ua/montor-lg-w2343/m5092164",
+      "price": 450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-12T17:32:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg l1717s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
+      "price": 250,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-12T17:32:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung gaming odyssey g7 lc27g75tq",
+      "url": "https://tehnoskarb.ua/montor-samsung-gaming-odyssey-g7-lc27g75tq/m5171463",
+      "price": 10560,
+      "city": "Самар",
+      "category": "Монітори",
+      "at": "2026-05-12T17:32:52Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 27e1n1900ae/00",
+      "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
+      "price": 4340,
+      "city": "Новий Розділ",
+      "category": "Монітори",
+      "at": "2026-05-12T17:32:52Z"
     }
   ],
   "config": {
