@@ -1026,27 +1026,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-06T06:18:43Z"
   },
-  "https://tehnoskarb.ua/montor-hp-la1905/m5170809": {
-    "name": "Монітор Hp la1905",
-    "price_min": 650,
-    "price_max": 650,
-    "city": "Вишгород",
-    "addresses": [
-      "м. Вишгород, просп. Мазепи, 5"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-06T15:41:41Z",
-    "price_history": [
-      {
-        "price": 650,
-        "at": "2026-05-06T15:41:41Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-06T15:41:41Z"
-  },
   "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901": {
     "name": "Монітор Benq gl-2760b",
     "price_min": 3840,
@@ -1481,32 +1460,6 @@
       {
         "price": 200,
         "at": "2026-05-07T17:17:22Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-07T17:17:22Z"
-  },
-  "https://tehnoskarb.ua/montor-msi-g27c4x/m5147258": {
-    "name": "Монітор Msi g27c4x",
-    "price_min": 5580,
-    "price_max": 5580,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Бажана, 3В (м. Харківська)",
-      "м. Київ, вул. Олекси Тихого, 40/16"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-07T17:17:22Z",
-    "price_history": [
-      {
-        "price": 5040,
-        "at": "2026-05-07T17:17:22Z"
-      },
-      {
-        "price": 5580,
-        "at": "2026-05-10T13:25:33Z"
       }
     ],
     "details_failures": 0,
@@ -2649,27 +2602,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-07T17:17:22Z"
   },
-  "https://tehnoskarb.ua/montor-lg-24mp55d-p/m5062373": {
-    "name": "Монітор Lg 24mp55d-p",
-    "price_min": 1700,
-    "price_max": 1700,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, б-р Чоколовський, 21"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-07T17:17:22Z",
-    "price_history": [
-      {
-        "price": 1700,
-        "at": "2026-05-07T17:17:22Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-07T17:17:22Z"
-  },
   "https://tehnoskarb.ua/montor-dell-s2421hn/m5058716": {
     "name": "Монітор Dell s2421hn",
     "price_min": 3000,
@@ -3784,9 +3716,9 @@
         "at": "2026-05-11T21:20:14Z"
       }
     ],
-    "details_failures": 8,
-    "details_last_attempt": "2026-05-13T07:38:32Z",
-    "details_retry_at": "2026-05-13T13:38:32Z"
+    "details_failures": 9,
+    "details_last_attempt": "2026-05-13T16:02:31Z",
+    "details_retry_at": "2026-05-13T22:02:31Z"
   },
   "https://tehnoskarb.ua/montor-dell-p2219h/m5140655": {
     "name": "Монітор Dell p2219h",
@@ -4037,5 +3969,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-13T13:13:20Z"
+  },
+  "https://tehnoskarb.ua/montor-iiyama-pl2288h/m5171685": {
+    "name": "Монітор Iiyama pl2288h",
+    "price_min": 950,
+    "price_max": 950,
+    "city": "Кропивницький",
+    "addresses": [
+      "м. Кропивницький, вул. Незалежності, 9А"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-13T16:02:31Z",
+    "price_history": [
+      {
+        "price": 950,
+        "at": "2026-05-13T16:02:31Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-13T16:02:31Z"
+  },
+  "https://tehnoskarb.ua/montor-benq-ex240n/m5134563": {
+    "name": "Монітор Benq ex240n",
+    "price_min": 3000,
+    "price_max": 3000,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Шептицького, 24"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-13T16:02:31Z",
+    "price_history": [
+      {
+        "price": 3000,
+        "at": "2026-05-13T16:02:31Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-13T16:02:31Z"
   }
 }
