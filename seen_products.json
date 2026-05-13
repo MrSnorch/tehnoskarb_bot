@@ -2684,14 +2684,14 @@
   },
   "https://tehnoskarb.ua/montor-samsung-s24e391hl/m5065257": {
     "name": "Монітор Samsung s24e391hl",
-    "price_min": 1500,
+    "price_min": 2700,
     "price_max": 2700,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Лятошинського, 14",
       "м. Ужгород, вул. Фединця, 17"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-05-07T17:17:22Z",
@@ -2699,6 +2699,10 @@
       {
         "price": 1500,
         "at": "2026-05-07T17:17:22Z"
+      },
+      {
+        "price": 2700,
+        "at": "2026-05-13T07:38:32Z"
       }
     ],
     "details_failures": 0,
@@ -3340,27 +3344,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-07T17:17:22Z"
   },
-  "https://tehnoskarb.ua/montor-philips-193v5lsb2/m4993360": {
-    "name": "Монітор Philips 193v5lsb2",
-    "price_min": 510,
-    "price_max": 510,
-    "city": "Миколаїв",
-    "addresses": [
-      "м. Миколаїв, вул. 3-я Слобідська, 51"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-07T17:17:22Z",
-    "price_history": [
-      {
-        "price": 510,
-        "at": "2026-05-07T17:17:22Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-07T17:17:22Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-943nw/m4992408": {
     "name": "Монітор Samsung 943nw",
     "price_min": 300,
@@ -3902,9 +3885,9 @@
         "at": "2026-05-11T21:20:14Z"
       }
     ],
-    "details_failures": 7,
-    "details_last_attempt": "2026-05-13T00:02:55Z",
-    "details_retry_at": "2026-05-13T06:02:55Z"
+    "details_failures": 8,
+    "details_last_attempt": "2026-05-13T07:38:32Z",
+    "details_retry_at": "2026-05-13T13:38:32Z"
   },
   "https://tehnoskarb.ua/montor-dell-p2219h/m5140655": {
     "name": "Монітор Dell p2219h",
@@ -4092,5 +4075,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-13T04:29:57Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vp228/m5145192": {
+    "name": "Монітор Asus vp228",
+    "price_min": 551,
+    "price_max": 551,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, б-р Чоколовський, 21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-13T07:38:32Z",
+    "price_history": [
+      {
+        "price": 551,
+        "at": "2026-05-13T07:38:32Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-13T07:38:32Z"
   }
 }
