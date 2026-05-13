@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-13T00:03:03Z",
+  "updated_at": "2026-05-13T04:30:48Z",
   "stats": {
-    "total": 189,
-    "avg_price": 2428,
+    "total": 190,
+    "avg_price": 2429,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2652,6 +2652,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi pro mp252 e2",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252-e2/m5110168",
+      "price_min": 2490,
+      "price_max": 2490,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Заболотного, 20А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-13T04:29:57Z",
+      "price_history": [
+        {
+          "price": 2490,
+          "at": "2026-05-13T04:29:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lenovo thinkvision t24d-10",
       "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t24d-10/m5158787",
       "price_min": 2610,
@@ -3951,15 +3971,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung bx2235 ls22b3uvmn",
-      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
-      "price": 765,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hanns-G hsg1145",
@@ -5767,6 +5778,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-05-12T19:57:35Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp252 e2",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252-e2/m5110168",
+      "price": 2490,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-13T04:29:57Z"
     }
   ],
   "config": {
