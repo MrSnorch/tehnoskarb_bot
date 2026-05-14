@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-14T17:21:04Z",
+  "updated_at": "2026-05-14T19:19:11Z",
   "stats": {
-    "total": 197,
-    "avg_price": 2394,
+    "total": 196,
+    "avg_price": 2379,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -3675,26 +3675,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Apple 27\" apple thunderbolt display a1407",
-      "url": "https://tehnoskarb.ua/montor-apple-27-apple-thunderbolt-display-a1407/m5172177",
-      "price_min": 5220,
-      "price_max": 5220,
-      "city": "Бориспіль",
-      "addresses": [
-        "м. Бориспіль, вул. Київський шлях, 47"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-14T17:20:50Z",
-      "price_history": [
-        {
-          "price": 5220,
-          "at": "2026-05-14T17:20:50Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung c27rg50fh",
       "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
       "price_min": 5260,
@@ -4085,15 +4065,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 240v5qdsb",
-      "url": "https://tehnoskarb.ua/montor-philips-240v5qdsb/m5100973",
-      "price": 1800,
-      "city": "Лозова",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s19a100n",
@@ -5904,6 +5875,15 @@
       "city": "Бориспіль",
       "category": "Монітори",
       "at": "2026-05-14T17:20:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Apple 27\" apple thunderbolt display a1407",
+      "url": "https://tehnoskarb.ua/montor-apple-27-apple-thunderbolt-display-a1407/m5172177",
+      "price": 5220,
+      "city": "Бориспіль",
+      "category": "Монітори",
+      "at": "2026-05-14T19:19:03Z"
     }
   ],
   "config": {
