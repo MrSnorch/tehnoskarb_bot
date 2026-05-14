@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-14T15:26:33Z",
+  "updated_at": "2026-05-14T17:21:04Z",
   "stats": {
-    "total": 195,
-    "avg_price": 2382,
+    "total": 197,
+    "avg_price": 2394,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2412,6 +2412,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung ls24d300gaixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gaixci/m5172208",
+      "price_min": 1960,
+      "price_max": 1960,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-14T17:20:50Z",
+      "price_history": [
+        {
+          "price": 1960,
+          "at": "2026-05-14T17:20:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell se2222h / 210-azku",
       "url": "https://tehnoskarb.ua/montor-dell-se2222h-210-azku/m5093740",
       "price_min": 1980,
@@ -3655,6 +3675,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Apple 27\" apple thunderbolt display a1407",
+      "url": "https://tehnoskarb.ua/montor-apple-27-apple-thunderbolt-display-a1407/m5172177",
+      "price_min": 5220,
+      "price_max": 5220,
+      "city": "Бориспіль",
+      "addresses": [
+        "м. Бориспіль, вул. Київський шлях, 47"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-14T17:20:50Z",
+      "price_history": [
+        {
+          "price": 5220,
+          "at": "2026-05-14T17:20:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung c27rg50fh",
       "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
       "price_min": 5260,
@@ -4045,24 +4085,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Gigabyte m27q",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-m27q/m5103012",
-      "price": 7500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 244e1sb",
-      "url": "https://tehnoskarb.ua/montor-philips-244e1sb/m5101267",
-      "price": 1200,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Philips 240v5qdsb",
@@ -5864,6 +5886,24 @@
       "city": "Біла Церква",
       "category": "Монітори",
       "at": "2026-05-14T15:25:38Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung ls24d300gaixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gaixci/m5172208",
+      "price": 1960,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-14T17:20:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Apple 27\" apple thunderbolt display a1407",
+      "url": "https://tehnoskarb.ua/montor-apple-27-apple-thunderbolt-display-a1407/m5172177",
+      "price": 5220,
+      "city": "Бориспіль",
+      "category": "Монітори",
+      "at": "2026-05-14T17:20:50Z"
     }
   ],
   "config": {
