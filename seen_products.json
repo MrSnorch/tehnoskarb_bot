@@ -3687,9 +3687,9 @@
         "at": "2026-05-11T21:20:14Z"
       }
     ],
-    "details_failures": 10,
-    "details_last_attempt": "2026-05-13T23:07:16Z",
-    "details_retry_at": "2026-05-14T05:07:16Z"
+    "details_failures": 11,
+    "details_last_attempt": "2026-05-14T05:11:12Z",
+    "details_retry_at": "2026-05-14T11:11:12Z"
   },
   "https://tehnoskarb.ua/montor-dell-p2219h/m5140655": {
     "name": "Монітор Dell p2219h",
@@ -4149,5 +4149,131 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-13T20:17:54Z"
+  },
+  "https://tehnoskarb.ua/montor-prestigio-p3191w/m5172125": {
+    "name": "Монітор Prestigio p3191w",
+    "price_min": 240,
+    "price_max": 240,
+    "city": "Херсон",
+    "addresses": [
+      "м. Херсон, вул. І. Кулика, 135"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-14T05:11:12Z",
+    "price_history": [
+      {
+        "price": 240,
+        "at": "2026-05-14T05:11:12Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-14T05:11:12Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-t2424pa/m5172073": {
+    "name": "Монітор Lenovo t2424pa",
+    "price_min": 1650,
+    "price_max": 1650,
+    "city": "Житомир",
+    "addresses": [
+      "м. Житомир, вул. Небесної Сотні, 15"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-14T05:11:12Z",
+    "price_history": [
+      {
+        "price": 1650,
+        "at": "2026-05-14T05:11:12Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-14T05:11:12Z"
+  },
+  "https://tehnoskarb.ua/montor-hp-e232e/m5150769": {
+    "name": "Монітор Hp e232e",
+    "price_min": 1600,
+    "price_max": 1600,
+    "city": "Харків",
+    "addresses": [
+      "м. Харків, просп. Петра Григоренка, 7"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-14T05:11:12Z",
+    "price_history": [
+      {
+        "price": 1600,
+        "at": "2026-05-14T05:11:12Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-14T05:11:12Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs/m5148467": {
+    "name": "Монітор Asus rog strix xg27acs",
+    "price_min": 10000,
+    "price_max": 10000,
+    "city": "Херсон",
+    "addresses": [
+      "м. Херсон, просп. 200 років Херсона, 15"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-14T05:11:12Z",
+    "price_history": [
+      {
+        "price": 10000,
+        "at": "2026-05-14T05:11:12Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-14T05:11:12Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vp249qgr/m5146115": {
+    "name": "Монітор Asus vp249qgr",
+    "price_min": 2620,
+    "price_max": 2620,
+    "city": "Хмельницький",
+    "addresses": [
+      "м. Хмельницький, вул. Кам`янецька, 11"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-14T05:11:12Z",
+    "price_history": [
+      {
+        "price": 2620,
+        "at": "2026-05-14T05:11:12Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-14T05:11:12Z"
+  },
+  "https://tehnoskarb.ua/montor-philips-275b1h-00/m5138688": {
+    "name": "Монітор Philips 275b1h/00",
+    "price_min": 6000,
+    "price_max": 6000,
+    "city": "Хмельницький",
+    "addresses": [
+      "м. Хмельницький, вул. Кам`янецька, 11"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-14T05:11:12Z",
+    "price_history": [
+      {
+        "price": 6000,
+        "at": "2026-05-14T05:11:12Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-14T05:11:12Z"
   }
 }
