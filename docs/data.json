@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-14T08:09:28Z",
+  "updated_at": "2026-05-14T10:56:47Z",
   "stats": {
-    "total": 200,
-    "avg_price": 2398,
+    "total": 199,
+    "avg_price": 2407,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -790,26 +790,6 @@
         {
           "price": 530,
           "at": "2026-05-10T18:31:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vp228",
-      "url": "https://tehnoskarb.ua/montor-asus-vp228/m5145192",
-      "price_min": 551,
-      "price_max": 551,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-13T07:38:32Z",
-      "price_history": [
-        {
-          "price": 551,
-          "at": "2026-05-13T07:38:32Z"
         }
       ],
       "category": "Монітори",
@@ -4143,15 +4123,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus vg249q1",
-      "url": "https://tehnoskarb.ua/montor-asus-vg249q1/m5114747",
-      "price": 3800,
-      "city": "Житомир",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung c24f390fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
       "price": 1860,
@@ -5959,6 +5930,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-05-14T05:11:12Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vp228",
+      "url": "https://tehnoskarb.ua/montor-asus-vp228/m5145192",
+      "price": 551,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-14T10:56:40Z"
     }
   ],
   "config": {
