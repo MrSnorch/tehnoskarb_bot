@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-14T12:58:28Z",
+  "updated_at": "2026-05-14T15:26:33Z",
   "stats": {
-    "total": 198,
-    "avg_price": 2394,
+    "total": 195,
+    "avg_price": 2382,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2332,26 +2332,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell se2416h",
-      "url": "https://tehnoskarb.ua/montor-dell-se2416h/m5050200",
-      "price_min": 1780,
-      "price_max": 1780,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Вишгородська, 56/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 1780,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Philips 240v5qdsb",
       "url": "https://tehnoskarb.ua/montor-philips-240v5qdsb/m5100973",
       "price_min": 1800,
@@ -3011,26 +2991,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix g2712",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g2712/m5147416",
-      "price_min": 3090,
-      "price_max": 3090,
-      "city": "Суми",
-      "addresses": [
-        "м. Суми, вул. Збройних Сил України (Інтернаціоналістів), 12"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 3090,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Відеомонітор Konvision kvm-1930w",
       "url": "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378",
       "price_min": 3150,
@@ -3524,26 +3484,6 @@
         {
           "price": 4500,
           "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo 27-10",
-      "url": "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317",
-      "price_min": 4660,
-      "price_max": 4660,
-      "city": "Біла Церква",
-      "addresses": [
-        "м. Біла Церква, вул. Ярослава Мудрого, 22"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-08T18:52:20Z",
-      "price_history": [
-        {
-          "price": 4660,
-          "at": "2026-05-08T18:52:20Z"
         }
       ],
       "category": "Монітори",
@@ -4105,33 +4045,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Hp n223",
-      "url": "https://tehnoskarb.ua/montor-hp-n223/m5108257",
-      "price": 910,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi optix g2412f",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g2412f/m5103531",
-      "price": 3860,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer nitro qg241y",
-      "url": "https://tehnoskarb.ua/montor-acer-nitro-qg241y/m5103383",
-      "price": 3540,
-      "city": "Свалява",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Gigabyte m27q",
@@ -5924,6 +5837,33 @@
       "city": "Коростень",
       "category": "Монітори",
       "at": "2026-05-14T12:58:17Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix g2712",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g2712/m5147416",
+      "price": 3090,
+      "city": "Суми",
+      "category": "Монітори",
+      "at": "2026-05-14T15:25:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell se2416h",
+      "url": "https://tehnoskarb.ua/montor-dell-se2416h/m5050200",
+      "price": 1780,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-14T15:25:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo 27-10",
+      "url": "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317",
+      "price": 4660,
+      "city": "Біла Церква",
+      "category": "Монітори",
+      "at": "2026-05-14T15:25:38Z"
     }
   ],
   "config": {
