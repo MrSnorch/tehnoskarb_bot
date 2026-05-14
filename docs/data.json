@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-14T19:19:11Z",
+  "updated_at": "2026-05-14T20:53:42Z",
   "stats": {
-    "total": 196,
-    "avg_price": 2379,
+    "total": 198,
+    "avg_price": 2364,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -790,6 +790,26 @@
         {
           "price": 530,
           "at": "2026-05-10T18:31:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vp228",
+      "url": "https://tehnoskarb.ua/montor-asus-vp228/m5145192",
+      "price_min": 551,
+      "price_max": 551,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Чоколовський, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-14T20:53:29Z",
+      "price_history": [
+        {
+          "price": 551,
+          "at": "2026-05-14T20:53:29Z"
         }
       ],
       "category": "Монітори",
@@ -1847,6 +1867,26 @@
         {
           "price": 1100,
           "at": "2026-05-07T17:17:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Acer g226hql",
+      "url": "https://tehnoskarb.ua/montor-acer-g226hql/m5160957",
+      "price_min": 1200,
+      "price_max": 1200,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Білоруська, 8"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-14T20:53:29Z",
+      "price_history": [
+        {
+          "price": 1200,
+          "at": "2026-05-14T20:53:29Z"
         }
       ],
       "category": "Монітори",
@@ -4067,24 +4107,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung s19a100n",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19a100n/m5098815",
-      "price": 343,
-      "city": "Херсон",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Dell u2415b",
-      "url": "https://tehnoskarb.ua/montor-dell-u2415b/m5094796",
-      "price": 2820,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s27dg500",
       "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
       "price": 7340,
@@ -5884,6 +5906,24 @@
       "city": "Бориспіль",
       "category": "Монітори",
       "at": "2026-05-14T19:19:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer g226hql",
+      "url": "https://tehnoskarb.ua/montor-acer-g226hql/m5160957",
+      "price": 1200,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-14T20:53:29Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vp228",
+      "url": "https://tehnoskarb.ua/montor-asus-vp228/m5145192",
+      "price": 551,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-14T20:53:29Z"
     }
   ],
   "config": {
