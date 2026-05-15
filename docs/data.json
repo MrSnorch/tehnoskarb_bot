@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-15T05:31:55Z",
+  "updated_at": "2026-05-15T08:52:41Z",
   "stats": {
-    "total": 202,
-    "avg_price": 2374,
+    "total": 201,
+    "avg_price": 2381,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1766,26 +1766,6 @@
         {
           "price": 950,
           "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Iiyama pl2288h",
-      "url": "https://tehnoskarb.ua/montor-iiyama-pl2288h/m5171685",
-      "price_min": 950,
-      "price_max": 950,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Незалежності, 9А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-13T16:02:31Z",
-      "price_history": [
-        {
-          "price": 950,
-          "at": "2026-05-13T16:02:31Z"
         }
       ],
       "category": "Монітори",
@@ -4174,15 +4154,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Philips 196v3l",
-      "url": "https://tehnoskarb.ua/montor-philips-196v3l/m5081628",
-      "price": 495,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Acer v226hql",
       "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
       "price": 950,
@@ -5991,6 +5962,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-05-15T05:30:44Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Iiyama pl2288h",
+      "url": "https://tehnoskarb.ua/montor-iiyama-pl2288h/m5171685",
+      "price": 950,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-05-15T08:52:26Z"
     }
   ],
   "config": {
