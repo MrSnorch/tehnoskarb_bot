@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-15T15:37:05Z",
+  "updated_at": "2026-05-15T17:42:16Z",
   "stats": {
-    "total": 201,
-    "avg_price": 2402,
+    "total": 202,
+    "avg_price": 2397,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -36,6 +36,7 @@
       "Новий Розділ",
       "Ніжин",
       "Одеса",
+      "Первомайськ",
       "Переяслав",
       "Рівне",
       "Самар",
@@ -221,6 +222,26 @@
         {
           "price": 240,
           "at": "2026-05-14T05:11:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 910n",
+      "url": "https://tehnoskarb.ua/montor-samsung-910n/m5172439",
+      "price_min": 240,
+      "price_max": 240,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Братства тарасівців, 2А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-15T17:42:00Z",
+      "price_history": [
+        {
+          "price": 240,
+          "at": "2026-05-15T17:42:00Z"
         }
       ],
       "category": "Монітори",
@@ -1182,26 +1203,6 @@
         {
           "price": 690,
           "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer v193hqv",
-      "url": "https://tehnoskarb.ua/montor-acer-v193hqv/m5025821",
-      "price_min": 710,
-      "price_max": 710,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Заболотного, 20А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-09T06:31:53Z",
-      "price_history": [
-        {
-          "price": 710,
-          "at": "2026-05-09T06:31:53Z"
         }
       ],
       "category": "Монітори",
@@ -2481,6 +2482,26 @@
         {
           "price": 1980,
           "at": "2026-05-13T10:31:56Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg m2352d",
+      "url": "https://tehnoskarb.ua/montor-lg-m2352d/m5161269",
+      "price_min": 1980,
+      "price_max": 1980,
+      "city": "Первомайськ",
+      "addresses": [
+        "м. Первомайськ, вул. Коротченка, 3/68"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-15T17:42:00Z",
+      "price_history": [
+        {
+          "price": 1980,
+          "at": "2026-05-15T17:42:00Z"
         }
       ],
       "category": "Монітори",
@@ -4148,33 +4169,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung s24e391hl",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24e391hl/m5065257",
-      "price": 1500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung smart m7",
-      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
-      "price": 10500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 24mp55d-p",
-      "url": "https://tehnoskarb.ua/montor-lg-24mp55d-p/m5062373",
-      "price": 1700,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Philips 223v5l",
@@ -5967,6 +5961,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-15T15:36:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer v193hqv",
+      "url": "https://tehnoskarb.ua/montor-acer-v193hqv/m5025821",
+      "price": 710,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-15T17:42:00Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 910n",
+      "url": "https://tehnoskarb.ua/montor-samsung-910n/m5172439",
+      "price": 240,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-15T17:42:00Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg m2352d",
+      "url": "https://tehnoskarb.ua/montor-lg-m2352d/m5161269",
+      "price": 1980,
+      "city": "Первомайськ",
+      "category": "Монітори",
+      "at": "2026-05-15T17:42:00Z"
     }
   ],
   "config": {
