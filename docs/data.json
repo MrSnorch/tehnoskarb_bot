@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-15T19:43:29Z",
+  "updated_at": "2026-05-15T21:05:40Z",
   "stats": {
-    "total": 202,
-    "avg_price": 2397,
+    "total": 203,
+    "avg_price": 2405,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -3396,6 +3396,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus vg259qr",
+      "url": "https://tehnoskarb.ua/montor-asus-vg259qr/m5154870",
+      "price_min": 4000,
+      "price_max": 4000,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. Соборна, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-15T21:05:31Z",
+      "price_history": [
+        {
+          "price": 4000,
+          "at": "2026-05-15T21:05:31Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus zenscreen mb169ck",
       "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
       "price_min": 4050,
@@ -4169,15 +4189,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 223v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
-      "price": 700,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Dell s2421hn",
@@ -5988,6 +5999,15 @@
       "city": "Первомайськ",
       "category": "Монітори",
       "at": "2026-05-15T17:42:00Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vg259qr",
+      "url": "https://tehnoskarb.ua/montor-asus-vg259qr/m5154870",
+      "price": 4000,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-05-15T21:05:31Z"
     }
   ],
   "config": {
