@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-15T13:14:32Z",
+  "updated_at": "2026-05-15T15:37:05Z",
   "stats": {
-    "total": 202,
-    "avg_price": 2391,
+    "total": 201,
+    "avg_price": 2402,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -444,30 +444,6 @@
         {
           "price": 320,
           "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung gh17ps",
-      "url": "https://tehnoskarb.ua/montor-samsung-gh17ps/m5161142",
-      "price_min": 330,
-      "price_max": 330,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Воскресенський, 34/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-24T05:40:01Z",
-      "price_history": [
-        {
-          "price": 370,
-          "at": "2026-04-24T05:40:01Z"
-        },
-        {
-          "price": 330,
-          "at": "2026-05-01T11:09:25Z"
         }
       ],
       "category": "Монітори",
@@ -4174,15 +4150,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор 2E a2222b",
-      "url": "https://tehnoskarb.ua/montor-2e-a2222b/m5065370",
-      "price": 1280,
-      "city": "Білгород-Дністровський",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s24e391hl",
       "url": "https://tehnoskarb.ua/montor-samsung-s24e391hl/m5065257",
       "price": 1500,
@@ -5991,6 +5958,15 @@
       "city": "Біла Церква",
       "category": "Монітори",
       "at": "2026-05-15T11:23:10Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung gh17ps",
+      "url": "https://tehnoskarb.ua/montor-samsung-gh17ps/m5161142",
+      "price": 330,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-15T15:36:52Z"
     }
   ],
   "config": {
