@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-16T18:31:43Z",
+  "updated_at": "2026-05-16T20:02:33Z",
   "stats": {
-    "total": 202,
-    "avg_price": 2403,
+    "total": 203,
+    "avg_price": 2410,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -37,6 +37,7 @@
       "Одеса",
       "Первомайськ",
       "Переяслав",
+      "Полтава",
       "Рівне",
       "Самар",
       "Самбір",
@@ -3299,6 +3300,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lenovo legion r24e",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
+      "price_min": 3800,
+      "price_max": 3800,
+      "city": "Полтава",
+      "addresses": [
+        "м. Полтава, вул. Соборності, 79"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-16T20:02:21Z",
+      "price_history": [
+        {
+          "price": 3800,
+          "at": "2026-05-16T20:02:21Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Benq gl-2760b",
       "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
       "price_min": 3840,
@@ -4168,15 +4189,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg l1717s",
-      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
-      "price": 250,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung 2243sn",
@@ -5987,6 +5999,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-16T18:31:25Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo legion r24e",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
+      "price": 3800,
+      "city": "Полтава",
+      "category": "Монітори",
+      "at": "2026-05-16T20:02:21Z"
     }
   ],
   "config": {
