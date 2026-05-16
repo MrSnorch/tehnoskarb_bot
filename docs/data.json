@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-16T15:34:31Z",
+  "updated_at": "2026-05-16T17:02:31Z",
   "stats": {
     "total": 200,
-    "avg_price": 2404,
+    "avg_price": 2400,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -903,6 +903,26 @@
         {
           "price": 600,
           "at": "2026-04-27T19:28:02Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung e2220n",
+      "url": "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230",
+      "price_min": 600,
+      "price_max": 600,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-16T17:01:29Z",
+      "price_history": [
+        {
+          "price": 600,
+          "at": "2026-05-16T17:01:29Z"
         }
       ],
       "category": "Монітори",
@@ -1866,26 +1886,6 @@
         {
           "price": 1250,
           "at": "2026-05-11T21:20:14Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo thinkvision t2054pc",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2054pc/m5134008",
-      "price_min": 1250,
-      "price_max": 1250,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, вул. Героїв майдану, 48"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 1250,
-          "at": "2026-05-07T17:17:22Z"
         }
       ],
       "category": "Монітори",
@@ -4130,24 +4130,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus vh228",
-      "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
-      "price": 870,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg w2043s",
-      "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
-      "price": 690,
-      "city": "Лозова",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Dell p2317h",
       "url": "https://tehnoskarb.ua/montor-dell-p2317h/m5050184",
       "price": 1700,
@@ -5947,6 +5929,24 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-05-16T15:34:23Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo thinkvision t2054pc",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2054pc/m5134008",
+      "price": 1250,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-05-16T17:01:29Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung e2220n",
+      "url": "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230",
+      "price": 600,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-05-16T17:01:29Z"
     }
   ],
   "config": {
