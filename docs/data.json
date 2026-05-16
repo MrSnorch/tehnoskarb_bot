@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-05-16T03:41:04Z",
+  "updated_at": "2026-05-16T06:24:53Z",
   "stats": {
-    "total": 203,
+    "total": 204,
     "avg_price": 2405,
     "min_price": 110,
     "max_price": 16060,
@@ -2742,6 +2742,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s24d360gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24d360gai/m5124115",
+      "price_min": 2410,
+      "price_max": 2410,
+      "city": "Луцьк",
+      "addresses": [
+        "м. Луцьк, просп. Соборності, 4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-16T06:24:41Z",
+      "price_history": [
+        {
+          "price": 2410,
+          "at": "2026-05-16T06:24:41Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 27mk430",
       "url": "https://tehnoskarb.ua/montor-lg-27mk430/m5145924",
       "price_min": 2420,
@@ -4189,15 +4209,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Dell s2421hn",
-      "url": "https://tehnoskarb.ua/montor-dell-s2421hn/m5058716",
-      "price": 3000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Dell s2240lc",
@@ -6008,6 +6019,15 @@
       "city": "Кропивницький",
       "category": "Монітори",
       "at": "2026-05-15T21:05:31Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s24d360gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24d360gai/m5124115",
+      "price": 2410,
+      "city": "Луцьк",
+      "category": "Монітори",
+      "at": "2026-05-16T06:24:41Z"
     }
   ],
   "config": {
