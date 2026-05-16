@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-16T14:23:13Z",
+  "updated_at": "2026-05-16T15:34:31Z",
   "stats": {
-    "total": 201,
-    "avg_price": 2395,
+    "total": 200,
+    "avg_price": 2404,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -903,26 +903,6 @@
         {
           "price": 600,
           "at": "2026-04-27T19:28:02Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung e2220n",
-      "url": "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230",
-      "price_min": 600,
-      "price_max": 600,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Промислова, 50/52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 600,
-          "at": "2026-05-07T17:17:22Z"
         }
       ],
       "category": "Монітори",
@@ -4150,15 +4130,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Hp e222",
-      "url": "https://tehnoskarb.ua/montor-hp-e222/m5056203",
-      "price": 1620,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Asus vh228",
       "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
       "price": 870,
@@ -5967,6 +5938,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-16T14:23:04Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung e2220n",
+      "url": "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230",
+      "price": 600,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-05-16T15:34:23Z"
     }
   ],
   "config": {
