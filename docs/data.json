@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-16T11:08:28Z",
+  "updated_at": "2026-05-16T12:37:28Z",
   "stats": {
-    "total": 204,
-    "avg_price": 2405,
+    "total": 203,
+    "avg_price": 2387,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -3819,26 +3819,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 275b1h/00",
-      "url": "https://tehnoskarb.ua/montor-philips-275b1h-00/m5138688",
-      "price_min": 6000,
-      "price_max": 6000,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-14T05:11:12Z",
-      "price_history": [
-        {
-          "price": 6000,
-          "at": "2026-05-14T05:11:12Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lenovo legion r27qe gen 2",
       "url": "https://tehnoskarb.ua/montor-lenovo-legion-r27qe-gen-2/m5160896",
       "price_min": 6180,
@@ -4209,15 +4189,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Dell s2240lc",
-      "url": "https://tehnoskarb.ua/montor-dell-s2240lc/m5057261",
-      "price": 1800,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg 22en33s",
@@ -6028,6 +5999,15 @@
       "city": "Луцьк",
       "category": "Монітори",
       "at": "2026-05-16T06:24:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 275b1h/00",
+      "url": "https://tehnoskarb.ua/montor-philips-275b1h-00/m5138688",
+      "price": 6000,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-05-16T12:37:18Z"
     }
   ],
   "config": {

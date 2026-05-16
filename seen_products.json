@@ -3511,9 +3511,9 @@
         "at": "2026-05-11T21:20:14Z"
       }
     ],
-    "details_failures": 18,
-    "details_last_attempt": "2026-05-16T06:24:41Z",
-    "details_retry_at": "2026-05-16T12:24:41Z"
+    "details_failures": 19,
+    "details_last_attempt": "2026-05-16T12:37:18Z",
+    "details_retry_at": "2026-05-16T18:37:18Z"
   },
   "https://tehnoskarb.ua/montor-dell-p2219h/m5140655": {
     "name": "Монітор Dell p2219h",
@@ -4010,27 +4010,6 @@
     "price_history": [
       {
         "price": 10000,
-        "at": "2026-05-14T05:11:12Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-14T05:11:12Z"
-  },
-  "https://tehnoskarb.ua/montor-philips-275b1h-00/m5138688": {
-    "name": "Монітор Philips 275b1h/00",
-    "price_min": 6000,
-    "price_max": 6000,
-    "city": "Хмельницький",
-    "addresses": [
-      "м. Хмельницький, вул. Кам`янецька, 11"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-14T05:11:12Z",
-    "price_history": [
-      {
-        "price": 6000,
         "at": "2026-05-14T05:11:12Z"
       }
     ],
