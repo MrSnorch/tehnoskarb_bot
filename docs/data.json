@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-17T19:45:03Z",
+  "updated_at": "2026-05-17T20:58:16Z",
   "stats": {
     "total": 199,
-    "avg_price": 2406,
+    "avg_price": 2404,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -3843,6 +3843,34 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s27dg500",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
+      "price_min": 7340,
+      "price_max": 7900,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. О. Архипенка, 1/12"
+      ],
+      "offers": 3,
+      "first_seen": "2026-05-07T17:17:22Z",
+      "price_history": [
+        {
+          "price": 7340,
+          "at": "2026-05-07T17:17:22Z"
+        },
+        {
+          "price": 7900,
+          "at": "2026-05-10T04:32:23Z"
+        },
+        {
+          "price": 7340,
+          "at": "2026-05-17T20:57:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung smart m7 m70d uhd ls32dm703ui",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-m7-m70d-uhd-ls32dm703ui/m5158036",
       "price_min": 7500,
@@ -3917,30 +3945,6 @@
         {
           "price": 7900,
           "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s27dg500",
-      "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
-      "price_min": 7900,
-      "price_max": 7900,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. О. Архипенка, 1/12"
-      ],
-      "offers": 2,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 7340,
-          "at": "2026-05-07T17:17:22Z"
-        },
-        {
-          "price": 7900,
-          "at": "2026-05-10T04:32:23Z"
         }
       ],
       "category": "Монітори",
@@ -4109,15 +4113,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi g2412",
-      "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
-      "price": 3590,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Acer v193hq",
@@ -5928,6 +5923,16 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-17T19:44:51Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung s27dg500",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
+      "price_old": 7900,
+      "price_new": 7340,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-17T20:57:22Z"
     }
   ],
   "config": {
