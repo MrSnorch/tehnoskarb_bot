@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-17T12:11:36Z",
+  "updated_at": "2026-05-17T14:06:08Z",
   "stats": {
-    "total": 199,
-    "avg_price": 2420,
+    "total": 198,
+    "avg_price": 2413,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -3172,26 +3172,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi g255pf-e2",
-      "url": "https://tehnoskarb.ua/montor-msi-g255pf-e2/m5160160",
-      "price_min": 3700,
-      "price_max": 3700,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Заболотного, 20А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-12T12:24:31Z",
-      "price_history": [
-        {
-          "price": 3700,
-          "at": "2026-05-12T12:24:31Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vg249q1",
       "url": "https://tehnoskarb.ua/montor-asus-vg249q1/m5114747",
       "price_min": 3800,
@@ -4109,15 +4089,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vs197",
-      "url": "https://tehnoskarb.ua/montor-asus-vs197/m5042579",
-      "price": 494,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg e2260s",
@@ -5928,6 +5899,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-17T12:11:26Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi g255pf-e2",
+      "url": "https://tehnoskarb.ua/montor-msi-g255pf-e2/m5160160",
+      "price": 3700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-17T14:05:08Z"
     }
   ],
   "config": {
