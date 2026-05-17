@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-17T01:25:53Z",
+  "updated_at": "2026-05-17T05:27:42Z",
   "stats": {
-    "total": 203,
-    "avg_price": 2410,
+    "total": 202,
+    "avg_price": 2402,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -3416,26 +3416,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus zenscreen mb169ck",
-      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
-      "price_min": 4050,
-      "price_max": 4050,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-09T06:31:53Z",
-      "price_history": [
-        {
-          "price": 4050,
-          "at": "2026-05-09T06:31:53Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 29wk500",
       "url": "https://tehnoskarb.ua/montor-lg-29wk500/m5142416",
       "price_min": 4100,
@@ -4189,15 +4169,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung 2243sn",
-      "url": "https://tehnoskarb.ua/montor-samsung-2243sn/m5048184",
-      "price": 490,
-      "city": "Калуш",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg w2042s",
@@ -6008,6 +5979,15 @@
       "city": "Полтава",
       "category": "Монітори",
       "at": "2026-05-16T20:02:21Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus zenscreen mb169ck",
+      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
+      "price": 4050,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-17T05:27:32Z"
     }
   ],
   "config": {
