@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-17T09:53:58Z",
+  "updated_at": "2026-05-17T11:10:13Z",
   "stats": {
-    "total": 201,
-    "avg_price": 2407,
+    "total": 200,
+    "avg_price": 2413,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1985,26 +1985,6 @@
         {
           "price": 1300,
           "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung f24g35tfw",
-      "url": "https://tehnoskarb.ua/montor-samsung-f24g35tfw/m5086520",
-      "price_min": 1300,
-      "price_max": 1300,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олени Теліги , 17"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-16T18:31:25Z",
-      "price_history": [
-        {
-          "price": 1300,
-          "at": "2026-05-16T18:31:25Z"
         }
       ],
       "category": "Монітори",
@@ -4151,15 +4131,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung odyssey g3",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3/m5043875",
-      "price": 2640,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung 720n",
       "url": "https://tehnoskarb.ua/montor-samsung-720n/m5042700",
       "price": 420,
@@ -5968,6 +5939,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-17T07:56:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung f24g35tfw",
+      "url": "https://tehnoskarb.ua/montor-samsung-f24g35tfw/m5086520",
+      "price": 1300,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-17T11:10:04Z"
     }
   ],
   "config": {
