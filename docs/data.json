@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-17T14:06:08Z",
+  "updated_at": "2026-05-17T15:38:05Z",
   "stats": {
-    "total": 198,
-    "avg_price": 2413,
+    "total": 197,
+    "avg_price": 2421,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1591,26 +1591,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Viewsonic va2261-2",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va2261-2/m5170734",
-      "price_min": 900,
-      "price_max": 900,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-11T11:42:07Z",
-      "price_history": [
-        {
-          "price": 900,
-          "at": "2026-05-11T11:42:07Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vs239",
       "url": "https://tehnoskarb.ua/montor-asus-vs239/m5169186",
       "price_min": 900,
@@ -2094,7 +2074,7 @@
         "м. Стрий, вул. Валова, 2/2",
         "м. Вінниця, вул. Замостянська, 37 пр.77"
       ],
-      "offers": 4,
+      "offers": 3,
       "first_seen": "2026-05-07T17:17:22Z",
       "price_history": [
         {
@@ -2136,7 +2116,7 @@
         "м. Бровари, б-р Незалежності, 11",
         "м. Львів, вул. Княгині Ольги, 114"
       ],
-      "offers": 6,
+      "offers": 5,
       "first_seen": "2026-05-07T17:17:22Z",
       "price_history": [
         {
@@ -4091,15 +4071,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg e2260s",
-      "url": "https://tehnoskarb.ua/montor-lg-e2260s/m5042471",
-      "price": 1070,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg 22m38a",
       "url": "https://tehnoskarb.ua/montor-lg-22m38a/m5041899",
       "price": 770,
@@ -5908,6 +5879,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-17T14:05:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Viewsonic va2261-2",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va2261-2/m5170734",
+      "price": 900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-17T15:37:56Z"
     }
   ],
   "config": {
