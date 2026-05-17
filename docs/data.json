@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-17T15:38:05Z",
+  "updated_at": "2026-05-17T17:00:21Z",
   "stats": {
-    "total": 197,
-    "avg_price": 2421,
+    "total": 198,
+    "avg_price": 2415,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1887,6 +1887,26 @@
         {
           "price": 1250,
           "at": "2026-05-07T19:14:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lenovo thinkvision t2054pc",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2054pc/m5134008",
+      "price_min": 1250,
+      "price_max": 1250,
+      "city": "Чернівці",
+      "addresses": [
+        "м. Чернівці, вул. Героїв майдану, 48"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-17T17:00:09Z",
+      "price_history": [
+        {
+          "price": 1250,
+          "at": "2026-05-17T17:00:09Z"
         }
       ],
       "category": "Монітори",
@@ -4071,15 +4091,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg 22m38a",
-      "url": "https://tehnoskarb.ua/montor-lg-22m38a/m5041899",
-      "price": 770,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung curved cr50",
       "url": "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496",
       "price": 4400,
@@ -5888,6 +5899,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-17T15:37:56Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo thinkvision t2054pc",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2054pc/m5134008",
+      "price": 1250,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-05-17T17:00:09Z"
     }
   ],
   "config": {
