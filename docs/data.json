@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-17T18:05:14Z",
+  "updated_at": "2026-05-17T19:45:03Z",
   "stats": {
-    "total": 198,
-    "avg_price": 2415,
+    "total": 199,
+    "avg_price": 2406,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1125,6 +1125,26 @@
         {
           "price": 650,
           "at": "2026-05-11T19:52:18Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 236v3lsb",
+      "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
+      "price_min": 650,
+      "price_max": 650,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Білоруська, 8"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-17T19:44:51Z",
+      "price_history": [
+        {
+          "price": 650,
+          "at": "2026-05-17T19:44:51Z"
         }
       ],
       "category": "Монітори",
@@ -4091,15 +4111,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung curved cr50",
-      "url": "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496",
-      "price": 4400,
-      "city": "Вишневе",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Msi g2412",
       "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
       "price": 3590,
@@ -5908,6 +5919,15 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-05-17T17:00:09Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 236v3lsb",
+      "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
+      "price": 650,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-17T19:44:51Z"
     }
   ],
   "config": {
