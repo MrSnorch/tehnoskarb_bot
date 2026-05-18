@@ -3958,8 +3958,8 @@
   },
   "https://tehnoskarb.ua/montor-samsung-odyssey-ag50-s27ag502/m5139683": {
     "name": "Монітор Samsung odyssey ag50 s27ag502",
-    "price_min": 6240,
-    "price_max": 6240,
+    "price_min": 5700,
+    "price_max": 5700,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Порика Василя, 13"
@@ -3972,6 +3972,10 @@
       {
         "price": 6240,
         "at": "2026-05-15T05:30:44Z"
+      },
+      {
+        "price": 5700,
+        "at": "2026-05-18T08:13:04Z"
       }
     ],
     "details_failures": 0,
@@ -4248,5 +4252,25 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-17T19:44:51Z"
+  },
+  "https://tehnoskarb.ua/montor-2e-g3024b/m5136549": {
+    "name": "Монітор 2E g3024b",
+    "price_min": 6300,
+    "price_max": 6300,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-18T08:13:04Z",
+    "price_history": [
+      {
+        "price": 6300,
+        "at": "2026-05-18T08:13:04Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-05-18T08:13:04Z",
+    "details_retry_at": "2026-05-18T08:43:04Z"
   }
 }
