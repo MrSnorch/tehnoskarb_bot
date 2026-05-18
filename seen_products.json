@@ -4192,5 +4192,47 @@
     "details_failures": 4,
     "details_last_attempt": "2026-05-18T18:03:01Z",
     "details_retry_at": "2026-05-18T22:03:01Z"
+  },
+  "https://tehnoskarb.ua/montor-hannsg-ha191dpb/m5172864": {
+    "name": "Монітор Hanns·g ha191dpb",
+    "price_min": 260,
+    "price_max": 260,
+    "city": "Самбір",
+    "addresses": [
+      "м. Самбір, площа Ринок, 26"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-18T20:13:34Z",
+    "price_history": [
+      {
+        "price": 260,
+        "at": "2026-05-18T20:13:34Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-18T20:13:34Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-730bf/m5068988": {
+    "name": "Монітор Samsung 730bf",
+    "price_min": 200,
+    "price_max": 200,
+    "city": "Берегове",
+    "addresses": [
+      "м. Берегове, площа Кошута, 2"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-18T20:13:34Z",
+    "price_history": [
+      {
+        "price": 200,
+        "at": "2026-05-18T20:13:34Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-18T20:13:34Z"
   }
 }

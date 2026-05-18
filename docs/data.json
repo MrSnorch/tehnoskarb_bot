@@ -1,12 +1,13 @@
 {
-  "updated_at": "2026-05-18T18:04:04Z",
+  "updated_at": "2026-05-18T20:13:47Z",
   "stats": {
-    "total": 196,
-    "avg_price": 2399,
+    "total": 198,
+    "avg_price": 2377,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
       "Івано-Франківськ",
+      "Берегове",
       "Бориспіль",
       "Боярка",
       "Бровари",
@@ -208,6 +209,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung 730bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-730bf/m5068988",
+      "price_min": 200,
+      "price_max": 200,
+      "city": "Берегове",
+      "addresses": [
+        "м. Берегове, площа Кошута, 2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-18T20:13:34Z",
+      "price_history": [
+        {
+          "price": 200,
+          "at": "2026-05-18T20:13:34Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Prestigio p3191w",
       "url": "https://tehnoskarb.ua/montor-prestigio-p3191w/m5172125",
       "price_min": 240,
@@ -262,6 +283,26 @@
         {
           "price": 250,
           "at": "2026-05-07T17:17:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Hanns·g ha191dpb",
+      "url": "https://tehnoskarb.ua/montor-hannsg-ha191dpb/m5172864",
+      "price_min": 260,
+      "price_max": 260,
+      "city": "Самбір",
+      "addresses": [
+        "м. Самбір, площа Ринок, 26"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-18T20:13:34Z",
+      "price_history": [
+        {
+          "price": 260,
+          "at": "2026-05-18T20:13:34Z"
         }
       ],
       "category": "Монітори",
@@ -4061,24 +4102,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung t220",
-      "url": "https://tehnoskarb.ua/montor-samsung-t220/m4997755",
-      "price": 340,
-      "city": "Ірпінь",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 940bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-940bw/m4996862",
-      "price": 310,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung 740n",
       "url": "https://tehnoskarb.ua/montor-samsung-740n/m4996661",
       "price": 250,
@@ -5881,6 +5904,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-18T18:03:01Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hanns·g ha191dpb",
+      "url": "https://tehnoskarb.ua/montor-hannsg-ha191dpb/m5172864",
+      "price": 260,
+      "city": "Самбір",
+      "category": "Монітори",
+      "at": "2026-05-18T20:13:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 730bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-730bf/m5068988",
+      "price": 200,
+      "city": "Берегове",
+      "category": "Монітори",
+      "at": "2026-05-18T20:13:34Z"
     }
   ],
   "config": {
