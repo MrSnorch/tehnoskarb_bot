@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-18T08:13:15Z",
+  "updated_at": "2026-05-18T12:00:07Z",
   "stats": {
-    "total": 200,
-    "avg_price": 2420,
+    "total": 198,
+    "avg_price": 2388,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -557,7 +557,7 @@
       "addresses": [
         "м. Херсон, вул. І. Кулика, 135"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-05-07T17:17:22Z",
       "price_history": [
         {
@@ -1310,12 +1310,12 @@
       "name": "Монітор Asus vh228",
       "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
       "price_min": 760,
-      "price_max": 870,
+      "price_max": 760,
       "city": "Київ",
       "addresses": [
         "м. Київ, вул. Лятошинського, 14"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-05-07T17:17:22Z",
       "price_history": [
         {
@@ -1723,26 +1723,6 @@
         {
           "price": 950,
           "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Dell u2211ht",
-      "url": "https://tehnoskarb.ua/montor-dell-u2211ht/m5171469",
-      "price_min": 970,
-      "price_max": 970,
-      "city": "Кривий Ріг",
-      "addresses": [
-        "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-13T20:17:54Z",
-      "price_history": [
-        {
-          "price": 970,
-          "at": "2026-05-13T20:17:54Z"
         }
       ],
       "category": "Монітори",
@@ -3534,6 +3514,34 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi optix g251pf",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g251pf/m5158847",
+      "price_min": 4600,
+      "price_max": 4600,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Вишгородська, 56/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-04-23T17:41:02Z",
+      "price_history": [
+        {
+          "price": 5500,
+          "at": "2026-04-23T17:41:02Z"
+        },
+        {
+          "price": 4950,
+          "at": "2026-05-01T11:09:25Z"
+        },
+        {
+          "price": 4600,
+          "at": "2026-05-18T11:59:01Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi mag 255xf",
       "url": "https://tehnoskarb.ua/montor-msi-mag-255xf/m5137057",
       "price_min": 4730,
@@ -3628,30 +3636,6 @@
         {
           "price": 4910,
           "at": "2026-04-11T17:21:52Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi optix g251pf",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g251pf/m5158847",
-      "price_min": 4950,
-      "price_max": 4950,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Вишгородська, 56/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-23T17:41:02Z",
-      "price_history": [
-        {
-          "price": 5500,
-          "at": "2026-04-23T17:41:02Z"
-        },
-        {
-          "price": 4950,
-          "at": "2026-05-01T11:09:25Z"
         }
       ],
       "category": "Монітори",
@@ -4033,26 +4017,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus rog strix xg27acs",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs/m5148467",
-      "price_min": 10000,
-      "price_max": 10000,
-      "city": "Херсон",
-      "addresses": [
-        "м. Херсон, просп. 200 років Херсона, 15"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-14T05:11:12Z",
-      "price_history": [
-        {
-          "price": 10000,
-          "at": "2026-05-14T05:11:12Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung smart m7",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
       "price_min": 10500,
@@ -4135,33 +4099,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg 22mp58d-p",
-      "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
-      "price": 1070,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer x223hq",
-      "url": "https://tehnoskarb.ua/montor-acer-x223hq/m5017541",
-      "price": 770,
-      "city": "Ковель",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung b2030n",
-      "url": "https://tehnoskarb.ua/montor-samsung-b2030n/m5016638",
-      "price": 740,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-07T17:17:22Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg 24mp58vq-p",
@@ -5956,6 +5893,34 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-05-18T08:13:04Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell u2211ht",
+      "url": "https://tehnoskarb.ua/montor-dell-u2211ht/m5171469",
+      "price": 970,
+      "city": "Кривий Ріг",
+      "category": "Монітори",
+      "at": "2026-05-18T11:59:01Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus rog strix xg27acs",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs/m5148467",
+      "price": 10000,
+      "city": "Херсон",
+      "category": "Монітори",
+      "at": "2026-05-18T11:59:01Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Msi optix g251pf",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g251pf/m5158847",
+      "price_old": 4950,
+      "price_new": 4600,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-18T11:59:01Z"
     }
   ],
   "config": {
