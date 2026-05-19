@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-19T18:21:19Z",
+  "updated_at": "2026-05-19T20:14:05Z",
   "stats": {
     "total": 190,
-    "avg_price": 2366,
+    "avg_price": 2357,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -30,6 +30,7 @@
       "Лозова",
       "Луцьк",
       "Львів",
+      "Миколаїв",
       "Миргород",
       "Могилів-Подільський",
       "Новий Розділ",
@@ -1145,6 +1146,26 @@
         {
           "price": 650,
           "at": "2026-05-17T19:44:51Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 223v5l",
+      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
+      "price_min": 650,
+      "price_max": 650,
+      "city": "Миколаїв",
+      "addresses": [
+        "м. Миколаїв, вул. 3-я Слобідська, 51"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-19T20:13:52Z",
+      "price_history": [
+        {
+          "price": 650,
+          "at": "2026-05-19T20:13:52Z"
         }
       ],
       "category": "Монітори",
@@ -2480,24 +2501,6 @@
         {
           "price": 2200,
           "at": "2026-05-12T12:24:31Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t23i-10-t2364pa/m5165636",
-      "price_min": 2220,
-      "price_max": 2220,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-05-11T21:20:14Z",
-      "price_history": [
-        {
-          "price": 2220,
-          "at": "2026-05-11T21:20:14Z"
         }
       ],
       "category": "Монітори",
@@ -3947,25 +3950,6 @@
     }
   ],
   "events": [
-    {
-      "type": "rise",
-      "name": "Монітор Samsung 2243bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-2243bw/m5048356",
-      "price_old": 500,
-      "price_new": 620,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-08T13:57:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Dell s2340lc",
-      "url": "https://tehnoskarb.ua/montor-dell-s2340lc/m5170368",
-      "price": 2080,
-      "city": "Вишгород",
-      "category": "Монітори",
-      "at": "2026-05-08T17:22:21Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung 940bw",
@@ -5768,6 +5752,24 @@
       "city": "Ромни",
       "category": "Монітори",
       "at": "2026-05-19T18:21:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t23i-10-t2364pa/m5165636",
+      "price": 2220,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-19T20:13:52Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 223v5l",
+      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
+      "price": 650,
+      "city": "Миколаїв",
+      "category": "Монітори",
+      "at": "2026-05-19T20:13:52Z"
     }
   ],
   "config": {

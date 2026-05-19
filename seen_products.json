@@ -3112,26 +3112,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-11T19:52:18Z"
   },
-  "https://tehnoskarb.ua/montor-lenovo-thinkvision-t23i-10-t2364pa/m5165636": {
-    "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
-    "price_min": 2220,
-    "price_max": 2220,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-11T21:20:14Z",
-    "price_history": [
-      {
-        "price": 2220,
-        "at": "2026-05-11T21:20:14Z"
-      }
-    ],
-    "details_failures": 29,
-    "details_last_attempt": "2026-05-19T16:23:31Z",
-    "details_retry_at": "2026-05-19T22:23:31Z"
-  },
   "https://tehnoskarb.ua/montor-dell-p2219h/m5140655": {
     "name": "Монітор Dell p2219h",
     "price_min": 2430,
@@ -3924,9 +3904,9 @@
         "at": "2026-05-18T08:13:04Z"
       }
     ],
-    "details_failures": 7,
-    "details_last_attempt": "2026-05-19T12:42:27Z",
-    "details_retry_at": "2026-05-19T18:42:27Z"
+    "details_failures": 8,
+    "details_last_attempt": "2026-05-19T20:13:52Z",
+    "details_retry_at": "2026-05-20T02:13:52Z"
   },
   "https://tehnoskarb.ua/montor-hannsg-ha191dpb/m5172864": {
     "name": "Монітор Hanns·g ha191dpb",
@@ -4074,5 +4054,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-19T18:21:05Z"
+  },
+  "https://tehnoskarb.ua/montor-philips-223v5l/m5061207": {
+    "name": "Монітор Philips 223v5l",
+    "price_min": 650,
+    "price_max": 650,
+    "city": "Миколаїв",
+    "addresses": [
+      "м. Миколаїв, вул. 3-я Слобідська, 51"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-19T20:13:52Z",
+    "price_history": [
+      {
+        "price": 650,
+        "at": "2026-05-19T20:13:52Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-19T20:13:52Z"
   }
 }
