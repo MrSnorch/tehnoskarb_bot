@@ -56,25 +56,6 @@
     "category": "Монітори",
     "category_emoji": "🖥"
   },
-  "https://tehnoskarb.ua/montor-asus-vh203/m5162712": {
-    "name": "Монітор Asus vh203",
-    "price_min": 870,
-    "price_max": 870,
-    "city": "Суми",
-    "addresses": [
-      "м. Суми, просп. Перемоги, 115"
-    ],
-    "offers_count": 1,
-    "first_seen": "2026-04-05T19:39:53Z",
-    "price_history": [
-      {
-        "price": 870,
-        "at": "2026-04-05T19:39:53Z"
-      }
-    ],
-    "category": "Монітори",
-    "category_emoji": "🖥"
-  },
   "https://tehnoskarb.ua/montor-acer-kg272-s3bmiipfx/m5162579": {
     "name": "Монітор Acer kg272 s3bmiipfx",
     "price_min": 4900,
@@ -1836,12 +1817,12 @@
   "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717": {
     "name": "Монітор Samsung c24f390fhi",
     "price_min": 1860,
-    "price_max": 2480,
+    "price_max": 2350,
     "city": "Одеса",
     "addresses": [
       "м. Одеса, вул. Артура Савельєва, 5 (Черняховського)"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-05-07T17:17:22Z",
@@ -3299,27 +3280,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-13T16:02:31Z"
   },
-  "https://tehnoskarb.ua/nastlnijj-montor-samsung-943/m5171979": {
-    "name": "Монітор Samsung 943",
-    "price_min": 400,
-    "price_max": 400,
-    "city": "Рівне",
-    "addresses": [
-      "м. Рівне, вул. Грушевського, 1"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-13T18:23:12Z",
-    "price_history": [
-      {
-        "price": 400,
-        "at": "2026-05-13T18:23:12Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-13T18:23:12Z"
-  },
   "https://tehnoskarb.ua/montor-acer-sa242yh1bi/m5171916": {
     "name": "Монітор Acer sa242yh1bi",
     "price_min": 2600,
@@ -4159,5 +4119,25 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-20T06:11:45Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-thinkvision-t23i-10-t2364pa/m5165636": {
+    "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
+    "price_min": 2220,
+    "price_max": 2220,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-20T09:59:54Z",
+    "price_history": [
+      {
+        "price": 2220,
+        "at": "2026-05-20T09:59:54Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-05-20T09:59:54Z",
+    "details_retry_at": "2026-05-20T10:29:54Z"
   }
 }
