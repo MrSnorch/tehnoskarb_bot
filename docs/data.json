@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-20T18:42:27Z",
+  "updated_at": "2026-05-20T21:00:06Z",
   "stats": {
     "total": 188,
-    "avg_price": 2344,
+    "avg_price": 2341,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1711,6 +1711,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s24e650",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24e650/m5162299",
+      "price_min": 1020,
+      "price_max": 1530,
+      "city": "Бровари",
+      "addresses": [
+        "м. Бровари, б-р Незалежності, 11"
+      ],
+      "offers": 4,
+      "first_seen": "2026-05-19T16:23:31Z",
+      "price_history": [
+        {
+          "price": 1530,
+          "at": "2026-05-19T16:23:31Z"
+        },
+        {
+          "price": 1020,
+          "at": "2026-05-20T20:59:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg e2260s",
       "url": "https://tehnoskarb.ua/montor-lg-e2260s/m5042471",
       "price_min": 1070,
@@ -2108,26 +2132,6 @@
         {
           "price": 1500,
           "at": "2026-05-20T18:41:15Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s24e650",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24e650/m5162299",
-      "price_min": 1530,
-      "price_max": 1530,
-      "city": "Бровари",
-      "addresses": [
-        "м. Бровари, б-р Незалежності, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-19T16:23:31Z",
-      "price_history": [
-        {
-          "price": 1530,
-          "at": "2026-05-19T16:23:31Z"
         }
       ],
       "category": "Монітори",
@@ -3921,15 +3925,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Hp z27xs g3",
-      "url": "https://tehnoskarb.ua/montor-hp-z27xs-g3/m5171605",
-      "price": 16060,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-10T04:32:23Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung c27rg50fh",
@@ -5744,6 +5739,16 @@
       "city": "Кропивницький",
       "category": "Монітори",
       "at": "2026-05-20T18:41:15Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung s24e650",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24e650/m5162299",
+      "price_old": 1530,
+      "price_new": 1020,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-05-20T20:59:58Z"
     }
   ],
   "config": {
