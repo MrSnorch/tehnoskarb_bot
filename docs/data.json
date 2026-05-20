@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-20T12:35:01Z",
+  "updated_at": "2026-05-20T16:29:18Z",
   "stats": {
-    "total": 188,
-    "avg_price": 2345,
+    "total": 186,
+    "avg_price": 2333,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1741,7 +1741,7 @@
         "м. Київ, б-р Чоколовський, 21",
         "м. Київ, просп. Воскресенський, 34/2"
       ],
-      "offers": 5,
+      "offers": 4,
       "first_seen": "2026-05-07T17:17:22Z",
       "price_history": [
         {
@@ -2624,26 +2624,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell p2219h",
-      "url": "https://tehnoskarb.ua/montor-dell-p2219h/m5140655",
-      "price_min": 2430,
-      "price_max": 2430,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. О.Фредра, 6"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-12T04:23:44Z",
-      "price_history": [
-        {
-          "price": 2430,
-          "at": "2026-05-12T04:23:44Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Xiaomi monitor a24i",
       "url": "https://tehnoskarb.ua/montor-xiaomi-monitor-a24i/m5154283",
       "price_min": 2430,
@@ -3236,26 +3216,6 @@
         {
           "price": 4340,
           "at": "2026-05-12T17:32:52Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Aoc c27g4zxu",
-      "url": "https://tehnoskarb.ua/montor-aoc-c27g4zxu/m5151341",
-      "price_min": 4400,
-      "price_max": 4400,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-11T15:17:47Z",
-      "price_history": [
-        {
-          "price": 4400,
-          "at": "2026-05-11T15:17:47Z"
         }
       ],
       "category": "Монітори",
@@ -3913,24 +3873,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lg e1940s",
-      "url": "https://tehnoskarb.ua/montor-lg-e1940s/m5137124",
-      "price": 310,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-05-09T15:03:38Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus vh242",
-      "url": "https://tehnoskarb.ua/montor-asus-vh242/m5148772",
-      "price": 1030,
-      "city": "Кривий Ріг",
-      "category": "Монітори",
-      "at": "2026-05-09T16:28:10Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Hanns-G hsg1145",
@@ -5734,6 +5676,24 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-05-20T12:33:51Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc c27g4zxu",
+      "url": "https://tehnoskarb.ua/montor-aoc-c27g4zxu/m5151341",
+      "price": 4400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-20T16:29:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell p2219h",
+      "url": "https://tehnoskarb.ua/montor-dell-p2219h/m5140655",
+      "price": 2430,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-05-20T16:29:08Z"
     }
   ],
   "config": {
