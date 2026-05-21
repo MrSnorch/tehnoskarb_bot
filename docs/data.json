@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-21T04:54:34Z",
+  "updated_at": "2026-05-21T08:33:45Z",
   "stats": {
-    "total": 190,
-    "avg_price": 2343,
+    "total": 189,
+    "avg_price": 2331,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -3278,26 +3278,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix mag241c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
-      "price_min": 4500,
-      "price_max": 4500,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Рішельєвська, 78"
-      ],
-      "offers": 1,
-      "first_seen": "2026-04-15T06:02:05Z",
-      "price_history": [
-        {
-          "price": 4500,
-          "at": "2026-04-15T06:02:05Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi g255f",
       "url": "https://tehnoskarb.ua/montor-msi-g255f/m5091244",
       "price_min": 4500,
@@ -3969,16 +3949,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Lg 29wk500",
-      "url": "https://tehnoskarb.ua/montor-lg-29wk500/m5142416",
-      "price_old": 4500,
-      "price_new": 4100,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-10T07:26:17Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Philips 221v2",
@@ -5793,6 +5763,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-21T04:53:26Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix mag241c",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
+      "price": 4500,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-05-21T08:33:36Z"
     }
   ],
   "config": {
