@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-22T15:36:01Z",
+  "updated_at": "2026-05-22T17:55:27Z",
   "stats": {
-    "total": 185,
-    "avg_price": 2291,
+    "total": 184,
+    "avg_price": 2310,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2250,26 +2250,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lenovo t2424pa",
-      "url": "https://tehnoskarb.ua/montor-lenovo-t2424pa/m5172073",
-      "price_min": 1650,
-      "price_max": 1650,
-      "city": "Житомир",
-      "addresses": [
-        "м. Житомир, вул. Небесної Сотні, 15"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-14T05:11:12Z",
-      "price_history": [
-        {
-          "price": 1650,
-          "at": "2026-05-14T05:11:12Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq g2420",
       "url": "https://tehnoskarb.ua/montor-benq-g2420/m5165716",
       "price_min": 1670,
@@ -2350,26 +2330,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung c24f390fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
-      "price_min": 1860,
-      "price_max": 2350,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Артура Савельєва, 5 (Черняховського)"
-      ],
-      "offers": 2,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 1860,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Dell e2222hs",
       "url": "https://tehnoskarb.ua/montor-dell-e2222hs/m5149071",
       "price_min": 1890,
@@ -2441,26 +2401,6 @@
       "price_history": [
         {
           "price": 2170,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s24d300",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24d300/m5149081",
-      "price_min": 2190,
-      "price_max": 2190,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Академіка Філатова, 86"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 2190,
           "at": "2026-05-07T17:17:22Z"
         }
       ],
@@ -2560,6 +2500,30 @@
         {
           "price": 2340,
           "at": "2026-05-07T17:17:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung c24f390fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
+      "price_min": 2350,
+      "price_max": 2350,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, вул. Артура Савельєва, 5 (Черняховського)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-07T17:17:22Z",
+      "price_history": [
+        {
+          "price": 1860,
+          "at": "2026-05-07T17:17:22Z"
+        },
+        {
+          "price": 2350,
+          "at": "2026-05-22T17:55:12Z"
         }
       ],
       "category": "Монітори",
@@ -3347,6 +3311,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi mag 255xf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-255xf/m5137057",
+      "price_min": 4730,
+      "price_max": 4730,
+      "city": "Івано-Франківськ",
+      "addresses": [
+        "м. Івано-Франківськ, вул. Коновальця, 147/3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-22T17:55:12Z",
+      "price_history": [
+        {
+          "price": 4730,
+          "at": "2026-05-22T17:55:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell g2422hs",
       "url": "https://tehnoskarb.ua/montor-dell-g2422hs/m5169532",
       "price_min": 4780,
@@ -3867,43 +3851,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lenovo thinkvision t24d-10",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t24d-10/m5158787",
-      "price": 2610,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-05-10T18:31:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 24gs60f-b",
-      "url": "https://tehnoskarb.ua/montor-lg-24gs60f-b/m5147280",
-      "price": 3800,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-05-10T18:31:58Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Asus vg249q1",
-      "url": "https://tehnoskarb.ua/montor-asus-vg249q1/m5114747",
-      "price_old": 3800,
-      "price_new": 3000,
-      "city": "Житомир",
-      "category": "Монітори",
-      "at": "2026-05-10T18:31:58Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Dell se2219hx",
-      "url": "https://tehnoskarb.ua/montor-dell-se2219hx/m5170160",
-      "price": 1650,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-11T04:44:26Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung odyssey g3 s27dg302ei",
@@ -5689,6 +5636,43 @@
       "city": "Івано-Франківськ",
       "category": "Монітори",
       "at": "2026-05-22T15:35:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s24d300",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24d300/m5149081",
+      "price": 2190,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-05-22T17:55:12Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo t2424pa",
+      "url": "https://tehnoskarb.ua/montor-lenovo-t2424pa/m5172073",
+      "price": 1650,
+      "city": "Житомир",
+      "category": "Монітори",
+      "at": "2026-05-22T17:55:12Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi mag 255xf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-255xf/m5137057",
+      "price": 4730,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-05-22T17:55:12Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung c24f390fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
+      "price_old": 1860,
+      "price_new": 2350,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-05-22T17:55:12Z"
     }
   ],
   "config": {
