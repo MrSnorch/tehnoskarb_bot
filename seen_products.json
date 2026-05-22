@@ -1542,32 +1542,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-07T17:17:22Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-odyssey-g7-smart-ls27dg700e/m5129201": {
-    "name": "Монітор Samsung odyssey g7 smart ls27dg700e",
-    "price_min": 11400,
-    "price_max": 12470,
-    "city": "Харків",
-    "addresses": [
-      "м. Харків, вул. Дудинської, 1-А",
-      "м. Київ, просп. Бажана, 3В (м. Харківська)"
-    ],
-    "offers_count": 2,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-07T17:17:22Z",
-    "price_history": [
-      {
-        "price": 12470,
-        "at": "2026-05-07T17:17:22Z"
-      },
-      {
-        "price": 11400,
-        "at": "2026-05-19T09:51:54Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-07T17:17:22Z"
-  },
   "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378": {
     "name": "Відеомонітор Konvision kvm-1930w",
     "price_min": 3150,
@@ -4020,5 +3994,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-22T05:46:10Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368": {
+    "name": "Монітор Asus rog strix xg27acs-w",
+    "price_min": 8130,
+    "price_max": 8130,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Правди, 41-А"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-22T09:32:52Z",
+    "price_history": [
+      {
+        "price": 8130,
+        "at": "2026-05-22T09:32:52Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-22T09:32:52Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-mag-255xf/m5137057": {
+    "name": "Монітор Msi mag 255xf",
+    "price_min": 4730,
+    "price_max": 4730,
+    "city": "Івано-Франківськ",
+    "addresses": [
+      "м. Івано-Франківськ, вул. Коновальця, 147/3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-22T09:32:52Z",
+    "price_history": [
+      {
+        "price": 4730,
+        "at": "2026-05-22T09:32:52Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-22T09:32:52Z"
   }
 }
