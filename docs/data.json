@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-22T17:55:27Z",
+  "updated_at": "2026-05-22T19:53:00Z",
   "stats": {
     "total": 184,
-    "avg_price": 2310,
+    "avg_price": 2314,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -3602,34 +3602,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s27dg500",
-      "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
-      "price_min": 7340,
-      "price_max": 7900,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. О. Архипенка, 1/12"
-      ],
-      "offers": 3,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 7340,
-          "at": "2026-05-07T17:17:22Z"
-        },
-        {
-          "price": 7900,
-          "at": "2026-05-10T04:32:23Z"
-        },
-        {
-          "price": 7340,
-          "at": "2026-05-17T20:57:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung smart m7 m70d uhd ls32dm703ui",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-m7-m70d-uhd-ls32dm703ui/m5158036",
       "price_min": 7500,
@@ -3684,6 +3656,38 @@
         {
           "price": 7900,
           "at": "2026-05-07T17:17:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung s27dg500",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
+      "price_min": 7900,
+      "price_max": 7900,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. О. Архипенка, 1/12"
+      ],
+      "offers": 2,
+      "first_seen": "2026-05-07T17:17:22Z",
+      "price_history": [
+        {
+          "price": 7340,
+          "at": "2026-05-07T17:17:22Z"
+        },
+        {
+          "price": 7900,
+          "at": "2026-05-10T04:32:23Z"
+        },
+        {
+          "price": 7340,
+          "at": "2026-05-17T20:57:22Z"
+        },
+        {
+          "price": 7900,
+          "at": "2026-05-22T19:52:00Z"
         }
       ],
       "category": "Монітори",
@@ -3851,16 +3855,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Samsung odyssey g3 s27dg302ei",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-s27dg302ei/m5143819",
-      "price_old": 4250,
-      "price_new": 4000,
-      "city": "Коростень",
-      "category": "Монітори",
-      "at": "2026-05-11T04:44:26Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung 940bw",
@@ -5673,6 +5667,16 @@
       "city": "Одеса",
       "category": "Монітори",
       "at": "2026-05-22T17:55:12Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung s27dg500",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
+      "price_old": 7340,
+      "price_new": 7900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-22T19:52:00Z"
     }
   ],
   "config": {
