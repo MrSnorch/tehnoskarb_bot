@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-22T19:53:00Z",
+  "updated_at": "2026-05-22T21:14:40Z",
   "stats": {
-    "total": 184,
-    "avg_price": 2314,
+    "total": 185,
+    "avg_price": 2309,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2170,6 +2170,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell s2216h",
+      "url": "https://tehnoskarb.ua/montor-dell-s2216h/m5157373",
+      "price_min": 1500,
+      "price_max": 1500,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Воскресенський, 34/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-22T21:14:30Z",
+      "price_history": [
+        {
+          "price": 1500,
+          "at": "2026-05-22T21:14:30Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell u2414hb",
       "url": "https://tehnoskarb.ua/montor-dell-u2414hb/m5165739",
       "price_min": 1550,
@@ -3855,15 +3875,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung 940bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-940bw/m4996862",
-      "price": 310,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-11T04:44:26Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lg 24mp59g-p",
@@ -5677,6 +5688,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-22T19:52:00Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell s2216h",
+      "url": "https://tehnoskarb.ua/montor-dell-s2216h/m5157373",
+      "price": 1500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-22T21:14:30Z"
     }
   ],
   "config": {
