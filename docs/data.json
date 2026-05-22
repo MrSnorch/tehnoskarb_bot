@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-22T12:23:52Z",
+  "updated_at": "2026-05-22T15:36:01Z",
   "stats": {
-    "total": 187,
-    "avg_price": 2304,
+    "total": 185,
+    "avg_price": 2291,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2684,26 +2684,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Benq gw2283",
-      "url": "https://tehnoskarb.ua/montor-benq-gw2283/m5131752",
-      "price_min": 2450,
-      "price_max": 2450,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олекси Тихого, 40/16"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-07T17:17:22Z",
-      "price_history": [
-        {
-          "price": 2450,
-          "at": "2026-05-07T17:17:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer sa242yh1bi",
       "url": "https://tehnoskarb.ua/montor-acer-sa242yh1bi/m5171916",
       "price_min": 2600,
@@ -3367,26 +3347,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi mag 255xf",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-255xf/m5137057",
-      "price_min": 4730,
-      "price_max": 4730,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, вул. Коновальця, 147/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-22T09:32:52Z",
-      "price_history": [
-        {
-          "price": 4730,
-          "at": "2026-05-22T09:32:52Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Dell g2422hs",
       "url": "https://tehnoskarb.ua/montor-dell-g2422hs/m5169532",
       "price_min": 4780,
@@ -3907,24 +3867,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 2243bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-2243bw/m5048356",
-      "price": 620,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-05-10T18:31:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s19c200bw",
-      "url": "https://tehnoskarb.ua/nastlnijj-montor-samsung-s19c200bw/m5163822",
-      "price": 530,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-05-10T18:31:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lenovo thinkvision t24d-10",
@@ -5729,6 +5671,24 @@
       "city": "Івано-Франківськ",
       "category": "Монітори",
       "at": "2026-05-22T09:32:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq gw2283",
+      "url": "https://tehnoskarb.ua/montor-benq-gw2283/m5131752",
+      "price": 2450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-22T15:35:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi mag 255xf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-255xf/m5137057",
+      "price": 4730,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-05-22T15:35:50Z"
     }
   ],
   "config": {
