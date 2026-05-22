@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-22T01:30:13Z",
+  "updated_at": "2026-05-22T05:47:13Z",
   "stats": {
-    "total": 185,
-    "avg_price": 2318,
+    "total": 186,
+    "avg_price": 2309,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1166,6 +1166,26 @@
         {
           "price": 650,
           "at": "2026-05-19T20:13:52Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vh203",
+      "url": "https://tehnoskarb.ua/montor-asus-vh203/m5162712",
+      "price_min": 670,
+      "price_max": 670,
+      "city": "Кривий Ріг",
+      "addresses": [
+        "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-22T05:46:10Z",
+      "price_history": [
+        {
+          "price": 670,
+          "at": "2026-05-22T05:46:10Z"
         }
       ],
       "category": "Монітори",
@@ -3040,12 +3060,12 @@
       "name": "Монітор Msi pro mp271",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp271/m5166042",
       "price_min": 3620,
-      "price_max": 3620,
+      "price_max": 4000,
       "city": "Біла Церква",
       "addresses": [
         "м. Біла Церква, б-р Олександрійський, 62"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-05-21T12:16:43Z",
       "price_history": [
         {
@@ -3872,15 +3892,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg m2352d",
-      "url": "https://tehnoskarb.ua/montor-lg-m2352d/m5161269",
-      "price": 1980,
-      "city": "Первомайськ",
-      "category": "Монітори",
-      "at": "2026-05-10T14:36:36Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lenovo legion r27qe gen 2",
@@ -5694,6 +5705,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-21T15:56:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vh203",
+      "url": "https://tehnoskarb.ua/montor-asus-vh203/m5162712",
+      "price": 670,
+      "city": "Кривий Ріг",
+      "category": "Монітори",
+      "at": "2026-05-22T05:46:10Z"
     }
   ],
   "config": {
