@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-23T17:03:37Z",
+  "updated_at": "2026-05-23T18:35:09Z",
   "stats": {
-    "total": 184,
-    "avg_price": 2362,
+    "total": 187,
+    "avg_price": 2339,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -864,6 +864,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung syncmaster 931bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
+      "price_min": 580,
+      "price_max": 580,
+      "city": "Бровари",
+      "addresses": [
+        "м. Бровари, б-р Незалежності, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-23T18:33:59Z",
+      "price_history": [
+        {
+          "price": 580,
+          "at": "2026-05-23T18:33:59Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Acer g195hqv",
       "url": "https://tehnoskarb.ua/montor-acer-g195hqv/m5146468",
       "price_min": 585,
@@ -1570,6 +1590,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Acer b226hql",
+      "url": "https://tehnoskarb.ua/montor-acer-b226hql/m5132545",
+      "price_min": 930,
+      "price_max": 930,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, вул. Дудинської, 1-А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-23T18:33:59Z",
+      "price_history": [
+        {
+          "price": 930,
+          "at": "2026-05-23T18:33:59Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vs229",
       "url": "https://tehnoskarb.ua/montor-asus-vs229/m5139525",
       "price_min": 950,
@@ -1865,6 +1905,26 @@
         {
           "price": 1300,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung s24e390",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24e390/m5173740",
+      "price_min": 1300,
+      "price_max": 1300,
+      "city": "Миколаїв",
+      "addresses": [
+        "м. Миколаїв, вул. 3-я Слобідська, 51"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-23T18:33:59Z",
+      "price_history": [
+        {
+          "price": 1300,
+          "at": "2026-05-23T18:33:59Z"
         }
       ],
       "category": "Монітори",
@@ -3726,33 +3786,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Lg m2094d",
-      "url": "https://tehnoskarb.ua/montor-lg-m2094d/m5074025",
-      "price": 930,
-      "city": "Дрогобич",
-      "category": "Монітори",
-      "at": "2026-05-23T07:15:42Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung b1930n",
-      "url": "https://tehnoskarb.ua/montor-samsung-b1930n/m5069561",
-      "price": 320,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T07:15:42Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung c24rg50fzi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c24rg50fzi/m5051953",
-      "price": 3600,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-05-23T07:15:42Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Asus rog strix xg27acs-w",
       "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368",
@@ -5527,6 +5560,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-23T15:42:21Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s24e390",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24e390/m5173740",
+      "price": 1300,
+      "city": "Миколаїв",
+      "category": "Монітори",
+      "at": "2026-05-23T18:33:59Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung syncmaster 931bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
+      "price": 580,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-05-23T18:33:59Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer b226hql",
+      "url": "https://tehnoskarb.ua/montor-acer-b226hql/m5132545",
+      "price": 930,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-05-23T18:33:59Z"
     }
   ],
   "config": {
