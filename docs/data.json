@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-24T12:05:54Z",
+  "updated_at": "2026-05-24T14:08:47Z",
   "stats": {
-    "total": 186,
-    "avg_price": 2347,
+    "total": 185,
+    "avg_price": 2352,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1911,24 +1911,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 243v5q",
-      "url": "https://tehnoskarb.ua/montor-philips-243v5q/m5110293",
-      "price_min": 1320,
-      "price_max": 1320,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 1320,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 24mp58vq-p",
       "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
       "price_min": 1320,
@@ -3769,15 +3751,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg flatron w1930s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-w1930s/m5173068",
-      "price": 550,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Hanns·g ha191dpb",
       "url": "https://tehnoskarb.ua/montor-hannsg-ha191dpb/m5172864",
       "price": 260,
@@ -5569,6 +5542,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-05-24T10:56:54Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 243v5q",
+      "url": "https://tehnoskarb.ua/montor-philips-243v5q/m5110293",
+      "price": 1320,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-24T14:07:46Z"
     }
   ],
   "config": {
