@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-24T18:38:35Z",
+  "updated_at": "2026-05-24T20:09:12Z",
   "stats": {
     "total": 186,
-    "avg_price": 2448,
+    "avg_price": 2451,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2285,26 +2285,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung ls24d300gaixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gaixci/m5172208",
-      "price_min": 1960,
-      "price_max": 1960,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 1960,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung lf22t350f",
       "url": "https://tehnoskarb.ua/montor-samsung-lf22t350f/m5139636",
       "price_min": 2170,
@@ -2535,6 +2515,26 @@
         {
           "price": 2440,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Benq gw2283",
+      "url": "https://tehnoskarb.ua/montor-benq-gw2283/m5131752",
+      "price_min": 2450,
+      "price_max": 2450,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р М. Міхновського, 25"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-24T20:08:14Z",
+      "price_history": [
+        {
+          "price": 2450,
+          "at": "2026-05-24T20:08:14Z"
         }
       ],
       "category": "Монітори",
@@ -3772,24 +3772,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Prestigio p3191w",
-      "url": "https://tehnoskarb.ua/montor-prestigio-p3191w/m5172125",
-      "price": 240,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 152v p",
-      "url": "https://tehnoskarb.ua/montor-samsung-152v-p/m5172018",
-      "price": 150,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vh192d",
@@ -5574,6 +5556,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-24T18:38:27Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung ls24d300gaixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gaixci/m5172208",
+      "price": 1960,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-24T20:08:14Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Benq gw2283",
+      "url": "https://tehnoskarb.ua/montor-benq-gw2283/m5131752",
+      "price": 2450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-24T20:08:14Z"
     }
   ],
   "config": {
