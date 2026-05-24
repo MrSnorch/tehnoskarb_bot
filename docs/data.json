@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-24T15:43:52Z",
+  "updated_at": "2026-05-24T17:06:05Z",
   "stats": {
-    "total": 183,
-    "avg_price": 2370,
+    "total": 185,
+    "avg_price": 2376,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -46,6 +46,7 @@
       "Суми",
       "Тернопіль",
       "Ужгород",
+      "Фастів",
       "Харків",
       "Херсон",
       "Хмельницький",
@@ -2620,6 +2621,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi optix g24c",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g24c/m5164603",
+      "price_min": 2800,
+      "price_max": 2800,
+      "city": "Самар",
+      "addresses": [
+        "м. Самар, вул. Гетьманська, 35/21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-24T17:05:52Z",
+      "price_history": [
+        {
+          "price": 2800,
+          "at": "2026-05-24T17:05:52Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung ls22f350fhixci",
       "url": "https://tehnoskarb.ua/montor-samsung-ls22f350fhixci/m5154566",
       "price_min": 2820,
@@ -2652,6 +2673,26 @@
         {
           "price": 2820,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lenovo t2424pa",
+      "url": "https://tehnoskarb.ua/montor-lenovo-t2424pa/m5172073",
+      "price_min": 2900,
+      "price_max": 2900,
+      "city": "Фастів",
+      "addresses": [
+        "м. Фастів, вул. Соборна, 30"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-24T17:05:52Z",
+      "price_history": [
+        {
+          "price": 2900,
+          "at": "2026-05-24T17:05:52Z"
         }
       ],
       "category": "Монітори",
@@ -3711,24 +3752,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung 910n",
-      "url": "https://tehnoskarb.ua/montor-samsung-910n/m5172439",
-      "price": 240,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls24d300gaixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gaixci/m5172208",
-      "price": 1960,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Apple 27\" apple thunderbolt display a1407",
@@ -5513,6 +5536,24 @@
       "city": "Кропивницький",
       "category": "Монітори",
       "at": "2026-05-24T15:43:44Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo t2424pa",
+      "url": "https://tehnoskarb.ua/montor-lenovo-t2424pa/m5172073",
+      "price": 2900,
+      "city": "Фастів",
+      "category": "Монітори",
+      "at": "2026-05-24T17:05:52Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi optix g24c",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g24c/m5164603",
+      "price": 2800,
+      "city": "Самар",
+      "category": "Монітори",
+      "at": "2026-05-24T17:05:52Z"
     }
   ],
   "config": {
