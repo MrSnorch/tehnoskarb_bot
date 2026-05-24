@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-24T03:56:35Z",
+  "updated_at": "2026-05-24T07:27:07Z",
   "stats": {
-    "total": 187,
-    "avg_price": 2339,
+    "total": 188,
+    "avg_price": 2336,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2296,6 +2296,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung c27f390fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27f390fhi/m5143525",
+      "price_min": 1800,
+      "price_max": 1800,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Бажана, 3В (м. Харківська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-24T07:26:04Z",
+      "price_history": [
+        {
+          "price": 1800,
+          "at": "2026-05-24T07:26:04Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell e2222hs",
       "url": "https://tehnoskarb.ua/montor-dell-e2222hs/m5149071",
       "price_min": 1890,
@@ -3785,15 +3805,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus rog strix xg27acs-w",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368",
-      "price": 8130,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Aoc 24p2q",
@@ -5587,6 +5598,15 @@
       "city": "Харків",
       "category": "Монітори",
       "at": "2026-05-23T18:33:59Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung c27f390fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27f390fhi/m5143525",
+      "price": 1800,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-24T07:26:04Z"
     }
   ],
   "config": {
