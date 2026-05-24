@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-24T17:06:05Z",
+  "updated_at": "2026-05-24T18:38:35Z",
   "stats": {
-    "total": 185,
-    "avg_price": 2376,
+    "total": 186,
+    "avg_price": 2448,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -3731,6 +3731,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell g3223q",
+      "url": "https://tehnoskarb.ua/montor-dell-g3223q/m5110122",
+      "price_min": 15930,
+      "price_max": 15930,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Воскресенський, 34/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-24T18:38:27Z",
+      "price_history": [
+        {
+          "price": 15930,
+          "at": "2026-05-24T18:38:27Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Hp z27xs g3",
       "url": "https://tehnoskarb.ua/montor-hp-z27xs-g3/m5171605",
       "price_min": 16060,
@@ -3752,15 +3772,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Apple 27\" apple thunderbolt display a1407",
-      "url": "https://tehnoskarb.ua/montor-apple-27-apple-thunderbolt-display-a1407/m5172177",
-      "price": 5220,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Prestigio p3191w",
@@ -5554,6 +5565,15 @@
       "city": "Самар",
       "category": "Монітори",
       "at": "2026-05-24T17:05:52Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell g3223q",
+      "url": "https://tehnoskarb.ua/montor-dell-g3223q/m5110122",
+      "price": 15930,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-24T18:38:27Z"
     }
   ],
   "config": {
