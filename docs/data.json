@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-24T14:08:47Z",
+  "updated_at": "2026-05-24T15:43:52Z",
   "stats": {
-    "total": 185,
-    "avg_price": 2352,
+    "total": 183,
+    "avg_price": 2370,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1118,26 +1118,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung e1920",
-      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
-      "price_min": 650,
-      "price_max": 650,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Незалежності, 9А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 650,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer v193hq",
       "url": "https://tehnoskarb.ua/montor-acer-v193hq/m5019742",
       "price_min": 650,
@@ -1290,24 +1270,6 @@
       "price_history": [
         {
           "price": 740,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Iiyama prolite e2083hsd",
-      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2083hsd/m5145732",
-      "price_min": 750,
-      "price_max": 750,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 750,
           "at": "2026-05-23T09:21:20Z"
         }
       ],
@@ -3751,24 +3713,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Hanns·g ha191dpb",
-      "url": "https://tehnoskarb.ua/montor-hannsg-ha191dpb/m5172864",
-      "price": 260,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 236v3lsb",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
-      "price": 650,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung 910n",
       "url": "https://tehnoskarb.ua/montor-samsung-910n/m5172439",
       "price": 240,
@@ -5551,6 +5495,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-05-24T14:07:46Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Iiyama prolite e2083hsd",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2083hsd/m5145732",
+      "price": 750,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-24T15:43:44Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung e1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
+      "price": 650,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-05-24T15:43:44Z"
     }
   ],
   "config": {
