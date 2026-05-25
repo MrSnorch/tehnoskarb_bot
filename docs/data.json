@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-25T05:06:37Z",
+  "updated_at": "2026-05-25T09:12:06Z",
   "stats": {
-    "total": 188,
-    "avg_price": 2457,
+    "total": 189,
+    "avg_price": 2448,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1272,6 +1272,24 @@
         {
           "price": 740,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Iiyama prolite e2083hsd",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2083hsd/m5145732",
+      "price_min": 750,
+      "price_max": 750,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-05-25T09:11:55Z",
+      "price_history": [
+        {
+          "price": 750,
+          "at": "2026-05-25T09:11:55Z"
         }
       ],
       "category": "Монітори",
@@ -3814,15 +3832,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Hp z27xs g3",
-      "url": "https://tehnoskarb.ua/montor-hp-z27xs-g3/m5171605",
-      "price": 16060,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung c27rg50fh",
       "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
       "price": 5260,
@@ -5614,6 +5623,15 @@
       "city": "Вишневе",
       "category": "Монітори",
       "at": "2026-05-25T05:05:37Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Iiyama prolite e2083hsd",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2083hsd/m5145732",
+      "price": 750,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-25T09:11:55Z"
     }
   ],
   "config": {
