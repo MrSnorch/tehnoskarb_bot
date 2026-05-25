@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-25T00:03:19Z",
+  "updated_at": "2026-05-25T05:06:37Z",
   "stats": {
-    "total": 186,
-    "avg_price": 2451,
+    "total": 188,
+    "avg_price": 2457,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2180,6 +2180,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung ls24r350fhixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
+      "price_min": 1700,
+      "price_max": 1700,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ,  вул. Драгоманова, 27"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-25T05:05:37Z",
+      "price_history": [
+        {
+          "price": 1700,
+          "at": "2026-05-25T05:05:37Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Aoc e2475pwj",
       "url": "https://tehnoskarb.ua/montor-aoc-e2475pwj/m5160193",
       "price_min": 1740,
@@ -3134,6 +3154,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung curved cr50",
+      "url": "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496",
+      "price_min": 4400,
+      "price_max": 4400,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Святошинська, 27"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-25T05:05:37Z",
+      "price_history": [
+        {
+          "price": 4400,
+          "at": "2026-05-25T05:05:37Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Aoc 24p1",
       "url": "https://tehnoskarb.ua/montor-aoc-24p1/m5123527",
       "price_min": 4500,
@@ -3539,7 +3579,7 @@
       "addresses": [
         "м. Київ, просп. Свободи, 15/1"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-05-23T09:21:20Z",
       "price_history": [
         {
@@ -3772,24 +3812,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vh192d",
-      "url": "https://tehnoskarb.ua/montor-asus-vh192d/m5172076",
-      "price": 300,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer sa242yh1bi",
-      "url": "https://tehnoskarb.ua/montor-acer-sa242yh1bi/m5171916",
-      "price": 2600,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hp z27xs g3",
@@ -5574,6 +5596,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-24T20:08:14Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung ls24r350fhixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
+      "price": 1700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-25T05:05:37Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung curved cr50",
+      "url": "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496",
+      "price": 4400,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-05-25T05:05:37Z"
     }
   ],
   "config": {
