@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-26T04:45:54Z",
+  "updated_at": "2026-05-26T08:33:37Z",
   "stats": {
-    "total": 190,
-    "avg_price": 2478,
+    "total": 191,
+    "avg_price": 2467,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -495,6 +495,26 @@
         {
           "price": 320,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg w2253s",
+      "url": "https://tehnoskarb.ua/montor-lg-w2253s/m5063984",
+      "price_min": 320,
+      "price_max": 320,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, вул. Академіка Корольова, 33"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-26T08:33:24Z",
+      "price_history": [
+        {
+          "price": 320,
+          "at": "2026-05-26T08:33:24Z"
         }
       ],
       "category": "Монітори",
@@ -3851,15 +3871,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Fujitsu l22t-2",
-      "url": "https://tehnoskarb.ua/montor-fujitsu-l22t-2/m5169037",
-      "price": 580,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Philips 206v3l",
       "url": "https://tehnoskarb.ua/montor-philips-206v3l/m5168988",
       "price": 600,
@@ -5651,6 +5662,15 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-05-26T04:44:49Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg w2253s",
+      "url": "https://tehnoskarb.ua/montor-lg-w2253s/m5063984",
+      "price": 320,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-05-26T08:33:24Z"
     }
   ],
   "config": {
