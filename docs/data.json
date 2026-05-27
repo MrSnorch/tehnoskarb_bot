@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-27T15:53:51Z",
+  "updated_at": "2026-05-27T18:28:45Z",
   "stats": {
-    "total": 184,
-    "avg_price": 2476,
+    "total": 186,
+    "avg_price": 2462,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -652,6 +652,26 @@
         {
           "price": 420,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 940n",
+      "url": "https://tehnoskarb.ua/montor-samsung-940n/m4997158",
+      "price_min": 440,
+      "price_max": 440,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. В. Перспективна, 18/14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-27T18:28:32Z",
+      "price_history": [
+        {
+          "price": 440,
+          "at": "2026-05-27T18:28:32Z"
         }
       ],
       "category": "Монітори",
@@ -2221,6 +2241,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 24mk430h",
+      "url": "https://tehnoskarb.ua/montor-lg-24mk430h/m5153163",
+      "price_min": 1850,
+      "price_max": 1850,
+      "city": "Ужгород",
+      "addresses": [
+        "м. Ужгород, вул. Фединця, 17"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-27T18:28:32Z",
+      "price_history": [
+        {
+          "price": 1850,
+          "at": "2026-05-27T18:28:32Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell e2222hs",
       "url": "https://tehnoskarb.ua/montor-dell-e2222hs/m5149071",
       "price_min": 1890,
@@ -3740,24 +3780,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Benq gl2460",
-      "url": "https://tehnoskarb.ua/montor-benq-gl2460/m5165717",
-      "price": 1250,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Dell u2414hb",
-      "url": "https://tehnoskarb.ua/montor-dell-u2414hb/m5165739",
-      "price": 1550,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
@@ -5545,6 +5567,24 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-05-27T15:52:43Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 24mk430h",
+      "url": "https://tehnoskarb.ua/montor-lg-24mk430h/m5153163",
+      "price": 1850,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-05-27T18:28:32Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 940n",
+      "url": "https://tehnoskarb.ua/montor-samsung-940n/m4997158",
+      "price": 440,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-05-27T18:28:32Z"
     }
   ],
   "config": {
