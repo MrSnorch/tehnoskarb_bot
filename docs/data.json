@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-27T04:07:24Z",
+  "updated_at": "2026-05-27T08:27:19Z",
   "stats": {
-    "total": 188,
-    "avg_price": 2484,
+    "total": 190,
+    "avg_price": 2467,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1020,6 +1020,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Viewsonic va1939wa-led",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va1939wa-led/m5101028",
+      "price_min": 620,
+      "price_max": 620,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. Незалежності, 9А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-27T08:26:17Z",
+      "price_history": [
+        {
+          "price": 620,
+          "at": "2026-05-27T08:26:17Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Aoc e950swn / 185lm00013",
       "url": "https://tehnoskarb.ua/montor-aoc-e950swn-185lm00013/m5158393",
       "price_min": 630,
@@ -1767,6 +1787,26 @@
         {
           "price": 1100,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung s19a300",
+      "url": "https://tehnoskarb.ua/montor-samsung-s19a300/m5174337",
+      "price_min": 1100,
+      "price_max": 1100,
+      "city": "Полтава",
+      "addresses": [
+        "м. Полтава, вул. Небесної Сотні, 61"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-27T08:26:17Z",
+      "price_history": [
+        {
+          "price": 1100,
+          "at": "2026-05-27T08:26:17Z"
         }
       ],
       "category": "Монітори",
@@ -3815,24 +3855,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Philips 272e1c",
-      "url": "https://tehnoskarb.ua/montor-philips-272e1c/m5167752",
-      "price": 4900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi optix g274qpf e2",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g274qpf-e2/m5167776",
-      "price": 8000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung curved s36c",
       "url": "https://tehnoskarb.ua/montor-samsung-curved-s36c/m5167715",
       "price": 3210,
@@ -5616,6 +5638,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-26T20:56:06Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s19a300",
+      "url": "https://tehnoskarb.ua/montor-samsung-s19a300/m5174337",
+      "price": 1100,
+      "city": "Полтава",
+      "category": "Монітори",
+      "at": "2026-05-27T08:26:17Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Viewsonic va1939wa-led",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va1939wa-led/m5101028",
+      "price": 620,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-05-27T08:26:17Z"
     }
   ],
   "config": {
