@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-28T08:43:54Z",
+  "updated_at": "2026-05-28T12:31:41Z",
   "stats": {
-    "total": 184,
-    "avg_price": 2459,
+    "total": 182,
+    "avg_price": 2450,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -741,13 +741,13 @@
       "name": "Монітор Asus vs197",
       "url": "https://tehnoskarb.ua/montor-asus-vs197/m5042579",
       "price_min": 494,
-      "price_max": 630,
+      "price_max": 620,
       "city": "Київ",
       "addresses": [
         "м. Київ, б-р Чоколовський, 21",
         "м. Київ, просп. Миру, 2/3"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-05-23T09:21:20Z",
       "price_history": [
         {
@@ -2319,24 +2319,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t23i-10-t2364pa/m5165636",
-      "price_min": 2220,
-      "price_max": 2220,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 2220,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Tft панель Delta Electronics dop-b05s111",
       "url": "https://tehnoskarb.ua/tft-panel-operatora-delta-electronics-dop-b05s111/m5152927",
       "price_min": 2340,
@@ -3098,24 +3080,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s27c366eai",
-      "url": "https://tehnoskarb.ua/montor-samsung-s27c366eai/m5089911",
-      "price_min": 4500,
-      "price_max": 4500,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 4500,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi optix mag241c",
       "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
       "price_min": 4500,
@@ -3736,24 +3700,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi optix g27c4 e3",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g27c4-e3/m5165161",
-      "price": 7610,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg e2360",
-      "url": "https://tehnoskarb.ua/montor-lg-e2360/m5164732",
-      "price": 620,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hp elitedisplay s231d",
@@ -5541,6 +5487,24 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-05-28T08:43:44Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t23i-10-t2364pa/m5165636",
+      "price": 2220,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-28T12:30:43Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s27c366eai",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27c366eai/m5089911",
+      "price": 4500,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-05-28T12:30:43Z"
     }
   ],
   "config": {
