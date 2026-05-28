@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-28T12:31:41Z",
+  "updated_at": "2026-05-28T16:55:36Z",
   "stats": {
-    "total": 182,
-    "avg_price": 2450,
+    "total": 180,
+    "avg_price": 2466,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1043,26 +1043,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Viewsonic va1939wa-led",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va1939wa-led/m5101028",
-      "price_min": 620,
-      "price_max": 620,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Незалежності, 9А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-27T08:26:17Z",
-      "price_history": [
-        {
-          "price": 620,
-          "at": "2026-05-27T08:26:17Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc e950swn / 185lm00013",
       "url": "https://tehnoskarb.ua/montor-aoc-e950swn-185lm00013/m5158393",
       "price_min": 630,
@@ -1656,13 +1636,13 @@
       "name": "Монітор Samsung s24e650",
       "url": "https://tehnoskarb.ua/montor-samsung-s24e650/m5162299",
       "price_min": 1020,
-      "price_max": 1530,
+      "price_max": 1020,
       "city": "Бровари",
       "addresses": [
         "м. Бровари, б-р Незалежності, 11",
         "м. Червоноград, просп. Шевченка, 10"
       ],
-      "offers": 4,
+      "offers": 3,
       "first_seen": "2026-05-23T09:21:20Z",
       "price_history": [
         {
@@ -1928,26 +1908,6 @@
         {
           "price": 1300,
           "at": "2026-05-23T18:33:59Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg 24mp58vq-p",
-      "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
-      "price_min": 1320,
-      "price_max": 1320,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Гарматна, 44/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 1320,
-          "at": "2026-05-23T09:21:20Z"
         }
       ],
       "category": "Монітори",
@@ -2260,12 +2220,12 @@
       "name": "Монітор Samsung s24f350fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-s24f350fhi/m5102117",
       "price_min": 1890,
-      "price_max": 1990,
+      "price_max": 1890,
       "city": "Кривий Ріг",
       "addresses": [
         "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-05-23T09:21:20Z",
       "price_history": [
         {
@@ -3700,24 +3660,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Hp elitedisplay s231d",
-      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-s231d/m5164660",
-      "price": 1290,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s19c200bw",
-      "url": "https://tehnoskarb.ua/nastlnijj-montor-samsung-s19c200bw/m5163822",
-      "price": 530,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi optix g2712f",
@@ -5505,6 +5447,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-05-28T12:30:43Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 24mp58vq-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
+      "price": 1320,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-28T16:55:27Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Viewsonic va1939wa-led",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va1939wa-led/m5101028",
+      "price": 620,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-05-28T16:55:27Z"
     }
   ],
   "config": {
