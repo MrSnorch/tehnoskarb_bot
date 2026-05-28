@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-28T16:55:36Z",
+  "updated_at": "2026-05-28T19:38:40Z",
   "stats": {
-    "total": 180,
-    "avg_price": 2466,
+    "total": 181,
+    "avg_price": 2454,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -572,6 +572,26 @@
         {
           "price": 343,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg l1753tr",
+      "url": "https://tehnoskarb.ua/montor-lg-l1753tr/m5055971",
+      "price_min": 350,
+      "price_max": 350,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Олени Теліги , 17"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-28T19:37:44Z",
+      "price_history": [
+        {
+          "price": 350,
+          "at": "2026-05-28T19:37:44Z"
         }
       ],
       "category": "Монітори",
@@ -3662,15 +3682,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Msi optix g2712f",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g2712f/m5163816",
-      "price": 5020,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Asus vh203",
       "url": "https://tehnoskarb.ua/montor-asus-vh203/m5162712",
       "price": 670,
@@ -5465,6 +5476,15 @@
       "city": "Кропивницький",
       "category": "Монітори",
       "at": "2026-05-28T16:55:27Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg l1753tr",
+      "url": "https://tehnoskarb.ua/montor-lg-l1753tr/m5055971",
+      "price": 350,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-28T19:37:44Z"
     }
   ],
   "config": {
