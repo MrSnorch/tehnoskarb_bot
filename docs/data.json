@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-28T00:02:00Z",
+  "updated_at": "2026-05-28T04:51:23Z",
   "stats": {
-    "total": 186,
-    "avg_price": 2462,
+    "total": 187,
+    "avg_price": 2450,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -272,6 +272,26 @@
         {
           "price": 270,
           "at": "2026-05-23T15:42:21Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg l1717s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
+      "price_min": 270,
+      "price_max": 270,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Кирилівська, 129"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-28T04:50:24Z",
+      "price_history": [
+        {
+          "price": 270,
+          "at": "2026-05-28T04:50:24Z"
         }
       ],
       "category": "Монітори",
@@ -3782,15 +3802,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t23i-10-t2364pa/m5165636",
-      "price": 2220,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg l1942s",
       "url": "https://tehnoskarb.ua/montor-lg-l1942s/m5165584",
       "price": 280,
@@ -5585,6 +5596,15 @@
       "city": "Кропивницький",
       "category": "Монітори",
       "at": "2026-05-27T18:28:32Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg l1717s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
+      "price": 270,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-28T04:50:24Z"
     }
   ],
   "config": {
