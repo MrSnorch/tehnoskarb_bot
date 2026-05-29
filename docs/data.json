@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-29T06:18:25Z",
+  "updated_at": "2026-05-29T10:30:18Z",
   "stats": {
     "total": 183,
-    "avg_price": 2426,
+    "avg_price": 2427,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1139,26 +1139,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Benq gl2023a",
-      "url": "https://tehnoskarb.ua/montor-benq-gl2023a/m5158028",
-      "price_min": 630,
-      "price_max": 680,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
-      ],
-      "offers": 2,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 630,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 19en33sa",
       "url": "https://tehnoskarb.ua/montor-lg-19en33sa/m5138269",
       "price_min": 640,
@@ -1294,6 +1274,30 @@
         {
           "price": 675,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Benq gl2023a",
+      "url": "https://tehnoskarb.ua/montor-benq-gl2023a/m5158028",
+      "price_min": 680,
+      "price_max": 680,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-23T09:21:20Z",
+      "price_history": [
+        {
+          "price": 630,
+          "at": "2026-05-23T09:21:20Z"
+        },
+        {
+          "price": 680,
+          "at": "2026-05-29T10:30:10Z"
         }
       ],
       "category": "Монітори",
@@ -3722,15 +3726,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lenovo lt2252pwa",
-      "url": "https://tehnoskarb.ua/montor-lenovo-lt2252pwa/m5159261",
-      "price": 850,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Viewsonic va703b",
       "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
       "price": 310,
@@ -5525,6 +5520,16 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-05-29T06:17:19Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Benq gl2023a",
+      "url": "https://tehnoskarb.ua/montor-benq-gl2023a/m5158028",
+      "price_old": 630,
+      "price_new": 680,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-29T10:30:10Z"
     }
   ],
   "config": {

@@ -1176,13 +1176,13 @@
   },
   "https://tehnoskarb.ua/montor-benq-gl2023a/m5158028": {
     "name": "Монітор Benq gl2023a",
-    "price_min": 630,
+    "price_min": 680,
     "price_max": 680,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-05-23T09:21:20Z",
@@ -1190,6 +1190,10 @@
       {
         "price": 630,
         "at": "2026-05-23T09:21:20Z"
+      },
+      {
+        "price": 680,
+        "at": "2026-05-29T10:30:10Z"
       }
     ],
     "details_failures": 0,
@@ -3860,8 +3864,8 @@
         "at": "2026-05-29T06:17:19Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-05-29T06:17:19Z",
-    "details_retry_at": "2026-05-29T06:47:19Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-05-29T10:30:10Z",
+    "details_retry_at": "2026-05-29T11:30:10Z"
   }
 }
