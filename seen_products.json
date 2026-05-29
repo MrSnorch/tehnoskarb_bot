@@ -1,25 +1,4 @@
 {
-  "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368": {
-    "name": "Монітор Asus rog strix xg27acs-w",
-    "price_min": 8130,
-    "price_max": 8130,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Правди, 41-А"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-23T09:21:20Z",
-    "price_history": [
-      {
-        "price": 8130,
-        "at": "2026-05-23T09:21:20Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-23T10:53:43Z"
-  },
   "https://tehnoskarb.ua/montor-aoc-24p2q/m5173255": {
     "name": "Монітор Aoc 24p2q",
     "price_min": 4840,
@@ -953,7 +932,7 @@
       "м. Бровари, б-р Незалежності, 11",
       "м. Червоноград, просп. Шевченка, 10"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-05-23T09:21:20Z",
@@ -1106,27 +1085,6 @@
     "price_history": [
       {
         "price": 4600,
-        "at": "2026-05-23T09:21:20Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-23T10:53:43Z"
-  },
-  "https://tehnoskarb.ua/montor-lenovo-thinkvision-t24d-10/m5158787": {
-    "name": "Монітор Lenovo thinkvision t24d-10",
-    "price_min": 2610,
-    "price_max": 2610,
-    "city": "Одеса",
-    "addresses": [
-      "м. Одеса, вул. Заболотного Академіка, 52"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-23T09:21:20Z",
-    "price_history": [
-      {
-        "price": 2610,
         "at": "2026-05-23T09:21:20Z"
       }
     ],
@@ -1656,27 +1614,6 @@
     "details_failures": 22,
     "details_last_attempt": "2026-05-29T13:46:57Z",
     "details_retry_at": "2026-05-29T19:46:57Z"
-  },
-  "https://tehnoskarb.ua/montor-lg-27mk430/m5145924": {
-    "name": "Монітор Lg 27mk430",
-    "price_min": 2420,
-    "price_max": 2420,
-    "city": "Біла Церква",
-    "addresses": [
-      "м. Біла Церква, вул. вул. Чорних Запорожців, 47/1"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-23T09:21:20Z",
-    "price_history": [
-      {
-        "price": 2420,
-        "at": "2026-05-23T09:21:20Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-23T10:53:43Z"
   },
   "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889": {
     "name": "Монітор Eizo flexscan ev2430",
@@ -3826,8 +3763,28 @@
         "at": "2026-05-29T06:17:19Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-05-29T13:46:57Z",
-    "details_retry_at": "2026-05-29T15:46:57Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-05-29T17:35:45Z",
+    "details_retry_at": "2026-05-29T21:35:45Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-thinkvision-t23i-10-t2364pa/m5165636": {
+    "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
+    "price_min": 2220,
+    "price_max": 2220,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-29T17:35:45Z",
+    "price_history": [
+      {
+        "price": 2220,
+        "at": "2026-05-29T17:35:45Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-05-29T17:35:45Z",
+    "details_retry_at": "2026-05-29T18:05:45Z"
   }
 }
