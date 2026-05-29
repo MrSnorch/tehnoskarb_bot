@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-29T10:30:18Z",
+  "updated_at": "2026-05-29T13:47:54Z",
   "stats": {
-    "total": 183,
-    "avg_price": 2427,
+    "total": 181,
+    "avg_price": 2424,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1440,27 +1440,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung bx2235 ls22b3uvmn",
-      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
-      "price_min": 765,
-      "price_max": 790,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, вул. Дудинської, 1-А",
-        "м. Івано-Франківськ, вул. Василіянок, 7"
-      ],
-      "offers": 2,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 765,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer x223hq",
       "url": "https://tehnoskarb.ua/montor-acer-x223hq/m5017541",
       "price_min": 770,
@@ -1475,6 +1454,31 @@
         {
           "price": 770,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung bx2235 ls22b3uvmn",
+      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
+      "price_min": 790,
+      "price_max": 790,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, вул. Дудинської, 1-А",
+        "м. Івано-Франківськ, вул. Василіянок, 7"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-23T09:21:20Z",
+      "price_history": [
+        {
+          "price": 765,
+          "at": "2026-05-23T09:21:20Z"
+        },
+        {
+          "price": 790,
+          "at": "2026-05-29T13:46:57Z"
         }
       ],
       "category": "Монітори",
@@ -1629,26 +1633,6 @@
         {
           "price": 930,
           "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer b226hql",
-      "url": "https://tehnoskarb.ua/montor-acer-b226hql/m5132545",
-      "price_min": 930,
-      "price_max": 930,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, вул. Дудинської, 1-А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T18:33:59Z",
-      "price_history": [
-        {
-          "price": 930,
-          "at": "2026-05-23T18:33:59Z"
         }
       ],
       "category": "Монітори",
@@ -3044,26 +3028,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung curved cr50",
-      "url": "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496",
-      "price_min": 4400,
-      "price_max": 4400,
-      "city": "Вишневе",
-      "addresses": [
-        "м. Вишневе, вул. Святошинська, 27"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-25T05:05:37Z",
-      "price_history": [
-        {
-          "price": 4400,
-          "at": "2026-05-25T05:05:37Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc 24p1",
       "url": "https://tehnoskarb.ua/montor-aoc-24p1/m5123527",
       "price_min": 4500,
@@ -3724,33 +3688,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Viewsonic va703b",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
-      "price": 310,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Dell p2314ht",
-      "url": "https://tehnoskarb.ua/montor-dell-p2314ht/m5159268",
-      "price": 1150,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer v223hq",
-      "url": "https://tehnoskarb.ua/montor-acer-v223hq/m5158994",
-      "price": 900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi optix g251pf",
@@ -5530,6 +5467,34 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-29T10:30:10Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer b226hql",
+      "url": "https://tehnoskarb.ua/montor-acer-b226hql/m5132545",
+      "price": 930,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-05-29T13:46:57Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung curved cr50",
+      "url": "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496",
+      "price": 4400,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-05-29T13:46:57Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung bx2235 ls22b3uvmn",
+      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
+      "price_old": 765,
+      "price_new": 790,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-05-29T13:46:57Z"
     }
   ],
   "config": {
