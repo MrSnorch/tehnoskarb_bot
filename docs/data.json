@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-29T17:36:00Z",
+  "updated_at": "2026-05-29T20:30:50Z",
   "stats": {
     "total": 179,
-    "avg_price": 2390,
+    "avg_price": 2399,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -652,26 +652,6 @@
         {
           "price": 350,
           "at": "2026-05-29T06:17:19Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg flatron w2246",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-w2246/m5174084",
-      "price_min": 360,
-      "price_max": 360,
-      "city": "Полтава",
-      "addresses": [
-        "м. Полтава, вул. Небесної Сотні, 61"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-26T04:44:49Z",
-      "price_history": [
-        {
-          "price": 360,
-          "at": "2026-05-26T04:44:49Z"
         }
       ],
       "category": "Монітори",
@@ -2289,6 +2269,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор 2E a2222b",
+      "url": "https://tehnoskarb.ua/montor-2e-a2222b/m5065370",
+      "price_min": 1960,
+      "price_max": 1960,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р М. Міхновського, 25"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-29T20:29:54Z",
+      "price_history": [
+        {
+          "price": 1960,
+          "at": "2026-05-29T20:29:54Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung lf22t350f",
       "url": "https://tehnoskarb.ua/montor-samsung-lf22t350f/m5139636",
       "price_min": 2170,
@@ -3646,24 +3646,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Benq gl2023a",
-      "url": "https://tehnoskarb.ua/montor-benq-gl2023a/m5158028",
-      "price": 630,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung smart m7 m70d uhd ls32dm703ui",
-      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7-m70d-uhd-ls32dm703ui/m5158036",
-      "price": 7500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Dell s2216h",
@@ -5453,6 +5435,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-05-29T17:35:45Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg flatron w2246",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-w2246/m5174084",
+      "price": 360,
+      "city": "Полтава",
+      "category": "Монітори",
+      "at": "2026-05-29T20:29:54Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор 2E a2222b",
+      "url": "https://tehnoskarb.ua/montor-2e-a2222b/m5065370",
+      "price": 1960,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-29T20:29:54Z"
     }
   ],
   "config": {
