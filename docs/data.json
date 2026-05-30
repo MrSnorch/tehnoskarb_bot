@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-30T14:14:23Z",
+  "updated_at": "2026-05-30T15:47:34Z",
   "stats": {
-    "total": 179,
-    "avg_price": 2433,
+    "total": 178,
+    "avg_price": 2443,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1112,26 +1112,6 @@
       "price_history": [
         {
           "price": 630,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg 19en33sa",
-      "url": "https://tehnoskarb.ua/montor-lg-19en33sa/m5138269",
-      "price_min": 640,
-      "price_max": 640,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Грушевського, 67"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 640,
           "at": "2026-05-23T09:21:20Z"
         }
       ],
@@ -3648,15 +3628,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung s24r358f",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24r358f/m5155371",
-      "price": 2800,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Asus vg259qr",
       "url": "https://tehnoskarb.ua/montor-asus-vg259qr/m5154870",
       "price": 4000,
@@ -5453,6 +5424,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-30T14:14:15Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 19en33sa",
+      "url": "https://tehnoskarb.ua/montor-lg-19en33sa/m5138269",
+      "price": 640,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-05-30T15:47:25Z"
     }
   ],
   "config": {
