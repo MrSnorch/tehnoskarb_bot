@@ -3742,9 +3742,9 @@
         "at": "2026-05-29T06:17:19Z"
       }
     ],
-    "details_failures": 5,
-    "details_last_attempt": "2026-05-29T22:14:36Z",
-    "details_retry_at": "2026-05-30T04:14:36Z"
+    "details_failures": 6,
+    "details_last_attempt": "2026-05-30T06:48:46Z",
+    "details_retry_at": "2026-05-30T12:48:46Z"
   },
   "https://tehnoskarb.ua/montor-lenovo-thinkvision-t23i-10-t2364pa/m5165636": {
     "name": "Монітор Lenovo thinkvision t23i-10 t2364pa",
@@ -3786,5 +3786,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-05-29T20:29:54Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-optix-g2412f/m5103531": {
+    "name": "Монітор Msi optix g2412f",
+    "price_min": 10100,
+    "price_max": 10100,
+    "city": "Хмельницький",
+    "addresses": [
+      "м. Хмельницький, вул. Кам`янецька, 11"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-30T06:48:46Z",
+    "price_history": [
+      {
+        "price": 10100,
+        "at": "2026-05-30T06:48:46Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-30T06:48:46Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545": {
+    "name": "Монітор Lg 24mp59g-p",
+    "price_min": 1500,
+    "price_max": 1500,
+    "city": "Хмельницький",
+    "addresses": [
+      "м. Хмельницький, вул. Кам`янецька, 11"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-05-30T06:48:46Z",
+    "price_history": [
+      {
+        "price": 1500,
+        "at": "2026-05-30T06:48:46Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-05-30T06:48:46Z"
   }
 }
