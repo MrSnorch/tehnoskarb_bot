@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-30T17:12:24Z",
+  "updated_at": "2026-05-30T18:40:37Z",
   "stats": {
-    "total": 177,
-    "avg_price": 2367,
+    "total": 178,
+    "avg_price": 2355,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -396,6 +396,26 @@
         {
           "price": 300,
           "at": "2026-05-29T06:17:19Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 920n",
+      "url": "https://tehnoskarb.ua/montor-samsung-920n/m5011274",
+      "price_min": 300,
+      "price_max": 300,
+      "city": "Івано-Франківськ",
+      "addresses": [
+        "м. Івано-Франківськ, вул. Гетьмана Мазепи, 20/1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-30T18:40:29Z",
+      "price_history": [
+        {
+          "price": 300,
+          "at": "2026-05-30T18:40:29Z"
         }
       ],
       "category": "Монітори",
@@ -3608,15 +3628,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung professional s24c430",
-      "url": "https://tehnoskarb.ua/montor-samsung-professional-s24c430/m5154762",
-      "price": 3500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung ls22f350fhixci",
       "url": "https://tehnoskarb.ua/montor-samsung-ls22f350fhixci/m5154566",
       "price": 2820,
@@ -5413,6 +5424,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-30T17:11:35Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 920n",
+      "url": "https://tehnoskarb.ua/montor-samsung-920n/m5011274",
+      "price": 300,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-05-30T18:40:29Z"
     }
   ],
   "config": {
