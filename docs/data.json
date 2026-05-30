@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-30T10:58:55Z",
+  "updated_at": "2026-05-30T12:10:16Z",
   "stats": {
-    "total": 181,
-    "avg_price": 2437,
+    "total": 180,
+    "avg_price": 2424,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -3126,26 +3126,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell g2422hs",
-      "url": "https://tehnoskarb.ua/montor-dell-g2422hs/m5169532",
-      "price_min": 4780,
-      "price_max": 4780,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 4780,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc 24p2q",
       "url": "https://tehnoskarb.ua/montor-aoc-24p2q/m5173255",
       "price_min": 4840,
@@ -3686,15 +3666,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung syncmaster 932b",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-932b/m5156935",
-      "price": 315,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg flatron l1910s",
@@ -5493,6 +5464,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-05-30T06:48:46Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell g2422hs",
+      "url": "https://tehnoskarb.ua/montor-dell-g2422hs/m5169532",
+      "price": 4780,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-30T12:10:09Z"
     }
   ],
   "config": {
