@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-30T15:47:34Z",
+  "updated_at": "2026-05-30T17:12:24Z",
   "stats": {
-    "total": 178,
-    "avg_price": 2443,
+    "total": 177,
+    "avg_price": 2367,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2153,7 +2153,7 @@
         "м. Бровари, б-р Незалежності, 11",
         "м. Київ, б-р Чоколовський, 21"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-05-23T09:21:20Z",
       "price_history": [
         {
@@ -3585,26 +3585,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell g3223q",
-      "url": "https://tehnoskarb.ua/montor-dell-g3223q/m5110122",
-      "price_min": 15930,
-      "price_max": 15930,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Воскресенський, 34/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-24T18:38:27Z",
-      "price_history": [
-        {
-          "price": 15930,
-          "at": "2026-05-24T18:38:27Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Hp z27xs g3",
       "url": "https://tehnoskarb.ua/montor-hp-z27xs-g3/m5171605",
       "price_min": 16060,
@@ -3626,15 +3606,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vg259qr",
-      "url": "https://tehnoskarb.ua/montor-asus-vg259qr/m5154870",
-      "price": 4000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung professional s24c430",
@@ -5433,6 +5404,15 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-05-30T15:47:25Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell g3223q",
+      "url": "https://tehnoskarb.ua/montor-dell-g3223q/m5110122",
+      "price": 15930,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-30T17:11:35Z"
     }
   ],
   "config": {
