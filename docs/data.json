@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-30T12:10:16Z",
+  "updated_at": "2026-05-30T14:14:23Z",
   "stats": {
-    "total": 180,
-    "avg_price": 2424,
+    "total": 179,
+    "avg_price": 2433,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1355,26 +1355,6 @@
       "price_history": [
         {
           "price": 730,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung b2030n",
-      "url": "https://tehnoskarb.ua/montor-samsung-b2030n/m5016638",
-      "price_min": 740,
-      "price_max": 740,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Вишгородська, 56/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 740,
           "at": "2026-05-23T09:21:20Z"
         }
       ],
@@ -3668,15 +3648,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg flatron l1910s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1910s/m5156650",
-      "price": 280,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s24r358f",
       "url": "https://tehnoskarb.ua/montor-samsung-s24r358f/m5155371",
       "price": 2800,
@@ -5473,6 +5444,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-30T12:10:09Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung b2030n",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2030n/m5016638",
+      "price": 740,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-30T14:14:15Z"
     }
   ],
   "config": {
