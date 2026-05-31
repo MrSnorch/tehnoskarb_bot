@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-31T16:42:32Z",
+  "updated_at": "2026-05-31T18:05:34Z",
   "stats": {
-    "total": 176,
-    "avg_price": 2266,
+    "total": 178,
+    "avg_price": 2257,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -810,6 +810,26 @@
         {
           "price": 440,
           "at": "2026-05-27T18:28:32Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 971p",
+      "url": "https://tehnoskarb.ua/montor-samsung-971p/m5174877",
+      "price_min": 450,
+      "price_max": 450,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Павла Тичини, 9"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-31T18:05:22Z",
+      "price_history": [
+        {
+          "price": 450,
+          "at": "2026-05-31T18:05:22Z"
         }
       ],
       "category": "Монітори",
@@ -2527,6 +2547,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s27r350",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27r350/m5174594",
+      "price_min": 2640,
+      "price_max": 2640,
+      "city": "Самар",
+      "addresses": [
+        "м. Самар, вул. Гетьманська, 35/21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-31T18:05:22Z",
+      "price_history": [
+        {
+          "price": 2640,
+          "at": "2026-05-31T18:05:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vg246h1a",
       "url": "https://tehnoskarb.ua/montor-asus-vg246h1a/m5107209",
       "price_min": 2680,
@@ -3590,24 +3630,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Hp nk570a",
-      "url": "https://tehnoskarb.ua/montor-hp-nk570a/m5151542",
-      "price": 460,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Hp e232e",
-      "url": "https://tehnoskarb.ua/montor-hp-e232e/m5150769",
-      "price": 1600,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Dell e2222hs",
@@ -5397,6 +5419,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-05-31T16:41:41Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 971p",
+      "url": "https://tehnoskarb.ua/montor-samsung-971p/m5174877",
+      "price": 450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-31T18:05:22Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s27r350",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27r350/m5174594",
+      "price": 2640,
+      "city": "Самар",
+      "category": "Монітори",
+      "at": "2026-05-31T18:05:22Z"
     }
   ],
   "config": {
