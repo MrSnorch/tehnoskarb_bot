@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-31T15:18:41Z",
+  "updated_at": "2026-05-31T16:42:32Z",
   "stats": {
-    "total": 174,
-    "avg_price": 2282,
+    "total": 176,
+    "avg_price": 2266,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -770,6 +770,26 @@
         {
           "price": 420,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Benq gw2250m",
+      "url": "https://tehnoskarb.ua/montor-benq-gw2250m/m5174990",
+      "price_min": 420,
+      "price_max": 420,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-31T16:41:41Z",
+      "price_history": [
+        {
+          "price": 420,
+          "at": "2026-05-31T16:41:41Z"
         }
       ],
       "category": "Монітори",
@@ -1818,6 +1838,26 @@
         {
           "price": 1200,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vs239",
+      "url": "https://tehnoskarb.ua/montor-asus-vs239/m5169186",
+      "price_min": 1200,
+      "price_max": 1200,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-31T16:41:41Z",
+      "price_history": [
+        {
+          "price": 1200,
+          "at": "2026-05-31T16:41:41Z"
         }
       ],
       "category": "Монітори",
@@ -3550,24 +3590,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Tft панель Delta Electronics dop-b05s111",
-      "url": "https://tehnoskarb.ua/tft-panel-operatora-delta-electronics-dop-b05s111/m5152927",
-      "price": 2340,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg flatron e2240s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2240s/m5152011",
-      "price": 840,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hp nk570a",
@@ -5357,6 +5379,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-05-31T11:41:47Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Benq gw2250m",
+      "url": "https://tehnoskarb.ua/montor-benq-gw2250m/m5174990",
+      "price": 420,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-31T16:41:41Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vs239",
+      "url": "https://tehnoskarb.ua/montor-asus-vs239/m5169186",
+      "price": 1200,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-31T16:41:41Z"
     }
   ],
   "config": {
