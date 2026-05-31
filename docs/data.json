@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-31T06:22:26Z",
+  "updated_at": "2026-05-31T09:33:26Z",
   "stats": {
     "total": 178,
-    "avg_price": 2355,
+    "avg_price": 2311,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -933,6 +933,26 @@
         {
           "price": 550,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 206bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-206bw/m5008710",
+      "price_min": 550,
+      "price_max": 550,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Святоюріївська, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-31T09:32:33Z",
+      "price_history": [
+        {
+          "price": 550,
+          "at": "2026-05-31T09:32:33Z"
         }
       ],
       "category": "Монітори",
@@ -2719,7 +2739,7 @@
       "addresses": [
         "м. Київ, просп. Миру, 2/3"
       ],
-      "offers": 3,
+      "offers": 4,
       "first_seen": "2026-05-23T09:21:20Z",
       "price_history": [
         {
@@ -3485,26 +3505,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Xiaomi mi curved gaming monitor 34 xmmntwq34",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-curved-gaming-monitor-34-xmmntwq34/m5171135",
-      "price_min": 8500,
-      "price_max": 8500,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Щербаківського, 45"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 8500,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Iiyama gb2770qsu-b5",
       "url": "https://tehnoskarb.ua/montor-iiyama-gb2770qsu-b5/m5170947",
       "price_min": 8900,
@@ -3626,24 +3626,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls22f350fhixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls22f350fhixci/m5154566",
-      "price": 2820,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung f24t452fqr",
-      "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
-      "price": 4000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vz249hg",
@@ -5433,6 +5415,24 @@
       "city": "Івано-Франківськ",
       "category": "Монітори",
       "at": "2026-05-30T18:40:29Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Xiaomi mi curved gaming monitor 34 xmmntwq34",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-curved-gaming-monitor-34-xmmntwq34/m5171135",
+      "price": 8500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-05-31T09:32:33Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 206bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-206bw/m5008710",
+      "price": 550,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-05-31T09:32:33Z"
     }
   ],
   "config": {
