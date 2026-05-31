@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-31T19:49:23Z",
+  "updated_at": "2026-05-31T21:02:40Z",
   "stats": {
-    "total": 178,
-    "avg_price": 2257,
+    "total": 179,
+    "avg_price": 2274,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -3269,6 +3269,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lenovo thinkvision t27i-30",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091",
+      "price_min": 5250,
+      "price_max": 5250,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, просп. Петра Григоренка, 7"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-31T21:02:26Z",
+      "price_history": [
+        {
+          "price": 5250,
+          "at": "2026-05-31T21:02:26Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung c27rg50fh",
       "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
       "price_min": 5260,
@@ -3630,15 +3650,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Dell e2222hs",
-      "url": "https://tehnoskarb.ua/montor-dell-e2222hs/m5149071",
-      "price": 1890,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus rog strix xg27acs",
@@ -5437,6 +5448,15 @@
       "city": "Самар",
       "category": "Монітори",
       "at": "2026-05-31T18:05:22Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo thinkvision t27i-30",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091",
+      "price": 5250,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-05-31T21:02:26Z"
     }
   ],
   "config": {
