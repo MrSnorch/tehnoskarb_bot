@@ -1840,7 +1840,7 @@
   },
   "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194": {
     "name": "Монітор Samsung s22d300",
-    "price_min": 1485,
+    "price_min": 1980,
     "price_max": 1980,
     "city": "Стрий",
     "addresses": [
@@ -1849,7 +1849,7 @@
       "м. Київ, вул. Вишгородська, 33",
       "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-05-23T09:21:20Z",
@@ -1857,6 +1857,10 @@
       {
         "price": 1485,
         "at": "2026-05-23T09:21:20Z"
+      },
+      {
+        "price": 1980,
+        "at": "2026-06-01T20:56:01Z"
       }
     ],
     "details_failures": 0,
@@ -1864,8 +1868,8 @@
   },
   "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378": {
     "name": "Відеомонітор Konvision kvm-1930w",
-    "price_min": 3150,
-    "price_max": 3150,
+    "price_min": 2835,
+    "price_max": 2835,
     "city": "Львів",
     "addresses": [
       "м. Львів, вул. Промислова, 50/52"
@@ -1878,6 +1882,10 @@
       {
         "price": 3150,
         "at": "2026-05-23T09:21:20Z"
+      },
+      {
+        "price": 2835,
+        "at": "2026-06-01T20:56:01Z"
       }
     ],
     "details_failures": 0,
@@ -2363,27 +2371,6 @@
     "price_history": [
       {
         "price": 950,
-        "at": "2026-05-23T09:21:20Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-23T10:53:43Z"
-  },
-  "https://tehnoskarb.ua/montor-lg-e1942c/m5076612": {
-    "name": "Монітор Lg e1942c",
-    "price_min": 690,
-    "price_max": 690,
-    "city": "Стрий",
-    "addresses": [
-      "м. Стрий, вул. Валова, 2/2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-23T09:21:20Z",
-    "price_history": [
-      {
-        "price": 690,
         "at": "2026-05-23T09:21:20Z"
       }
     ],
@@ -3641,5 +3628,25 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-01T10:38:22Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-pro-mp225/m5096044": {
+    "name": "Монітор Msi pro mp225",
+    "price_min": 2500,
+    "price_max": 2500,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-01T20:56:01Z",
+    "price_history": [
+      {
+        "price": 2500,
+        "at": "2026-06-01T20:56:01Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-06-01T20:56:01Z",
+    "details_retry_at": "2026-06-01T21:26:01Z"
   }
 }
