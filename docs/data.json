@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-02T06:51:59Z",
+  "updated_at": "2026-06-02T11:20:36Z",
   "stats": {
-    "total": 172,
-    "avg_price": 2368,
+    "total": 173,
+    "avg_price": 2387,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1444,6 +1444,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung p2350",
+      "url": "https://tehnoskarb.ua/montor-samsung-p2350/m5073397",
+      "price_min": 850,
+      "price_max": 850,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Княжий Затон, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-02T11:20:20Z",
+      "price_history": [
+        {
+          "price": 850,
+          "at": "2026-06-02T11:20:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 19m38a",
       "url": "https://tehnoskarb.ua/montor-lg-19m38a/m5165371",
       "price_min": 860,
@@ -2225,26 +2245,6 @@
       "price_history": [
         {
           "price": 2170,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 221v8a/00",
-      "url": "https://tehnoskarb.ua/montor-philips-221v8a-00/m5125141",
-      "price_min": 2200,
-      "price_max": 2200,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Лятошинського, 18"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 2200,
           "at": "2026-05-23T09:21:20Z"
         }
       ],
@@ -3254,6 +3254,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Apple cinema hd display 30",
+      "url": "https://tehnoskarb.ua/montor-apple-cinema-hd-display-30/m5175163",
+      "price_min": 7000,
+      "price_max": 7000,
+      "city": "Луцьк",
+      "addresses": [
+        "м. Луцьк, просп. Соборності, 4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-02T11:20:20Z",
+      "price_history": [
+        {
+          "price": 7000,
+          "at": "2026-06-02T11:20:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung smart m7 m70d uhd ls32dm703ui",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-m7-m70d-uhd-ls32dm703ui/m5158036",
       "price_min": 7500,
@@ -3515,33 +3535,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung sm t190 ls19twh",
-      "url": "https://tehnoskarb.ua/montor-samsung-sm-t190-ls19twh/m5141108",
-      "price": 620,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung bx2235 ls22b3uvmn",
-      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
-      "price": 765,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung odyssey ag50 s27ag502",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-ag50-s27ag502/m5139683",
-      "price": 5700,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s22f350fhi",
@@ -5324,6 +5317,33 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-06-01T20:56:01Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 221v8a/00",
+      "url": "https://tehnoskarb.ua/montor-philips-221v8a-00/m5125141",
+      "price": 2200,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-02T11:20:20Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Apple cinema hd display 30",
+      "url": "https://tehnoskarb.ua/montor-apple-cinema-hd-display-30/m5175163",
+      "price": 7000,
+      "city": "Луцьк",
+      "category": "Монітори",
+      "at": "2026-06-02T11:20:20Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung p2350",
+      "url": "https://tehnoskarb.ua/montor-samsung-p2350/m5073397",
+      "price": 850,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-02T11:20:20Z"
     }
   ],
   "config": {

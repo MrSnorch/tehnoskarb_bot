@@ -1891,27 +1891,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-23T10:53:43Z"
   },
-  "https://tehnoskarb.ua/montor-philips-221v8a-00/m5125141": {
-    "name": "Монітор Philips 221v8a/00",
-    "price_min": 2200,
-    "price_max": 2200,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Лятошинського, 18"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-23T09:21:20Z",
-    "price_history": [
-      {
-        "price": 2200,
-        "at": "2026-05-23T09:21:20Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-23T10:53:43Z"
-  },
   "https://tehnoskarb.ua/montor-lg-w2241st/m5125216": {
     "name": "Монітор Lg w2241st",
     "price_min": 620,
@@ -3645,8 +3624,50 @@
         "at": "2026-06-01T20:56:01Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-06-02T06:51:03Z",
-    "details_retry_at": "2026-06-02T10:51:03Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-06-02T11:20:20Z",
+    "details_retry_at": "2026-06-02T17:20:20Z"
+  },
+  "https://tehnoskarb.ua/montor-apple-cinema-hd-display-30/m5175163": {
+    "name": "Монітор Apple cinema hd display 30",
+    "price_min": 7000,
+    "price_max": 7000,
+    "city": "Луцьк",
+    "addresses": [
+      "м. Луцьк, просп. Соборності, 4"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-02T11:20:20Z",
+    "price_history": [
+      {
+        "price": 7000,
+        "at": "2026-06-02T11:20:20Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-02T11:20:20Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-p2350/m5073397": {
+    "name": "Монітор Samsung p2350",
+    "price_min": 850,
+    "price_max": 850,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Княжий Затон, 11"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-02T11:20:20Z",
+    "price_history": [
+      {
+        "price": 850,
+        "at": "2026-06-02T11:20:20Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-02T11:20:20Z"
   }
 }
