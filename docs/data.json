@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-03T00:11:43Z",
+  "updated_at": "2026-06-03T05:28:26Z",
   "stats": {
-    "total": 175,
-    "avg_price": 2312,
+    "total": 176,
+    "avg_price": 2298,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2295,6 +2295,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Acer sa242yh1bi",
+      "url": "https://tehnoskarb.ua/montor-acer-sa242yh1bi/m5171916",
+      "price_min": 2020,
+      "price_max": 2020,
+      "city": "Черкаси",
+      "addresses": [
+        "м. Черкаси, вул. Сумгаїтська, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-03T05:27:23Z",
+      "price_history": [
+        {
+          "price": 2020,
+          "at": "2026-06-03T05:27:23Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung lf22t350f",
       "url": "https://tehnoskarb.ua/montor-samsung-lf22t350f/m5139636",
       "price_min": 2170,
@@ -2683,6 +2703,26 @@
         {
           "price": 3000,
           "at": "2026-06-02T19:42:55Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lenovo legion r24s raven",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24s-raven/m5175312",
+      "price_min": 3010,
+      "price_max": 3010,
+      "city": "Херсон",
+      "addresses": [
+        "м. Херсон, просп. 200 років Херсона, 15"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-03T05:27:23Z",
+      "price_history": [
+        {
+          "price": 3010,
+          "at": "2026-06-03T05:27:23Z"
         }
       ],
       "category": "Монітори",
@@ -3155,26 +3195,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Apple 27\" apple thunderbolt display a1407",
-      "url": "https://tehnoskarb.ua/montor-apple-27-apple-thunderbolt-display-a1407/m5172177",
-      "price_min": 5220,
-      "price_max": 5220,
-      "city": "Бориспіль",
-      "addresses": [
-        "м. Бориспіль, вул. Київський шлях, 47"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 5220,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lenovo thinkvision t27i-30",
       "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091",
       "price_min": 5250,
@@ -3576,33 +3596,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Hanns·g hsg1060",
-      "url": "https://tehnoskarb.ua/montor-hannsg-hsg1060/m5136182",
-      "price": 330,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Benq ex240n",
-      "url": "https://tehnoskarb.ua/montor-benq-ex240n/m5134563",
-      "price": 3000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
-      "price": 3080,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lenovo thinkvision t2054pc",
@@ -5385,6 +5378,33 @@
       "city": "Боярка",
       "category": "Монітори",
       "at": "2026-06-02T19:42:55Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Apple 27\" apple thunderbolt display a1407",
+      "url": "https://tehnoskarb.ua/montor-apple-27-apple-thunderbolt-display-a1407/m5172177",
+      "price": 5220,
+      "city": "Бориспіль",
+      "category": "Монітори",
+      "at": "2026-06-03T05:27:23Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo legion r24s raven",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24s-raven/m5175312",
+      "price": 3010,
+      "city": "Херсон",
+      "category": "Монітори",
+      "at": "2026-06-03T05:27:23Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer sa242yh1bi",
+      "url": "https://tehnoskarb.ua/montor-acer-sa242yh1bi/m5171916",
+      "price": 2020,
+      "city": "Черкаси",
+      "category": "Монітори",
+      "at": "2026-06-03T05:27:23Z"
     }
   ],
   "config": {
