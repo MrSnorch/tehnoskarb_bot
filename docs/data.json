@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-03T05:28:26Z",
+  "updated_at": "2026-06-03T10:22:41Z",
   "stats": {
     "total": 176,
-    "avg_price": 2298,
+    "avg_price": 2296,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2391,6 +2391,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 22mk600m",
+      "url": "https://tehnoskarb.ua/montor-lg-22mk600m/m5145581",
+      "price_min": 2400,
+      "price_max": 2400,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-03T10:22:30Z",
+      "price_history": [
+        {
+          "price": 2400,
+          "at": "2026-06-03T10:22:30Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s24d360gai",
       "url": "https://tehnoskarb.ua/montor-samsung-s24d360gai/m5124115",
       "price_min": 2410,
@@ -2503,26 +2523,6 @@
         {
           "price": 2640,
           "at": "2026-05-31T18:05:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vg246h1a",
-      "url": "https://tehnoskarb.ua/montor-asus-vg246h1a/m5107209",
-      "price_min": 2680,
-      "price_max": 2680,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Червоної Калини, 60/10"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 2680,
-          "at": "2026-05-23T09:21:20Z"
         }
       ],
       "category": "Монітори",
@@ -3596,24 +3596,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lenovo thinkvision t2054pc",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2054pc/m5134008",
-      "price": 1250,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s22d300",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194",
-      "price": 1485,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Відеомонітор Konvision kvm-1930w",
@@ -5405,6 +5387,24 @@
       "city": "Черкаси",
       "category": "Монітори",
       "at": "2026-06-03T05:27:23Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vg246h1a",
+      "url": "https://tehnoskarb.ua/montor-asus-vg246h1a/m5107209",
+      "price": 2680,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-03T10:22:30Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 22mk600m",
+      "url": "https://tehnoskarb.ua/montor-lg-22mk600m/m5145581",
+      "price": 2400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-03T10:22:30Z"
     }
   ],
   "config": {

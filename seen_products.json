@@ -1996,27 +1996,6 @@
     "details_last_attempt": "2026-06-03T05:27:23Z",
     "details_retry_at": "2026-06-03T11:27:23Z"
   },
-  "https://tehnoskarb.ua/montor-asus-vg246h1a/m5107209": {
-    "name": "Монітор Asus vg246h1a",
-    "price_min": 2680,
-    "price_max": 2680,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Червоної Калини, 60/10"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-23T09:21:20Z",
-    "price_history": [
-      {
-        "price": 2680,
-        "at": "2026-05-23T09:21:20Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-23T10:53:43Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-s24f350fhi/m5102117": {
     "name": "Монітор Samsung s24f350fhi",
     "price_min": 1890,
@@ -3732,5 +3711,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-03T05:27:23Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-22mk600m/m5145581": {
+    "name": "Монітор Lg 22mk600m",
+    "price_min": 2400,
+    "price_max": 2400,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-03T10:22:30Z",
+    "price_history": [
+      {
+        "price": 2400,
+        "at": "2026-06-03T10:22:30Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-03T10:22:30Z"
   }
 }
