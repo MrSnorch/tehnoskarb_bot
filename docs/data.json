@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-04T00:13:53Z",
+  "updated_at": "2026-06-04T05:23:45Z",
   "stats": {
-    "total": 175,
-    "avg_price": 2333,
+    "total": 178,
+    "avg_price": 2326,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1045,6 +1045,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Acer b223pw",
+      "url": "https://tehnoskarb.ua/montor-acer-b223pw/m5175258",
+      "price_min": 600,
+      "price_max": 600,
+      "city": "Луцьк",
+      "addresses": [
+        "м. Луцьк, просп. Соборності, 4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-04T05:22:44Z",
+      "price_history": [
+        {
+          "price": 600,
+          "at": "2026-06-04T05:22:44Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung sm t190 ls19twh",
       "url": "https://tehnoskarb.ua/montor-samsung-sm-t190-ls19twh/m5141108",
       "price_min": 620,
@@ -1539,6 +1559,26 @@
         {
           "price": 870,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung s22a300n",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22a300n/m5091704",
+      "price_min": 880,
+      "price_max": 880,
+      "city": "Могилів-Подільський",
+      "addresses": [
+        "м. Могилів-Подільський, вул. Стависька, 42/78А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-04T05:22:44Z",
+      "price_history": [
+        {
+          "price": 880,
+          "at": "2026-06-04T05:22:44Z"
         }
       ],
       "category": "Монітори",
@@ -2980,6 +3020,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Vinga 27s218-21b",
+      "url": "https://tehnoskarb.ua/montor-vinga-27s218-21b/m5110329",
+      "price_min": 4340,
+      "price_max": 4340,
+      "city": "Житомир",
+      "addresses": [
+        "м. Житомир, вул. Довженко, 44"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-04T05:22:44Z",
+      "price_history": [
+        {
+          "price": 4340,
+          "at": "2026-06-04T05:22:44Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Aoc 24p1",
       "url": "https://tehnoskarb.ua/montor-aoc-24p1/m5123527",
       "price_min": 4500,
@@ -3584,33 +3644,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung s24f350fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24f350fhi/m5102117",
-      "price": 1990,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 240v5qdsb",
-      "url": "https://tehnoskarb.ua/montor-philips-240v5qdsb/m5100973",
-      "price": 1800,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung gh17ls",
-      "url": "https://tehnoskarb.ua/montor-samsung-gh17ls/m5098840",
-      "price": 200,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s19a100n",
@@ -5395,6 +5428,33 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-06-03T22:11:32Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer b223pw",
+      "url": "https://tehnoskarb.ua/montor-acer-b223pw/m5175258",
+      "price": 600,
+      "city": "Луцьк",
+      "category": "Монітори",
+      "at": "2026-06-04T05:22:44Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Vinga 27s218-21b",
+      "url": "https://tehnoskarb.ua/montor-vinga-27s218-21b/m5110329",
+      "price": 4340,
+      "city": "Житомир",
+      "category": "Монітори",
+      "at": "2026-06-04T05:22:44Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s22a300n",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22a300n/m5091704",
+      "price": 880,
+      "city": "Могилів-Подільський",
+      "category": "Монітори",
+      "at": "2026-06-04T05:22:44Z"
     }
   ],
   "config": {
