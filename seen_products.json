@@ -3407,27 +3407,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-02T19:42:55Z"
   },
-  "https://tehnoskarb.ua/montor-lenovo-l2364wa/m5174939": {
-    "name": "Монітор Lenovo l2364wa",
-    "price_min": 650,
-    "price_max": 650,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Заболотного, 20А"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-02T19:42:55Z",
-    "price_history": [
-      {
-        "price": 650,
-        "at": "2026-06-02T19:42:55Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-02T19:42:55Z"
-  },
   "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306": {
     "name": "Монітор Asus zenscreen mb169ck",
     "price_min": 3000,
@@ -3638,27 +3617,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-04T05:22:44Z"
   },
-  "https://tehnoskarb.ua/montor-vinga-27s218-21b/m5110329": {
-    "name": "Монітор Vinga 27s218-21b",
-    "price_min": 4340,
-    "price_max": 4340,
-    "city": "Житомир",
-    "addresses": [
-      "м. Житомир, вул. Довженко, 44"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-04T05:22:44Z",
-    "price_history": [
-      {
-        "price": 4340,
-        "at": "2026-06-04T05:22:44Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-04T05:22:44Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-s22a300n/m5091704": {
     "name": "Монітор Samsung s22a300n",
     "price_min": 880,
@@ -3696,9 +3654,9 @@
         "at": "2026-06-04T12:28:50Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-06-04T12:28:50Z",
-    "details_retry_at": "2026-06-04T12:58:50Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-06-04T16:02:17Z",
+    "details_retry_at": "2026-06-04T17:02:17Z"
   },
   "https://tehnoskarb.ua/montor-samsung-b1930n/m5069561": {
     "name": "Монітор Samsung b1930n",
@@ -3716,8 +3674,8 @@
         "at": "2026-06-04T12:28:50Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-06-04T12:28:50Z",
-    "details_retry_at": "2026-06-04T12:58:50Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-06-04T16:02:17Z",
+    "details_retry_at": "2026-06-04T17:02:17Z"
   }
 }

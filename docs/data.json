@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-04T12:29:48Z",
+  "updated_at": "2026-06-04T16:02:33Z",
   "stats": {
-    "total": 175,
-    "avg_price": 2295,
+    "total": 173,
+    "avg_price": 2293,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1234,26 +1234,6 @@
         {
           "price": 650,
           "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo l2364wa",
-      "url": "https://tehnoskarb.ua/montor-lenovo-l2364wa/m5174939",
-      "price_min": 650,
-      "price_max": 650,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Заболотного, 20А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-02T19:42:55Z",
-      "price_history": [
-        {
-          "price": 650,
-          "at": "2026-06-02T19:42:55Z"
         }
       ],
       "category": "Монітори",
@@ -2978,26 +2958,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Vinga 27s218-21b",
-      "url": "https://tehnoskarb.ua/montor-vinga-27s218-21b/m5110329",
-      "price_min": 4340,
-      "price_max": 4340,
-      "city": "Житомир",
-      "addresses": [
-        "м. Житомир, вул. Довженко, 44"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-04T05:22:44Z",
-      "price_history": [
-        {
-          "price": 4340,
-          "at": "2026-06-04T05:22:44Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc 24p1",
       "url": "https://tehnoskarb.ua/montor-aoc-24p1/m5123527",
       "price_min": 4500,
@@ -3584,24 +3544,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Dell p2211h",
-      "url": "https://tehnoskarb.ua/montor-dell-p2211h/m5086583",
-      "price": 930,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 196v3l",
-      "url": "https://tehnoskarb.ua/montor-philips-196v3l/m5081628",
-      "price": 495,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Acer v226hql",
@@ -5395,6 +5337,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-06-04T12:28:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo l2364wa",
+      "url": "https://tehnoskarb.ua/montor-lenovo-l2364wa/m5174939",
+      "price": 650,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-04T16:02:17Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Vinga 27s218-21b",
+      "url": "https://tehnoskarb.ua/montor-vinga-27s218-21b/m5110329",
+      "price": 4340,
+      "city": "Житомир",
+      "category": "Монітори",
+      "at": "2026-06-04T16:02:17Z"
     }
   ],
   "config": {
