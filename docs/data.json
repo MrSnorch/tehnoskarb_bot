@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T18:35:40Z",
+  "updated_at": "2026-06-04T20:58:44Z",
   "stats": {
     "total": 172,
     "avg_price": 2286,
@@ -1217,26 +1217,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 223v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
-      "price_min": 650,
-      "price_max": 700,
-      "city": "Миколаїв",
-      "addresses": [
-        "м. Миколаїв, вул. 3-я Слобідська, 51"
-      ],
-      "offers": 2,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 650,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer v193hq",
       "url": "https://tehnoskarb.ua/montor-acer-v193hq/m5019742",
       "price_min": 650,
@@ -1374,6 +1354,30 @@
         {
           "price": 690,
           "at": "2026-05-23T09:21:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 223v5l",
+      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
+      "price_min": 700,
+      "price_max": 700,
+      "city": "Миколаїв",
+      "addresses": [
+        "м. Миколаїв, вул. 3-я Слобідська, 51"
+      ],
+      "offers": 1,
+      "first_seen": "2026-05-23T09:21:20Z",
+      "price_history": [
+        {
+          "price": 650,
+          "at": "2026-05-23T09:21:20Z"
+        },
+        {
+          "price": 700,
+          "at": "2026-06-04T20:58:31Z"
         }
       ],
       "category": "Монітори",
@@ -3524,15 +3528,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg m2094d",
-      "url": "https://tehnoskarb.ua/montor-lg-m2094d/m5074025",
-      "price": 930,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s24a350t",
       "url": "https://tehnoskarb.ua/montor-samsung-s24a350t/m5069757",
       "price": 1480,
@@ -5333,6 +5328,16 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-06-04T18:34:40Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Philips 223v5l",
+      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
+      "price_old": 650,
+      "price_new": 700,
+      "city": "Миколаїв",
+      "category": "Монітори",
+      "at": "2026-06-04T20:58:31Z"
     }
   ],
   "config": {

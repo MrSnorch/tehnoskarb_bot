@@ -2158,13 +2158,13 @@
   },
   "https://tehnoskarb.ua/montor-philips-223v5l/m5061207": {
     "name": "Монітор Philips 223v5l",
-    "price_min": 650,
+    "price_min": 700,
     "price_max": 700,
     "city": "Миколаїв",
     "addresses": [
       "м. Миколаїв, вул. 3-я Слобідська, 51"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-05-23T09:21:20Z",
@@ -2172,6 +2172,10 @@
       {
         "price": 650,
         "at": "2026-05-23T09:21:20Z"
+      },
+      {
+        "price": 700,
+        "at": "2026-06-04T20:58:31Z"
       }
     ],
     "details_failures": 0,
@@ -3612,9 +3616,9 @@
         "at": "2026-06-04T12:28:50Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-06-04T18:34:40Z",
-    "details_retry_at": "2026-06-04T20:34:40Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-06-04T20:58:31Z",
+    "details_retry_at": "2026-06-05T00:58:31Z"
   },
   "https://tehnoskarb.ua/montor-samsung-b1930n/m5069561": {
     "name": "Монітор Samsung b1930n",
@@ -3632,9 +3636,9 @@
         "at": "2026-06-04T12:28:50Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-06-04T18:34:40Z",
-    "details_retry_at": "2026-06-04T20:34:40Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-06-04T20:58:31Z",
+    "details_retry_at": "2026-06-05T00:58:31Z"
   },
   "https://tehnoskarb.ua/montor-lg-e2360/m5164732": {
     "name": "Монітор Lg e2360",
@@ -3652,8 +3656,8 @@
         "at": "2026-06-04T18:34:40Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-06-04T18:34:40Z",
-    "details_retry_at": "2026-06-04T19:04:40Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-06-04T20:58:31Z",
+    "details_retry_at": "2026-06-04T21:58:31Z"
   }
 }
