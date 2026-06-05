@@ -652,8 +652,8 @@
   },
   "https://tehnoskarb.ua/montor-msi-optix-g27c4-e3/m5165161": {
     "name": "Монітор Msi optix g27c4 e3",
-    "price_min": 7610,
-    "price_max": 7610,
+    "price_min": 6900,
+    "price_max": 6900,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Воскресенський, 34/2"
@@ -666,6 +666,10 @@
       {
         "price": 7610,
         "at": "2026-05-23T09:21:20Z"
+      },
+      {
+        "price": 6900,
+        "at": "2026-06-05T08:49:25Z"
       }
     ],
     "details_failures": 0,
@@ -904,8 +908,8 @@
   },
   "https://tehnoskarb.ua/montor-msi-optix-g251pf/m5158847": {
     "name": "Монітор Msi optix g251pf",
-    "price_min": 4600,
-    "price_max": 4600,
+    "price_min": 4200,
+    "price_max": 4200,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Вишгородська, 56/2"
@@ -918,6 +922,10 @@
       {
         "price": 4600,
         "at": "2026-05-23T09:21:20Z"
+      },
+      {
+        "price": 4200,
+        "at": "2026-06-05T08:49:25Z"
       }
     ],
     "details_failures": 0,
@@ -2137,8 +2145,8 @@
   },
   "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136": {
     "name": "Монітор Samsung smart m7",
-    "price_min": 10500,
-    "price_max": 10500,
+    "price_min": 9500,
+    "price_max": 9500,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Бажана, 3В (м. Харківська)"
@@ -2151,6 +2159,10 @@
       {
         "price": 10500,
         "at": "2026-05-23T09:21:20Z"
+      },
+      {
+        "price": 9500,
+        "at": "2026-06-05T08:49:25Z"
       }
     ],
     "details_failures": 0,
@@ -2158,13 +2170,13 @@
   },
   "https://tehnoskarb.ua/montor-philips-223v5l/m5061207": {
     "name": "Монітор Philips 223v5l",
-    "price_min": 700,
+    "price_min": 650,
     "price_max": 700,
     "city": "Миколаїв",
     "addresses": [
       "м. Миколаїв, вул. 3-я Слобідська, 51"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-05-23T09:21:20Z",
@@ -2176,6 +2188,10 @@
       {
         "price": 700,
         "at": "2026-06-04T20:58:31Z"
+      },
+      {
+        "price": 650,
+        "at": "2026-06-05T08:49:25Z"
       }
     ],
     "details_failures": 0,
@@ -3680,5 +3696,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-05T04:57:14Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-qm32r/m5175769": {
+    "name": "Монітор Samsung qm32r",
+    "price_min": 4000,
+    "price_max": 4000,
+    "city": "Чернівці",
+    "addresses": [
+      "м. Чернівці, вул. Головна, 10"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-05T08:49:25Z",
+    "price_history": [
+      {
+        "price": 4000,
+        "at": "2026-06-05T08:49:25Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-05T08:49:25Z"
   }
 }
