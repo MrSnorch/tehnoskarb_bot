@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T17:58:01Z",
+  "updated_at": "2026-06-05T20:05:24Z",
   "stats": {
     "total": 167,
     "avg_price": 2342,
@@ -864,6 +864,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung syncmaster 931bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
+      "price_min": 550,
+      "price_max": 580,
+      "city": "Бровари",
+      "addresses": [
+        "м. Бровари, б-р Незалежності, 11"
+      ],
+      "offers": 2,
+      "first_seen": "2026-05-23T18:33:59Z",
+      "price_history": [
+        {
+          "price": 580,
+          "at": "2026-05-23T18:33:59Z"
+        },
+        {
+          "price": 550,
+          "at": "2026-06-05T20:04:31Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung 206bw",
       "url": "https://tehnoskarb.ua/montor-samsung-206bw/m5008710",
       "price_min": 550,
@@ -898,26 +922,6 @@
         {
           "price": 580,
           "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung syncmaster 931bf",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
-      "price_min": 580,
-      "price_max": 580,
-      "city": "Бровари",
-      "addresses": [
-        "м. Бровари, б-р Незалежності, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T18:33:59Z",
-      "price_history": [
-        {
-          "price": 580,
-          "at": "2026-05-23T18:33:59Z"
         }
       ],
       "category": "Монітори",
@@ -3446,15 +3450,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung 151b",
-      "url": "https://tehnoskarb.ua/montor-samsung-151b/m5048220",
-      "price": 120,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg w2042s",
       "url": "https://tehnoskarb.ua/montor-lg-w2042s/m5047765",
       "price": 675,
@@ -5262,6 +5257,16 @@
       "city": "Луцьк",
       "category": "Монітори",
       "at": "2026-06-05T17:57:52Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung syncmaster 931bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
+      "price_old": 580,
+      "price_new": 550,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-06-05T20:04:31Z"
     }
   ],
   "config": {
