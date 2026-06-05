@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-05T15:35:18Z",
+  "updated_at": "2026-06-05T17:58:01Z",
   "stats": {
-    "total": 169,
-    "avg_price": 2322,
+    "total": 167,
+    "avg_price": 2342,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -71,26 +71,6 @@
       "price_history": [
         {
           "price": 110,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 151b",
-      "url": "https://tehnoskarb.ua/montor-samsung-151b/m5048220",
-      "price_min": 120,
-      "price_max": 120,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Корольова, 80"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 120,
           "at": "2026-05-23T09:21:20Z"
         }
       ],
@@ -1682,26 +1662,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg e2260s",
-      "url": "https://tehnoskarb.ua/montor-lg-e2260s/m5042471",
-      "price_min": 1070,
-      "price_max": 1070,
-      "city": "Луцьк",
-      "addresses": [
-        "м. Луцьк, просп. Соборності, 4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 1070,
-          "at": "2026-05-23T09:21:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 22mp58d-p",
       "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
       "price_min": 1070,
@@ -2259,12 +2219,12 @@
       "name": "Монітор Samsung c24f390fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
       "price_min": 2350,
-      "price_max": 2500,
+      "price_max": 2350,
       "city": "Дрогобич",
       "addresses": [
         "м. Дрогобич, вул. Пилипа Орлика, 14"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-05-23T09:21:20Z",
       "price_history": [
         {
@@ -3484,24 +3444,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung c24rg50fzi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c24rg50fzi/m5051953",
-      "price": 3600,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer p193w",
-      "url": "https://tehnoskarb.ua/montor-acer-p193w/m5051457",
-      "price": 330,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung 151b",
@@ -5302,6 +5244,24 @@
       "city": "Харків",
       "category": "Монітори",
       "at": "2026-06-05T15:35:06Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 151b",
+      "url": "https://tehnoskarb.ua/montor-samsung-151b/m5048220",
+      "price": 120,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-06-05T17:57:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg e2260s",
+      "url": "https://tehnoskarb.ua/montor-lg-e2260s/m5042471",
+      "price": 1070,
+      "city": "Луцьк",
+      "category": "Монітори",
+      "at": "2026-06-05T17:57:52Z"
     }
   ],
   "config": {
