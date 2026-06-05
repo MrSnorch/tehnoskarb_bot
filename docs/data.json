@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-05T00:12:35Z",
+  "updated_at": "2026-06-05T04:58:09Z",
   "stats": {
-    "total": 172,
-    "avg_price": 2286,
+    "total": 173,
+    "avg_price": 2284,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -779,13 +779,13 @@
       "name": "Монітор Asus vs197",
       "url": "https://tehnoskarb.ua/montor-asus-vs197/m5042579",
       "price_min": 494,
-      "price_max": 494,
+      "price_max": 650,
       "city": "Київ",
       "addresses": [
         "м. Київ, б-р Чоколовський, 21",
         "м. Київ, просп. Миру, 2/3"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-05-23T09:21:20Z",
       "price_history": [
         {
@@ -2165,6 +2165,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Acer eb192qbbi",
+      "url": "https://tehnoskarb.ua/montor-acer-eb192qbbi/m5176018",
+      "price_min": 1800,
+      "price_max": 1800,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Солом`янська , 22"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-05T04:57:14Z",
+      "price_history": [
+        {
+          "price": 1800,
+          "at": "2026-06-05T04:57:14Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 24mk430h",
       "url": "https://tehnoskarb.ua/montor-lg-24mk430h/m5153163",
       "price_min": 1850,
@@ -3526,15 +3546,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung s24a350t",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24a350t/m5069757",
-      "price": 1480,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung b1930n",
@@ -5338,6 +5349,15 @@
       "city": "Миколаїв",
       "category": "Монітори",
       "at": "2026-06-04T20:58:31Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer eb192qbbi",
+      "url": "https://tehnoskarb.ua/montor-acer-eb192qbbi/m5176018",
+      "price": 1800,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-05T04:57:14Z"
     }
   ],
   "config": {
