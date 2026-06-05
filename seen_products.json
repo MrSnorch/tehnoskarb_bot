@@ -461,26 +461,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-23T10:53:43Z"
   },
-  "https://tehnoskarb.ua/montor-cunpu-u240ca/m5167388": {
-    "name": "Монітор Cunpu u240ca",
-    "price_min": 4200,
-    "price_max": 4200,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-23T09:21:20Z",
-    "price_history": [
-      {
-        "price": 4200,
-        "at": "2026-05-23T09:21:20Z"
-      }
-    ],
-    "details_failures": 44,
-    "details_last_attempt": "2026-06-05T12:10:12Z",
-    "details_retry_at": "2026-06-05T18:10:12Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-u32j590u/m5167067": {
     "name": "Монітор Samsung u32j590u",
     "price_min": 6900,
@@ -781,27 +761,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-05-23T10:53:43Z"
   },
-  "https://tehnoskarb.ua/montor-acer-g226hql/m5160957": {
-    "name": "Монітор Acer g226hql",
-    "price_min": 1200,
-    "price_max": 1200,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Білоруська, 8"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-23T09:21:20Z",
-    "price_history": [
-      {
-        "price": 1200,
-        "at": "2026-05-23T09:21:20Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-23T10:53:43Z"
-  },
   "https://tehnoskarb.ua/montor-lenovo-legion-r27qe-gen-2/m5160896": {
     "name": "Монітор Lenovo legion r27qe gen 2",
     "price_min": 6180,
@@ -967,31 +926,6 @@
       {
         "price": 5900,
         "at": "2026-05-23T09:21:20Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-23T10:53:43Z"
-  },
-  "https://tehnoskarb.ua/montor-benq-gl2023a/m5158028": {
-    "name": "Монітор Benq gl2023a",
-    "price_min": 680,
-    "price_max": 680,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-23T09:21:20Z",
-    "price_history": [
-      {
-        "price": 630,
-        "at": "2026-05-23T09:21:20Z"
-      },
-      {
-        "price": 680,
-        "at": "2026-05-29T10:30:10Z"
       }
     ],
     "details_failures": 0,
@@ -1433,32 +1367,6 @@
       {
         "price": 620,
         "at": "2026-05-23T09:21:20Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-05-23T10:53:43Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009": {
-    "name": "Монітор Samsung bx2235 ls22b3uvmn",
-    "price_min": 790,
-    "price_max": 790,
-    "city": "Харків",
-    "addresses": [
-      "м. Харків, вул. Дудинської, 1-А",
-      "м. Івано-Франківськ, вул. Василіянок, 7"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-05-23T09:21:20Z",
-    "price_history": [
-      {
-        "price": 765,
-        "at": "2026-05-23T09:21:20Z"
-      },
-      {
-        "price": 790,
-        "at": "2026-05-29T13:46:57Z"
       }
     ],
     "details_failures": 0,
@@ -2958,12 +2866,12 @@
   "https://tehnoskarb.ua/montor-lg-l1717s/m5048252": {
     "name": "Монітор Lg l1717s",
     "price_min": 270,
-    "price_max": 300,
+    "price_max": 270,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Кирилівська, 129"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-05-28T04:50:24Z",
