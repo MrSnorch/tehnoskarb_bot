@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-06T01:29:10Z",
+  "updated_at": "2026-06-06T05:35:57Z",
   "stats": {
-    "total": 167,
-    "avg_price": 2342,
+    "total": 168,
+    "avg_price": 2344,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2338,6 +2338,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 27mp65hq",
+      "url": "https://tehnoskarb.ua/montor-lg-27mp65hq/m5174814",
+      "price_min": 2600,
+      "price_max": 2600,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-06-06T05:35:03Z",
+      "price_history": [
+        {
+          "price": 2600,
+          "at": "2026-06-06T05:35:03Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s27r350",
       "url": "https://tehnoskarb.ua/montor-samsung-s27r350/m5174594",
       "price_min": 2640,
@@ -3448,15 +3466,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg w2042s",
-      "url": "https://tehnoskarb.ua/montor-lg-w2042s/m5047765",
-      "price": 675,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung e1920",
@@ -5267,6 +5276,15 @@
       "city": "Бровари",
       "category": "Монітори",
       "at": "2026-06-05T20:04:31Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 27mp65hq",
+      "url": "https://tehnoskarb.ua/montor-lg-27mp65hq/m5174814",
+      "price": 2600,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-06-06T05:35:03Z"
     }
   ],
   "config": {
