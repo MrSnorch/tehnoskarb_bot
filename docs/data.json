@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-06T12:07:45Z",
+  "updated_at": "2026-06-06T14:16:46Z",
   "stats": {
-    "total": 169,
-    "avg_price": 2350,
+    "total": 168,
+    "avg_price": 2359,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1579,26 +1579,6 @@
         {
           "price": 910,
           "at": "2026-06-04T12:28:50Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vs229",
-      "url": "https://tehnoskarb.ua/montor-asus-vs229/m5139525",
-      "price_min": 950,
-      "price_max": 950,
-      "city": "Кременчук",
-      "addresses": [
-        "м. Кременчук, вул. Покровська, 15/34"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-23T09:21:20Z",
-      "price_history": [
-        {
-          "price": 950,
-          "at": "2026-05-23T09:21:20Z"
         }
       ],
       "category": "Монітори",
@@ -3488,15 +3468,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung odyssey g3",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3/m5043875",
-      "price": 3465,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung 720n",
       "url": "https://tehnoskarb.ua/montor-samsung-720n/m5042700",
       "price": 420,
@@ -5305,6 +5276,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-06T08:37:16Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vs229",
+      "url": "https://tehnoskarb.ua/montor-asus-vs229/m5139525",
+      "price": 950,
+      "city": "Кременчук",
+      "category": "Монітори",
+      "at": "2026-06-06T14:16:38Z"
     }
   ],
   "config": {
