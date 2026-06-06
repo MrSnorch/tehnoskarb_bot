@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-06T18:49:18Z",
+  "updated_at": "2026-06-06T20:11:39Z",
   "stats": {
-    "total": 168,
-    "avg_price": 2359,
+    "total": 167,
+    "avg_price": 2363,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1945,26 +1945,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung ls24r350fhixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
-      "price_min": 1700,
-      "price_max": 1700,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ,  вул. Драгоманова, 27"
-      ],
-      "offers": 1,
-      "first_seen": "2026-05-25T05:05:37Z",
-      "price_history": [
-        {
-          "price": 1700,
-          "at": "2026-05-25T05:05:37Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc e2475pwj",
       "url": "https://tehnoskarb.ua/montor-aoc-e2475pwj/m5160193",
       "price_min": 1740,
@@ -3466,15 +3446,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung 720n",
-      "url": "https://tehnoskarb.ua/montor-samsung-720n/m5042700",
-      "price": 420,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vs197",
@@ -5285,6 +5256,15 @@
       "city": "Кременчук",
       "category": "Монітори",
       "at": "2026-06-06T14:16:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung ls24r350fhixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
+      "price": 1700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-06T20:11:32Z"
     }
   ],
   "config": {
