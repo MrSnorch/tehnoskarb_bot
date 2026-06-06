@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-06T05:35:57Z",
+  "updated_at": "2026-06-06T08:37:27Z",
   "stats": {
-    "total": 168,
-    "avg_price": 2344,
+    "total": 169,
+    "avg_price": 2350,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2691,6 +2691,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор 2E 2e-h2420b",
+      "url": "https://tehnoskarb.ua/montor-2e-2e-h2420b/m5176124",
+      "price_min": 3500,
+      "price_max": 3500,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Правди, 41-А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-06T08:37:16Z",
+      "price_history": [
+        {
+          "price": 3500,
+          "at": "2026-06-06T08:37:16Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi pro mp271",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp271/m5166042",
       "price_min": 3620,
@@ -3466,15 +3486,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung e1920",
-      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
-      "price": 650,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-05-23T09:21:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung odyssey g3",
@@ -5285,6 +5296,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-06-06T05:35:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор 2E 2e-h2420b",
+      "url": "https://tehnoskarb.ua/montor-2e-2e-h2420b/m5176124",
+      "price": 3500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-06T08:37:16Z"
     }
   ],
   "config": {

@@ -3591,8 +3591,29 @@
         "at": "2026-06-06T05:35:03Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-06-06T05:35:03Z",
-    "details_retry_at": "2026-06-06T06:05:03Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-06-06T08:37:16Z",
+    "details_retry_at": "2026-06-06T09:37:16Z"
+  },
+  "https://tehnoskarb.ua/montor-2e-2e-h2420b/m5176124": {
+    "name": "Монітор 2E 2e-h2420b",
+    "price_min": 3500,
+    "price_max": 3500,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Правди, 41-А"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-06T08:37:16Z",
+    "price_history": [
+      {
+        "price": 3500,
+        "at": "2026-06-06T08:37:16Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-06T08:37:16Z"
   }
 }
