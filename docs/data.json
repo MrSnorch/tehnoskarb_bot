@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-08T01:41:42Z",
+  "updated_at": "2026-06-08T06:48:07Z",
   "stats": {
-    "total": 166,
-    "avg_price": 2355,
+    "total": 167,
+    "avg_price": 2352,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -791,31 +791,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung 943nw",
-      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
-      "price_min": 510,
-      "price_max": 650,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, просп. Незалежності, 82",
-        "м. Львів, вул. Широка, 70-В"
-      ],
-      "offers": 2,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 600,
-          "at": "2026-06-07T11:49:57Z"
-        },
-        {
-          "price": 510,
-          "at": "2026-06-07T17:21:31Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s19c200bw",
       "url": "https://tehnoskarb.ua/nastlnijj-montor-samsung-s19c200bw/m5163822",
       "price_min": 530,
@@ -1185,6 +1160,35 @@
         {
           "price": 650,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 943nw",
+      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
+      "price_min": 650,
+      "price_max": 650,
+      "city": "Чернівці",
+      "addresses": [
+        "м. Чернівці, просп. Незалежності, 82",
+        "м. Львів, вул. Широка, 70-В"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-07T11:49:57Z",
+      "price_history": [
+        {
+          "price": 600,
+          "at": "2026-06-07T11:49:57Z"
+        },
+        {
+          "price": 510,
+          "at": "2026-06-07T17:21:31Z"
+        },
+        {
+          "price": 650,
+          "at": "2026-06-08T06:47:57Z"
         }
       ],
       "category": "Монітори",
@@ -1895,6 +1899,26 @@
         {
           "price": 1670,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Aoc 22p1",
+      "url": "https://tehnoskarb.ua/montor-aoc-22p1/m5169396",
+      "price_min": 1670,
+      "price_max": 1670,
+      "city": "Житомир",
+      "addresses": [
+        "м. Житомир, вул. Небесної Сотні, 15"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-08T06:47:57Z",
+      "price_history": [
+        {
+          "price": 1670,
+          "at": "2026-06-08T06:47:57Z"
         }
       ],
       "category": "Монітори",
@@ -3355,24 +3379,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 920n",
-      "url": "https://tehnoskarb.ua/montor-samsung-920n/m5011274",
-      "price": 300,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-06-07T09:47:14Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 206bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-206bw/m5008710",
-      "price": 550,
-      "city": "Вишневе",
-      "category": "Монітори",
-      "at": "2026-06-07T09:47:14Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung 971p",
@@ -5155,6 +5161,25 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-06-07T17:21:31Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc 22p1",
+      "url": "https://tehnoskarb.ua/montor-aoc-22p1/m5169396",
+      "price": 1670,
+      "city": "Житомир",
+      "category": "Монітори",
+      "at": "2026-06-08T06:47:57Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung 943nw",
+      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
+      "price_old": 510,
+      "price_new": 650,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-06-08T06:47:57Z"
     }
   ],
   "config": {
