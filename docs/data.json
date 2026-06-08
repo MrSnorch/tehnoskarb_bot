@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-08T18:44:07Z",
+  "updated_at": "2026-06-08T21:11:24Z",
   "stats": {
-    "total": 165,
-    "avg_price": 2403,
+    "total": 167,
+    "avg_price": 2410,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2339,6 +2339,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Acer ek271ebi",
+      "url": "https://tehnoskarb.ua/montor-acer-ek271ebi/m5106385",
+      "price_min": 2910,
+      "price_max": 2910,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-06-08T21:11:11Z",
+      "price_history": [
+        {
+          "price": 2910,
+          "at": "2026-06-08T21:11:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Philips 241v8l/00",
       "url": "https://tehnoskarb.ua/montor-philips-241v8l-00/m5167405",
       "price_min": 3000,
@@ -2471,6 +2489,24 @@
         {
           "price": 3090,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор портативний Zsus pm14tt-2k",
+      "url": "https://tehnoskarb.ua/montor-portativnijj-zsus-pm14tt-2k/m5176376",
+      "price_min": 3100,
+      "price_max": 3100,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-06-08T21:11:11Z",
+      "price_history": [
+        {
+          "price": 3100,
+          "at": "2026-06-08T21:11:11Z"
         }
       ],
       "category": "Монітори",
@@ -3342,24 +3378,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Acer sa242yh1bi",
-      "url": "https://tehnoskarb.ua/montor-acer-sa242yh1bi/m5171916",
-      "price": 2020,
-      "city": "Черкаси",
-      "category": "Монітори",
-      "at": "2026-06-07T09:47:14Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg 22mk600m",
-      "url": "https://tehnoskarb.ua/montor-lg-22mk600m/m5145581",
-      "price": 2400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-07T09:47:14Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lg m208",
@@ -5143,6 +5161,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-08T18:43:00Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор портативний Zsus pm14tt-2k",
+      "url": "https://tehnoskarb.ua/montor-portativnijj-zsus-pm14tt-2k/m5176376",
+      "price": 3100,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-06-08T21:11:11Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer ek271ebi",
+      "url": "https://tehnoskarb.ua/montor-acer-ek271ebi/m5106385",
+      "price": 2910,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-06-08T21:11:11Z"
     }
   ],
   "config": {
