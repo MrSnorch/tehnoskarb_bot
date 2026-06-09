@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-09T08:31:37Z",
+  "updated_at": "2026-06-09T12:07:41Z",
   "stats": {
-    "total": 167,
-    "avg_price": 2391,
+    "total": 166,
+    "avg_price": 2382,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2645,26 +2645,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lenovo legion r24e",
-      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
-      "price_min": 3800,
-      "price_max": 3800,
-      "city": "Полтава",
-      "addresses": [
-        "м. Полтава, вул. Соборності, 79"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 3800,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vg249q1",
       "url": "https://tehnoskarb.ua/montor-asus-vg249q1/m5114747",
       "price_min": 3800,
@@ -3386,15 +3366,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung s22a300n",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22a300n/m5091704",
-      "price": 880,
-      "city": "Могилів-Подільський",
-      "category": "Монітори",
-      "at": "2026-06-07T09:47:14Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Hp n223",
@@ -5189,6 +5160,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-09T08:31:32Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo legion r24e",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
+      "price": 3800,
+      "city": "Полтава",
+      "category": "Монітори",
+      "at": "2026-06-09T12:06:46Z"
     }
   ],
   "config": {
