@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T15:39:30Z",
+  "updated_at": "2026-06-09T18:09:52Z",
   "stats": {
     "total": 166,
     "avg_price": 2374,
@@ -2268,27 +2268,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s27r350",
-      "url": "https://tehnoskarb.ua/montor-samsung-s27r350/m5174594",
-      "price_min": 2640,
-      "price_max": 2700,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Ялтинська, 8",
-        "м. Самар, вул. Гетьманська, 35/21"
-      ],
-      "offers": 2,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 2640,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi pro mp2412",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp2412/m5057728",
       "price_min": 2670,
@@ -2303,6 +2282,31 @@
         {
           "price": 2670,
           "at": "2026-06-09T15:39:13Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung s27r350",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27r350/m5174594",
+      "price_min": 2700,
+      "price_max": 2700,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Ялтинська, 8",
+        "м. Самар, вул. Гетьманська, 35/21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-07T11:49:57Z",
+      "price_history": [
+        {
+          "price": 2640,
+          "at": "2026-06-07T11:49:57Z"
+        },
+        {
+          "price": 2700,
+          "at": "2026-06-09T18:08:57Z"
         }
       ],
       "category": "Монітори",
@@ -3366,15 +3370,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung qm32r",
-      "url": "https://tehnoskarb.ua/montor-samsung-qm32r/m5175769",
-      "price": 4000,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-06-07T09:47:14Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Asus vg259qr",
@@ -5169,6 +5164,16 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-09T15:39:13Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung s27r350",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27r350/m5174594",
+      "price_old": 2640,
+      "price_new": 2700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-09T18:08:57Z"
     }
   ],
   "config": {
