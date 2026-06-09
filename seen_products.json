@@ -1341,27 +1341,6 @@
     "details_last_attempt": "2026-06-09T12:06:46Z",
     "details_retry_at": "2026-06-09T18:06:46Z"
   },
-  "https://tehnoskarb.ua/montor-msi-optix-g251pf/m5158847": {
-    "name": "Монітор Msi optix g251pf",
-    "price_min": 4200,
-    "price_max": 4200,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Вишгородська, 56/2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-07T11:49:57Z",
-    "price_history": [
-      {
-        "price": 4200,
-        "at": "2026-06-07T11:49:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-07T14:00:10Z"
-  },
   "https://tehnoskarb.ua/montor-aoc-e950swn-185lm00013/m5158393": {
     "name": "Монітор Aoc e950swn / 185lm00013",
     "price_min": 630,
@@ -2512,27 +2491,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-07T14:00:10Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-s24d300h/m5087613": {
-    "name": "Монітор Samsung s24d300h",
-    "price_min": 1490,
-    "price_max": 1490,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Гарматна, 44/2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-07T11:49:57Z",
-    "price_history": [
-      {
-        "price": 1490,
-        "at": "2026-06-07T11:49:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-07T14:00:10Z"
-  },
   "https://tehnoskarb.ua/montor-philips-196v3l/m5081628": {
     "name": "Монітор Philips 196v3l",
     "price_min": 495,
@@ -3495,5 +3453,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-09T04:45:50Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339": {
+    "name": "Монітор Samsung ls24r350fhixci",
+    "price_min": 1700,
+    "price_max": 1700,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ,  вул. Драгоманова, 27"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-09T15:39:13Z",
+    "price_history": [
+      {
+        "price": 1700,
+        "at": "2026-06-09T15:39:13Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-09T15:39:13Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-pro-mp2412/m5057728": {
+    "name": "Монітор Msi pro mp2412",
+    "price_min": 2670,
+    "price_max": 2670,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Ревуцького, 12/1"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-09T15:39:13Z",
+    "price_history": [
+      {
+        "price": 2670,
+        "at": "2026-06-09T15:39:13Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-09T15:39:13Z"
   }
 }
