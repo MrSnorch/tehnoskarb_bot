@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-09T04:46:53Z",
+  "updated_at": "2026-06-09T08:31:37Z",
   "stats": {
-    "total": 168,
-    "avg_price": 2400,
+    "total": 167,
+    "avg_price": 2391,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2705,26 +2705,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix mag 256f",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag-256f/m5133408",
-      "price_min": 3900,
-      "price_max": 3900,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Воскресенський, 34/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-08T18:43:00Z",
-      "price_history": [
-        {
-          "price": 3900,
-          "at": "2026-06-08T18:43:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung qm32r",
       "url": "https://tehnoskarb.ua/montor-samsung-qm32r/m5175769",
       "price_min": 4000,
@@ -3406,15 +3386,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Acer b223pw",
-      "url": "https://tehnoskarb.ua/montor-acer-b223pw/m5175258",
-      "price": 600,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-06-07T09:47:14Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung s22a300n",
@@ -5209,6 +5180,15 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-06-09T04:45:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix mag 256f",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-mag-256f/m5133408",
+      "price": 3900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-09T08:31:32Z"
     }
   ],
   "config": {
