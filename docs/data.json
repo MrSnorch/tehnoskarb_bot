@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-09T00:11:39Z",
+  "updated_at": "2026-06-09T04:46:53Z",
   "stats": {
-    "total": 167,
-    "avg_price": 2410,
+    "total": 168,
+    "avg_price": 2400,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -790,6 +790,63 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg w1943ss",
+      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
+      "price_min": 500,
+      "price_max": 630,
+      "city": "Золочів",
+      "addresses": [
+        "м. Золочів, вул. Шашкевича, 4"
+      ],
+      "offers": 3,
+      "first_seen": "2026-06-07T11:49:57Z",
+      "price_history": [
+        {
+          "price": 550,
+          "at": "2026-06-07T11:49:57Z"
+        },
+        {
+          "price": 500,
+          "at": "2026-06-09T04:45:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 943nw",
+      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
+      "price_min": 510,
+      "price_max": 650,
+      "city": "Чернівці",
+      "addresses": [
+        "м. Чернівці, просп. Незалежності, 82",
+        "м. Львів, вул. Широка, 70-В"
+      ],
+      "offers": 2,
+      "first_seen": "2026-06-07T11:49:57Z",
+      "price_history": [
+        {
+          "price": 600,
+          "at": "2026-06-07T11:49:57Z"
+        },
+        {
+          "price": 510,
+          "at": "2026-06-07T17:21:31Z"
+        },
+        {
+          "price": 650,
+          "at": "2026-06-08T06:47:57Z"
+        },
+        {
+          "price": 510,
+          "at": "2026-06-09T04:45:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s19c200bw",
       "url": "https://tehnoskarb.ua/nastlnijj-montor-samsung-s19c200bw/m5163822",
       "price_min": 530,
@@ -838,26 +895,6 @@
       "addresses": [
         "м. Бровари, б-р Незалежності, 11",
         "м. Вінниця, вул. Героїв Нацгвардії, 44"
-      ],
-      "offers": 2,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 550,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg w1943ss",
-      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
-      "price_min": 550,
-      "price_max": 630,
-      "city": "Золочів",
-      "addresses": [
-        "м. Золочів, вул. Шашкевича, 4"
       ],
       "offers": 2,
       "first_seen": "2026-06-07T11:49:57Z",
@@ -1145,35 +1182,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung 943nw",
-      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
-      "price_min": 650,
-      "price_max": 650,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, просп. Незалежності, 82",
-        "м. Львів, вул. Широка, 70-В"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 600,
-          "at": "2026-06-07T11:49:57Z"
-        },
-        {
-          "price": 510,
-          "at": "2026-06-07T17:21:31Z"
-        },
-        {
-          "price": 650,
-          "at": "2026-06-08T06:47:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg m208",
       "url": "https://tehnoskarb.ua/montor-lg-m208/m5175706",
       "price_min": 670,
@@ -1365,6 +1373,26 @@
         {
           "price": 790,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung bx2235 ls22b3uvmn",
+      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
+      "price_min": 790,
+      "price_max": 790,
+      "city": "Івано-Франківськ",
+      "addresses": [
+        "м. Івано-Франківськ, вул. Василя Стуса, 17А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-09T04:45:50Z",
+      "price_history": [
+        {
+          "price": 790,
+          "at": "2026-06-09T04:45:50Z"
         }
       ],
       "category": "Монітори",
@@ -3380,33 +3408,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Lg m208",
-      "url": "https://tehnoskarb.ua/montor-lg-m208/m5175706",
-      "price": 670,
-      "city": "Павлоград",
-      "category": "Монітори",
-      "at": "2026-06-07T09:47:14Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Acer nitro xv272uw2bmiiprx",
-      "url": "https://tehnoskarb.ua/montor-acer-nitro-xv272uw2bmiiprx/m5175710",
-      "price": 7700,
-      "city": "Миколаїв",
-      "category": "Монітори",
-      "at": "2026-06-07T09:47:14Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Acer nitro xv253qxbmiiprzx",
-      "url": "https://tehnoskarb.ua/montor-acer-nitro-xv253qxbmiiprzx/m5143202",
-      "price": 5880,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-07T09:47:14Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Acer b223pw",
       "url": "https://tehnoskarb.ua/montor-acer-b223pw/m5175258",
       "price": 600,
@@ -5179,6 +5180,35 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-06-08T21:11:11Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung bx2235 ls22b3uvmn",
+      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
+      "price": 790,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-06-09T04:45:50Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Lg w1943ss",
+      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
+      "price_old": 550,
+      "price_new": 500,
+      "city": "Золочів",
+      "category": "Монітори",
+      "at": "2026-06-09T04:45:50Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung 943nw",
+      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
+      "price_old": 650,
+      "price_new": 510,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-06-09T04:45:50Z"
     }
   ],
   "config": {
