@@ -1250,7 +1250,7 @@
     "addresses": [
       "м. Червоноград, просп. Шевченка, 10"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-07T11:49:57Z",
@@ -1844,26 +1844,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-07T14:00:10Z"
-  },
-  "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554": {
-    "name": "Монітор Philips 236v3lab/01",
-    "price_min": 870,
-    "price_max": 870,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-07T11:49:57Z",
-    "price_history": [
-      {
-        "price": 870,
-        "at": "2026-06-07T11:49:57Z"
-      }
-    ],
-    "details_failures": 10,
-    "details_last_attempt": "2026-06-09T18:08:57Z",
-    "details_retry_at": "2026-06-10T00:08:57Z"
   },
   "https://tehnoskarb.ua/montor-samsung-sm-t190-ls19twh/m5141108": {
     "name": "Монітор Samsung sm t190 ls19twh",
@@ -3499,5 +3479,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-09T15:39:13Z"
+  },
+  "https://tehnoskarb.ua/montor-fujitsu-l22t-2/m5169037": {
+    "name": "Монітор Fujitsu l22t-2",
+    "price_min": 580,
+    "price_max": 580,
+    "city": "Луцьк",
+    "addresses": [
+      "м. Луцьк, просп. Соборності, 38"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-09T20:28:26Z",
+    "price_history": [
+      {
+        "price": 580,
+        "at": "2026-06-09T20:28:26Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-09T20:28:26Z"
   }
 }
