@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-10T19:13:15Z",
+  "updated_at": "2026-06-10T21:35:46Z",
   "stats": {
     "total": 173,
-    "avg_price": 2424,
+    "avg_price": 2427,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2613,26 +2613,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi pro mp273a",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp273a/m5175277",
-      "price_min": 3090,
-      "price_max": 3090,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Космонавтів, 9"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 3090,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор портативний Zsus pm14tt-2k",
       "url": "https://tehnoskarb.ua/montor-portativnijj-zsus-pm14tt-2k/m5176376",
       "price_min": 3100,
@@ -2728,6 +2708,26 @@
         {
           "price": 3500,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell p2418d",
+      "url": "https://tehnoskarb.ua/montor-dell-p2418d/m5065599",
+      "price_min": 3500,
+      "price_max": 3500,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-10T21:35:34Z",
+      "price_history": [
+        {
+          "price": 3500,
+          "at": "2026-06-10T21:35:34Z"
         }
       ],
       "category": "Монітори",
@@ -3518,24 +3518,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Prestigio p3191w",
-      "url": "https://tehnoskarb.ua/montor-prestigio-p3191w/m5172125",
-      "price": 240,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 152v p",
-      "url": "https://tehnoskarb.ua/montor-samsung-152v-p/m5172018",
-      "price": 150,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vh192d",
@@ -5324,6 +5306,24 @@
       "city": "Запоріжжя",
       "category": "Монітори",
       "at": "2026-06-10T19:12:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp273a",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp273a/m5175277",
+      "price": 3090,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-06-10T21:35:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell p2418d",
+      "url": "https://tehnoskarb.ua/montor-dell-p2418d/m5065599",
+      "price": 3500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-10T21:35:34Z"
     }
   ],
   "config": {
