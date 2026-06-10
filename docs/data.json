@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-10T16:22:19Z",
+  "updated_at": "2026-06-10T19:13:15Z",
   "stats": {
-    "total": 170,
-    "avg_price": 2441,
+    "total": 173,
+    "avg_price": 2424,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -666,6 +666,26 @@
         {
           "price": 420,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vw193d",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
+      "price_min": 420,
+      "price_max": 420,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, просп. Тракторобудівників, 108"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-10T19:12:08Z",
+      "price_history": [
+        {
+          "price": 420,
+          "at": "2026-06-10T19:12:08Z"
         }
       ],
       "category": "Монітори",
@@ -1373,6 +1393,26 @@
         {
           "price": 770,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Hp la2006x",
+      "url": "https://tehnoskarb.ua/montor-hp-la2006x/m5075752",
+      "price_min": 770,
+      "price_max": 770,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-10T19:12:08Z",
+      "price_history": [
+        {
+          "price": 770,
+          "at": "2026-06-10T19:12:08Z"
         }
       ],
       "category": "Монітори",
@@ -2634,6 +2674,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s27c330",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27c330/m5169138",
+      "price_min": 3300,
+      "price_max": 3300,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Бажана, 3В (м. Харківська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-10T19:12:08Z",
+      "price_history": [
+        {
+          "price": 3300,
+          "at": "2026-06-10T19:12:08Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор 2E 2e-h2420b",
       "url": "https://tehnoskarb.ua/montor-2e-2e-h2420b/m5176124",
       "price_min": 3500,
@@ -3458,33 +3518,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg flatron w1930s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-w1930s/m5173068",
-      "price": 550,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 236v3lsb",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
-      "price": 650,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 910n",
-      "url": "https://tehnoskarb.ua/montor-samsung-910n/m5172439",
-      "price": 240,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Prestigio p3191w",
@@ -5264,6 +5297,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-10T16:22:01Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vw193d",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
+      "price": 420,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-06-10T19:12:08Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s27c330",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27c330/m5169138",
+      "price": 3300,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-10T19:12:08Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp la2006x",
+      "url": "https://tehnoskarb.ua/montor-hp-la2006x/m5075752",
+      "price": 770,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-06-10T19:12:08Z"
     }
   ],
   "config": {
