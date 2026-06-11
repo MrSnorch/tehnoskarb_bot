@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-11T16:09:39Z",
+  "updated_at": "2026-06-11T19:20:06Z",
   "stats": {
-    "total": 174,
-    "avg_price": 2446,
+    "total": 176,
+    "avg_price": 2440,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -40,6 +40,7 @@
       "Павлоград",
       "Полтава",
       "Ромни",
+      "Рівне",
       "Самбір",
       "Тернопіль",
       "Ужгород",
@@ -720,7 +721,7 @@
       "addresses": [
         "м. Полтава, вул. Європейська, 22"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -1660,13 +1661,13 @@
       "name": "Монітор Lg 22mp58d-p",
       "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
       "price_min": 1070,
-      "price_max": 1070,
+      "price_max": 1970,
       "city": "Київ",
       "addresses": [
         "м. Київ, вул. Малишка, 2-Д (м. Дарниця)",
         "м. Київ, просп. Воскресенський, 34/2"
       ],
-      "offers": 4,
+      "offers": 5,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -2111,6 +2112,46 @@
         {
           "price": 1890,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung ls24d300gaixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gaixci/m5172208",
+      "price_min": 1900,
+      "price_max": 1900,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Кам`янецька, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-11T19:19:08Z",
+      "price_history": [
+        {
+          "price": 1900,
+          "at": "2026-06-11T19:19:08Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 243v7q",
+      "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
+      "price_min": 1900,
+      "price_max": 1900,
+      "city": "Рівне",
+      "addresses": [
+        "м. Рівне, вул. Грушевського, 1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-11T19:19:08Z",
+      "price_history": [
+        {
+          "price": 1900,
+          "at": "2026-06-11T19:19:08Z"
         }
       ],
       "category": "Монітори",
@@ -3548,24 +3589,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus mm19se",
-      "url": "https://tehnoskarb.ua/montor-asus-mm19se/m5168784",
-      "price": 310,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus va259hga",
-      "url": "https://tehnoskarb.ua/montor-asus-va259hga/m5168218",
-      "price": 3320,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Philips 272e1c",
@@ -5356,6 +5379,24 @@
       "city": "Вінниця",
       "category": "Монітори",
       "at": "2026-06-11T16:09:24Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung ls24d300gaixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gaixci/m5172208",
+      "price": 1900,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-06-11T19:19:08Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 243v7q",
+      "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
+      "price": 1900,
+      "city": "Рівне",
+      "category": "Монітори",
+      "at": "2026-06-11T19:19:08Z"
     }
   ],
   "config": {
