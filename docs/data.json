@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-12T14:20:11Z",
+  "updated_at": "2026-06-12T17:23:27Z",
   "stats": {
-    "total": 174,
-    "avg_price": 2465,
+    "total": 171,
+    "avg_price": 2487,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1323,24 +1323,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Iiyama prolite e2083hsd",
-      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2083hsd/m5145732",
-      "price_min": 750,
-      "price_max": 750,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 750,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vh228",
       "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
       "price_min": 760,
@@ -1780,26 +1762,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp elitedisplay s231d",
-      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-s231d/m5164660",
-      "price_min": 1290,
-      "price_max": 1290,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Свободи, 15/1"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 1290,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung ls22b300",
       "url": "https://tehnoskarb.ua/montor-samsung-ls22b300/m5140878",
       "price_min": 1350,
@@ -1873,26 +1835,6 @@
       "price_history": [
         {
           "price": 1500,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Hp e222",
-      "url": "https://tehnoskarb.ua/montor-hp-e222/m5056203",
-      "price_min": 1620,
-      "price_max": 1620,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 1620,
           "at": "2026-06-07T11:49:57Z"
         }
       ],
@@ -3552,33 +3494,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Qube g27f240",
-      "url": "https://tehnoskarb.ua/montor-qube-g27f240/m5166596",
-      "price": 4910,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi pro mp271",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp271/m5166042",
-      "price": 3620,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung t22c350",
-      "url": "https://tehnoskarb.ua/montor-samsung-t22c350/m5165951",
-      "price": 900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Benq g2420",
@@ -5360,6 +5275,33 @@
       "city": "Херсон",
       "category": "Монітори",
       "at": "2026-06-12T14:19:59Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp elitedisplay s231d",
+      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-s231d/m5164660",
+      "price": 1290,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-12T17:22:39Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Iiyama prolite e2083hsd",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2083hsd/m5145732",
+      "price": 750,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-06-12T17:22:39Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp e222",
+      "url": "https://tehnoskarb.ua/montor-hp-e222/m5056203",
+      "price": 1620,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-12T17:22:39Z"
     }
   ],
   "config": {
