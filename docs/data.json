@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-12T01:59:07Z",
+  "updated_at": "2026-06-12T06:51:57Z",
   "stats": {
-    "total": 176,
-    "avg_price": 2440,
+    "total": 177,
+    "avg_price": 2500,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -391,6 +391,26 @@
         {
           "price": 310,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus mm19se",
+      "url": "https://tehnoskarb.ua/montor-asus-mm19se/m5168784",
+      "price_min": 310,
+      "price_max": 310,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Бажана, 3В (м. Харківська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-12T06:51:40Z",
+      "price_history": [
+        {
+          "price": 310,
+          "at": "2026-06-12T06:51:40Z"
         }
       ],
       "category": "Монітори",
@@ -1792,24 +1812,6 @@
       "price_history": [
         {
           "price": 1290,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer g227hgl",
-      "url": "https://tehnoskarb.ua/montor-acer-g227hgl/m5147853",
-      "price_min": 1300,
-      "price_max": 1300,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 1300,
           "at": "2026-06-07T11:49:57Z"
         }
       ],
@@ -3528,6 +3530,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi mag 272qpw qd-oled x28",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-272qpw-qd-oled-x28/m5174027",
+      "price_min": 14010,
+      "price_max": 14010,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Білоруська, 8"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-12T06:51:40Z",
+      "price_history": [
+        {
+          "price": 14010,
+          "at": "2026-06-12T06:51:40Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 27gn950-b",
       "url": "https://tehnoskarb.ua/montor-lg-27gn950-b/m5165373",
       "price_min": 14810,
@@ -3589,33 +3611,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 272e1c",
-      "url": "https://tehnoskarb.ua/montor-philips-272e1c/m5167752",
-      "price": 4900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi optix g274qpf e2",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g274qpf-e2/m5167776",
-      "price": 8000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 241v8l/00",
-      "url": "https://tehnoskarb.ua/montor-philips-241v8l-00/m5167405",
-      "price": 3000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung u32j590u",
@@ -5397,6 +5392,33 @@
       "city": "Рівне",
       "category": "Монітори",
       "at": "2026-06-11T19:19:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer g227hgl",
+      "url": "https://tehnoskarb.ua/montor-acer-g227hgl/m5147853",
+      "price": 1300,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-06-12T06:51:40Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi mag 272qpw qd-oled x28",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-272qpw-qd-oled-x28/m5174027",
+      "price": 14010,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-12T06:51:40Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus mm19se",
+      "url": "https://tehnoskarb.ua/montor-asus-mm19se/m5168784",
+      "price": 310,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-12T06:51:40Z"
     }
   ],
   "config": {
