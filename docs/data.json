@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-12T17:23:27Z",
+  "updated_at": "2026-06-12T19:30:46Z",
   "stats": {
-    "total": 171,
-    "avg_price": 2487,
+    "total": 172,
+    "avg_price": 2478,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1537,6 +1537,26 @@
         {
           "price": 900,
           "at": "2026-06-08T18:43:00Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg flatron e2241t-bn",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2241t-bn/m5177084",
+      "price_min": 900,
+      "price_max": 900,
+      "city": "Біла Церква",
+      "addresses": [
+        "м. Біла Церква, вул. О.Гончара, 1А/42А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-12T19:30:38Z",
+      "price_history": [
+        {
+          "price": 900,
+          "at": "2026-06-12T19:30:38Z"
         }
       ],
       "category": "Монітори",
@@ -3151,13 +3171,13 @@
       "name": "Монітор Samsung odyssey g5 ls32cg550",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125",
       "price_min": 6000,
-      "price_max": 6190,
+      "price_max": 7900,
       "city": "Київ",
       "addresses": [
         "м. Київ, просп. Свободи, 15/1",
         "м. Київ, просп. Берестейський, 136"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -3494,15 +3514,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Benq g2420",
-      "url": "https://tehnoskarb.ua/montor-benq-g2420/m5165716",
-      "price": 1670,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Benq gl2460",
@@ -5302,6 +5313,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-12T17:22:39Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg flatron e2241t-bn",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2241t-bn/m5177084",
+      "price": 900,
+      "city": "Біла Церква",
+      "category": "Монітори",
+      "at": "2026-06-12T19:30:38Z"
     }
   ],
   "config": {
