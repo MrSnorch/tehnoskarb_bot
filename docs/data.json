@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-12T11:03:49Z",
+  "updated_at": "2026-06-12T14:20:11Z",
   "stats": {
-    "total": 176,
-    "avg_price": 2511,
+    "total": 174,
+    "avg_price": 2465,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -44,7 +44,6 @@
       "Самбір",
       "Тернопіль",
       "Ужгород",
-      "Фастів",
       "Харків",
       "Херсон",
       "Хмельницький",
@@ -2490,26 +2489,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lenovo t2424pa",
-      "url": "https://tehnoskarb.ua/montor-lenovo-t2424pa/m5172073",
-      "price_min": 2900,
-      "price_max": 2900,
-      "city": "Фастів",
-      "addresses": [
-        "м. Фастів, вул. Соборна, 30"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 2900,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer ek271ebi",
       "url": "https://tehnoskarb.ua/montor-acer-ek271ebi/m5106385",
       "price_min": 2910,
@@ -3472,26 +3451,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus rog strix xg27acs",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs/m5148467",
-      "price_min": 10000,
-      "price_max": 10000,
-      "city": "Херсон",
-      "addresses": [
-        "м. Херсон, просп. 200 років Херсона, 15"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 10000,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi optix g2412f",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g2412f/m5103531",
       "price_min": 10100,
@@ -3593,24 +3552,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung syncmaster 931bf",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
-      "price": 550,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg flatron l1910b",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1910b/m5167050",
-      "price": 340,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Qube g27f240",
@@ -5401,6 +5342,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-06-12T11:03:02Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo t2424pa",
+      "url": "https://tehnoskarb.ua/montor-lenovo-t2424pa/m5172073",
+      "price": 2900,
+      "city": "Фастів",
+      "category": "Монітори",
+      "at": "2026-06-12T14:19:59Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus rog strix xg27acs",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs/m5148467",
+      "price": 10000,
+      "city": "Херсон",
+      "category": "Монітори",
+      "at": "2026-06-12T14:19:59Z"
     }
   ],
   "config": {
