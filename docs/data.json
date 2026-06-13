@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-13T09:43:54Z",
+  "updated_at": "2026-06-13T11:55:28Z",
   "stats": {
-    "total": 180,
-    "avg_price": 2441,
+    "total": 179,
+    "avg_price": 2451,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -744,26 +744,6 @@
         {
           "price": 400,
           "at": "2026-06-13T06:20:03Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vw193d",
-      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
-      "price_min": 420,
-      "price_max": 420,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, просп. Тракторобудівників, 108"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-10T19:12:08Z",
-      "price_history": [
-        {
-          "price": 420,
-          "at": "2026-06-10T19:12:08Z"
         }
       ],
       "category": "Монітори",
@@ -3339,14 +3319,14 @@
     {
       "name": "Монітор Samsung odyssey g5 ls32cg550",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125",
-      "price_min": 6190,
+      "price_min": 6000,
       "price_max": 7900,
       "city": "Київ",
       "addresses": [
         "м. Київ, просп. Свободи, 15/1",
         "м. Київ, просп. Берестейський, 136"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -3360,6 +3340,10 @@
         {
           "price": 6190,
           "at": "2026-06-13T09:42:56Z"
+        },
+        {
+          "price": 6000,
+          "at": "2026-06-13T11:55:15Z"
         }
       ],
       "category": "Монітори",
@@ -3687,24 +3671,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Viewsonic va703b",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
-      "price": 310,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer v223hq",
-      "url": "https://tehnoskarb.ua/montor-acer-v223hq/m5158994",
-      "price": 900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi optix g251pf",
@@ -5499,6 +5465,25 @@
       "city": "Полтава",
       "category": "Монітори",
       "at": "2026-06-13T09:42:56Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vw193d",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
+      "price": 420,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-06-13T11:55:15Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung odyssey g5 ls32cg550",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125",
+      "price_old": 6190,
+      "price_new": 6000,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-13T11:55:15Z"
     }
   ],
   "config": {

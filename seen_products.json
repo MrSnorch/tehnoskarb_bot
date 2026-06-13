@@ -1242,14 +1242,14 @@
   },
   "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125": {
     "name": "Монітор Samsung odyssey g5 ls32cg550",
-    "price_min": 6190,
+    "price_min": 6000,
     "price_max": 7900,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Свободи, 15/1",
       "м. Київ, просп. Берестейський, 136"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-07T11:49:57Z",
@@ -1265,6 +1265,10 @@
       {
         "price": 6190,
         "at": "2026-06-13T09:42:56Z"
+      },
+      {
+        "price": 6000,
+        "at": "2026-06-13T11:55:15Z"
       }
     ],
     "details_failures": 0,
@@ -3325,27 +3329,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-10T12:23:38Z"
   },
-  "https://tehnoskarb.ua/montor-asus-vw193d/m5176555": {
-    "name": "Монітор Asus vw193d",
-    "price_min": 420,
-    "price_max": 420,
-    "city": "Харків",
-    "addresses": [
-      "м. Харків, просп. Тракторобудівників, 108"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-10T19:12:08Z",
-    "price_history": [
-      {
-        "price": 420,
-        "at": "2026-06-10T19:12:08Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-10T19:12:08Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-s27c330/m5169138": {
     "name": "Монітор Samsung s27c330",
     "price_min": 3300,
@@ -3761,9 +3744,9 @@
         "at": "2026-06-13T06:20:03Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-06-13T09:42:56Z",
-    "details_retry_at": "2026-06-13T10:42:56Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-06-13T11:55:15Z",
+    "details_retry_at": "2026-06-13T13:55:15Z"
   },
   "https://tehnoskarb.ua/montor-samsung-ex1920/m5063504": {
     "name": "Монітор Samsung ex1920",
@@ -3823,8 +3806,8 @@
         "at": "2026-06-13T09:42:56Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-06-13T09:42:56Z",
-    "details_retry_at": "2026-06-13T10:12:56Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-06-13T11:55:15Z",
+    "details_retry_at": "2026-06-13T12:55:15Z"
   }
 }
