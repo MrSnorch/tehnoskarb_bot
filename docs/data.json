@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-13T11:55:28Z",
+  "updated_at": "2026-06-13T14:06:41Z",
   "stats": {
-    "total": 179,
-    "avg_price": 2451,
+    "total": 178,
+    "avg_price": 2454,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -892,6 +892,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung e1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
+      "price_min": 530,
+      "price_max": 530,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Княжий Затон, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-13T14:06:21Z",
+      "price_history": [
+        {
+          "price": 530,
+          "at": "2026-06-13T14:06:21Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg flatron w1930s",
       "url": "https://tehnoskarb.ua/montor-lg-flatron-w1930s/m5173068",
       "price_min": 550,
@@ -1059,26 +1079,6 @@
       "city": "Івано-Франківськ",
       "addresses": [
         "м. Івано-Франківськ, вул. Василя Стуса, 17А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 620,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg w2241st",
-      "url": "https://tehnoskarb.ua/montor-lg-w2241st/m5125216",
-      "price_min": 620,
-      "price_max": 620,
-      "city": "Запоріжжя",
-      "addresses": [
-        "м. Запоріжжя, вул. Ентузіастів, 3"
       ],
       "offers": 1,
       "first_seen": "2026-06-07T11:49:57Z",
@@ -2107,26 +2107,6 @@
       "city": "Київ",
       "addresses": [
         "м. Київ, вул. Солом`янська , 22"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 1800,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 240v5qdsb",
-      "url": "https://tehnoskarb.ua/montor-philips-240v5qdsb/m5100973",
-      "price_min": 1800,
-      "price_max": 1800,
-      "city": "Лозова",
-      "addresses": [
-        "м. Лозова, просп. Перемоги, 15"
       ],
       "offers": 1,
       "first_seen": "2026-06-07T11:49:57Z",
@@ -3671,33 +3651,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi optix g251pf",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g251pf/m5158847",
-      "price": 4200,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Aoc e950swn / 185lm00013",
-      "url": "https://tehnoskarb.ua/montor-aoc-e950swn-185lm00013/m5158393",
-      "price": 630,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Hp e24q g5",
-      "url": "https://tehnoskarb.ua/montor-hp-e24q-g5/m5158061",
-      "price": 5900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung smart m7 m70d uhd ls32dm703ui",
@@ -5484,6 +5437,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-13T11:55:15Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg w2241st",
+      "url": "https://tehnoskarb.ua/montor-lg-w2241st/m5125216",
+      "price": 620,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-06-13T14:06:21Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 240v5qdsb",
+      "url": "https://tehnoskarb.ua/montor-philips-240v5qdsb/m5100973",
+      "price": 1800,
+      "city": "Лозова",
+      "category": "Монітори",
+      "at": "2026-06-13T14:06:21Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung e1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
+      "price": 530,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-13T14:06:21Z"
     }
   ],
   "config": {

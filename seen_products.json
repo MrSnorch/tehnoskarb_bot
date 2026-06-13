@@ -1829,27 +1829,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-07T14:00:10Z"
   },
-  "https://tehnoskarb.ua/montor-lg-w2241st/m5125216": {
-    "name": "Монітор Lg w2241st",
-    "price_min": 620,
-    "price_max": 620,
-    "city": "Запоріжжя",
-    "addresses": [
-      "м. Запоріжжя, вул. Ентузіастів, 3"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-07T11:49:57Z",
-    "price_history": [
-      {
-        "price": 620,
-        "at": "2026-06-07T11:49:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-07T14:00:10Z"
-  },
   "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297": {
     "name": "Монітор Lg w1943ss",
     "price_min": 500,
@@ -2035,27 +2014,6 @@
     "price_history": [
       {
         "price": 1890,
-        "at": "2026-06-07T11:49:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-07T14:00:10Z"
-  },
-  "https://tehnoskarb.ua/montor-philips-240v5qdsb/m5100973": {
-    "name": "Монітор Philips 240v5qdsb",
-    "price_min": 1800,
-    "price_max": 1800,
-    "city": "Лозова",
-    "addresses": [
-      "м. Лозова, просп. Перемоги, 15"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-07T11:49:57Z",
-    "price_history": [
-      {
-        "price": 1800,
         "at": "2026-06-07T11:49:57Z"
       }
     ],
@@ -3200,9 +3158,9 @@
         "at": "2026-06-10T08:31:13Z"
       }
     ],
-    "details_failures": 12,
-    "details_last_attempt": "2026-06-13T06:20:03Z",
-    "details_retry_at": "2026-06-13T12:20:03Z"
+    "details_failures": 13,
+    "details_last_attempt": "2026-06-13T14:06:21Z",
+    "details_retry_at": "2026-06-13T20:06:21Z"
   },
   "https://tehnoskarb.ua/montor-acer-kg272-s3bmiipfx/m5162579": {
     "name": "Монітор Acer kg272 s3bmiipfx",
@@ -3744,9 +3702,9 @@
         "at": "2026-06-13T06:20:03Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-06-13T11:55:15Z",
-    "details_retry_at": "2026-06-13T13:55:15Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-06-13T14:06:21Z",
+    "details_retry_at": "2026-06-13T18:06:21Z"
   },
   "https://tehnoskarb.ua/montor-samsung-ex1920/m5063504": {
     "name": "Монітор Samsung ex1920",
@@ -3806,8 +3764,29 @@
         "at": "2026-06-13T09:42:56Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-06-13T11:55:15Z",
-    "details_retry_at": "2026-06-13T12:55:15Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-06-13T14:06:21Z",
+    "details_retry_at": "2026-06-13T16:06:21Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-e1920/m5047217": {
+    "name": "Монітор Samsung e1920",
+    "price_min": 530,
+    "price_max": 530,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Княжий Затон, 11"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-13T14:06:21Z",
+    "price_history": [
+      {
+        "price": 530,
+        "at": "2026-06-13T14:06:21Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-13T14:06:21Z"
   }
 }
