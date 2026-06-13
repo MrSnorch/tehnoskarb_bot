@@ -3764,9 +3764,9 @@
         "at": "2026-06-13T09:42:56Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-06-13T14:06:21Z",
-    "details_retry_at": "2026-06-13T16:06:21Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-06-13T17:40:38Z",
+    "details_retry_at": "2026-06-13T21:40:38Z"
   },
   "https://tehnoskarb.ua/montor-samsung-e1920/m5047217": {
     "name": "Монітор Samsung e1920",
@@ -3830,5 +3830,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-13T15:59:00Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106": {
+    "name": "Монітор Asus vu249cfe-b",
+    "price_min": 6480,
+    "price_max": 6480,
+    "city": "Ужгород",
+    "addresses": [
+      "м. Ужгород, вул. Мукачівська, 2"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-13T17:40:38Z",
+    "price_history": [
+      {
+        "price": 6480,
+        "at": "2026-06-13T17:40:38Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-13T17:40:38Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279qm1a/m5062453": {
+    "name": "Монітор Asus tuf gaming vg279qm1a",
+    "price_min": 7070,
+    "price_max": 7070,
+    "city": "Ужгород",
+    "addresses": [
+      "м. Ужгород, вул. Мукачівська, 2"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-13T17:40:38Z",
+    "price_history": [
+      {
+        "price": 7070,
+        "at": "2026-06-13T17:40:38Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-13T17:40:38Z"
   }
 }
