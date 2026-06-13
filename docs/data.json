@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T17:40:54Z",
+  "updated_at": "2026-06-13T19:40:58Z",
   "stats": {
     "total": 182,
     "avg_price": 2501,
@@ -1411,30 +1411,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung bx2235 ls22b3uvmn",
-      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
-      "price_min": 765,
-      "price_max": 790,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, вул. Василя Стуса, 17А"
-      ],
-      "offers": 2,
-      "first_seen": "2026-06-09T04:45:50Z",
-      "price_history": [
-        {
-          "price": 790,
-          "at": "2026-06-09T04:45:50Z"
-        },
-        {
-          "price": 765,
-          "at": "2026-06-11T11:55:31Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer x223hq",
       "url": "https://tehnoskarb.ua/montor-acer-x223hq/m5017541",
       "price_min": 770,
@@ -1489,6 +1465,34 @@
         {
           "price": 790,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung bx2235 ls22b3uvmn",
+      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
+      "price_min": 790,
+      "price_max": 790,
+      "city": "Івано-Франківськ",
+      "addresses": [
+        "м. Івано-Франківськ, вул. Василя Стуса, 17А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-09T04:45:50Z",
+      "price_history": [
+        {
+          "price": 790,
+          "at": "2026-06-09T04:45:50Z"
+        },
+        {
+          "price": 765,
+          "at": "2026-06-11T11:55:31Z"
+        },
+        {
+          "price": 790,
+          "at": "2026-06-13T19:40:49Z"
         }
       ],
       "category": "Монітори",
@@ -3734,15 +3738,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus vg259qr",
-      "url": "https://tehnoskarb.ua/montor-asus-vg259qr/m5154870",
-      "price": 4000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung professional s24c430",
       "url": "https://tehnoskarb.ua/montor-samsung-professional-s24c430/m5154762",
       "price": 3500,
@@ -5545,6 +5540,16 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-06-13T17:40:38Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung bx2235 ls22b3uvmn",
+      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
+      "price_old": 765,
+      "price_new": 790,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-06-13T19:40:49Z"
     }
   ],
   "config": {
