@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-14T16:06:28Z",
+  "updated_at": "2026-06-14T17:58:57Z",
   "stats": {
-    "total": 180,
-    "avg_price": 2510,
+    "total": 179,
+    "avg_price": 2434,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1875,6 +1875,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s19f350h",
+      "url": "https://tehnoskarb.ua/montor-samsung-s19f350h/m5054533",
+      "price_min": 1350,
+      "price_max": 1350,
+      "city": "Ужгород",
+      "addresses": [
+        "м. Ужгород, вул. Грушевського, 67"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-14T17:57:56Z",
+      "price_history": [
+        {
+          "price": 1350,
+          "at": "2026-06-14T17:57:56Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg m2380df",
       "url": "https://tehnoskarb.ua/montor-lg-m2380df/m5176693",
       "price_min": 1470,
@@ -3543,46 +3563,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Xiaomi mi curved gaming monitor 34 xmmntwq34",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-curved-gaming-monitor-34-xmmntwq34/m5171135",
-      "price_min": 8500,
-      "price_max": 8500,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Щербаківського, 45"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 8500,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Iiyama gb2770qsu-b5",
-      "url": "https://tehnoskarb.ua/montor-iiyama-gb2770qsu-b5/m5170947",
-      "price_min": 8900,
-      "price_max": 8900,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, вул. Василіянок, 7"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 8900,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung smart m7",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
       "price_min": 9500,
@@ -3704,33 +3684,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung odyssey g5 s27ag500",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-s27ag500/m5153471",
-      "price": 6700,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 24mk430h",
-      "url": "https://tehnoskarb.ua/montor-lg-24mk430h/m5153163",
-      "price": 1850,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Tft панель Delta Electronics dop-b05s111",
-      "url": "https://tehnoskarb.ua/tft-panel-operatora-delta-electronics-dop-b05s111/m5152927",
-      "price": 2340,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg flatron e2240s",
@@ -5520,6 +5473,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-14T14:10:11Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Xiaomi mi curved gaming monitor 34 xmmntwq34",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-curved-gaming-monitor-34-xmmntwq34/m5171135",
+      "price": 8500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-14T17:57:56Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Iiyama gb2770qsu-b5",
+      "url": "https://tehnoskarb.ua/montor-iiyama-gb2770qsu-b5/m5170947",
+      "price": 8900,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-06-14T17:57:56Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s19f350h",
+      "url": "https://tehnoskarb.ua/montor-samsung-s19f350h/m5054533",
+      "price": 1350,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-06-14T17:57:56Z"
     }
   ],
   "config": {
