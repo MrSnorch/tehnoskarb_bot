@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-14T08:54:00Z",
+  "updated_at": "2026-06-14T11:33:23Z",
   "stats": {
-    "total": 182,
-    "avg_price": 2501,
+    "total": 181,
+    "avg_price": 2498,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2725,26 +2725,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Acer kg272 s3bmiipfx",
-      "url": "https://tehnoskarb.ua/montor-acer-kg272-s3bmiipfx/m5162579",
-      "price_min": 3000,
-      "price_max": 3000,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-10T08:31:13Z",
-      "price_history": [
-        {
-          "price": 3000,
-          "at": "2026-06-10T08:31:13Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
       "price_min": 3080,
@@ -3740,15 +3720,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls22f350fhixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls22f350fhixci/m5154566",
-      "price": 2820,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung f24t452fqr",
@@ -5555,6 +5526,15 @@
       "city": "Івано-Франківськ",
       "category": "Монітори",
       "at": "2026-06-14T08:53:54Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer kg272 s3bmiipfx",
+      "url": "https://tehnoskarb.ua/montor-acer-kg272-s3bmiipfx/m5162579",
+      "price": 3000,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-06-14T11:32:32Z"
     }
   ],
   "config": {
