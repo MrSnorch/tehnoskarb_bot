@@ -2597,14 +2597,14 @@
   },
   "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884": {
     "name": "Монітор Lg 22mp58d-p",
-    "price_min": 1070,
+    "price_min": 1970,
     "price_max": 1970,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Малишка, 2-Д (м. Дарниця)",
       "м. Київ, просп. Воскресенський, 34/2"
     ],
-    "offers_count": 4,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-07T11:49:57Z",
@@ -2612,6 +2612,10 @@
       {
         "price": 1070,
         "at": "2026-06-07T11:49:57Z"
+      },
+      {
+        "price": 1970,
+        "at": "2026-06-14T14:10:11Z"
       }
     ],
     "details_failures": 0,
@@ -2760,27 +2764,6 @@
     "price_history": [
       {
         "price": 340,
-        "at": "2026-06-07T11:49:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-07T14:00:10Z"
-  },
-  "https://tehnoskarb.ua/montor-aoc-e2270s/m4997175": {
-    "name": "Монітор Aoc e2270s",
-    "price_min": 1280,
-    "price_max": 1280,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Романа Шухевича, 10"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-07T11:49:57Z",
-    "price_history": [
-      {
-        "price": 1280,
         "at": "2026-06-07T11:49:57Z"
       }
     ],

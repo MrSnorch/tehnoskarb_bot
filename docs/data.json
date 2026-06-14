@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-14T11:33:23Z",
+  "updated_at": "2026-06-14T14:10:21Z",
   "stats": {
-    "total": 181,
-    "avg_price": 2498,
+    "total": 180,
+    "avg_price": 2510,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -1757,27 +1757,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg 22mp58d-p",
-      "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
-      "price_min": 1070,
-      "price_max": 1970,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Малишка, 2-Д (м. Дарниця)",
-        "м. Київ, просп. Воскресенський, 34/2"
-      ],
-      "offers": 4,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 1070,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vh222",
       "url": "https://tehnoskarb.ua/montor-asus-vh222/m5136501",
       "price_min": 1080,
@@ -1851,26 +1830,6 @@
       "price_history": [
         {
           "price": 1250,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Aoc e2270s",
-      "url": "https://tehnoskarb.ua/montor-aoc-e2270s/m4997175",
-      "price_min": 1280,
-      "price_max": 1280,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Романа Шухевича, 10"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 1280,
           "at": "2026-06-07T11:49:57Z"
         }
       ],
@@ -2224,6 +2183,31 @@
         {
           "price": 1900,
           "at": "2026-06-13T15:59:00Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg 22mp58d-p",
+      "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
+      "price_min": 1970,
+      "price_max": 1970,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Малишка, 2-Д (м. Дарниця)",
+        "м. Київ, просп. Воскресенський, 34/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-07T11:49:57Z",
+      "price_history": [
+        {
+          "price": 1070,
+          "at": "2026-06-07T11:49:57Z"
+        },
+        {
+          "price": 1970,
+          "at": "2026-06-14T14:10:11Z"
         }
       ],
       "category": "Монітори",
@@ -3720,24 +3704,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung f24t452fqr",
-      "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
-      "price": 4000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Xiaomi monitor a24i",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-monitor-a24i/m5154283",
-      "price": 2430,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung odyssey g5 s27ag500",
@@ -5535,6 +5501,25 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-06-14T11:32:32Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc e2270s",
+      "url": "https://tehnoskarb.ua/montor-aoc-e2270s/m4997175",
+      "price": 1280,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-14T14:10:11Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Lg 22mp58d-p",
+      "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
+      "price_old": 1070,
+      "price_new": 1970,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-14T14:10:11Z"
     }
   ],
   "config": {
