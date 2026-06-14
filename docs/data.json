@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-14T17:58:57Z",
+  "updated_at": "2026-06-14T19:49:46Z",
   "stats": {
-    "total": 179,
-    "avg_price": 2434,
+    "total": 178,
+    "avg_price": 2435,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2330,26 +2330,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung c24f390fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
-      "price_min": 2350,
-      "price_max": 2350,
-      "city": "Дрогобич",
-      "addresses": [
-        "м. Дрогобич, вул. Пилипа Орлика, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 2350,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 22mk600m",
       "url": "https://tehnoskarb.ua/montor-lg-22mk600m/m5145581",
       "price_min": 2400,
@@ -3684,15 +3664,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg flatron e2240s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2240s/m5152011",
-      "price": 840,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hp nk570a",
@@ -5500,6 +5471,15 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-06-14T17:57:56Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung c24f390fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
+      "price": 2350,
+      "city": "Дрогобич",
+      "category": "Монітори",
+      "at": "2026-06-14T19:49:40Z"
     }
   ],
   "config": {
