@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-14T19:49:46Z",
+  "updated_at": "2026-06-14T21:16:03Z",
   "stats": {
-    "total": 178,
-    "avg_price": 2435,
+    "total": 177,
+    "avg_price": 2434,
     "min_price": 110,
     "max_price": 16060,
     "cities": [
@@ -2172,12 +2172,12 @@
       "name": "Монітор Philips 243v7q",
       "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
       "price_min": 1900,
-      "price_max": 1900,
+      "price_max": 2220,
       "city": "Рівне",
       "addresses": [
         "м. Рівне, вул. Грушевського, 1"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-06-11T19:19:08Z",
       "price_history": [
         {
@@ -2424,26 +2424,6 @@
         {
           "price": 2450,
           "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Prologix g2525hm",
-      "url": "https://tehnoskarb.ua/montor-prologix-g2525hm/m5143953",
-      "price_min": 2610,
-      "price_max": 2610,
-      "city": "Золочів",
-      "addresses": [
-        "м. Золочів, вул. Шашкевича, 4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-13T06:20:03Z",
-      "price_history": [
-        {
-          "price": 2610,
-          "at": "2026-06-13T06:20:03Z"
         }
       ],
       "category": "Монітори",
@@ -3664,15 +3644,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Hp nk570a",
-      "url": "https://tehnoskarb.ua/montor-hp-nk570a/m5151542",
-      "price": 460,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus rog strix xg27acs",
@@ -5480,6 +5451,15 @@
       "city": "Дрогобич",
       "category": "Монітори",
       "at": "2026-06-14T19:49:40Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Prologix g2525hm",
+      "url": "https://tehnoskarb.ua/montor-prologix-g2525hm/m5143953",
+      "price": 2610,
+      "city": "Золочів",
+      "category": "Монітори",
+      "at": "2026-06-14T21:15:56Z"
     }
   ],
   "config": {
