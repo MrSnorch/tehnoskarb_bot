@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-15T17:32:19Z",
+  "updated_at": "2026-06-15T20:58:56Z",
   "stats": {
-    "total": 179,
-    "avg_price": 2573,
+    "total": 180,
+    "avg_price": 2562,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -1267,6 +1267,26 @@
         {
           "price": 650,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg w1942s",
+      "url": "https://tehnoskarb.ua/montor-lg-w1942s/m5144273",
+      "price_min": 650,
+      "price_max": 650,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-15T20:58:02Z",
+      "price_history": [
+        {
+          "price": 650,
+          "at": "2026-06-15T20:58:02Z"
         }
       ],
       "category": "Монітори",
@@ -3693,15 +3713,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg 22m37a",
-      "url": "https://tehnoskarb.ua/montor-22-lg-22m37a/m5137076",
-      "price": 690,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Philips 27e1n1900ae/00",
       "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
       "price": 4340,
@@ -5509,6 +5520,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-15T17:31:52Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg w1942s",
+      "url": "https://tehnoskarb.ua/montor-lg-w1942s/m5144273",
+      "price": 650,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-15T20:58:02Z"
     }
   ],
   "config": {
