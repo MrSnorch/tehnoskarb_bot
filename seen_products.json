@@ -593,8 +593,8 @@
   },
   "https://tehnoskarb.ua/montor-philips-272e1c/m5167752": {
     "name": "Монітор Philips 272e1c",
-    "price_min": 4900,
-    "price_max": 4900,
+    "price_min": 4500,
+    "price_max": 4500,
     "city": "Чернівці",
     "addresses": [
       "м. Чернівці, вул. Героїв майдану, 48"
@@ -607,6 +607,10 @@
       {
         "price": 4900,
         "at": "2026-06-07T11:49:57Z"
+      },
+      {
+        "price": 4500,
+        "at": "2026-06-16T13:14:22Z"
       }
     ],
     "details_failures": 0,
@@ -1747,8 +1751,8 @@
   },
   "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378": {
     "name": "Відеомонітор Konvision kvm-1930w",
-    "price_min": 2835,
-    "price_max": 2835,
+    "price_min": 2552,
+    "price_max": 2552,
     "city": "Львів",
     "addresses": [
       "м. Львів, вул. Промислова, 50/52"
@@ -1761,6 +1765,10 @@
       {
         "price": 2835,
         "at": "2026-06-07T11:49:57Z"
+      },
+      {
+        "price": 2552,
+        "at": "2026-06-16T13:14:22Z"
       }
     ],
     "details_failures": 0,
@@ -2178,27 +2186,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-07T14:00:10Z"
   },
-  "https://tehnoskarb.ua/montor-lg-w2253s/m5063984": {
-    "name": "Монітор Lg w2253s",
-    "price_min": 320,
-    "price_max": 320,
-    "city": "Одеса",
-    "addresses": [
-      "м. Одеса, вул. Академіка Корольова, 33"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-07T11:49:57Z",
-    "price_history": [
-      {
-        "price": 320,
-        "at": "2026-06-07T11:49:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-07T14:00:10Z"
-  },
   "https://tehnoskarb.ua/montor-msi-pro-mp243x/m5061631": {
     "name": "Монітор Msi pro mp243x",
     "price_min": 3000,
@@ -2549,28 +2536,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-07T14:00:10Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-710n/m5011926": {
-    "name": "Монітор Samsung 710n",
-    "price_min": 200,
-    "price_max": 200,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Воскресенський, 34/2",
-      "м. Київ, вул. Саксаганського, 127"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-07T11:49:57Z",
-    "price_history": [
-      {
-        "price": 200,
-        "at": "2026-06-07T11:49:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-07T14:00:10Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-920n/m5011274": {
     "name": "Монітор Samsung 920n",
     "price_min": 300,
@@ -2837,26 +2802,6 @@
     "price_history": [
       {
         "price": 3100,
-        "at": "2026-06-08T21:11:11Z"
-      }
-    ],
-    "details_failures": 26,
-    "details_last_attempt": "2026-06-16T08:27:49Z",
-    "details_retry_at": "2026-06-16T14:27:49Z"
-  },
-  "https://tehnoskarb.ua/montor-acer-ek271ebi/m5106385": {
-    "name": "Монітор Acer ek271ebi",
-    "price_min": 2910,
-    "price_max": 2910,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-08T21:11:11Z",
-    "price_history": [
-      {
-        "price": 2910,
         "at": "2026-06-08T21:11:11Z"
       }
     ],
@@ -3879,9 +3824,9 @@
         "at": "2026-06-16T08:27:49Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-06-16T08:27:49Z",
-    "details_retry_at": "2026-06-16T08:57:49Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-06-16T13:14:22Z",
+    "details_retry_at": "2026-06-16T14:14:22Z"
   },
   "https://tehnoskarb.ua/montor-lg-ips236v-pn/m5177687": {
     "name": "Монітор Lg ips236v-pn",
