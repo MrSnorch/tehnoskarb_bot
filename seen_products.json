@@ -1431,27 +1431,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-07T14:00:10Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-syncmaster-713n/m5147386": {
-    "name": "Монітор Samsung syncmaster 713n",
-    "price_min": 200,
-    "price_max": 200,
-    "city": "Одеса",
-    "addresses": [
-      "м. Одеса, вул. Корольова, 80"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-07T11:49:57Z",
-    "price_history": [
-      {
-        "price": 200,
-        "at": "2026-06-07T11:49:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-07T14:00:10Z"
-  },
   "https://tehnoskarb.ua/montor-acer-g195hqv/m5146468": {
     "name": "Монітор Acer g195hqv",
     "price_min": 530,
@@ -4006,5 +3985,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-17T18:42:20Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-710n/m5011926": {
+    "name": "Монітор Samsung 710n",
+    "price_min": 200,
+    "price_max": 200,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-17T21:10:25Z",
+    "price_history": [
+      {
+        "price": 200,
+        "at": "2026-06-17T21:10:25Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-17T21:10:25Z"
   }
 }

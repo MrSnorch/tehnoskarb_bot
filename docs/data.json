@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T18:43:19Z",
+  "updated_at": "2026-06-17T21:10:37Z",
   "stats": {
     "total": 178,
     "avg_price": 2515,
@@ -123,26 +123,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung syncmaster 713n",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-713n/m5147386",
-      "price_min": 200,
-      "price_max": 200,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Корольова, 80"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 200,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung 730bf",
       "url": "https://tehnoskarb.ua/montor-samsung-730bf/m5068988",
       "price_min": 200,
@@ -157,6 +137,26 @@
         {
           "price": 200,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 710n",
+      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
+      "price_min": 200,
+      "price_max": 200,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-17T21:10:25Z",
+      "price_history": [
+        {
+          "price": 200,
+          "at": "2026-06-17T21:10:25Z"
         }
       ],
       "category": "Монітори",
@@ -3872,25 +3872,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung 943n",
-      "url": "https://tehnoskarb.ua/montor-samsung-943n/m4997404",
-      "price": 270,
-      "city": "Кропивницький",
-      "category": "Монітори",
-      "at": "2026-06-07T17:21:31Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Samsung 943nw",
-      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
-      "price_old": 600,
-      "price_new": 510,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-06-07T17:21:31Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Aoc 22p1",
       "url": "https://tehnoskarb.ua/montor-aoc-22p1/m5169396",
       "price": 1670,
@@ -5740,6 +5721,24 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-06-17T18:42:20Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung syncmaster 713n",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-713n/m5147386",
+      "price": 200,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-06-17T21:10:25Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 710n",
+      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
+      "price": 200,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-17T21:10:25Z"
     }
   ],
   "config": {
