@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-17T16:13:19Z",
+  "updated_at": "2026-06-17T18:43:19Z",
   "stats": {
     "total": 178,
-    "avg_price": 2494,
+    "avg_price": 2515,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -99,13 +99,13 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung syncmaster 713n",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-713n/m5147386",
-      "price_min": 200,
-      "price_max": 200,
-      "city": "Одеса",
+      "name": "Монітор Samsung gh17ls",
+      "url": "https://tehnoskarb.ua/montor-samsung-gh17ls/m5098840",
+      "price_min": 170,
+      "price_max": 170,
+      "city": "Чернівці",
       "addresses": [
-        "м. Одеса, вул. Корольова, 80"
+        "м. Чернівці, вул. Героїв майдану, 48"
       ],
       "offers": 1,
       "first_seen": "2026-06-07T11:49:57Z",
@@ -113,19 +113,23 @@
         {
           "price": 200,
           "at": "2026-06-07T11:49:57Z"
+        },
+        {
+          "price": 170,
+          "at": "2026-06-17T18:42:20Z"
         }
       ],
       "category": "Монітори",
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung gh17ls",
-      "url": "https://tehnoskarb.ua/montor-samsung-gh17ls/m5098840",
+      "name": "Монітор Samsung syncmaster 713n",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-713n/m5147386",
       "price_min": 200,
       "price_max": 200,
-      "city": "Чернівці",
+      "city": "Одеса",
       "addresses": [
-        "м. Чернівці, вул. Героїв майдану, 48"
+        "м. Одеса, вул. Корольова, 80"
       ],
       "offers": 1,
       "first_seen": "2026-06-07T11:49:57Z",
@@ -2059,13 +2063,13 @@
       "name": "Монітор Samsung s22d300",
       "url": "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194",
       "price_min": 1485,
-      "price_max": 1980,
+      "price_max": 2030,
       "city": "Вінниця",
       "addresses": [
         "м. Вінниця, вул. Замостянська, 37 пр.77",
         "м. Київ, вул. Вишгородська, 33"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -3025,6 +3029,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Benq gl-2760b",
+      "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
+      "price_min": 3640,
+      "price_max": 3640,
+      "city": "Бориспіль",
+      "addresses": [
+        "м. Бориспіль, вул. Київський шлях, 47"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-07T11:49:57Z",
+      "price_history": [
+        {
+          "price": 3840,
+          "at": "2026-06-07T11:49:57Z"
+        },
+        {
+          "price": 3640,
+          "at": "2026-06-17T18:42:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vg249q1",
       "url": "https://tehnoskarb.ua/montor-asus-vg249q1/m5114747",
       "price_min": 3800,
@@ -3038,26 +3066,6 @@
       "price_history": [
         {
           "price": 3800,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Benq gl-2760b",
-      "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
-      "price_min": 3840,
-      "price_max": 3840,
-      "city": "Бориспіль",
-      "addresses": [
-        "м. Бориспіль, вул. Київський шлях, 47"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 3840,
           "at": "2026-06-07T11:49:57Z"
         }
       ],
@@ -3103,30 +3111,6 @@
         {
           "price": 3910,
           "at": "2026-06-17T16:12:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung curved cr50",
-      "url": "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496",
-      "price_min": 3960,
-      "price_max": 3960,
-      "city": "Вишневе",
-      "addresses": [
-        "м. Вишневе, вул. Святошинська, 27"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 4400,
-          "at": "2026-06-07T11:49:57Z"
-        },
-        {
-          "price": 3960,
-          "at": "2026-06-17T12:18:46Z"
         }
       ],
       "category": "Монітори",
@@ -3721,6 +3705,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Aoc c27g2ze",
+      "url": "https://tehnoskarb.ua/montor-aoc-c27g2ze/m5147959",
+      "price_min": 7880,
+      "price_max": 7880,
+      "city": "Рівне",
+      "addresses": [
+        "м. Рівне, вул. Соборна, 63"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-17T18:42:20Z",
+      "price_history": [
+        {
+          "price": 7880,
+          "at": "2026-06-17T18:42:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung smart m7",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
       "price_min": 9500,
@@ -3866,42 +3870,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung 740n",
-      "url": "https://tehnoskarb.ua/montor-samsung-740n/m4996661",
-      "price": 300,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 943nw",
-      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
-      "price": 600,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-07T11:49:57Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lenovo legion r27qe gen 2",
-      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r27qe-gen-2/m5160896",
-      "price": 6180,
-      "city": "Боярка",
-      "category": "Монітори",
-      "at": "2026-06-07T17:21:31Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 740n",
-      "url": "https://tehnoskarb.ua/montor-samsung-740n/m4996661",
-      "price": 300,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-06-07T17:21:31Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung 943n",
@@ -5734,6 +5702,44 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-06-17T16:12:58Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung curved cr50",
+      "url": "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496",
+      "price": 3960,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-06-17T18:42:20Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Benq gl-2760b",
+      "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
+      "price_old": 3840,
+      "price_new": 3640,
+      "city": "Бориспіль",
+      "category": "Монітори",
+      "at": "2026-06-17T18:42:20Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc c27g2ze",
+      "url": "https://tehnoskarb.ua/montor-aoc-c27g2ze/m5147959",
+      "price": 7880,
+      "city": "Рівне",
+      "category": "Монітори",
+      "at": "2026-06-17T18:42:20Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung gh17ls",
+      "url": "https://tehnoskarb.ua/montor-samsung-gh17ls/m5098840",
+      "price_old": 200,
+      "price_new": 170,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-06-17T18:42:20Z"
     }
   ],
   "config": {
