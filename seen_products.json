@@ -1211,7 +1211,7 @@
       "м. Київ, просп. Свободи, 15/1",
       "м. Київ, просп. Берестейський, 136"
     ],
-    "offers_count": 4,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-07T11:49:57Z",
@@ -3427,27 +3427,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-13T06:20:03Z"
   },
-  "https://tehnoskarb.ua/montor-lg-e1940s/m5137124": {
-    "name": "Монітор Lg e1940s",
-    "price_min": 530,
-    "price_max": 530,
-    "city": "Чернігів",
-    "addresses": [
-      "м. Чернігів, просп. Перемоги, 89"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-13T06:20:03Z",
-    "price_history": [
-      {
-        "price": 530,
-        "at": "2026-06-13T06:20:03Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-13T06:20:03Z"
-  },
   "https://tehnoskarb.ua/montor-lg-e1942c/m5076612": {
     "name": "Монітор Lg e1942c",
     "price_min": 690,
@@ -3558,27 +3537,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-13T14:06:21Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-ls24d300gaixci/m5172208": {
-    "name": "Монітор Samsung ls24d300gaixci",
-    "price_min": 1900,
-    "price_max": 1900,
-    "city": "Хмельницький",
-    "addresses": [
-      "м. Хмельницький, вул. Кам`янецька, 11"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-13T15:59:00Z",
-    "price_history": [
-      {
-        "price": 1900,
-        "at": "2026-06-13T15:59:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-13T15:59:00Z"
   },
   "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106": {
     "name": "Монітор Asus vu249cfe-b",
@@ -4086,9 +4044,9 @@
         "at": "2026-06-18T05:18:13Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-06-18T05:18:13Z",
-    "details_retry_at": "2026-06-18T05:48:13Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-06-18T09:54:34Z",
+    "details_retry_at": "2026-06-18T10:54:34Z"
   },
   "https://tehnoskarb.ua/montor-lg-l1942s/m5165584": {
     "name": "Монітор Lg l1942s",
@@ -4106,9 +4064,9 @@
         "at": "2026-06-18T05:18:13Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-06-18T05:18:13Z",
-    "details_retry_at": "2026-06-18T05:48:13Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-06-18T09:54:34Z",
+    "details_retry_at": "2026-06-18T10:54:34Z"
   },
   "https://tehnoskarb.ua/montor-lg-flatron-l1910s/m5156650": {
     "name": "Монітор Lg flatron l1910s",
@@ -4126,8 +4084,50 @@
         "at": "2026-06-18T05:18:13Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-06-18T05:18:13Z",
-    "details_retry_at": "2026-06-18T05:48:13Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-06-18T09:54:34Z",
+    "details_retry_at": "2026-06-18T10:54:34Z"
+  },
+  "https://tehnoskarb.ua/montor-fujitsu-b22w-7-led/m5175440": {
+    "name": "Монітор Fujitsu b22w-7 led",
+    "price_min": 1070,
+    "price_max": 1070,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Закревського, 27/2"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-18T09:54:34Z",
+    "price_history": [
+      {
+        "price": 1070,
+        "at": "2026-06-18T09:54:34Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-18T09:54:34Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-syncmaster-713n/m5147386": {
+    "name": "Монітор Samsung syncmaster 713n",
+    "price_min": 200,
+    "price_max": 200,
+    "city": "Одеса",
+    "addresses": [
+      "м. Одеса, вул. Корольова, 80"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-18T09:54:34Z",
+    "price_history": [
+      {
+        "price": 200,
+        "at": "2026-06-18T09:54:34Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-18T09:54:34Z"
   }
 }
