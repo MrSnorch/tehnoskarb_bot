@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-18T16:38:32Z",
+  "updated_at": "2026-06-18T19:32:45Z",
   "stats": {
-    "total": 183,
-    "avg_price": 2509,
+    "total": 185,
+    "avg_price": 2504,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -34,6 +34,7 @@
       "Миколаїв",
       "Миргород",
       "Могилів-Подільський",
+      "Мукачево",
       "Новий Розділ",
       "Ніжин",
       "Одеса",
@@ -539,10 +540,12 @@
       "name": "Монітор Samsung b1930n",
       "url": "https://tehnoskarb.ua/montor-samsung-b1930n/m5069561",
       "price_min": 320,
-      "price_max": 320,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
+      "price_max": 360,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Проскурівська, 109"
+      ],
+      "offers": 2,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -789,6 +792,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung e1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
+      "price_min": 400,
+      "price_max": 530,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Княжий Затон, 11"
+      ],
+      "offers": 2,
+      "first_seen": "2026-06-13T14:06:21Z",
+      "price_history": [
+        {
+          "price": 530,
+          "at": "2026-06-13T14:06:21Z"
+        },
+        {
+          "price": 400,
+          "at": "2026-06-18T19:31:42Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung 720n",
       "url": "https://tehnoskarb.ua/montor-samsung-720n/m5042700",
       "price_min": 420,
@@ -960,26 +987,6 @@
         {
           "price": 530,
           "at": "2026-06-17T16:12:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung e1920",
-      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
-      "price_min": 530,
-      "price_max": 530,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Княжий Затон, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-13T14:06:21Z",
-      "price_history": [
-        {
-          "price": 530,
-          "at": "2026-06-13T14:06:21Z"
         }
       ],
       "category": "Монітори",
@@ -1330,12 +1337,12 @@
       "name": "Монітор Philips 223v5l",
       "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
       "price_min": 650,
-      "price_max": 730,
+      "price_max": 960,
       "city": "Миколаїв",
       "addresses": [
         "м. Миколаїв, вул. 3-я Слобідська, 51"
       ],
-      "offers": 3,
+      "offers": 4,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -1551,6 +1558,26 @@
         {
           "price": 690,
           "at": "2026-06-13T06:20:03Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Iiyama prolite e2407hds",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167",
+      "price_min": 700,
+      "price_max": 700,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-18T19:31:42Z",
+      "price_history": [
+        {
+          "price": 700,
+          "at": "2026-06-18T19:31:42Z"
         }
       ],
       "category": "Монітори",
@@ -3082,6 +3109,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Viewsonic vx2779a-hd-pro",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-vx2779a-hd-pro/m5178266",
+      "price_min": 3590,
+      "price_max": 3590,
+      "city": "Мукачево",
+      "addresses": [
+        "м. Мукачево, вул. Миру, 12/4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-18T19:31:42Z",
+      "price_history": [
+        {
+          "price": 3590,
+          "at": "2026-06-18T19:31:42Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Benq gl-2760b",
       "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
       "price_min": 3640,
@@ -3963,33 +4010,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg 24mp59g-p",
-      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
-      "price": 2400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-08T18:43:00Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор портативний Zsus pm14tt-2k",
-      "url": "https://tehnoskarb.ua/montor-portativnijj-zsus-pm14tt-2k/m5176376",
-      "price": 3100,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-08T21:11:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer ek271ebi",
-      "url": "https://tehnoskarb.ua/montor-acer-ek271ebi/m5106385",
-      "price": 2910,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-08T21:11:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung bx2235 ls22b3uvmn",
@@ -5831,6 +5851,34 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-18T16:38:16Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Viewsonic vx2779a-hd-pro",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-vx2779a-hd-pro/m5178266",
+      "price": 3590,
+      "city": "Мукачево",
+      "category": "Монітори",
+      "at": "2026-06-18T19:31:42Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Iiyama prolite e2407hds",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167",
+      "price": 700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-18T19:31:42Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung e1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
+      "price_old": 530,
+      "price_new": 400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-18T19:31:42Z"
     }
   ],
   "config": {
