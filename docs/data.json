@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-18T19:32:45Z",
+  "updated_at": "2026-06-18T22:13:04Z",
   "stats": {
     "total": 185,
-    "avg_price": 2504,
+    "avg_price": 2543,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -25,6 +25,7 @@
       "Калуш",
       "Київ",
       "Ковель",
+      "Конотоп",
       "Кременчук",
       "Кривий Ріг",
       "Кропивницький",
@@ -34,7 +35,6 @@
       "Миколаїв",
       "Миргород",
       "Могилів-Подільський",
-      "Мукачево",
       "Новий Розділ",
       "Ніжин",
       "Одеса",
@@ -3109,26 +3109,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Viewsonic vx2779a-hd-pro",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-vx2779a-hd-pro/m5178266",
-      "price_min": 3590,
-      "price_max": 3590,
-      "city": "Мукачево",
-      "addresses": [
-        "м. Мукачево, вул. Миру, 12/4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-18T19:31:42Z",
-      "price_history": [
-        {
-          "price": 3590,
-          "at": "2026-06-18T19:31:42Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq gl-2760b",
       "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
       "price_min": 3640,
@@ -3905,6 +3885,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi mag301cr2",
+      "url": "https://tehnoskarb.ua/montor-msi-mag301cr2/m5178275",
+      "price_min": 10850,
+      "price_max": 10850,
+      "city": "Конотоп",
+      "addresses": [
+        "м. Конотоп, просп. Миру, 10"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-18T22:12:47Z",
+      "price_history": [
+        {
+          "price": 10850,
+          "at": "2026-06-18T22:12:47Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 27gn950-b",
       "url": "https://tehnoskarb.ua/montor-lg-27gn950-b/m5165373",
       "price_min": 13330,
@@ -4010,25 +4010,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung bx2235 ls22b3uvmn",
-      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
-      "price": 790,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-06-09T04:45:50Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Lg w1943ss",
-      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
-      "price_old": 550,
-      "price_new": 500,
-      "city": "Золочів",
-      "category": "Монітори",
-      "at": "2026-06-09T04:45:50Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung 943nw",
@@ -5879,6 +5860,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-18T19:31:42Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Viewsonic vx2779a-hd-pro",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-vx2779a-hd-pro/m5178266",
+      "price": 3590,
+      "city": "Мукачево",
+      "category": "Монітори",
+      "at": "2026-06-18T22:12:47Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi mag301cr2",
+      "url": "https://tehnoskarb.ua/montor-msi-mag301cr2/m5178275",
+      "price": 10850,
+      "city": "Конотоп",
+      "category": "Монітори",
+      "at": "2026-06-18T22:12:47Z"
     }
   ],
   "config": {

@@ -4007,9 +4007,9 @@
         "at": "2026-06-18T05:18:13Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-06-18T16:38:16Z",
-    "details_retry_at": "2026-06-18T20:38:16Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-06-18T22:12:47Z",
+    "details_retry_at": "2026-06-19T04:12:47Z"
   },
   "https://tehnoskarb.ua/montor-lg-l1942s/m5165584": {
     "name": "Монітор Lg l1942s",
@@ -4027,9 +4027,9 @@
         "at": "2026-06-18T05:18:13Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-06-18T16:38:16Z",
-    "details_retry_at": "2026-06-18T20:38:16Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-06-18T22:12:47Z",
+    "details_retry_at": "2026-06-19T04:12:47Z"
   },
   "https://tehnoskarb.ua/montor-lg-flatron-l1910s/m5156650": {
     "name": "Монітор Lg flatron l1910s",
@@ -4047,9 +4047,9 @@
         "at": "2026-06-18T05:18:13Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-06-18T16:38:16Z",
-    "details_retry_at": "2026-06-18T20:38:16Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-06-18T22:12:47Z",
+    "details_retry_at": "2026-06-19T04:12:47Z"
   },
   "https://tehnoskarb.ua/montor-fujitsu-b22w-7-led/m5175440": {
     "name": "Монітор Fujitsu b22w-7 led",
@@ -4114,27 +4114,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-18T16:38:16Z"
   },
-  "https://tehnoskarb.ua/montor-viewsonic-vx2779a-hd-pro/m5178266": {
-    "name": "Монітор Viewsonic vx2779a-hd-pro",
-    "price_min": 3590,
-    "price_max": 3590,
-    "city": "Мукачево",
-    "addresses": [
-      "м. Мукачево, вул. Миру, 12/4"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-18T19:31:42Z",
-    "price_history": [
-      {
-        "price": 3590,
-        "at": "2026-06-18T19:31:42Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-18T19:31:42Z"
-  },
   "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167": {
     "name": "Монітор Iiyama prolite e2407hds",
     "price_min": 700,
@@ -4155,5 +4134,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-18T19:31:42Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-mag301cr2/m5178275": {
+    "name": "Монітор Msi mag301cr2",
+    "price_min": 10850,
+    "price_max": 10850,
+    "city": "Конотоп",
+    "addresses": [
+      "м. Конотоп, просп. Миру, 10"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-18T22:12:47Z",
+    "price_history": [
+      {
+        "price": 10850,
+        "at": "2026-06-18T22:12:47Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-18T22:12:47Z"
   }
 }
