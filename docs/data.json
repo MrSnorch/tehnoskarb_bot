@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-18T12:57:37Z",
+  "updated_at": "2026-06-18T16:38:32Z",
   "stats": {
-    "total": 182,
-    "avg_price": 2501,
+    "total": 183,
+    "avg_price": 2509,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -1506,7 +1506,7 @@
       "name": "Монітор Samsung bx2235 ls22b3uvmn",
       "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
       "price_min": 690,
-      "price_max": 790,
+      "price_max": 710,
       "city": "Івано-Франківськ",
       "addresses": [
         "м. Івано-Франківськ, вул. Василя Стуса, 17А"
@@ -3146,6 +3146,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi pro mp275",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp275/m5138021",
+      "price_min": 3820,
+      "price_max": 3820,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Княжий Затон, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-18T16:38:16Z",
+      "price_history": [
+        {
+          "price": 3820,
+          "at": "2026-06-18T16:38:16Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi g244f-e2",
       "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
       "price_min": 3890,
@@ -3943,15 +3963,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi optix mag 256f",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag-256f/m5133408",
-      "price": 3900,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-08T18:43:00Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg 24mp59g-p",
@@ -5811,6 +5822,15 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-06-18T12:56:37Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp275",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp275/m5138021",
+      "price": 3820,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-18T16:38:16Z"
     }
   ],
   "config": {

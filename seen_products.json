@@ -2891,7 +2891,7 @@
   "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009": {
     "name": "Монітор Samsung bx2235 ls22b3uvmn",
     "price_min": 690,
-    "price_max": 790,
+    "price_max": 710,
     "city": "Івано-Франківськ",
     "addresses": [
       "м. Івано-Франківськ, вул. Василя Стуса, 17А"
@@ -4002,9 +4002,9 @@
         "at": "2026-06-18T05:18:13Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-06-18T12:56:37Z",
-    "details_retry_at": "2026-06-18T14:56:37Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-06-18T16:38:16Z",
+    "details_retry_at": "2026-06-18T20:38:16Z"
   },
   "https://tehnoskarb.ua/montor-lg-l1942s/m5165584": {
     "name": "Монітор Lg l1942s",
@@ -4022,9 +4022,9 @@
         "at": "2026-06-18T05:18:13Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-06-18T12:56:37Z",
-    "details_retry_at": "2026-06-18T14:56:37Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-06-18T16:38:16Z",
+    "details_retry_at": "2026-06-18T20:38:16Z"
   },
   "https://tehnoskarb.ua/montor-lg-flatron-l1910s/m5156650": {
     "name": "Монітор Lg flatron l1910s",
@@ -4042,9 +4042,9 @@
         "at": "2026-06-18T05:18:13Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-06-18T12:56:37Z",
-    "details_retry_at": "2026-06-18T14:56:37Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-06-18T16:38:16Z",
+    "details_retry_at": "2026-06-18T20:38:16Z"
   },
   "https://tehnoskarb.ua/montor-fujitsu-b22w-7-led/m5175440": {
     "name": "Монітор Fujitsu b22w-7 led",
@@ -4087,5 +4087,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-18T09:54:34Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-pro-mp275/m5138021": {
+    "name": "Монітор Msi pro mp275",
+    "price_min": 3820,
+    "price_max": 3820,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Княжий Затон, 11"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-18T16:38:16Z",
+    "price_history": [
+      {
+        "price": 3820,
+        "at": "2026-06-18T16:38:16Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-18T16:38:16Z"
   }
 }
