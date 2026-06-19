@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-19T14:15:00Z",
+  "updated_at": "2026-06-19T16:58:33Z",
   "stats": {
     "total": 188,
-    "avg_price": 2520,
+    "avg_price": 2538,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -35,6 +35,7 @@
       "Миколаїв",
       "Миргород",
       "Могилів-Подільський",
+      "Мукачево",
       "Новий Розділ",
       "Ніжин",
       "Одеса",
@@ -177,26 +178,6 @@
         {
           "price": 200,
           "at": "2026-06-18T09:54:34Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 910n",
-      "url": "https://tehnoskarb.ua/montor-samsung-910n/m5172439",
-      "price_min": 240,
-      "price_max": 240,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Братства тарасівців, 2А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 240,
-          "at": "2026-06-07T11:49:57Z"
         }
       ],
       "category": "Монітори",
@@ -3173,6 +3154,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Viewsonic vx2779a-hd-pro",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-vx2779a-hd-pro/m5178266",
+      "price_min": 3590,
+      "price_max": 3590,
+      "city": "Мукачево",
+      "addresses": [
+        "м. Мукачево, вул. Миру, 12/4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-19T16:58:23Z",
+      "price_history": [
+        {
+          "price": 3590,
+          "at": "2026-06-19T16:58:23Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Benq gl-2760b",
       "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
       "price_min": 3640,
@@ -4078,25 +4079,6 @@
     }
   ],
   "events": [
-    {
-      "type": "rise",
-      "name": "Монітор Samsung s27r350",
-      "url": "https://tehnoskarb.ua/montor-samsung-s27r350/m5174594",
-      "price_old": 2640,
-      "price_new": 2700,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-09T18:08:57Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Philips 236v3lab/01",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
-      "price": 870,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-09T20:28:26Z"
-    },
     {
       "type": "new",
       "name": "Монітор Fujitsu l22t-2",
@@ -5947,6 +5929,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-19T14:13:56Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 910n",
+      "url": "https://tehnoskarb.ua/montor-samsung-910n/m5172439",
+      "price": 240,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-19T16:58:23Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Viewsonic vx2779a-hd-pro",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-vx2779a-hd-pro/m5178266",
+      "price": 3590,
+      "city": "Мукачево",
+      "category": "Монітори",
+      "at": "2026-06-19T16:58:23Z"
     }
   ],
   "config": {

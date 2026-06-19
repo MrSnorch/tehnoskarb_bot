@@ -376,27 +376,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-07T14:00:10Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-910n/m5172439": {
-    "name": "Монітор Samsung 910n",
-    "price_min": 240,
-    "price_max": 240,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Братства тарасівців, 2А"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-07T11:49:57Z",
-    "price_history": [
-      {
-        "price": 240,
-        "at": "2026-06-07T11:49:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-07T14:00:10Z"
-  },
   "https://tehnoskarb.ua/montor-prestigio-p3191w/m5172125": {
     "name": "Монітор Prestigio p3191w",
     "price_min": 240,
@@ -4226,5 +4205,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-19T14:13:56Z"
+  },
+  "https://tehnoskarb.ua/montor-viewsonic-vx2779a-hd-pro/m5178266": {
+    "name": "Монітор Viewsonic vx2779a-hd-pro",
+    "price_min": 3590,
+    "price_max": 3590,
+    "city": "Мукачево",
+    "addresses": [
+      "м. Мукачево, вул. Миру, 12/4"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-19T16:58:23Z",
+    "price_history": [
+      {
+        "price": 3590,
+        "at": "2026-06-19T16:58:23Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-19T16:58:23Z"
   }
 }
