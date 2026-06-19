@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T10:42:09Z",
+  "updated_at": "2026-06-19T14:15:00Z",
   "stats": {
     "total": 188,
     "avg_price": 2520,
@@ -735,26 +735,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg l1953tr",
-      "url": "https://tehnoskarb.ua/montor-lg-l1953tr/m5057951",
-      "price_min": 400,
-      "price_max": 400,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Грушевського, 67"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 400,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung 943nw",
       "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
       "price_min": 400,
@@ -810,6 +790,26 @@
         {
           "price": 400,
           "at": "2026-06-18T19:31:42Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung syncmaster 913n",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
+      "price_min": 400,
+      "price_max": 400,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Червоної Калини, 60/10"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-19T14:13:56Z",
+      "price_history": [
+        {
+          "price": 400,
+          "at": "2026-06-19T14:13:56Z"
         }
       ],
       "category": "Монітори",
@@ -4079,24 +4079,6 @@
   ],
   "events": [
     {
-      "type": "new",
-      "name": "Монітор Samsung ls24r350fhixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
-      "price": 1700,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-09T15:39:13Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi pro mp2412",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp2412/m5057728",
-      "price": 2670,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-09T15:39:13Z"
-    },
-    {
       "type": "rise",
       "name": "Монітор Samsung s27r350",
       "url": "https://tehnoskarb.ua/montor-samsung-s27r350/m5174594",
@@ -5947,6 +5929,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-19T10:42:03Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg l1953tr",
+      "url": "https://tehnoskarb.ua/montor-lg-l1953tr/m5057951",
+      "price": 400,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-06-19T14:13:56Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung syncmaster 913n",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
+      "price": 400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-19T14:13:56Z"
     }
   ],
   "config": {
