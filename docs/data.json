@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-19T16:58:33Z",
+  "updated_at": "2026-06-19T19:02:57Z",
   "stats": {
-    "total": 188,
-    "avg_price": 2538,
+    "total": 187,
+    "avg_price": 2532,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -35,7 +35,6 @@
       "Миколаїв",
       "Миргород",
       "Могилів-Подільський",
-      "Мукачево",
       "Новий Розділ",
       "Ніжин",
       "Одеса",
@@ -3154,26 +3153,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Viewsonic vx2779a-hd-pro",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-vx2779a-hd-pro/m5178266",
-      "price_min": 3590,
-      "price_max": 3590,
-      "city": "Мукачево",
-      "addresses": [
-        "м. Мукачево, вул. Миру, 12/4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-19T16:58:23Z",
-      "price_history": [
-        {
-          "price": 3590,
-          "at": "2026-06-19T16:58:23Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq gl-2760b",
       "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
       "price_min": 3640,
@@ -4079,15 +4058,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Fujitsu l22t-2",
-      "url": "https://tehnoskarb.ua/montor-fujitsu-l22t-2/m5169037",
-      "price": 580,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-06-09T20:28:26Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Msi pro mp225",
@@ -5947,6 +5917,15 @@
       "city": "Мукачево",
       "category": "Монітори",
       "at": "2026-06-19T16:58:23Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Viewsonic vx2779a-hd-pro",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-vx2779a-hd-pro/m5178266",
+      "price": 3590,
+      "city": "Мукачево",
+      "category": "Монітори",
+      "at": "2026-06-19T19:02:51Z"
     }
   ],
   "config": {
