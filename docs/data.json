@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-20T17:55:36Z",
+  "updated_at": "2026-06-20T19:41:34Z",
   "stats": {
-    "total": 187,
-    "avg_price": 2559,
+    "total": 186,
+    "avg_price": 2553,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -18,7 +18,6 @@
       "Вінниця",
       "Дніпро",
       "Дрогобич",
-      "Житомир",
       "Жмеринка",
       "Запоріжжя",
       "Золочів",
@@ -3171,26 +3170,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus vg249q1",
-      "url": "https://tehnoskarb.ua/montor-asus-vg249q1/m5114747",
-      "price_min": 3800,
-      "price_max": 3800,
-      "city": "Житомир",
-      "addresses": [
-        "м. Житомир, вул. Довженко, 44"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 3800,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi pro mp275",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp275/m5138021",
       "price_min": 3820,
@@ -4067,15 +4046,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 236v3lab/01",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
-      "price": 870,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-10T12:23:38Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung 2043sn",
@@ -5936,6 +5906,15 @@
       "city": "Черкаси",
       "category": "Монітори",
       "at": "2026-06-20T17:54:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vg249q1",
+      "url": "https://tehnoskarb.ua/montor-asus-vg249q1/m5114747",
+      "price": 3800,
+      "city": "Житомир",
+      "category": "Монітори",
+      "at": "2026-06-20T19:41:28Z"
     }
   ],
   "config": {
