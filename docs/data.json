@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-20T04:00:26Z",
+  "updated_at": "2026-06-20T07:55:46Z",
   "stats": {
     "total": 188,
-    "avg_price": 2538,
+    "avg_price": 2529,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -35,7 +35,6 @@
       "Миколаїв",
       "Миргород",
       "Могилів-Подільський",
-      "Мукачево",
       "Новий Розділ",
       "Ніжин",
       "Одеса",
@@ -2152,7 +2151,7 @@
         "м. Вінниця, вул. Замостянська, 37 пр.77",
         "м. Київ, вул. Вишгородська, 33"
       ],
-      "offers": 3,
+      "offers": 4,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -2706,6 +2705,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi optix mag241c",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
+      "price_min": 2401,
+      "price_max": 2401,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Чоколовський, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-20T07:55:34Z",
+      "price_history": [
+        {
+          "price": 2401,
+          "at": "2026-06-20T07:55:34Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Xiaomi monitor a24i",
       "url": "https://tehnoskarb.ua/montor-xiaomi-monitor-a24i/m5154283",
       "price_min": 2430,
@@ -3148,26 +3167,6 @@
         {
           "price": 3500,
           "at": "2026-06-10T21:35:34Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Viewsonic vx2779a-hd-pro",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-vx2779a-hd-pro/m5178266",
-      "price_min": 3590,
-      "price_max": 3590,
-      "city": "Мукачево",
-      "addresses": [
-        "м. Мукачево, вул. Миру, 12/4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-19T20:51:43Z",
-      "price_history": [
-        {
-          "price": 3590,
-          "at": "2026-06-19T20:51:43Z"
         }
       ],
       "category": "Монітори",
@@ -3702,6 +3701,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi optix g27c4 e3",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g27c4-e3/m5165161",
+      "price_min": 6300,
+      "price_max": 6300,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Воскресенський, 34/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-07T11:49:57Z",
+      "price_history": [
+        {
+          "price": 6900,
+          "at": "2026-06-07T11:49:57Z"
+        },
+        {
+          "price": 6300,
+          "at": "2026-06-20T07:55:34Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vu249cfe-b",
       "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
       "price_min": 6480,
@@ -3760,26 +3783,6 @@
         {
           "price": 6750,
           "at": "2026-06-17T12:18:46Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi optix g27c4 e3",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g27c4-e3/m5165161",
-      "price_min": 6900,
-      "price_max": 6900,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Воскресенський, 34/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 6900,
-          "at": "2026-06-07T11:49:57Z"
         }
       ],
       "category": "Монітори",
@@ -4079,33 +4082,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 232e2",
-      "url": "https://tehnoskarb.ua/montor-philips-232e2/m5176721",
-      "price": 1020,
-      "city": "Борислав",
-      "category": "Монітори",
-      "at": "2026-06-10T08:31:13Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus rog strix xg27acmg",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acmg/m5176699",
-      "price": 15400,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-06-10T08:31:13Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg m2380df",
-      "url": "https://tehnoskarb.ua/montor-lg-m2380df/m5176693",
-      "price": 1470,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-06-10T08:31:13Z"
-    },
     {
       "type": "new",
       "name": "Монітор Dell e198fpf",
@@ -5947,6 +5923,34 @@
       "city": "Мукачево",
       "category": "Монітори",
       "at": "2026-06-19T20:51:43Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Viewsonic vx2779a-hd-pro",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-vx2779a-hd-pro/m5178266",
+      "price": 3590,
+      "city": "Мукачево",
+      "category": "Монітори",
+      "at": "2026-06-20T07:55:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi optix mag241c",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
+      "price": 2401,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-20T07:55:34Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Msi optix g27c4 e3",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g27c4-e3/m5165161",
+      "price_old": 6900,
+      "price_new": 6300,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-20T07:55:34Z"
     }
   ],
   "config": {
