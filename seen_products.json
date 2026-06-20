@@ -962,31 +962,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-07T14:00:10Z"
   },
-  "https://tehnoskarb.ua/montor-msi-optix-g2712f/m5163816": {
-    "name": "Монітор Msi optix g2712f",
-    "price_min": 4520,
-    "price_max": 4520,
-    "city": "Львів",
-    "addresses": [
-      "м. Львів, вул. Промислова, 50/52"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-07T11:49:57Z",
-    "price_history": [
-      {
-        "price": 5020,
-        "at": "2026-06-07T11:49:57Z"
-      },
-      {
-        "price": 4520,
-        "at": "2026-06-17T12:18:46Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-07T14:00:10Z"
-  },
   "https://tehnoskarb.ua/montor-asus-vh203/m5162712": {
     "name": "Монітор Asus vh203",
     "price_min": 600,
@@ -4260,5 +4235,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-20T10:35:22Z"
+  },
+  "https://tehnoskarb.ua/montor-acer-nitro-vg240y/m5073856": {
+    "name": "Монітор Acer nitro vg240y",
+    "price_min": 2500,
+    "price_max": 2500,
+    "city": "Боярка",
+    "addresses": [
+      "м. Боярка, вул. Хрещатик, 2а"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-20T14:53:29Z",
+    "price_history": [
+      {
+        "price": 2500,
+        "at": "2026-06-20T14:53:29Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-20T14:53:29Z"
   }
 }
