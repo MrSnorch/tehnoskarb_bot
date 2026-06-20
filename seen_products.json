@@ -995,7 +995,7 @@
     "addresses": [
       "м. Червоноград, просп. Шевченка, 10"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-07T11:49:57Z",
@@ -2730,27 +2730,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-07T17:21:31Z"
   },
-  "https://tehnoskarb.ua/montor-aoc-22p1/m5169396": {
-    "name": "Монітор Aoc 22p1",
-    "price_min": 1670,
-    "price_max": 1670,
-    "city": "Житомир",
-    "addresses": [
-      "м. Житомир, вул. Небесної Сотні, 15"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-08T06:47:57Z",
-    "price_history": [
-      {
-        "price": 1670,
-        "at": "2026-06-08T06:47:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-08T06:47:57Z"
-  },
   "https://tehnoskarb.ua/montor-asus-vw223b/m5176386": {
     "name": "Монітор Asus vw223b",
     "price_min": 900,
@@ -4256,5 +4235,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-20T14:53:29Z"
+  },
+  "https://tehnoskarb.ua/montor-philips-24m2n3200nf-00/m5178204": {
+    "name": "Монітор Philips 24m2n3200nf/00",
+    "price_min": 2930,
+    "price_max": 2930,
+    "city": "Рівне",
+    "addresses": [
+      "м. Рівне, вул. Соборна, 63"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-20T16:21:50Z",
+    "price_history": [
+      {
+        "price": 2930,
+        "at": "2026-06-20T16:21:50Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-20T16:21:50Z"
   }
 }
