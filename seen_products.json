@@ -1020,7 +1020,7 @@
     "addresses": [
       "м. Червоноград, просп. Шевченка, 10"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-07T11:49:57Z",
@@ -2982,7 +2982,7 @@
   },
   "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acmg/m5176699": {
     "name": "Монітор Asus rog strix xg27acmg",
-    "price_min": 13900,
+    "price_min": 14900,
     "price_max": 15400,
     "city": "Чернівці",
     "addresses": [
@@ -3000,6 +3000,10 @@
       {
         "price": 13900,
         "at": "2026-06-19T05:34:01Z"
+      },
+      {
+        "price": 14900,
+        "at": "2026-06-20T12:27:10Z"
       }
     ],
     "details_failures": 0,
@@ -3755,26 +3759,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-15T20:58:02Z"
-  },
-  "https://tehnoskarb.ua/rk-montor-lg-flatron-e2260t-pn/m5177684": {
-    "name": "Монітор Lg flatron e2260t-pn",
-    "price_min": 900,
-    "price_max": 900,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-16T08:27:49Z",
-    "price_history": [
-      {
-        "price": 900,
-        "at": "2026-06-16T08:27:49Z"
-      }
-    ],
-    "details_failures": 15,
-    "details_last_attempt": "2026-06-20T10:35:22Z",
-    "details_retry_at": "2026-06-20T16:35:22Z"
   },
   "https://tehnoskarb.ua/montor-lg-ips236v-pn/m5177687": {
     "name": "Монітор Lg ips236v-pn",

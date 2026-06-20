@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-20T10:36:29Z",
+  "updated_at": "2026-06-20T12:27:19Z",
   "stats": {
-    "total": 190,
-    "avg_price": 2534,
+    "total": 189,
+    "avg_price": 2548,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -1846,24 +1846,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg flatron e2260t-pn",
-      "url": "https://tehnoskarb.ua/rk-montor-lg-flatron-e2260t-pn/m5177684",
-      "price_min": 900,
-      "price_max": 900,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-06-16T08:27:49Z",
-      "price_history": [
-        {
-          "price": 900,
-          "at": "2026-06-16T08:27:49Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer v226hql",
       "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
       "price_min": 950,
@@ -1920,7 +1902,7 @@
       "addresses": [
         "м. Червоноград, просп. Шевченка, 10"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -4041,9 +4023,29 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi mag 272qpw qd-oled x28",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-272qpw-qd-oled-x28/m5174027",
+      "price_min": 14010,
+      "price_max": 14010,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Білоруська, 8"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-12T06:51:40Z",
+      "price_history": [
+        {
+          "price": 14010,
+          "at": "2026-06-12T06:51:40Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus rog strix xg27acmg",
       "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acmg/m5176699",
-      "price_min": 13900,
+      "price_min": 14900,
       "price_max": 15400,
       "city": "Чернівці",
       "addresses": [
@@ -4059,26 +4061,10 @@
         {
           "price": 13900,
           "at": "2026-06-19T05:34:01Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi mag 272qpw qd-oled x28",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-272qpw-qd-oled-x28/m5174027",
-      "price_min": 14010,
-      "price_max": 14010,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Білоруська, 8"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-12T06:51:40Z",
-      "price_history": [
+        },
         {
-          "price": 14010,
-          "at": "2026-06-12T06:51:40Z"
+          "price": 14900,
+          "at": "2026-06-20T12:27:10Z"
         }
       ],
       "category": "Монітори",
@@ -4126,24 +4112,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls22b300",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls22b300/m5140878",
-      "price": 1350,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-06-10T08:31:13Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Aoc 24g4x",
-      "url": "https://tehnoskarb.ua/montor-aoc-24g4x/m5140719",
-      "price": 4460,
-      "city": "Вишгород",
-      "category": "Монітори",
-      "at": "2026-06-10T08:31:13Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung s22d300",
@@ -5995,6 +5963,25 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-20T10:35:22Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg flatron e2260t-pn",
+      "url": "https://tehnoskarb.ua/rk-montor-lg-flatron-e2260t-pn/m5177684",
+      "price": 900,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-06-20T12:27:10Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Asus rog strix xg27acmg",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acmg/m5176699",
+      "price_old": 13900,
+      "price_new": 14900,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-06-20T12:27:10Z"
     }
   ],
   "config": {
