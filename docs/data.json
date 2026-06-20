@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-20T16:22:01Z",
+  "updated_at": "2026-06-20T17:55:36Z",
   "stats": {
-    "total": 189,
-    "avg_price": 2544,
+    "total": 187,
+    "avg_price": 2559,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -28,7 +28,6 @@
       "Конотоп",
       "Кременчук",
       "Кривий Ріг",
-      "Кропивницький",
       "Лозова",
       "Луцьк",
       "Львів",
@@ -217,26 +216,6 @@
         {
           "price": 270,
           "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 943n",
-      "url": "https://tehnoskarb.ua/montor-samsung-943n/m4997404",
-      "price_min": 270,
-      "price_max": 270,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Незалежності, 9А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T17:21:31Z",
-      "price_history": [
-        {
-          "price": 270,
-          "at": "2026-06-07T17:21:31Z"
         }
       ],
       "category": "Монітори",
@@ -2501,26 +2480,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Acer sa242yh1bi",
-      "url": "https://tehnoskarb.ua/montor-acer-sa242yh1bi/m5171916",
-      "price_min": 2020,
-      "price_max": 2020,
-      "city": "Черкаси",
-      "addresses": [
-        "м. Черкаси, вул. Сумгаїтська, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-11T11:55:31Z",
-      "price_history": [
-        {
-          "price": 2020,
-          "at": "2026-06-11T11:55:31Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Tft панель Delta Electronics dop-b05s111",
       "url": "https://tehnoskarb.ua/tft-panel-operatora-delta-electronics-dop-b05s111/m5152927",
       "price_min": 2110,
@@ -4108,24 +4067,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Asus va259hga",
-      "url": "https://tehnoskarb.ua/montor-asus-va259hga/m5168218",
-      "price": 3320,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-10T12:23:38Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 720n",
-      "url": "https://tehnoskarb.ua/montor-samsung-720n/m5042700",
-      "price": 420,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-10T12:23:38Z"
-    },
     {
       "type": "new",
       "name": "Монітор Philips 236v3lab/01",
@@ -5977,6 +5918,24 @@
       "city": "Рівне",
       "category": "Монітори",
       "at": "2026-06-20T16:21:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 943n",
+      "url": "https://tehnoskarb.ua/montor-samsung-943n/m4997404",
+      "price": 270,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-06-20T17:54:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer sa242yh1bi",
+      "url": "https://tehnoskarb.ua/montor-acer-sa242yh1bi/m5171916",
+      "price": 2020,
+      "city": "Черкаси",
+      "category": "Монітори",
+      "at": "2026-06-20T17:54:41Z"
     }
   ],
   "config": {
