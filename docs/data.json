@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-20T19:41:34Z",
+  "updated_at": "2026-06-20T21:20:52Z",
   "stats": {
-    "total": 186,
-    "avg_price": 2553,
+    "total": 187,
+    "avg_price": 2550,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -2479,6 +2479,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Xiaomi a22i / ela5230eu",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-a22i-ela5230eu/m5111189",
+      "price_min": 2040,
+      "price_max": 2040,
+      "city": "Миколаїв",
+      "addresses": [
+        "м. Миколаїв, вул. 3-я Слобідська, 51"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-20T21:20:44Z",
+      "price_history": [
+        {
+          "price": 2040,
+          "at": "2026-06-20T21:20:44Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Tft панель Delta Electronics dop-b05s111",
       "url": "https://tehnoskarb.ua/tft-panel-operatora-delta-electronics-dop-b05s111/m5152927",
       "price_min": 2110,
@@ -4046,15 +4066,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung 2043sn",
-      "url": "https://tehnoskarb.ua/montor-samsung-2043sn/m5047793",
-      "price": 660,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-10T12:23:38Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Acer sa242yh1bi",
@@ -5915,6 +5926,15 @@
       "city": "Житомир",
       "category": "Монітори",
       "at": "2026-06-20T19:41:28Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Xiaomi a22i / ela5230eu",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-a22i-ela5230eu/m5111189",
+      "price": 2040,
+      "city": "Миколаїв",
+      "category": "Монітори",
+      "at": "2026-06-20T21:20:44Z"
     }
   ],
   "config": {
