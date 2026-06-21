@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-21T05:25:48Z",
+  "updated_at": "2026-06-21T09:09:37Z",
   "stats": {
-    "total": 187,
-    "avg_price": 2546,
+    "total": 186,
+    "avg_price": 2545,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -2376,26 +2376,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg 24mk430h",
-      "url": "https://tehnoskarb.ua/montor-lg-24mk430h/m5153163",
-      "price_min": 1850,
-      "price_max": 1850,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Фединця, 17"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 1850,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s24f350fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-s24f350fhi/m5102117",
       "price_min": 1890,
@@ -3899,8 +3879,8 @@
     {
       "name": "Монітор Samsung smart m7",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
-      "price_min": 9500,
-      "price_max": 9500,
+      "price_min": 8600,
+      "price_max": 8600,
       "city": "Київ",
       "addresses": [
         "м. Київ, просп. Бажана, 3В (м. Харківська)"
@@ -3911,6 +3891,10 @@
         {
           "price": 9500,
           "at": "2026-06-07T11:49:57Z"
+        },
+        {
+          "price": 8600,
+          "at": "2026-06-21T09:08:40Z"
         }
       ],
       "category": "Монітори",
@@ -4070,24 +4054,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung p2350",
-      "url": "https://tehnoskarb.ua/montor-samsung-p2350/m5073397",
-      "price": 850,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-10T16:22:01Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Philips 243v7q",
-      "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
-      "price": 2310,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-10T16:22:01Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vw193d",
@@ -5940,6 +5906,25 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-21T05:25:42Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 24mk430h",
+      "url": "https://tehnoskarb.ua/montor-lg-24mk430h/m5153163",
+      "price": 1850,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-06-21T09:08:40Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung smart m7",
+      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
+      "price_old": 9500,
+      "price_new": 8600,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-21T09:08:40Z"
     }
   ],
   "config": {
