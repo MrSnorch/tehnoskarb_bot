@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-21T11:59:50Z",
+  "updated_at": "2026-06-21T14:28:57Z",
   "stats": {
-    "total": 182,
-    "avg_price": 2563,
+    "total": 181,
+    "avg_price": 2565,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -2489,26 +2489,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Aoc 22b2h",
-      "url": "https://tehnoskarb.ua/montor-aoc-22b2h/m5176863",
-      "price_min": 2220,
-      "price_max": 2220,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. О. Архипенка, 1/12"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-11T07:14:48Z",
-      "price_history": [
-        {
-          "price": 2220,
-          "at": "2026-06-11T07:14:48Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq gw2491",
       "url": "https://tehnoskarb.ua/montor-benq-gw2491/m5178063",
       "price_min": 2300,
@@ -3976,15 +3956,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Dell p2418d",
-      "url": "https://tehnoskarb.ua/montor-dell-p2418d/m5065599",
-      "price": 3500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-10T21:35:34Z"
-    },
     {
       "type": "new",
       "name": "Монітор Aoc 22b2h",
@@ -5847,6 +5818,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-06-21T11:59:37Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc 22b2h",
+      "url": "https://tehnoskarb.ua/montor-aoc-22b2h/m5176863",
+      "price": 2220,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-21T14:28:48Z"
     }
   ],
   "config": {
