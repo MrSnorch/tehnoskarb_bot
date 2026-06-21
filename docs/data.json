@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-21T20:12:48Z",
+  "updated_at": "2026-06-21T21:55:43Z",
   "stats": {
-    "total": 185,
-    "avg_price": 2557,
+    "total": 186,
+    "avg_price": 2588,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -3859,6 +3859,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus rog strix xg27acs-w",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368",
+      "price_min": 8500,
+      "price_max": 8500,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Вацлава Гавела, 53"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-21T21:55:35Z",
+      "price_history": [
+        {
+          "price": 8500,
+          "at": "2026-06-21T21:55:35Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung smart m7",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
       "price_min": 8600,
@@ -4036,15 +4056,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Asus vs247",
-      "url": "https://tehnoskarb.ua/montor-asus-vs247/m5169843",
-      "price": 1630,
-      "city": "Ніжин",
-      "category": "Монітори",
-      "at": "2026-06-11T11:55:31Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Acer nitro qg241y",
@@ -5907,6 +5918,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-21T20:12:30Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus rog strix xg27acs-w",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368",
+      "price": 8500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-21T21:55:35Z"
     }
   ],
   "config": {
