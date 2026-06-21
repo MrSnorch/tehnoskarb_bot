@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-21T00:11:34Z",
+  "updated_at": "2026-06-21T05:25:48Z",
   "stats": {
     "total": 187,
-    "avg_price": 2550,
+    "avg_price": 2546,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -1872,6 +1872,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell p2314ht",
+      "url": "https://tehnoskarb.ua/montor-dell-p2314ht/m5159268",
+      "price_min": 1000,
+      "price_max": 1670,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р М. Міхновського, 25"
+      ],
+      "offers": 2,
+      "first_seen": "2026-06-11T07:14:48Z",
+      "price_history": [
+        {
+          "price": 1670,
+          "at": "2026-06-11T07:14:48Z"
+        },
+        {
+          "price": 1000,
+          "at": "2026-06-21T05:25:42Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s24e650",
       "url": "https://tehnoskarb.ua/montor-samsung-s24e650/m5162299",
       "price_min": 1020,
@@ -2286,26 +2310,6 @@
         {
           "price": 1650,
           "at": "2026-06-19T10:42:03Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Dell p2314ht",
-      "url": "https://tehnoskarb.ua/montor-dell-p2314ht/m5159268",
-      "price_min": 1670,
-      "price_max": 1670,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р М. Міхновського, 25"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-11T07:14:48Z",
-      "price_history": [
-        {
-          "price": 1670,
-          "at": "2026-06-11T07:14:48Z"
         }
       ],
       "category": "Монітори",
@@ -4066,15 +4070,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Acer sa242yh1bi",
-      "url": "https://tehnoskarb.ua/montor-acer-sa242yh1bi/m5171916",
-      "price": 2020,
-      "city": "Черкаси",
-      "category": "Монітори",
-      "at": "2026-06-10T16:22:01Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung p2350",
@@ -5935,6 +5930,16 @@
       "city": "Миколаїв",
       "category": "Монітори",
       "at": "2026-06-20T21:20:44Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Dell p2314ht",
+      "url": "https://tehnoskarb.ua/montor-dell-p2314ht/m5159268",
+      "price_old": 1670,
+      "price_new": 1000,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-21T05:25:42Z"
     }
   ],
   "config": {
