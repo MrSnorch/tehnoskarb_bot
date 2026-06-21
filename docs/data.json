@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-21T14:28:57Z",
+  "updated_at": "2026-06-21T16:16:52Z",
   "stats": {
-    "total": 181,
-    "avg_price": 2565,
+    "total": 182,
+    "avg_price": 2555,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -1798,6 +1798,26 @@
         {
           "price": 900,
           "at": "2026-06-12T19:30:38Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell u2312hmt",
+      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
+      "price_min": 900,
+      "price_max": 900,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул Р. Окіпної, 5"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-21T16:15:58Z",
+      "price_history": [
+        {
+          "price": 900,
+          "at": "2026-06-21T16:15:58Z"
         }
       ],
       "category": "Монітори",
@@ -3958,15 +3978,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Aoc 22b2h",
-      "url": "https://tehnoskarb.ua/montor-aoc-22b2h/m5176863",
-      "price": 2220,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-11T07:14:48Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Dell p2314ht",
       "url": "https://tehnoskarb.ua/montor-dell-p2314ht/m5159268",
       "price": 1670,
@@ -5827,6 +5838,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-21T14:28:48Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell u2312hmt",
+      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
+      "price": 900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-21T16:15:58Z"
     }
   ],
   "config": {
