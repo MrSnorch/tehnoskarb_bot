@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-21T18:05:45Z",
+  "updated_at": "2026-06-21T20:12:48Z",
   "stats": {
-    "total": 182,
-    "avg_price": 2555,
+    "total": 185,
+    "avg_price": 2557,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -886,7 +886,7 @@
       "addresses": [
         "м. Золочів, вул. Шашкевича, 4"
       ],
-      "offers": 4,
+      "offers": 5,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -1424,6 +1424,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus pa246",
+      "url": "https://tehnoskarb.ua/montor-asus-pa246/m5178608",
+      "price_min": 680,
+      "price_max": 680,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Чоколовський, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-21T20:12:30Z",
+      "price_history": [
+        {
+          "price": 680,
+          "at": "2026-06-21T20:12:30Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg w2043s",
       "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
       "price_min": 690,
@@ -1702,6 +1722,26 @@
         {
           "price": 820,
           "at": "2026-06-17T16:12:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung s23b450t",
+      "url": "https://tehnoskarb.ua/montor-samsung-s23b450t/m5178691",
+      "price_min": 840,
+      "price_max": 840,
+      "city": "Івано-Франківськ",
+      "addresses": [
+        "м. Івано-Франківськ, вул. Коновальця, 147/3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-21T20:12:30Z",
+      "price_history": [
+        {
+          "price": 840,
+          "at": "2026-06-21T20:12:30Z"
         }
       ],
       "category": "Монітори",
@@ -3611,6 +3651,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus tuf gaming vg27vqm",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
+      "price_min": 6360,
+      "price_max": 6360,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Миру, 2/3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-21T20:12:30Z",
+      "price_history": [
+        {
+          "price": 6360,
+          "at": "2026-06-21T20:12:30Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vu249cfe-b",
       "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
       "price_min": 6480,
@@ -3976,33 +4036,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Dell p2314ht",
-      "url": "https://tehnoskarb.ua/montor-dell-p2314ht/m5159268",
-      "price": 1670,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-11T07:14:48Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi g244f-e2",
-      "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
-      "price": 3890,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-06-11T07:14:48Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 940bf",
-      "url": "https://tehnoskarb.ua/montor-samsung-940bf/m4999586",
-      "price": 280,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-06-11T07:14:48Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Asus vs247",
@@ -5847,6 +5880,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-21T16:15:58Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s23b450t",
+      "url": "https://tehnoskarb.ua/montor-samsung-s23b450t/m5178691",
+      "price": 840,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-06-21T20:12:30Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus pa246",
+      "url": "https://tehnoskarb.ua/montor-asus-pa246/m5178608",
+      "price": 680,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-21T20:12:30Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus tuf gaming vg27vqm",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
+      "price": 6360,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-21T20:12:30Z"
     }
   ],
   "config": {
