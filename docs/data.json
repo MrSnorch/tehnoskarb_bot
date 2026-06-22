@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-22T08:39:40Z",
+  "updated_at": "2026-06-22T14:44:02Z",
   "stats": {
-    "total": 188,
-    "avg_price": 2582,
+    "total": 186,
+    "avg_price": 2575,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -1096,26 +1096,6 @@
         {
           "price": 585,
           "at": "2026-06-17T12:18:46Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer b223pw",
-      "url": "https://tehnoskarb.ua/montor-acer-b223pw/m5175258",
-      "price_min": 600,
-      "price_max": 600,
-      "city": "Луцьк",
-      "addresses": [
-        "м. Луцьк, просп. Соборності, 4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 600,
-          "at": "2026-06-07T11:49:57Z"
         }
       ],
       "category": "Монітори",
@@ -2316,7 +2296,7 @@
         "м. Київ, б-р Чоколовський, 21",
         "м. Бровари, б-р Незалежності, 11"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -3590,30 +3570,10 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Acer nitro xv253qxbmiiprzx",
-      "url": "https://tehnoskarb.ua/montor-acer-nitro-xv253qxbmiiprzx/m5143202",
-      "price_min": 5880,
-      "price_max": 5880,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р М. Міхновського, 25"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 5880,
-          "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung odyssey g5 ls32cg550",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125",
       "price_min": 6000,
-      "price_max": 7900,
+      "price_max": 7200,
       "city": "Київ",
       "addresses": [
         "м. Київ, просп. Свободи, 15/1",
@@ -4096,25 +4056,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi optix g2712",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g2712/m5147416",
-      "price": 4900,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-11T11:55:31Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Samsung bx2235 ls22b3uvmn",
-      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
-      "price_old": 790,
-      "price_new": 765,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-06-11T11:55:31Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Asus mm19se",
@@ -5967,6 +5908,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-22T08:38:39Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer b223pw",
+      "url": "https://tehnoskarb.ua/montor-acer-b223pw/m5175258",
+      "price": 600,
+      "city": "Луцьк",
+      "category": "Монітори",
+      "at": "2026-06-22T14:43:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer nitro xv253qxbmiiprzx",
+      "url": "https://tehnoskarb.ua/montor-acer-nitro-xv253qxbmiiprzx/m5143202",
+      "price": 5880,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-22T14:43:08Z"
     }
   ],
   "config": {
