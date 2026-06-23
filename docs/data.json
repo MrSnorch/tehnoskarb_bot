@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-23T06:11:28Z",
+  "updated_at": "2026-06-23T10:10:45Z",
   "stats": {
-    "total": 192,
-    "avg_price": 2549,
+    "total": 191,
+    "avg_price": 2559,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -23,7 +23,6 @@
       "Золочів",
       "Калуш",
       "Київ",
-      "Ковель",
       "Конотоп",
       "Кременчук",
       "Кривий Ріг",
@@ -1478,30 +1477,6 @@
         {
           "price": 690,
           "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer x223hq",
-      "url": "https://tehnoskarb.ua/montor-acer-x223hq/m5017541",
-      "price_min": 690,
-      "price_max": 690,
-      "city": "Ковель",
-      "addresses": [
-        "м. Ковель, вул. Сагайдачного, 6А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 770,
-          "at": "2026-06-07T11:49:57Z"
-        },
-        {
-          "price": 690,
-          "at": "2026-06-17T12:18:46Z"
         }
       ],
       "category": "Монітори",
@@ -3699,7 +3674,7 @@
         "м. Київ, просп. Свободи, 15/1",
         "м. Київ, просп. Берестейський, 136"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -4176,15 +4151,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Acer g227hgl",
-      "url": "https://tehnoskarb.ua/montor-acer-g227hgl/m5147853",
-      "price": 1300,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-12T06:51:40Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi mag 272qpw qd-oled x28",
@@ -6045,6 +6011,15 @@
       "city": "Бровари",
       "category": "Монітори",
       "at": "2026-06-22T21:32:11Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer x223hq",
+      "url": "https://tehnoskarb.ua/montor-acer-x223hq/m5017541",
+      "price": 690,
+      "city": "Ковель",
+      "category": "Монітори",
+      "at": "2026-06-23T10:10:38Z"
     }
   ],
   "config": {
