@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-23T13:22:41Z",
+  "updated_at": "2026-06-23T16:09:47Z",
   "stats": {
-    "total": 189,
-    "avg_price": 2565,
+    "total": 190,
+    "avg_price": 2567,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -3040,6 +3040,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus zenscreen mb169ck",
+      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
+      "price_min": 3000,
+      "price_max": 3000,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Чоколовський, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-23T16:09:36Z",
+      "price_history": [
+        {
+          "price": 3000,
+          "at": "2026-06-23T16:09:36Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор портативний Zsus pm14tt-2k",
       "url": "https://tehnoskarb.ua/montor-portativnijj-zsus-pm14tt-2k/m5176376",
       "price_min": 3100,
@@ -4107,15 +4127,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lg e2360",
-      "url": "https://tehnoskarb.ua/montor-lg-e2360/m5164732",
-      "price": 620,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-12T11:03:02Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lenovo t2424pa",
@@ -5976,6 +5987,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-23T13:21:46Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus zenscreen mb169ck",
+      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
+      "price": 3000,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-23T16:09:36Z"
     }
   ],
   "config": {
