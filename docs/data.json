@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-23T18:21:10Z",
+  "updated_at": "2026-06-23T20:34:45Z",
   "stats": {
-    "total": 192,
-    "avg_price": 2558,
+    "total": 194,
+    "avg_price": 2538,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -26,6 +26,7 @@
       "Конотоп",
       "Кременчук",
       "Кривий Ріг",
+      "Кропивницький",
       "Лозова",
       "Луцьк",
       "Львів",
@@ -732,6 +733,38 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg w1943ss",
+      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
+      "price_min": 400,
+      "price_max": 680,
+      "city": "Золочів",
+      "addresses": [
+        "м. Золочів, вул. Шашкевича, 4"
+      ],
+      "offers": 6,
+      "first_seen": "2026-06-07T11:49:57Z",
+      "price_history": [
+        {
+          "price": 550,
+          "at": "2026-06-07T11:49:57Z"
+        },
+        {
+          "price": 500,
+          "at": "2026-06-09T04:45:50Z"
+        },
+        {
+          "price": 495,
+          "at": "2026-06-17T12:18:46Z"
+        },
+        {
+          "price": 400,
+          "at": "2026-06-23T20:33:45Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung 943nw",
       "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
       "price_min": 400,
@@ -917,34 +950,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg w1943ss",
-      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
-      "price_min": 495,
-      "price_max": 680,
-      "city": "Золочів",
-      "addresses": [
-        "м. Золочів, вул. Шашкевича, 4"
-      ],
-      "offers": 5,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 550,
-          "at": "2026-06-07T11:49:57Z"
-        },
-        {
-          "price": 500,
-          "at": "2026-06-09T04:45:50Z"
-        },
-        {
-          "price": 495,
-          "at": "2026-06-17T12:18:46Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Dell e198fpf",
       "url": "https://tehnoskarb.ua/montor-dell-e198fpf/m5168466",
       "price_min": 500,
@@ -977,6 +982,26 @@
         {
           "price": 500,
           "at": "2026-06-22T18:49:00Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg l1742s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1742s/m5011804",
+      "price_min": 500,
+      "price_max": 500,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. Незалежності, 9А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-23T20:33:45Z",
+      "price_history": [
+        {
+          "price": 500,
+          "at": "2026-06-23T20:33:45Z"
         }
       ],
       "category": "Монітори",
@@ -1757,6 +1782,26 @@
         {
           "price": 840,
           "at": "2026-06-21T20:12:30Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Fujitsu sl23t-1",
+      "url": "https://tehnoskarb.ua/montor-fujitsu-sl23t-1/m5178749",
+      "price_min": 850,
+      "price_max": 850,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. Соборна, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-23T20:33:45Z",
+      "price_history": [
+        {
+          "price": 850,
+          "at": "2026-06-23T20:33:45Z"
         }
       ],
       "category": "Монітори",
@@ -4168,33 +4213,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Hp elitedisplay s231d",
-      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-s231d/m5164660",
-      "price": 1290,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-12T17:22:39Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Iiyama prolite e2083hsd",
-      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2083hsd/m5145732",
-      "price": 750,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-12T17:22:39Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Hp e222",
-      "url": "https://tehnoskarb.ua/montor-hp-e222/m5056203",
-      "price": 1620,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-12T17:22:39Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Lg flatron e2241t-bn",
       "url": "https://tehnoskarb.ua/montor-lg-flatron-e2241t-bn/m5177084",
@@ -6036,6 +6054,34 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-23T18:20:57Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Fujitsu sl23t-1",
+      "url": "https://tehnoskarb.ua/montor-fujitsu-sl23t-1/m5178749",
+      "price": 850,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-06-23T20:33:45Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Lg w1943ss",
+      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
+      "price_old": 495,
+      "price_new": 400,
+      "city": "Золочів",
+      "category": "Монітори",
+      "at": "2026-06-23T20:33:45Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg l1742s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1742s/m5011804",
+      "price": 500,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-06-23T20:33:45Z"
     }
   ],
   "config": {
