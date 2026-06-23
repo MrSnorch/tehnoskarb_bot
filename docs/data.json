@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-23T16:09:47Z",
+  "updated_at": "2026-06-23T18:21:10Z",
   "stats": {
-    "total": 190,
-    "avg_price": 2567,
+    "total": 192,
+    "avg_price": 2558,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -807,6 +807,26 @@
         {
           "price": 400,
           "at": "2026-06-19T14:13:56Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vw193d",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
+      "price_min": 400,
+      "price_max": 400,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Воскресенський, 34/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-23T18:20:57Z",
+      "price_history": [
+        {
+          "price": 400,
+          "at": "2026-06-23T18:20:57Z"
         }
       ],
       "category": "Монітори",
@@ -2960,6 +2980,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lenovo l24-4c",
+      "url": "https://tehnoskarb.ua/montor-lenovo-l24-4c/m5178818",
+      "price_min": 2880,
+      "price_max": 2880,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Ревуцького, 12/1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-23T18:20:57Z",
+      "price_history": [
+        {
+          "price": 2880,
+          "at": "2026-06-23T18:20:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Acer r242y",
       "url": "https://tehnoskarb.ua/montor-acer-r242y/m5169264",
       "price_min": 2890,
@@ -4127,24 +4167,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lenovo t2424pa",
-      "url": "https://tehnoskarb.ua/montor-lenovo-t2424pa/m5172073",
-      "price": 2900,
-      "city": "Фастів",
-      "category": "Монітори",
-      "at": "2026-06-12T14:19:59Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus rog strix xg27acs",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs/m5148467",
-      "price": 10000,
-      "city": "Херсон",
-      "category": "Монітори",
-      "at": "2026-06-12T14:19:59Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Hp elitedisplay s231d",
@@ -5996,6 +6018,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-23T16:09:36Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo l24-4c",
+      "url": "https://tehnoskarb.ua/montor-lenovo-l24-4c/m5178818",
+      "price": 2880,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-23T18:20:57Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vw193d",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
+      "price": 400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-23T18:20:57Z"
     }
   ],
   "config": {
