@@ -811,27 +811,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-07T14:00:10Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-s24e650/m5162299": {
-    "name": "Монітор Samsung s24e650",
-    "price_min": 1020,
-    "price_max": 1020,
-    "city": "Червоноград",
-    "addresses": [
-      "м. Червоноград, просп. Шевченка, 10"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-07T11:49:57Z",
-    "price_history": [
-      {
-        "price": 1020,
-        "at": "2026-06-07T11:49:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-07T14:00:10Z"
-  },
   "https://tehnoskarb.ua/montor-aoc-e2475pwj/m5160193": {
     "name": "Монітор Aoc e2475pwj",
     "price_min": 1570,
@@ -2144,14 +2123,14 @@
   },
   "https://tehnoskarb.ua/montor-dell-u2412m/m5000090": {
     "name": "Монітор Dell u2412m",
-    "price_min": 1000,
+    "price_min": 1650,
     "price_max": 1830,
     "city": "Київ",
     "addresses": [
       "м. Київ, б-р Чоколовський, 21",
       "м. Бровари, б-р Незалежності, 11"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-07T11:49:57Z",
@@ -2171,6 +2150,10 @@
       {
         "price": 1000,
         "at": "2026-06-24T07:43:36Z"
+      },
+      {
+        "price": 1650,
+        "at": "2026-06-24T13:23:42Z"
       }
     ],
     "details_failures": 0,
@@ -2311,13 +2294,13 @@
   },
   "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009": {
     "name": "Монітор Samsung bx2235 ls22b3uvmn",
-    "price_min": 690,
+    "price_min": 710,
     "price_max": 710,
     "city": "Івано-Франківськ",
     "addresses": [
       "м. Івано-Франківськ, вул. Василя Стуса, 17А"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-09T04:45:50Z",
@@ -2341,6 +2324,10 @@
       {
         "price": 690,
         "at": "2026-06-17T12:18:46Z"
+      },
+      {
+        "price": 710,
+        "at": "2026-06-24T13:23:42Z"
       }
     ],
     "details_failures": 0,
@@ -3803,5 +3790,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-24T07:43:36Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-pro-mp243x/m5061631": {
+    "name": "Монітор Msi pro mp243x",
+    "price_min": 3000,
+    "price_max": 3000,
+    "city": "Боярка",
+    "addresses": [
+      "м. Боярка, вул. Ярослава Мудрого, 50/61"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-24T13:23:42Z",
+    "price_history": [
+      {
+        "price": 3000,
+        "at": "2026-06-24T13:23:42Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-24T13:23:42Z"
   }
 }
