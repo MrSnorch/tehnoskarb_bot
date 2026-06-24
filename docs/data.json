@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-24T19:59:42Z",
+  "updated_at": "2026-06-24T21:39:25Z",
   "stats": {
-    "total": 183,
-    "avg_price": 2543,
+    "total": 184,
+    "avg_price": 2534,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -1848,6 +1848,26 @@
         {
           "price": 900,
           "at": "2026-06-21T16:15:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vw223b",
+      "url": "https://tehnoskarb.ua/montor-asus-vw223b/m5176386",
+      "price_min": 900,
+      "price_max": 900,
+      "city": "Тернопіль",
+      "addresses": [
+        "м. Тернопіль, вул. Київська, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-24T21:39:17Z",
+      "price_history": [
+        {
+          "price": 900,
+          "at": "2026-06-24T21:39:17Z"
         }
       ],
       "category": "Монітори",
@@ -4020,15 +4040,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Samsung 710n",
-      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
-      "price": 200,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-16T13:14:22Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Acer ek271ebi",
       "url": "https://tehnoskarb.ua/montor-acer-ek271ebi/m5106385",
       "price": 2910,
@@ -5886,6 +5897,15 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-06-24T19:58:31Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vw223b",
+      "url": "https://tehnoskarb.ua/montor-asus-vw223b/m5176386",
+      "price": 900,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-06-24T21:39:17Z"
     }
   ],
   "config": {
