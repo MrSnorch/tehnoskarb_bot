@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-24T07:45:03Z",
+  "updated_at": "2026-06-24T10:53:56Z",
   "stats": {
-    "total": 170,
-    "avg_price": 2469,
+    "total": 167,
+    "avg_price": 2467,
     "min_price": 110,
     "max_price": 35440,
     "cities": [
@@ -111,26 +111,6 @@
         {
           "price": 170,
           "at": "2026-06-17T18:42:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 710n",
-      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
-      "price_min": 200,
-      "price_max": 200,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-17T21:10:25Z",
-      "price_history": [
-        {
-          "price": 200,
-          "at": "2026-06-17T21:10:25Z"
         }
       ],
       "category": "Монітори",
@@ -1318,26 +1298,6 @@
         {
           "price": 670,
           "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus pa246",
-      "url": "https://tehnoskarb.ua/montor-asus-pa246/m5178608",
-      "price_min": 680,
-      "price_max": 680,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-21T20:12:30Z",
-      "price_history": [
-        {
-          "price": 680,
-          "at": "2026-06-21T20:12:30Z"
         }
       ],
       "category": "Монітори",
@@ -3491,26 +3451,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi mag 274qf x24",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-274qf-x24/m5148656",
-      "price_min": 6900,
-      "price_max": 6900,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Воскресенський, 34/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-08T18:43:00Z",
-      "price_history": [
-        {
-          "price": 6900,
-          "at": "2026-06-08T18:43:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi optix g274qpf e2",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g274qpf-e2/m5167776",
       "price_min": 7200,
@@ -3732,33 +3672,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Xiaomi mi curved gaming monitor 34 xmmntwq34",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-curved-gaming-monitor-34-xmmntwq34/m5171135",
-      "price": 8500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-14T17:57:56Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Iiyama gb2770qsu-b5",
-      "url": "https://tehnoskarb.ua/montor-iiyama-gb2770qsu-b5/m5170947",
-      "price": 8900,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-06-14T17:57:56Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s19f350h",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19f350h/m5054533",
-      "price": 1350,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-06-14T17:57:56Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung c24f390fhi",
@@ -5599,6 +5512,33 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-06-24T07:43:36Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi mag 274qf x24",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-274qf-x24/m5148656",
+      "price": 6900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-24T10:52:57Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 710n",
+      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
+      "price": 200,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-24T10:52:57Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus pa246",
+      "url": "https://tehnoskarb.ua/montor-asus-pa246/m5178608",
+      "price": 680,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-24T10:52:57Z"
     }
   ],
   "config": {
