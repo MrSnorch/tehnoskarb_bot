@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-25T06:11:51Z",
+  "updated_at": "2026-06-25T09:52:58Z",
   "stats": {
-    "total": 169,
-    "avg_price": 2524,
+    "total": 167,
+    "avg_price": 2526,
     "min_price": 150,
     "max_price": 35440,
     "cities": [
@@ -2139,26 +2139,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung ls24r350fhixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
-      "price_min": 1700,
-      "price_max": 1700,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ,  вул. Драгоманова, 27"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-09T15:39:13Z",
-      "price_history": [
-        {
-          "price": 1700,
-          "at": "2026-06-09T15:39:13Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer eb192qbbi",
       "url": "https://tehnoskarb.ua/montor-acer-eb192qbbi/m5176018",
       "price_min": 1800,
@@ -2764,26 +2744,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 24m2n3200nf/00",
-      "url": "https://tehnoskarb.ua/montor-philips-24m2n3200nf-00/m5178204",
-      "price_min": 2930,
-      "price_max": 2930,
-      "city": "Рівне",
-      "addresses": [
-        "м. Рівне, вул. Соборна, 63"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-24T19:58:31Z",
-      "price_history": [
-        {
-          "price": 2930,
-          "at": "2026-06-24T19:58:31Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq ex240n",
       "url": "https://tehnoskarb.ua/montor-benq-ex240n/m5134563",
       "price_min": 3000,
@@ -3336,13 +3296,13 @@
       "name": "Монітор Samsung odyssey g5 ls32cg550",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125",
       "price_min": 6000,
-      "price_max": 7200,
+      "price_max": 6000,
       "city": "Київ",
       "addresses": [
         "м. Київ, просп. Свободи, 15/1",
         "м. Київ, просп. Берестейський, 136"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -3711,26 +3671,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Msi optix g2712f",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g2712f/m5163816",
-      "price_old": 5020,
-      "price_new": 4520,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-06-17T12:18:46Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Asus vh203",
-      "url": "https://tehnoskarb.ua/montor-asus-vh203/m5162712",
-      "price_old": 670,
-      "price_new": 600,
-      "city": "Кривий Ріг",
-      "category": "Монітори",
-      "at": "2026-06-17T12:18:46Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Aoc e2475pwj",
@@ -5565,6 +5505,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-25T06:10:35Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung ls24r350fhixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
+      "price": 1700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-25T09:52:04Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 24m2n3200nf/00",
+      "url": "https://tehnoskarb.ua/montor-philips-24m2n3200nf-00/m5178204",
+      "price": 2930,
+      "city": "Рівне",
+      "category": "Монітори",
+      "at": "2026-06-25T09:52:04Z"
     }
   ],
   "config": {
