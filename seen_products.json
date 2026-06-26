@@ -205,9 +205,9 @@
         "at": "2026-06-17T12:18:46Z"
       }
     ],
-    "details_failures": 61,
-    "details_last_attempt": "2026-06-26T08:30:35Z",
-    "details_retry_at": "2026-06-26T14:30:35Z"
+    "details_failures": 62,
+    "details_last_attempt": "2026-06-26T14:30:51Z",
+    "details_retry_at": "2026-06-26T20:30:51Z"
   },
   "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125": {
     "name": "Монітор Samsung odyssey g5 ls32cg550",
@@ -551,9 +551,9 @@
         "at": "2026-06-08T21:11:11Z"
       }
     ],
-    "details_failures": 57,
-    "details_last_attempt": "2026-06-26T08:30:35Z",
-    "details_retry_at": "2026-06-26T14:30:35Z"
+    "details_failures": 58,
+    "details_last_attempt": "2026-06-26T14:30:51Z",
+    "details_retry_at": "2026-06-26T20:30:51Z"
   },
   "https://tehnoskarb.ua/montor-msi-pro-mp2412/m5057728": {
     "name": "Монітор Msi pro mp2412",
@@ -620,8 +620,8 @@
   },
   "https://tehnoskarb.ua/montor-msi-mag-272qpw-qd-oled-x28/m5174027": {
     "name": "Монітор Msi mag 272qpw qd-oled x28",
-    "price_min": 14010,
-    "price_max": 14010,
+    "price_min": 12610,
+    "price_max": 12610,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Білоруська, 8"
@@ -634,6 +634,10 @@
       {
         "price": 14010,
         "at": "2026-06-12T06:51:40Z"
+      },
+      {
+        "price": 12610,
+        "at": "2026-06-26T14:30:51Z"
       }
     ],
     "details_failures": 0,
@@ -953,27 +957,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-20T10:35:22Z"
   },
-  "https://tehnoskarb.ua/montor-acer-nitro-vg240y/m5073856": {
-    "name": "Монітор Acer nitro vg240y",
-    "price_min": 2500,
-    "price_max": 2500,
-    "city": "Боярка",
-    "addresses": [
-      "м. Боярка, вул. Хрещатик, 2а"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-20T14:53:29Z",
-    "price_history": [
-      {
-        "price": 2500,
-        "at": "2026-06-20T14:53:29Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-20T14:53:29Z"
-  },
   "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146": {
     "name": "Монітор Dell u2312hmt",
     "price_min": 900,
@@ -1057,27 +1040,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-23T18:20:57Z"
-  },
-  "https://tehnoskarb.ua/montor-acer-x223hq/m5017541": {
-    "name": "Монітор Acer x223hq",
-    "price_min": 690,
-    "price_max": 690,
-    "city": "Ковель",
-    "addresses": [
-      "м. Ковель, вул. Сагайдачного, 6А"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-24T07:43:36Z",
-    "price_history": [
-      {
-        "price": 690,
-        "at": "2026-06-24T07:43:36Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-24T07:43:36Z"
   },
   "https://tehnoskarb.ua/montor-msi-pro-mp243x/m5061631": {
     "name": "Монітор Msi pro mp243x",
@@ -1968,5 +1930,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-26T11:45:48Z"
+  },
+  "https://tehnoskarb.ua/montor-apple-cinema-hd-display-30/m5175163": {
+    "name": "Монітор Apple cinema hd display 30",
+    "price_min": 7000,
+    "price_max": 7000,
+    "city": "Луцьк",
+    "addresses": [
+      "м. Луцьк, просп. Соборності, 4"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-26T14:30:51Z",
+    "price_history": [
+      {
+        "price": 7000,
+        "at": "2026-06-26T14:30:51Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-26T14:30:51Z"
+  },
+  "https://tehnoskarb.ua/montor-philips-191ew9fb/m5138394": {
+    "name": "Монітор Philips 191ew9fb",
+    "price_min": 330,
+    "price_max": 330,
+    "city": "Луцьк",
+    "addresses": [
+      "м. Луцьк, просп. Соборності, 38"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-26T14:30:51Z",
+    "price_history": [
+      {
+        "price": 330,
+        "at": "2026-06-26T14:30:51Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-26T14:30:51Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339": {
+    "name": "Монітор Samsung ls24r350fhixci",
+    "price_min": 2450,
+    "price_max": 2450,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, б-р Вацлава Гавела, 53"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-26T14:30:51Z",
+    "price_history": [
+      {
+        "price": 2450,
+        "at": "2026-06-26T14:30:51Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-26T14:30:51Z"
   }
 }
