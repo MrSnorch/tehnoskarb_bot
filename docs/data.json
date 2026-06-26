@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-26T08:35:13Z",
+  "updated_at": "2026-06-26T11:45:58Z",
   "stats": {
-    "total": 85,
-    "avg_price": 2570,
-    "min_price": 110,
+    "total": 86,
+    "avg_price": 2608,
+    "min_price": 100,
     "max_price": 14010,
     "cities": [
       "Івано-Франківськ",
@@ -43,8 +43,8 @@
     {
       "name": "Монітор Lg l1740p",
       "url": "https://tehnoskarb.ua/montor-lg-l1740p/m5117554",
-      "price_min": 110,
-      "price_max": 110,
+      "price_min": 100,
+      "price_max": 100,
       "city": "Одеса",
       "addresses": [
         "м. Одеса, вул. Корольова, 80"
@@ -55,6 +55,34 @@
         {
           "price": 110,
           "at": "2026-06-25T17:29:49Z"
+        },
+        {
+          "price": 100,
+          "at": "2026-06-26T11:45:48Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung syncmaster 713n",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-713n/m5147386",
+      "price_min": 180,
+      "price_max": 180,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, вул. Корольова, 80"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-25T17:29:49Z",
+      "price_history": [
+        {
+          "price": 200,
+          "at": "2026-06-25T17:29:49Z"
+        },
+        {
+          "price": 180,
+          "at": "2026-06-26T11:45:48Z"
         }
       ],
       "category": "Монітори",
@@ -75,26 +103,6 @@
         {
           "price": 200,
           "at": "2026-06-24T19:58:31Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung syncmaster 713n",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-713n/m5147386",
-      "price_min": 200,
-      "price_max": 200,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Корольова, 80"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-25T17:29:49Z",
-      "price_history": [
-        {
-          "price": 200,
-          "at": "2026-06-25T17:29:49Z"
         }
       ],
       "category": "Монітори",
@@ -1658,6 +1666,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus tuf gaming vg27aq5a",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aq5a/m5179061",
+      "price_min": 5900,
+      "price_max": 5900,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Василя Порика, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-26T11:45:48Z",
+      "price_history": [
+        {
+          "price": 5900,
+          "at": "2026-06-26T11:45:48Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung odyssey g5 ls32cg550",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125",
       "price_min": 6000,
@@ -1896,35 +1924,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lg l1742s",
-      "url": "https://tehnoskarb.ua/montor-lg-l1742s/m5011804",
-      "price": 500,
-      "city": "Кропивницький",
-      "category": "Монітори",
-      "at": "2026-06-24T07:43:36Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Samsung c24f396fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c24f396fhi/m5160256",
-      "price_old": 2680,
-      "price_new": 2710,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-24T07:43:36Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Philips 243v7q",
-      "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
-      "price_old": 1900,
-      "price_new": 2220,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-06-24T07:43:36Z"
-    },
     {
       "type": "rise",
       "name": "Монітор Lg w1943ss",
@@ -3714,6 +3713,35 @@
       "city": "Полтава",
       "category": "Монітори",
       "at": "2026-06-26T08:30:35Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus tuf gaming vg27aq5a",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aq5a/m5179061",
+      "price": 5900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-26T11:45:48Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung syncmaster 713n",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-713n/m5147386",
+      "price_old": 200,
+      "price_new": 180,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-06-26T11:45:48Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Lg l1740p",
+      "url": "https://tehnoskarb.ua/montor-lg-l1740p/m5117554",
+      "price_old": 110,
+      "price_new": 100,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-06-26T11:45:48Z"
     }
   ],
   "config": {
