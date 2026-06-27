@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-27T15:17:44Z",
+  "updated_at": "2026-06-27T16:40:25Z",
   "stats": {
     "total": 183,
-    "avg_price": 2416,
+    "avg_price": 2417,
     "min_price": 100,
     "max_price": 16060,
     "cities": [
@@ -1264,34 +1264,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 223v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
-      "price_min": 650,
-      "price_max": 960,
-      "city": "Миколаїв",
-      "addresses": [
-        "м. Миколаїв, вул. 3-я Слобідська, 51"
-      ],
-      "offers": 3,
-      "first_seen": "2026-06-07T11:49:57Z",
-      "price_history": [
-        {
-          "price": 650,
-          "at": "2026-06-07T11:49:57Z"
-        },
-        {
-          "price": 730,
-          "at": "2026-06-26T08:30:35Z"
-        },
-        {
-          "price": 650,
-          "at": "2026-06-26T19:19:12Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg w1942s",
       "url": "https://tehnoskarb.ua/montor-lg-w1942s/m5144273",
       "price_min": 650,
@@ -1426,6 +1398,38 @@
         {
           "price": 690,
           "at": "2026-06-26T21:06:44Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 223v5l",
+      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
+      "price_min": 700,
+      "price_max": 960,
+      "city": "Миколаїв",
+      "addresses": [
+        "м. Миколаїв, вул. 3-я Слобідська, 51"
+      ],
+      "offers": 2,
+      "first_seen": "2026-06-07T11:49:57Z",
+      "price_history": [
+        {
+          "price": 650,
+          "at": "2026-06-07T11:49:57Z"
+        },
+        {
+          "price": 730,
+          "at": "2026-06-26T08:30:35Z"
+        },
+        {
+          "price": 650,
+          "at": "2026-06-26T19:19:12Z"
+        },
+        {
+          "price": 700,
+          "at": "2026-06-27T16:39:30Z"
         }
       ],
       "category": "Монітори",
@@ -3884,15 +3888,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Hp nk570a",
-      "url": "https://tehnoskarb.ua/montor-hp-nk570a/m5151542",
-      "price": 460,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Acer g195hqv",
       "url": "https://tehnoskarb.ua/montor-acer-g195hqv/m5146468",
       "price": 530,
@@ -5698,6 +5693,16 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-27T13:48:58Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Philips 223v5l",
+      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
+      "price_old": 650,
+      "price_new": 700,
+      "city": "Миколаїв",
+      "category": "Монітори",
+      "at": "2026-06-27T16:39:30Z"
     }
   ],
   "config": {
