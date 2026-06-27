@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-27T07:51:16Z",
+  "updated_at": "2026-06-27T10:12:51Z",
   "stats": {
-    "total": 189,
-    "avg_price": 2355,
+    "total": 190,
+    "avg_price": 2378,
     "min_price": 100,
     "max_price": 16060,
     "cities": [
@@ -2311,30 +2311,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung ls24r350fhixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
-      "price_min": 1700,
-      "price_max": 2450,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Вацлава Гавела, 53"
-      ],
-      "offers": 2,
-      "first_seen": "2026-06-26T14:30:51Z",
-      "price_history": [
-        {
-          "price": 2450,
-          "at": "2026-06-26T14:30:51Z"
-        },
-        {
-          "price": 1700,
-          "at": "2026-06-26T19:19:12Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer eb192qbbi",
       "url": "https://tehnoskarb.ua/montor-acer-eb192qbbi/m5176018",
       "price_min": 1800,
@@ -2729,6 +2705,34 @@
         {
           "price": 2440,
           "at": "2026-06-25T17:29:49Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung ls24r350fhixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
+      "price_min": 2450,
+      "price_max": 2450,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Вацлава Гавела, 53"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-26T14:30:51Z",
+      "price_history": [
+        {
+          "price": 2450,
+          "at": "2026-06-26T14:30:51Z"
+        },
+        {
+          "price": 1700,
+          "at": "2026-06-26T19:19:12Z"
+        },
+        {
+          "price": 2450,
+          "at": "2026-06-27T10:11:49Z"
         }
       ],
       "category": "Монітори",
@@ -3556,6 +3560,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey g5 ls27cg550",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
+      "price_min": 5830,
+      "price_max": 5830,
+      "city": "Тернопіль",
+      "addresses": [
+        "м. Тернопіль, вул. Слівенська, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-27T10:11:49Z",
+      "price_history": [
+        {
+          "price": 5830,
+          "at": "2026-06-27T10:11:49Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus tuf gaming vg27aq5a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aq5a/m5179061",
       "price_min": 5900,
@@ -3999,24 +4023,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Aoc e2475pwj",
-      "url": "https://tehnoskarb.ua/montor-aoc-e2475pwj/m5160193",
-      "price": 1570,
-      "city": "Бровари",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Viewsonic va703b",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
-      "price": 310,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Acer v223hq",
@@ -5814,6 +5820,25 @@
       "city": "Тернопіль",
       "category": "Монітори",
       "at": "2026-06-27T07:51:09Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung ls24r350fhixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
+      "price_old": 1700,
+      "price_new": 2450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-27T10:11:49Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey g5 ls27cg550",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
+      "price": 5830,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-06-27T10:11:49Z"
     }
   ],
   "config": {
