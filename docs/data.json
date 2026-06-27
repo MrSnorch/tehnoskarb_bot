@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-27T04:36:52Z",
+  "updated_at": "2026-06-27T07:51:16Z",
   "stats": {
-    "total": 190,
-    "avg_price": 2374,
+    "total": 189,
+    "avg_price": 2355,
     "min_price": 100,
     "max_price": 16060,
     "cities": [
@@ -3556,26 +3556,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey g5 ls27cg550",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
-      "price_min": 5830,
-      "price_max": 5830,
-      "city": "Тернопіль",
-      "addresses": [
-        "м. Тернопіль, вул. Слівенська, 3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-25T06:10:35Z",
-      "price_history": [
-        {
-          "price": 5830,
-          "at": "2026-06-25T06:10:35Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus tuf gaming vg27aq5a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aq5a/m5179061",
       "price_min": 5900,
@@ -4019,15 +3999,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung s19c200bw",
-      "url": "https://tehnoskarb.ua/nastlnijj-montor-samsung-s19c200bw/m5163822",
-      "price": 480,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Aoc e2475pwj",
@@ -5834,6 +5805,15 @@
       "city": "Вишневе",
       "category": "Монітори",
       "at": "2026-06-27T04:35:18Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey g5 ls27cg550",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
+      "price": 5830,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-06-27T07:51:09Z"
     }
   ],
   "config": {
