@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-27T19:53:33Z",
+  "updated_at": "2026-06-27T21:07:41Z",
   "stats": {
-    "total": 189,
-    "avg_price": 2456,
+    "total": 190,
+    "avg_price": 2457,
     "min_price": 100,
     "max_price": 16060,
     "cities": [
@@ -2700,6 +2700,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi pro mp2412",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp2412/m5057728",
+      "price_min": 2670,
+      "price_max": 2670,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Ревуцького, 12/1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-27T21:07:22Z",
+      "price_history": [
+        {
+          "price": 2670,
+          "at": "2026-06-27T21:07:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung c24f396fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c24f396fhi/m5160256",
       "price_min": 2680,
@@ -4000,15 +4020,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Philips 196v3l",
-      "url": "https://tehnoskarb.ua/montor-philips-196v3l/m5081628",
-      "price": 660,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Acer v226hql",
@@ -5818,6 +5829,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-06-27T19:53:02Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp2412",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp2412/m5057728",
+      "price": 2670,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-27T21:07:22Z"
     }
   ],
   "config": {
