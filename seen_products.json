@@ -209,9 +209,9 @@
         "at": "2026-06-17T12:18:46Z"
       }
     ],
-    "details_failures": 65,
-    "details_last_attempt": "2026-06-27T11:55:13Z",
-    "details_retry_at": "2026-06-27T17:55:13Z"
+    "details_failures": 66,
+    "details_last_attempt": "2026-06-27T18:06:19Z",
+    "details_retry_at": "2026-06-28T00:06:19Z"
   },
   "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125": {
     "name": "Монітор Samsung odyssey g5 ls32cg550",
@@ -487,7 +487,7 @@
   },
   "https://tehnoskarb.ua/montor-msi-g2412/m5024355": {
     "name": "Монітор Msi g2412",
-    "price_min": 3990,
+    "price_min": 3080,
     "price_max": 4320,
     "city": "Київ",
     "addresses": [
@@ -496,7 +496,7 @@
       "м. Київ, вул. Закревського, 27/2",
       "м. Запоріжжя, просп. Соборний, 224"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-07T11:49:57Z",
@@ -512,6 +512,10 @@
       {
         "price": 3990,
         "at": "2026-06-20T10:35:22Z"
+      },
+      {
+        "price": 3080,
+        "at": "2026-06-27T18:06:19Z"
       }
     ],
     "details_failures": 0,
@@ -579,9 +583,9 @@
         "at": "2026-06-08T21:11:11Z"
       }
     ],
-    "details_failures": 61,
-    "details_last_attempt": "2026-06-27T11:55:13Z",
-    "details_retry_at": "2026-06-27T17:55:13Z"
+    "details_failures": 62,
+    "details_last_attempt": "2026-06-27T18:06:19Z",
+    "details_retry_at": "2026-06-28T00:06:19Z"
   },
   "https://tehnoskarb.ua/montor-msi-pro-mp2412/m5057728": {
     "name": "Монітор Msi pro mp2412",
@@ -967,12 +971,12 @@
   "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146": {
     "name": "Монітор Dell u2312hmt",
     "price_min": 900,
-    "price_max": 900,
+    "price_max": 1130,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул Р. Окіпної, 5"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-21T16:15:58Z",
@@ -3254,27 +3258,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-26T19:19:12Z"
   },
-  "https://tehnoskarb.ua/montor-lg-ips234t/m5045409": {
-    "name": "Монітор Lg ips234t",
-    "price_min": 880,
-    "price_max": 880,
-    "city": "Бровари",
-    "addresses": [
-      "м. Бровари, б-р Незалежності, 11"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-26T19:19:12Z",
-    "price_history": [
-      {
-        "price": 880,
-        "at": "2026-06-26T19:19:12Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-26T19:19:12Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-720n/m5042700": {
     "name": "Монітор Samsung 720n",
     "price_min": 420,
@@ -4033,5 +4016,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-27T10:11:49Z"
+  },
+  "https://tehnoskarb.ua/montor-xiaomi-mi-desktop-monitor-1c-rmmnt238nf/m5179782": {
+    "name": "Монітор Xiaomi mi desktop monitor 1c / rmmnt238nf",
+    "price_min": 2600,
+    "price_max": 2600,
+    "city": "Вінниця",
+    "addresses": [
+      "м. Вінниця, просп. Коцюбинського, 29"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-27T18:06:19Z",
+    "price_history": [
+      {
+        "price": 2600,
+        "at": "2026-06-27T18:06:19Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-27T18:06:19Z"
+  },
+  "https://tehnoskarb.ua/montor-benq-g2420hd/m5179650": {
+    "name": "Монітор Benq g2420hd",
+    "price_min": 550,
+    "price_max": 550,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Олекси Тихого, 40/16"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-27T18:06:19Z",
+    "price_history": [
+      {
+        "price": 550,
+        "at": "2026-06-27T18:06:19Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-27T18:06:19Z"
+  },
+  "https://tehnoskarb.ua/montor-aoc-tft22w90ps/m5179569": {
+    "name": "Монітор Aoc tft22w90ps",
+    "price_min": 890,
+    "price_max": 890,
+    "city": "Кропивницький",
+    "addresses": [
+      "м. Кропивницький, вул. В. Перспективна, 18/14"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-27T18:06:19Z",
+    "price_history": [
+      {
+        "price": 890,
+        "at": "2026-06-27T18:06:19Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-27T18:06:19Z"
   }
 }
