@@ -333,12 +333,12 @@
   "https://tehnoskarb.ua/montor-philips-223v5l/m5061207": {
     "name": "Монітор Philips 223v5l",
     "price_min": 700,
-    "price_max": 960,
+    "price_max": 1200,
     "city": "Миколаїв",
     "addresses": [
       "м. Миколаїв, вул. 3-я Слобідська, 51"
     ],
-    "offers_count": 3,
+    "offers_count": 4,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-07T11:49:57Z",
@@ -4204,5 +4204,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-28T17:44:34Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-ips235vx/m5179842": {
+    "name": "Монітор Lg ips235vx",
+    "price_min": 1060,
+    "price_max": 1060,
+    "city": "Одеса",
+    "addresses": [
+      "м. Одеса, вул. Заболотного Академіка, 52"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-28T19:25:01Z",
+    "price_history": [
+      {
+        "price": 1060,
+        "at": "2026-06-28T19:25:01Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-28T19:25:01Z"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-28T17:45:08Z",
+  "updated_at": "2026-06-28T19:25:09Z",
   "stats": {
-    "total": 191,
-    "avg_price": 2476,
+    "total": 192,
+    "avg_price": 2469,
     "min_price": 100,
     "max_price": 16060,
     "cities": [
@@ -1391,12 +1391,12 @@
       "name": "Монітор Philips 223v5l",
       "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
       "price_min": 700,
-      "price_max": 960,
+      "price_max": 1200,
       "city": "Миколаїв",
       "addresses": [
         "м. Миколаїв, вул. 3-я Слобідська, 51"
       ],
-      "offers": 3,
+      "offers": 4,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -1929,6 +1929,26 @@
         {
           "price": 1030,
           "at": "2026-06-26T19:19:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg ips235vx",
+      "url": "https://tehnoskarb.ua/montor-lg-ips235vx/m5179842",
+      "price_min": 1060,
+      "price_max": 1060,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, вул. Заболотного Академіка, 52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-28T19:25:01Z",
+      "price_history": [
+        {
+          "price": 1060,
+          "at": "2026-06-28T19:25:01Z"
         }
       ],
       "category": "Монітори",
@@ -4046,15 +4066,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Lg 22mp58d-p",
-      "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
-      "price": 1970,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Dell u2412m",
       "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
       "price": 1000,
@@ -5863,6 +5874,15 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-06-28T17:44:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg ips235vx",
+      "url": "https://tehnoskarb.ua/montor-lg-ips235vx/m5179842",
+      "price": 1060,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-06-28T19:25:01Z"
     }
   ],
   "config": {
