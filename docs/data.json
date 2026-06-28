@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-28T12:56:42Z",
+  "updated_at": "2026-06-28T14:51:48Z",
   "stats": {
     "total": 189,
-    "avg_price": 2463,
+    "avg_price": 2464,
     "min_price": 100,
     "max_price": 16060,
     "cities": [
@@ -678,30 +678,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung e1920",
-      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
-      "price_min": 400,
-      "price_max": 530,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Княжий Затон, 11"
-      ],
-      "offers": 2,
-      "first_seen": "2026-06-13T14:06:21Z",
-      "price_history": [
-        {
-          "price": 530,
-          "at": "2026-06-13T14:06:21Z"
-        },
-        {
-          "price": 400,
-          "at": "2026-06-18T19:31:42Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung syncmaster 913n",
       "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
       "price_min": 400,
@@ -907,6 +883,34 @@
         {
           "price": 520,
           "at": "2026-06-26T19:19:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung e1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
+      "price_min": 530,
+      "price_max": 530,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Княжий Затон, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-13T14:06:21Z",
+      "price_history": [
+        {
+          "price": 530,
+          "at": "2026-06-13T14:06:21Z"
+        },
+        {
+          "price": 400,
+          "at": "2026-06-18T19:31:42Z"
+        },
+        {
+          "price": 530,
+          "at": "2026-06-28T14:50:54Z"
         }
       ],
       "category": "Монітори",
@@ -4002,15 +4006,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Samsung smart m7",
-      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
-      "price": 8600,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Dell s2421hn",
       "url": "https://tehnoskarb.ua/montor-dell-s2421hn/m5058716",
       "price": 2700,
@@ -5818,6 +5813,16 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-28T12:56:31Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung e1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
+      "price_old": 400,
+      "price_new": 530,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-28T14:50:54Z"
     }
   ],
   "config": {
