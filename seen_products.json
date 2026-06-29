@@ -338,7 +338,7 @@
     "addresses": [
       "м. Миколаїв, вул. 3-я Слобідська, 51"
     ],
-    "offers_count": 4,
+    "offers_count": 5,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-07T11:49:57Z",
@@ -1071,27 +1071,6 @@
     "price_history": [
       {
         "price": 270,
-        "at": "2026-06-24T19:58:31Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-24T19:58:31Z"
-  },
-  "https://tehnoskarb.ua/montor-fujitsu-sl23t-1/m5178749": {
-    "name": "Монітор Fujitsu sl23t-1",
-    "price_min": 850,
-    "price_max": 850,
-    "city": "Кропивницький",
-    "addresses": [
-      "м. Кропивницький, вул. Соборна, 3"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-24T19:58:31Z",
-    "price_history": [
-      {
-        "price": 850,
         "at": "2026-06-24T19:58:31Z"
       }
     ],
@@ -2754,27 +2733,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-26T19:19:12Z"
   },
-  "https://tehnoskarb.ua/montor-lg-e1940s/m5137124": {
-    "name": "Монітор Lg e1940s",
-    "price_min": 690,
-    "price_max": 690,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Миру, 2/3"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-26T19:19:12Z",
-    "price_history": [
-      {
-        "price": 690,
-        "at": "2026-06-26T19:19:12Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-26T19:19:12Z"
-  },
   "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982": {
     "name": "Монітор Philips 27e1n1900ae/00",
     "price_min": 3910,
@@ -4267,5 +4225,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-28T20:41:41Z"
+  },
+  "https://tehnoskarb.ua/montor-hp-p27q-g4/m5179936": {
+    "name": "Монітор Hp p27q g4",
+    "price_min": 4990,
+    "price_max": 4990,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Героїв Полку «Азов», 15/3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-29T09:15:36Z",
+    "price_history": [
+      {
+        "price": 4990,
+        "at": "2026-06-29T09:15:36Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-29T09:15:36Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-pro-mp241-e14v/m5165082": {
+    "name": "Монітор Msi pro mp241 e14v",
+    "price_min": 1500,
+    "price_max": 1500,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Олени Теліги , 17"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-29T09:15:36Z",
+    "price_history": [
+      {
+        "price": 1500,
+        "at": "2026-06-29T09:15:36Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-29T09:15:36Z"
+  },
+  "https://tehnoskarb.ua/montor-philips-203v5lsb26-10/m5138395": {
+    "name": "Монітор Philips 203v5lsb26/10",
+    "price_min": 900,
+    "price_max": 900,
+    "city": "Тернопіль",
+    "addresses": [
+      "м. Тернопіль, вул. Київська, 3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-06-29T09:15:36Z",
+    "price_history": [
+      {
+        "price": 900,
+        "at": "2026-06-29T09:15:36Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-06-29T09:15:36Z"
   }
 }
