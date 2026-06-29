@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-29T09:15:57Z",
+  "updated_at": "2026-06-29T13:52:11Z",
   "stats": {
-    "total": 195,
-    "avg_price": 2501,
+    "total": 194,
+    "avg_price": 2507,
     "min_price": 100,
     "max_price": 16060,
     "cities": [
@@ -2007,26 +2007,6 @@
         {
           "price": 1170,
           "at": "2026-06-26T21:06:44Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s22e390h",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22e390h/m5089116",
-      "price_min": 1280,
-      "price_max": 1280,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Правди, 41-А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-16T08:27:49Z",
-      "price_history": [
-        {
-          "price": 1280,
-          "at": "2026-06-16T08:27:49Z"
         }
       ],
       "category": "Монітори",
@@ -4126,15 +4106,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Philips 236v3lab/01",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
-      "price": 870,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Hp la2006x",
       "url": "https://tehnoskarb.ua/montor-hp-la2006x/m5075752",
       "price": 770,
@@ -5943,6 +5914,15 @@
       "city": "Тернопіль",
       "category": "Монітори",
       "at": "2026-06-29T09:15:36Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s22e390h",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22e390h/m5089116",
+      "price": 1280,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-06-29T13:50:57Z"
     }
   ],
   "config": {
