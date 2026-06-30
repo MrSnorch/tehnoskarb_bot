@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-30T08:31:52Z",
+  "updated_at": "2026-06-30T11:47:04Z",
   "stats": {
-    "total": 204,
-    "avg_price": 3015,
+    "total": 202,
+    "avg_price": 3011,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -17,7 +17,6 @@
       "Вишгород",
       "Вишневе",
       "Вінниця",
-      "Дніпро",
       "Дрогобич",
       "Жмеринка",
       "Запоріжжя",
@@ -178,26 +177,6 @@
         {
           "price": 270,
           "at": "2026-06-07T11:49:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 193t",
-      "url": "https://tehnoskarb.ua/montor-samsung-193t/m5178793",
-      "price_min": 270,
-      "price_max": 270,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, просп. Свободи, 40/4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-24T19:58:31Z",
-      "price_history": [
-        {
-          "price": 270,
-          "at": "2026-06-24T19:58:31Z"
         }
       ],
       "category": "Монітори",
@@ -3833,26 +3812,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung smart m7 m70d uhd ls32dm703ui",
-      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7-m70d-uhd-ls32dm703ui/m5158036",
-      "price_min": 6750,
-      "price_max": 6750,
-      "city": "Дніпро",
-      "addresses": [
-        "м. Дніпро, просп. Слобожанський, 1"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-25T19:27:40Z",
-      "price_history": [
-        {
-          "price": 6750,
-          "at": "2026-06-25T19:27:40Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus tuf gaming vg27aqa1a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqa1a/m5058821",
       "price_min": 6890,
@@ -4155,8 +4114,8 @@
     {
       "name": "Монітор Benq benq zowie xl2546k",
       "url": "https://tehnoskarb.ua/montor-benq-benq-zowie-xl2546k/m5180042",
-      "price_min": 11380,
-      "price_max": 11380,
+      "price_min": 11700,
+      "price_max": 11700,
       "city": "Харків",
       "addresses": [
         "м. Харків, вул. Дудинської, 1-А"
@@ -4167,6 +4126,10 @@
         {
           "price": 11380,
           "at": "2026-06-29T19:05:07Z"
+        },
+        {
+          "price": 11700,
+          "at": "2026-06-30T11:45:48Z"
         }
       ],
       "category": "Монітори",
@@ -4297,33 +4260,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Msi optix mag241c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
-      "price": 2401,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Xiaomi a22i / ela5230eu",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-a22i-ela5230eu/m5111189",
-      "price": 2040,
-      "city": "Миколаїв",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus tuf gaming vg27vqm",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
-      "price": 6360,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung syncmaster t220hd",
@@ -6116,6 +6052,34 @@
       "city": "Кривий Ріг",
       "category": "Монітори",
       "at": "2026-06-30T08:31:40Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 193t",
+      "url": "https://tehnoskarb.ua/montor-samsung-193t/m5178793",
+      "price": 270,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-06-30T11:45:48Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung smart m7 m70d uhd ls32dm703ui",
+      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7-m70d-uhd-ls32dm703ui/m5158036",
+      "price": 6750,
+      "city": "Дніпро",
+      "category": "Монітори",
+      "at": "2026-06-30T11:45:48Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Benq benq zowie xl2546k",
+      "url": "https://tehnoskarb.ua/montor-benq-benq-zowie-xl2546k/m5180042",
+      "price_old": 11380,
+      "price_new": 11700,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-06-30T11:45:48Z"
     }
   ],
   "config": {
