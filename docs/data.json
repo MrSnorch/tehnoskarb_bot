@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-30T16:37:29Z",
+  "updated_at": "2026-06-30T18:59:05Z",
   "stats": {
-    "total": 199,
-    "avg_price": 3023,
+    "total": 202,
+    "avg_price": 3022,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -18,6 +18,7 @@
       "Вишневе",
       "Вінниця",
       "Дрогобич",
+      "Житомир",
       "Жмеринка",
       "Запоріжжя",
       "Золочів",
@@ -908,6 +909,26 @@
         {
           "price": 530,
           "at": "2026-06-26T21:06:44Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vw198s",
+      "url": "https://tehnoskarb.ua/montor-asus-vw198s/m5180161",
+      "price_min": 530,
+      "price_max": 530,
+      "city": "Херсон",
+      "addresses": [
+        "м. Херсон, вул. І. Кулика, 135"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-30T18:57:43Z",
+      "price_history": [
+        {
+          "price": 530,
+          "at": "2026-06-30T18:57:43Z"
         }
       ],
       "category": "Монітори",
@@ -2619,6 +2640,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s24f320gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24f320gai/m5144447",
+      "price_min": 2500,
+      "price_max": 2500,
+      "city": "Житомир",
+      "addresses": [
+        "м. Житомир, вул. Київська, 120"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-30T18:57:43Z",
+      "price_history": [
+        {
+          "price": 2500,
+          "at": "2026-06-30T18:57:43Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Qube b24f75 ips",
       "url": "https://tehnoskarb.ua/montor-qube-b24f75-ips/m5159122",
       "price_min": 2540,
@@ -3622,6 +3663,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Gigabyte gs27q",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27q/m5055580",
+      "price_min": 5960,
+      "price_max": 5960,
+      "city": "Лозова",
+      "addresses": [
+        "м. Лозова, вул. Соборна, 7"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-30T18:57:43Z",
+      "price_history": [
+        {
+          "price": 5960,
+          "at": "2026-06-30T18:57:43Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung odyssey g5 ls32cg550",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125",
       "price_min": 6000,
@@ -4201,33 +4262,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Asus vw193d",
-      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
-      "price": 400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Benq gl2460",
-      "url": "https://tehnoskarb.ua/montor-benq-gl2460/m5165717",
-      "price": 1250,
-      "city": "Тернопіль",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg 23ea53tp",
-      "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
-      "price": 1000,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lg e2340t",
@@ -6022,6 +6056,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-06-30T14:28:51Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vw198s",
+      "url": "https://tehnoskarb.ua/montor-asus-vw198s/m5180161",
+      "price": 530,
+      "city": "Херсон",
+      "category": "Монітори",
+      "at": "2026-06-30T18:57:43Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s24f320gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24f320gai/m5144447",
+      "price": 2500,
+      "city": "Житомир",
+      "category": "Монітори",
+      "at": "2026-06-30T18:57:43Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Gigabyte gs27q",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27q/m5055580",
+      "price": 5960,
+      "city": "Лозова",
+      "category": "Монітори",
+      "at": "2026-06-30T18:57:43Z"
     }
   ],
   "config": {
