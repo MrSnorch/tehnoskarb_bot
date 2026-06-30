@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-30T04:47:51Z",
+  "updated_at": "2026-06-30T08:31:52Z",
   "stats": {
-    "total": 205,
-    "avg_price": 3003,
+    "total": 204,
+    "avg_price": 3015,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -26,7 +26,6 @@
       "Київ",
       "Конотоп",
       "Кременчук",
-      "Кривий Ріг",
       "Кропивницький",
       "Лозова",
       "Луцьк",
@@ -1115,26 +1114,6 @@
         {
           "price": 600,
           "at": "2026-06-26T19:19:12Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vh203",
-      "url": "https://tehnoskarb.ua/montor-asus-vh203/m5162712",
-      "price_min": 600,
-      "price_max": 600,
-      "city": "Кривий Ріг",
-      "addresses": [
-        "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-25T17:29:49Z",
-      "price_history": [
-        {
-          "price": 600,
-          "at": "2026-06-25T17:29:49Z"
         }
       ],
       "category": "Монітори",
@@ -4320,15 +4299,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Lg e1940s",
-      "url": "https://tehnoskarb.ua/montor-lg-e1940s/m5137124",
-      "price": 690,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Msi optix mag241c",
       "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
       "price": 2401,
@@ -6137,6 +6107,15 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-06-30T04:45:54Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vh203",
+      "url": "https://tehnoskarb.ua/montor-asus-vh203/m5162712",
+      "price": 600,
+      "city": "Кривий Ріг",
+      "category": "Монітори",
+      "at": "2026-06-30T08:31:40Z"
     }
   ],
   "config": {
