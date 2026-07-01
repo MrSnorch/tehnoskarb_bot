@@ -3908,27 +3908,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-06-28T17:44:34Z"
   },
-  "https://tehnoskarb.ua/montor-hp-25es/m5179864": {
-    "name": "Монітор Hp 25es",
-    "price_min": 2000,
-    "price_max": 2000,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Правди, 41-А"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-06-28T17:44:34Z",
-    "price_history": [
-      {
-        "price": 2000,
-        "at": "2026-06-28T17:44:34Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-06-28T17:44:34Z"
-  },
   "https://tehnoskarb.ua/montor-msi-optix-g241v/m5012486": {
     "name": "Монітор Msi optix g241v",
     "price_min": 3500,
@@ -4497,5 +4476,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-06-30T21:01:02Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635": {
+    "name": "Монітор Msi pro mp252",
+    "price_min": 3230,
+    "price_max": 3230,
+    "city": "Чернівці",
+    "addresses": [
+      "м. Чернівці, просп. Незалежності, 82"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-01T08:58:20Z",
+    "price_history": [
+      {
+        "price": 3230,
+        "at": "2026-07-01T08:58:20Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-01T08:58:20Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236": {
+    "name": "Монітор Msi pro mp251",
+    "price_min": 3350,
+    "price_max": 3350,
+    "city": "Кропивницький",
+    "addresses": [
+      "м. Кропивницький, вул. В. Перспективна, 18/14"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-01T08:58:20Z",
+    "price_history": [
+      {
+        "price": 3350,
+        "at": "2026-07-01T08:58:20Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-01T08:58:20Z"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-01T05:07:27Z",
+  "updated_at": "2026-07-01T08:58:35Z",
   "stats": {
-    "total": 205,
-    "avg_price": 2986,
+    "total": 206,
+    "avg_price": 2994,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2354,26 +2354,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp 25es",
-      "url": "https://tehnoskarb.ua/montor-hp-25es/m5179864",
-      "price_min": 2000,
-      "price_max": 2000,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Правди, 41-А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-06-28T17:44:34Z",
-      "price_history": [
-        {
-          "price": 2000,
-          "at": "2026-06-28T17:44:34Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Xiaomi a22i / ela5230eu",
       "url": "https://tehnoskarb.ua/montor-xiaomi-a22i-ela5230eu/m5111189",
       "price_min": 2040,
@@ -3063,6 +3043,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi pro mp252",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
+      "price_min": 3230,
+      "price_max": 3230,
+      "city": "Чернівці",
+      "addresses": [
+        "м. Чернівці, просп. Незалежності, 82"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-01T08:58:20Z",
+      "price_history": [
+        {
+          "price": 3230,
+          "at": "2026-07-01T08:58:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi pro mp271",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp271/m5166042",
       "price_min": 3260,
@@ -3082,6 +3082,26 @@
         {
           "price": 3260,
           "at": "2026-06-17T12:18:46Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi pro mp251",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
+      "price_min": 3350,
+      "price_max": 3350,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. В. Перспективна, 18/14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-01T08:58:20Z",
+      "price_history": [
+        {
+          "price": 3350,
+          "at": "2026-07-01T08:58:20Z"
         }
       ],
       "category": "Монітори",
@@ -4322,36 +4342,6 @@
     }
   ],
   "events": [
-    {
-      "type": "rise",
-      "name": "Монітор Samsung syncmaster 931bf",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
-      "price_old": 520,
-      "price_new": 550,
-      "city": "Бровари",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Samsung s22d300",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194",
-      "price_old": 1485,
-      "price_new": 1980,
-      "city": "Вінниця",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Philips 223v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
-      "price_old": 650,
-      "price_new": 730,
-      "city": "Миколаїв",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
     {
       "type": "rise",
       "name": "Монітор Samsung e2220n",
@@ -6143,6 +6133,33 @@
       "city": "Вінниця",
       "category": "Монітори",
       "at": "2026-06-30T21:01:02Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp 25es",
+      "url": "https://tehnoskarb.ua/montor-hp-25es/m5179864",
+      "price": 2000,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-01T08:58:20Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp252",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
+      "price": 3230,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-07-01T08:58:20Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp251",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
+      "price": 3350,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-07-01T08:58:20Z"
     }
   ],
   "config": {
