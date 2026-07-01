@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-01T12:15:22Z",
+  "updated_at": "2026-07-01T15:19:34Z",
   "stats": {
-    "total": 205,
+    "total": 206,
     "avg_price": 2997,
     "min_price": 100,
     "max_price": 35440,
@@ -1182,13 +1182,13 @@
       "name": "Монітор Lg w2042s",
       "url": "https://tehnoskarb.ua/montor-lg-w2042s/m5047765",
       "price_min": 610,
-      "price_max": 750,
+      "price_max": 610,
       "city": "Івано-Франківськ",
       "addresses": [
         "м. Івано-Франківськ, вул. Василя Стуса, 17А",
         "м. Павлоград, вул. Центральна, 44/50"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-06-07T11:49:57Z",
       "price_history": [
         {
@@ -2236,26 +2236,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Aoc e2475pwj",
-      "url": "https://tehnoskarb.ua/montor-aoc-e2475pwj/m5160193",
-      "price_min": 1570,
-      "price_max": 1870,
-      "city": "Бровари",
-      "addresses": [
-        "м. Бровари, б-р Незалежності, 11"
-      ],
-      "offers": 2,
-      "first_seen": "2026-06-26T19:19:12Z",
-      "price_history": [
-        {
-          "price": 1570,
-          "at": "2026-06-26T19:19:12Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc 22p1",
       "url": "https://tehnoskarb.ua/montor-aoc-22p1/m5169396",
       "price_min": 1670,
@@ -2308,6 +2288,30 @@
         {
           "price": 1800,
           "at": "2026-06-26T19:19:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Aoc e2475pwj",
+      "url": "https://tehnoskarb.ua/montor-aoc-e2475pwj/m5160193",
+      "price_min": 1870,
+      "price_max": 1870,
+      "city": "Бровари",
+      "addresses": [
+        "м. Бровари, б-р Незалежності, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-06-26T19:19:12Z",
+      "price_history": [
+        {
+          "price": 1570,
+          "at": "2026-06-26T19:19:12Z"
+        },
+        {
+          "price": 1870,
+          "at": "2026-07-01T15:19:22Z"
         }
       ],
       "category": "Монітори",
@@ -2862,6 +2866,26 @@
         {
           "price": 2720,
           "at": "2026-06-27T19:53:02Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
+      "price_min": 2770,
+      "price_max": 2770,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-01T15:19:22Z",
+      "price_history": [
+        {
+          "price": 2770,
+          "at": "2026-07-01T15:19:22Z"
         }
       ],
       "category": "Монітори",
@@ -4322,25 +4346,6 @@
     }
   ],
   "events": [
-    {
-      "type": "rise",
-      "name": "Монітор Asus vs197",
-      "url": "https://tehnoskarb.ua/montor-asus-vs197/m5042579",
-      "price_old": 550,
-      "price_new": 650,
-      "city": "Полтава",
-      "category": "Монітори",
-      "at": "2026-06-26T08:30:35Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg27aq5a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aq5a/m5179061",
-      "price": 5900,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T11:45:48Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung syncmaster 713n",
@@ -6139,6 +6144,25 @@
       "city": "Дрогобич",
       "category": "Монітори",
       "at": "2026-07-01T12:14:09Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Aoc e2475pwj",
+      "url": "https://tehnoskarb.ua/montor-aoc-e2475pwj/m5160193",
+      "price_old": 1570,
+      "price_new": 1870,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-07-01T15:19:22Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
+      "price": 2770,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-01T15:19:22Z"
     }
   ],
   "config": {

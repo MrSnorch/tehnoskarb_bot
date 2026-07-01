@@ -368,13 +368,13 @@
   "https://tehnoskarb.ua/montor-lg-w2042s/m5047765": {
     "name": "Монітор Lg w2042s",
     "price_min": 610,
-    "price_max": 750,
+    "price_max": 610,
     "city": "Івано-Франківськ",
     "addresses": [
       "м. Івано-Франківськ, вул. Василя Стуса, 17А",
       "м. Павлоград, вул. Центральна, 44/50"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-07T11:49:57Z",
@@ -2248,13 +2248,13 @@
   },
   "https://tehnoskarb.ua/montor-aoc-e2475pwj/m5160193": {
     "name": "Монітор Aoc e2475pwj",
-    "price_min": 1570,
+    "price_min": 1870,
     "price_max": 1870,
     "city": "Бровари",
     "addresses": [
       "м. Бровари, б-р Незалежності, 11"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-06-26T19:19:12Z",
@@ -2262,6 +2262,10 @@
       {
         "price": 1570,
         "at": "2026-06-26T19:19:12Z"
+      },
+      {
+        "price": 1870,
+        "at": "2026-07-01T15:19:22Z"
       }
     ],
     "details_failures": 0,
@@ -4497,5 +4501,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-01T08:58:20Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480": {
+    "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
+    "price_min": 2770,
+    "price_max": 2770,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-01T15:19:22Z",
+    "price_history": [
+      {
+        "price": 2770,
+        "at": "2026-07-01T15:19:22Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-01T15:19:22Z"
   }
 }
