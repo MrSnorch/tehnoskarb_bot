@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-02T08:12:40Z",
+  "updated_at": "2026-07-02T11:09:43Z",
   "stats": {
-    "total": 207,
-    "avg_price": 2975,
+    "total": 208,
+    "avg_price": 2969,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2406,6 +2406,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Hp 25es",
+      "url": "https://tehnoskarb.ua/montor-hp-25es/m5179864",
+      "price_min": 2000,
+      "price_max": 2000,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Правди, 41-А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T11:08:22Z",
+      "price_history": [
+        {
+          "price": 2000,
+          "at": "2026-07-02T11:08:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vp249hr",
       "url": "https://tehnoskarb.ua/montor-asus-vp249hr/m5111111",
       "price_min": 2070,
@@ -4152,8 +4172,8 @@
     {
       "name": "Монітор Msi optix g2412f",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g2412f/m5103531",
-      "price_min": 10100,
-      "price_max": 10100,
+      "price_min": 10001,
+      "price_max": 10001,
       "city": "Хмельницький",
       "addresses": [
         "м. Хмельницький, вул. Кам`янецька, 11"
@@ -4164,6 +4184,10 @@
         {
           "price": 10100,
           "at": "2026-06-24T19:58:31Z"
+        },
+        {
+          "price": 10001,
+          "at": "2026-07-02T11:08:22Z"
         }
       ],
       "category": "Монітори",
@@ -4378,24 +4402,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 191ew9fb",
-      "url": "https://tehnoskarb.ua/montor-philips-191ew9fb/m5138394",
-      "price": 330,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-06-26T14:30:51Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls24r350fhixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
-      "price": 2450,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T14:30:51Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus ml249h",
@@ -6195,6 +6201,25 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-02T08:12:29Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp 25es",
+      "url": "https://tehnoskarb.ua/montor-hp-25es/m5179864",
+      "price": 2000,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T11:08:22Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Msi optix g2412f",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g2412f/m5103531",
+      "price_old": 10100,
+      "price_new": 10001,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-02T11:08:22Z"
     }
   ],
   "config": {
