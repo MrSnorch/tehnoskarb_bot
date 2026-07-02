@@ -1,15 +1,17 @@
 {
-  "updated_at": "2026-07-02T13:19:52Z",
+  "updated_at": "2026-07-02T15:43:49Z",
   "stats": {
-    "total": 160,
-    "avg_price": 3303,
+    "total": 208,
+    "avg_price": 2973,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
       "Івано-Франківськ",
       "Бердичів",
+      "Берегове",
       "Борислав",
       "Бориспіль",
+      "Боярка",
       "Бровари",
       "Біла Церква",
       "Вишгород",
@@ -23,7 +25,9 @@
       "Калуш",
       "Київ",
       "Конотоп",
+      "Кременчук",
       "Кропивницький",
+      "Лозова",
       "Луцьк",
       "Львів",
       "Миколаїв",
@@ -36,6 +40,7 @@
       "Полтава",
       "Ромни",
       "Рівне",
+      "Самбір",
       "Тернопіль",
       "Ужгород",
       "Харків",
@@ -68,6 +73,27 @@
         {
           "price": 100,
           "at": "2026-06-26T11:45:48Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 710n",
+      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
+      "price_min": 105,
+      "price_max": 280,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Кам`янецька, 11",
+        "м. Вінниця, вул. Героїв Нацгвардії, 44"
+      ],
+      "offers": 2,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 105,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -118,6 +144,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung 730bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-730bf/m5068988",
+      "price_min": 200,
+      "price_max": 200,
+      "city": "Берегове",
+      "addresses": [
+        "м. Берегове, площа Кошута, 2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 200,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Prestigio p3191w",
       "url": "https://tehnoskarb.ua/montor-prestigio-p3191w/m5172125",
       "price_min": 240,
@@ -156,6 +202,26 @@
         {
           "price": 251,
           "at": "2026-07-02T08:12:29Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg l1717s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
+      "price_min": 270,
+      "price_max": 270,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Кирилівська, 129"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 270,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -218,6 +284,46 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung 940bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-940bf/m4999586",
+      "price_min": 280,
+      "price_max": 280,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 280,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 940bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-940bw/m4996862",
+      "price_min": 280,
+      "price_max": 280,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Порика Василя, 13"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 280,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung 740n",
       "url": "https://tehnoskarb.ua/montor-17-samsung-740n/m5174253",
       "price_min": 300,
@@ -232,6 +338,26 @@
         {
           "price": 300,
           "at": "2026-06-26T19:19:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 920n",
+      "url": "https://tehnoskarb.ua/montor-samsung-920n/m5011274",
+      "price_min": 300,
+      "price_max": 300,
+      "city": "Івано-Франківськ",
+      "addresses": [
+        "м. Івано-Франківськ, вул. Гетьмана Мазепи, 20/1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 300,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -276,6 +402,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung t220",
+      "url": "https://tehnoskarb.ua/montor-samsung-t220/m4997755",
+      "price_min": 310,
+      "price_max": 310,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Святошинська, 27"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 310,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s19a100n",
       "url": "https://tehnoskarb.ua/montor-samsung-s19a100n/m5098815",
       "price_min": 315,
@@ -310,6 +456,24 @@
         {
           "price": 320,
           "at": "2026-06-26T19:19:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung b1930n",
+      "url": "https://tehnoskarb.ua/montor-samsung-b1930n/m5069561",
+      "price_min": 320,
+      "price_max": 320,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 320,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -410,6 +574,26 @@
         {
           "price": 350,
           "at": "2026-06-26T21:06:44Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg l1753tr",
+      "url": "https://tehnoskarb.ua/montor-lg-l1753tr/m5055971",
+      "price_min": 350,
+      "price_max": 350,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Олени Теліги , 17"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 350,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -534,6 +718,47 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung 943nw",
+      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
+      "price_min": 400,
+      "price_max": 650,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52",
+        "м. Чернігів, просп. Перемоги, 89"
+      ],
+      "offers": 2,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 400,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 720n",
+      "url": "https://tehnoskarb.ua/montor-samsung-720n/m5042700",
+      "price_min": 420,
+      "price_max": 420,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Воскресенський, 34/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 420,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung 971p",
       "url": "https://tehnoskarb.ua/montor-samsung-971p/m5174877",
       "price_min": 450,
@@ -548,6 +773,26 @@
         {
           "price": 450,
           "at": "2026-06-07T11:49:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg l1742s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1742s/m5011804",
+      "price_min": 450,
+      "price_max": 450,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. Незалежності, 9А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 450,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -606,6 +851,26 @@
         {
           "price": 500,
           "at": "2026-07-02T04:40:48Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 192e2sb2",
+      "url": "https://tehnoskarb.ua/montor-philips-192e2sb2/m5058006",
+      "price_min": 500,
+      "price_max": 500,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 500,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -683,6 +948,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung e1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
+      "price_min": 530,
+      "price_max": 530,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Княжий Затон, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 530,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg flatron w1930s",
       "url": "https://tehnoskarb.ua/montor-lg-flatron-w1930s/m5173068",
       "price_min": 550,
@@ -697,6 +982,68 @@
         {
           "price": 550,
           "at": "2026-06-26T19:19:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vs197",
+      "url": "https://tehnoskarb.ua/montor-asus-vs197/m5042579",
+      "price_min": 550,
+      "price_max": 650,
+      "city": "Полтава",
+      "addresses": [
+        "м. Полтава, вул. Європейська, 22",
+        "м. Вишневе, вул. Святошинська, 27",
+        "м. Харків, вул. Отакара Яроша, 23"
+      ],
+      "offers": 3,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 550,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg w2042t",
+      "url": "https://tehnoskarb.ua/montor-lg-w2042t/m5026868",
+      "price_min": 550,
+      "price_max": 550,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Гната Юри, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 550,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 206bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-206bw/m5008710",
+      "price_min": 550,
+      "price_max": 550,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Святошинська, 27"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 550,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -741,6 +1088,27 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Acer v193hq",
+      "url": "https://tehnoskarb.ua/montor-acer-v193hq/m5019742",
+      "price_min": 585,
+      "price_max": 950,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Святошинська, 27",
+        "м. Київ, просп. Бажана, 3В (м. Харківська)"
+      ],
+      "offers": 3,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 585,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Philips 206v3l",
       "url": "https://tehnoskarb.ua/montor-philips-206v3l/m5168988",
       "price_min": 600,
@@ -755,6 +1123,47 @@
         {
           "price": 600,
           "at": "2026-06-26T19:19:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung e2220n",
+      "url": "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230",
+      "price_min": 600,
+      "price_max": 730,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52",
+        "м. Київ, вул. О. Архипенка, 1/12"
+      ],
+      "offers": 2,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 600,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg w2042s",
+      "url": "https://tehnoskarb.ua/montor-lg-w2042s/m5047765",
+      "price_min": 610,
+      "price_max": 610,
+      "city": "Івано-Франківськ",
+      "addresses": [
+        "м. Івано-Франківськ, вул. Василя Стуса, 17А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 610,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -857,6 +1266,82 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Philips 196v3l",
+      "url": "https://tehnoskarb.ua/montor-philips-196v3l/m5081628",
+      "price_min": 660,
+      "price_max": 660,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 660,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vh228",
+      "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
+      "price_min": 680,
+      "price_max": 680,
+      "city": "Тернопіль",
+      "addresses": [
+        "м. Тернопіль, б-р Шевченка, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 680,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg e1942c",
+      "url": "https://tehnoskarb.ua/montor-lg-e1942c/m5076612",
+      "price_min": 690,
+      "price_max": 690,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 690,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg w2043s",
+      "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
+      "price_min": 690,
+      "price_max": 720,
+      "city": "Лозова",
+      "addresses": [
+        "м. Лозова, вул. Соборна, 7"
+      ],
+      "offers": 2,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 690,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Iiyama prolite e2407hds",
       "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167",
       "price_min": 700,
@@ -871,6 +1356,29 @@
         {
           "price": 700,
           "at": "2026-06-18T19:31:42Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 223v5l",
+      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
+      "price_min": 700,
+      "price_max": 1200,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. О. Архипенка, 1/12",
+        "м. Ужгород, вул. Грушевського, 67",
+        "м. Київ, б-р Чоколовський, 21",
+        "м. Київ, просп. Берестейський, 27"
+      ],
+      "offers": 5,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 700,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -997,6 +1505,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Hp la2006x",
+      "url": "https://tehnoskarb.ua/montor-hp-la2006x/m5075752",
+      "price_min": 770,
+      "price_max": 770,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 770,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Philips 220e1sb",
       "url": "https://tehnoskarb.ua/montor-philips-220e1sb/m5089110",
       "price_min": 790,
@@ -1031,6 +1559,26 @@
         {
           "price": 800,
           "at": "2026-06-26T19:19:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg ips234t",
+      "url": "https://tehnoskarb.ua/montor-lg-ips234t/m5045409",
+      "price_min": 800,
+      "price_max": 800,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Кам`янецька, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 800,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -1205,6 +1753,67 @@
         {
           "price": 900,
           "at": "2026-06-29T09:15:36Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell u2312hmt",
+      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
+      "price_min": 900,
+      "price_max": 1130,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул Р. Окіпної, 5",
+        "м. Львів, вул. Степана Бандери, 89"
+      ],
+      "offers": 2,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 900,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Acer v226hql",
+      "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
+      "price_min": 950,
+      "price_max": 950,
+      "city": "Самбір",
+      "addresses": [
+        "м. Самбір, площа Ринок, 26"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 950,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung ex1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-ex1920/m5063504",
+      "price_min": 950,
+      "price_max": 950,
+      "city": "Золочів",
+      "addresses": [
+        "м. Золочів, вул. Шашкевича, 4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 950,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -1407,6 +2016,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s19f350h",
+      "url": "https://tehnoskarb.ua/montor-samsung-s19f350h/m5054533",
+      "price_min": 1290,
+      "price_max": 1290,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Правди, 41-А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 1290,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s19f355hn",
       "url": "https://tehnoskarb.ua/montor-samsung-s19f355hn/m5178343",
       "price_min": 1350,
@@ -1548,6 +2177,27 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell u2412m",
+      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
+      "price_min": 1650,
+      "price_max": 1830,
+      "city": "Бровари",
+      "addresses": [
+        "м. Бровари, б-р Незалежності, 11",
+        "м. Київ, б-р Чоколовський, 21"
+      ],
+      "offers": 2,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 1650,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Aoc 22p1",
       "url": "https://tehnoskarb.ua/montor-aoc-22p1/m5169396",
       "price_min": 1670,
@@ -1650,6 +2300,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 22mp58d-p",
+      "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
+      "price_min": 1970,
+      "price_max": 1970,
+      "city": "Лозова",
+      "addresses": [
+        "м. Лозова, просп. Перемоги, 15"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 1970,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Hp 25es",
       "url": "https://tehnoskarb.ua/montor-hp-25es/m5179864",
       "price_min": 2000,
@@ -1684,6 +2354,26 @@
         {
           "price": 2070,
           "at": "2026-06-28T12:56:31Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell p2414h",
+      "url": "https://tehnoskarb.ua/montor-dell-p2414h/m5051920",
+      "price_min": 2100,
+      "price_max": 2100,
+      "city": "Кременчук",
+      "addresses": [
+        "м. Кременчук, вул. Покровська, 15/34"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 2100,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -1832,6 +2522,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 24mp59g-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
+      "price_min": 2400,
+      "price_max": 2400,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Олени Теліги , 17"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 2400,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi optix mag241c",
       "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
       "price_min": 2401,
@@ -1866,6 +2576,26 @@
         {
           "price": 2430,
           "at": "2026-06-26T19:19:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung s24e391hl",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24e391hl/m5065257",
+      "price_min": 2430,
+      "price_max": 2430,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лятошинського, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 2430,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -2092,6 +2822,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell s2421hn",
+      "url": "https://tehnoskarb.ua/montor-dell-s2421hn/m5058716",
+      "price_min": 2700,
+      "price_max": 2700,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 2700,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Acer sa242yp1bip",
       "url": "https://tehnoskarb.ua/montor-acer-sa242yp1bip/m5177542",
       "price_min": 2720,
@@ -2168,6 +2916,29 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi g2412",
+      "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
+      "price_min": 2970,
+      "price_max": 4320,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Миру, 2/3",
+        "м. Бровари, вул. Героїв України, 11",
+        "м. Запоріжжя, просп. Соборний, 224",
+        "м. Київ, б-р М. Міхновського, 25"
+      ],
+      "offers": 4,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 2970,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Benq ex240n",
       "url": "https://tehnoskarb.ua/montor-benq-ex240n/m5134563",
       "price_min": 3000,
@@ -2182,6 +2953,26 @@
         {
           "price": 3000,
           "at": "2026-06-27T19:53:02Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi pro mp243x",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp243x/m5061631",
+      "price_min": 3000,
+      "price_max": 3000,
+      "city": "Боярка",
+      "addresses": [
+        "м. Боярка, вул. Ярослава Мудрого, 50/61"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 3000,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -2251,6 +3042,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi pro mp251",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
+      "price_min": 3350,
+      "price_max": 3350,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. В. Перспективна, 18/14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 3350,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung ls27d300gai",
       "url": "https://tehnoskarb.ua/montor-samsung-ls27d300gai/m5179117",
       "price_min": 3400,
@@ -2305,6 +3116,46 @@
         {
           "price": 3500,
           "at": "2026-06-26T19:19:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell p2418d",
+      "url": "https://tehnoskarb.ua/montor-dell-p2418d/m5065599",
+      "price_min": 3500,
+      "price_max": 3500,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 3500,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi optix g241v",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g241v/m5012486",
+      "price_min": 3500,
+      "price_max": 3500,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 3500,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -2648,6 +3499,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi pro mp273",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp273/m5065045",
+      "price_min": 4790,
+      "price_max": 4790,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ,  вул. Драгоманова, 27"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 4790,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Aoc 24p2q",
       "url": "https://tehnoskarb.ua/montor-aoc-24p2q/m5173255",
       "price_min": 4840,
@@ -2826,6 +3697,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Gigabyte gs27q",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27q/m5055580",
+      "price_min": 5960,
+      "price_max": 5960,
+      "city": "Лозова",
+      "addresses": [
+        "м. Лозова, вул. Соборна, 7"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 5960,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung odyssey g5 ls32cg550",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125",
       "price_min": 6000,
@@ -2957,6 +3848,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus tuf gaming vg27aqa1a",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqa1a/m5058821",
+      "price_min": 6890,
+      "price_max": 6890,
+      "city": "Ужгород",
+      "addresses": [
+        "м. Ужгород, вул. Мукачівська, 2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 6890,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Apple cinema hd display 30",
       "url": "https://tehnoskarb.ua/montor-apple-cinema-hd-display-30/m5175163",
       "price_min": 7000,
@@ -2971,6 +3882,26 @@
         {
           "price": 7000,
           "at": "2026-06-26T14:30:51Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus tuf gaming vg279qm1a",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279qm1a/m5062453",
+      "price_min": 7070,
+      "price_max": 7070,
+      "city": "Ужгород",
+      "addresses": [
+        "м. Ужгород, вул. Мукачівська, 2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 7070,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -3071,6 +4002,46 @@
         {
           "price": 8500,
           "at": "2026-06-21T21:55:35Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung smart m7",
+      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
+      "price_min": 8600,
+      "price_max": 8600,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Бажана, 3В (м. Харківська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 8600,
+          "at": "2026-07-02T15:41:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung odyssey g5 c34g55tw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
+      "price_min": 9670,
+      "price_max": 9670,
+      "city": "Ужгород",
+      "addresses": [
+        "м. Ужгород, вул. Мукачівська, 2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T15:41:15Z",
+      "price_history": [
+        {
+          "price": 9670,
+          "at": "2026-07-02T15:41:15Z"
         }
       ],
       "category": "Монітори",
@@ -3329,443 +4300,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lenovo thinkvision t2054pc",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2054pc/m5134008",
-      "price": 1030,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Benq gw2283",
-      "url": "https://tehnoskarb.ua/montor-benq-gw2283/m5131752",
-      "price": 2205,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Відеомонітор Konvision kvm-1930w",
-      "url": "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378",
-      "price": 2552,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Aoc 24p1",
-      "url": "https://tehnoskarb.ua/montor-aoc-24p1/m5123527",
-      "price": 4500,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer v233hbd",
-      "url": "https://tehnoskarb.ua/montor-acer-v233hbd/m5121988",
-      "price": 800,
-      "city": "Новий Розділ",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung c24f390fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
-      "price": 2350,
-      "city": "Дрогобич",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Xiaomi a22i / ela5230eu",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-a22i-ela5230eu/m5111189",
-      "price": 2040,
-      "city": "Миколаїв",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung gh17ls",
-      "url": "https://tehnoskarb.ua/montor-samsung-gh17ls/m5098840",
-      "price": 170,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s19a100n",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19a100n/m5098815",
-      "price": 315,
-      "city": "Херсон",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 24mp59g-p",
-      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
-      "price": 2400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer v226hql",
-      "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
-      "price": 950,
-      "city": "Самбір",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Hp la2006x",
-      "url": "https://tehnoskarb.ua/montor-hp-la2006x/m5075752",
-      "price": 770,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Dell p2418d",
-      "url": "https://tehnoskarb.ua/montor-dell-p2418d/m5065599",
-      "price": 3500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s24e391hl",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24e391hl/m5065257",
-      "price": 2430,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung smart m7",
-      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
-      "price": 8600,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Philips 223v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
-      "price_old": 730,
-      "price_new": 650,
-      "city": "Миколаїв",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 192e2sb2",
-      "url": "https://tehnoskarb.ua/montor-philips-192e2sb2/m5058006",
-      "price": 500,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Samsung e2220n",
-      "url": "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230",
-      "price_old": 730,
-      "price_new": 600,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg l1753tr",
-      "url": "https://tehnoskarb.ua/montor-lg-l1753tr/m5055971",
-      "price": 350,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg w2043s",
-      "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
-      "price": 720,
-      "city": "Лозова",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Lg w2042s",
-      "url": "https://tehnoskarb.ua/montor-lg-w2042s/m5047765",
-      "price_old": 750,
-      "price_new": 610,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg ips234t",
-      "url": "https://tehnoskarb.ua/montor-lg-ips234t/m5045409",
-      "price": 880,
-      "city": "Бровари",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 720n",
-      "url": "https://tehnoskarb.ua/montor-samsung-720n/m5042700",
-      "price": 420,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Asus vs197",
-      "url": "https://tehnoskarb.ua/montor-asus-vs197/m5042579",
-      "price_old": 650,
-      "price_new": 550,
-      "city": "Полтава",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer v193hq",
-      "url": "https://tehnoskarb.ua/montor-acer-v193hq/m5019742",
-      "price": 585,
-      "city": "Вишневе",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 22mp58d-p",
-      "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
-      "price": 1970,
-      "city": "Лозова",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 920n",
-      "url": "https://tehnoskarb.ua/montor-samsung-920n/m5011274",
-      "price": 300,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Dell u2412m",
-      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
-      "price": 1000,
-      "city": "Бровари",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 940bf",
-      "url": "https://tehnoskarb.ua/montor-samsung-940bf/m4999586",
-      "price": 280,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung t220",
-      "url": "https://tehnoskarb.ua/montor-samsung-t220/m4997755",
-      "price": 310,
-      "city": "Вишневе",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 940bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-940bw/m4996862",
-      "price": 280,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-06-26T19:19:12Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg l1750u",
-      "url": "https://tehnoskarb.ua/montor-lg-l1750u/m5177876",
-      "price": 350,
-      "city": "Первомайськ",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Prestigio p1910",
-      "url": "https://tehnoskarb.ua/montor-prestigio-p1910/m5174147",
-      "price": 370,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Dell e198fpf",
-      "url": "https://tehnoskarb.ua/montor-dell-e198fpf/m5168466",
-      "price": 500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg l1942s",
-      "url": "https://tehnoskarb.ua/montor-lg-l1942s/m5165584",
-      "price": 280,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Viewsonic va703b",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
-      "price": 310,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer v223hq",
-      "url": "https://tehnoskarb.ua/montor-acer-v223hq/m5158994",
-      "price": 900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Aoc e950swn / 185lm00013",
-      "url": "https://tehnoskarb.ua/montor-aoc-e950swn-185lm00013/m5158393",
-      "price": 630,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg flatron l1910s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1910s/m5156650",
-      "price": 280,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls22f350fhixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls22f350fhixci/m5154566",
-      "price": 2820,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung f24t452fqr",
-      "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
-      "price": 4000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer g227hgl",
-      "url": "https://tehnoskarb.ua/montor-acer-g227hgl/m5147853",
-      "price": 1170,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer g195hqv",
-      "url": "https://tehnoskarb.ua/montor-acer-g195hqv/m5146468",
-      "price": 530,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 236v3lab/01",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
-      "price": 870,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung lf22t350f",
-      "url": "https://tehnoskarb.ua/montor-samsung-lf22t350f/m5139636",
-      "price": 2170,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 22m37a",
-      "url": "https://tehnoskarb.ua/montor-22-lg-22m37a/m5137076",
-      "price": 620,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Samsung s22d300",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194",
-      "price_old": 1980,
-      "price_new": 1485,
-      "city": "Вінниця",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg e2040st",
-      "url": "https://tehnoskarb.ua/montor-lg-e2040st/m5112294",
-      "price": 560,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hp n223",
@@ -5145,6 +5679,438 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-07-02T13:17:33Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp251",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
+      "price": 3350,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 24mp59g-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
+      "price": 2400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 196v3l",
+      "url": "https://tehnoskarb.ua/montor-philips-196v3l/m5081628",
+      "price": 660,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer v226hql",
+      "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
+      "price": 950,
+      "city": "Самбір",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg e1942c",
+      "url": "https://tehnoskarb.ua/montor-lg-e1942c/m5076612",
+      "price": 690,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp la2006x",
+      "url": "https://tehnoskarb.ua/montor-hp-la2006x/m5075752",
+      "price": 770,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung b1930n",
+      "url": "https://tehnoskarb.ua/montor-samsung-b1930n/m5069561",
+      "price": 320,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 730bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-730bf/m5068988",
+      "price": 200,
+      "city": "Берегове",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell p2418d",
+      "url": "https://tehnoskarb.ua/montor-dell-p2418d/m5065599",
+      "price": 3500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s24e391hl",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24e391hl/m5065257",
+      "price": 2430,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung smart m7",
+      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
+      "price": 8600,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp273",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp273/m5065045",
+      "price": 4790,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung ex1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-ex1920/m5063504",
+      "price": 950,
+      "city": "Золочів",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus tuf gaming vg279qm1a",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279qm1a/m5062453",
+      "price": 7070,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp243x",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp243x/m5061631",
+      "price": 3000,
+      "city": "Боярка",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 223v5l",
+      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
+      "price": 700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus tuf gaming vg27aqa1a",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqa1a/m5058821",
+      "price": 6890,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell s2421hn",
+      "url": "https://tehnoskarb.ua/montor-dell-s2421hn/m5058716",
+      "price": 2700,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 192e2sb2",
+      "url": "https://tehnoskarb.ua/montor-philips-192e2sb2/m5058006",
+      "price": 500,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung e2220n",
+      "url": "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230",
+      "price": 600,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vh228",
+      "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
+      "price": 680,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg l1753tr",
+      "url": "https://tehnoskarb.ua/montor-lg-l1753tr/m5055971",
+      "price": 350,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Gigabyte gs27q",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27q/m5055580",
+      "price": 5960,
+      "city": "Лозова",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg w2043s",
+      "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
+      "price": 690,
+      "city": "Лозова",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s19f350h",
+      "url": "https://tehnoskarb.ua/montor-samsung-s19f350h/m5054533",
+      "price": 1290,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell p2414h",
+      "url": "https://tehnoskarb.ua/montor-dell-p2414h/m5051920",
+      "price": 2100,
+      "city": "Кременчук",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg l1717s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
+      "price": 270,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey g5 c34g55tw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
+      "price": 9670,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell u2312hmt",
+      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
+      "price": 900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg w2042s",
+      "url": "https://tehnoskarb.ua/montor-lg-w2042s/m5047765",
+      "price": 610,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung e1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
+      "price": 530,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg ips234t",
+      "url": "https://tehnoskarb.ua/montor-lg-ips234t/m5045409",
+      "price": 800,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 720n",
+      "url": "https://tehnoskarb.ua/montor-samsung-720n/m5042700",
+      "price": 420,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vs197",
+      "url": "https://tehnoskarb.ua/montor-asus-vs197/m5042579",
+      "price": 550,
+      "city": "Полтава",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg w2042t",
+      "url": "https://tehnoskarb.ua/montor-lg-w2042t/m5026868",
+      "price": 550,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi g2412",
+      "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
+      "price": 2970,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer v193hq",
+      "url": "https://tehnoskarb.ua/montor-acer-v193hq/m5019742",
+      "price": 585,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 22mp58d-p",
+      "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
+      "price": 1970,
+      "city": "Лозова",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi optix g241v",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g241v/m5012486",
+      "price": 3500,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 710n",
+      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
+      "price": 105,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg l1742s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1742s/m5011804",
+      "price": 450,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 920n",
+      "url": "https://tehnoskarb.ua/montor-samsung-920n/m5011274",
+      "price": 300,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 206bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-206bw/m5008710",
+      "price": 550,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell u2412m",
+      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
+      "price": 1650,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 940bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-940bf/m4999586",
+      "price": 280,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung t220",
+      "url": "https://tehnoskarb.ua/montor-samsung-t220/m4997755",
+      "price": 310,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 940bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-940bw/m4996862",
+      "price": 280,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 943nw",
+      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
+      "price": 400,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-02T15:41:15Z"
     }
   ],
   "config": {
