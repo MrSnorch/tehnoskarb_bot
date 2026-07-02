@@ -3519,9 +3519,9 @@
         "at": "2026-07-02T15:41:15Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-07-02T17:51:10Z",
-    "details_retry_at": "2026-07-02T18:51:10Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-07-02T19:34:38Z",
+    "details_retry_at": "2026-07-02T21:34:38Z"
   },
   "https://tehnoskarb.ua/montor-acer-v226hql/m5076841": {
     "name": "Монітор Acer v226hql",
@@ -3560,9 +3560,9 @@
         "at": "2026-07-02T15:41:15Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-07-02T17:51:10Z",
-    "details_retry_at": "2026-07-02T18:51:10Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-07-02T19:34:38Z",
+    "details_retry_at": "2026-07-02T21:34:38Z"
   },
   "https://tehnoskarb.ua/montor-hp-la2006x/m5075752": {
     "name": "Монітор Hp la2006x",
@@ -3601,9 +3601,9 @@
         "at": "2026-07-02T15:41:15Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-07-02T17:51:10Z",
-    "details_retry_at": "2026-07-02T18:51:10Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-07-02T19:34:38Z",
+    "details_retry_at": "2026-07-02T21:34:38Z"
   },
   "https://tehnoskarb.ua/montor-samsung-730bf/m5068988": {
     "name": "Монітор Samsung 730bf",
@@ -3834,9 +3834,9 @@
         "at": "2026-07-02T15:41:15Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-07-02T17:51:10Z",
-    "details_retry_at": "2026-07-02T18:51:10Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-07-02T19:34:38Z",
+    "details_retry_at": "2026-07-02T21:34:38Z"
   },
   "https://tehnoskarb.ua/montor-philips-192e2sb2/m5058006": {
     "name": "Монітор Philips 192e2sb2",
@@ -4478,5 +4478,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-02T15:41:15Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-e2250s/m5180759": {
+    "name": "Монітор Lg e2250s",
+    "price_min": 800,
+    "price_max": 800,
+    "city": "Вишневе",
+    "addresses": [
+      "м. Вишневе, вул. Остапа Вишні, 4"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-02T19:34:38Z",
+    "price_history": [
+      {
+        "price": 800,
+        "at": "2026-07-02T19:34:38Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-02T19:34:38Z"
+  },
+  "https://tehnoskarb.ua/montor-fujitsu-b24-8-te-pro/m5180436": {
+    "name": "Монітор Fujitsu b24-8 te pro",
+    "price_min": 1600,
+    "price_max": 1600,
+    "city": "Вишневе",
+    "addresses": [
+      "м. Вишневе, вул. Остапа Вишні, 4"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-02T19:34:38Z",
+    "price_history": [
+      {
+        "price": 1600,
+        "at": "2026-07-02T19:34:38Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-02T19:34:38Z"
   }
 }

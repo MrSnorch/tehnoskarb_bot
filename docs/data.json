@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-02T17:52:19Z",
+  "updated_at": "2026-07-02T19:35:02Z",
   "stats": {
-    "total": 208,
-    "avg_price": 2973,
+    "total": 210,
+    "avg_price": 2956,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1585,6 +1585,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg e2250s",
+      "url": "https://tehnoskarb.ua/montor-lg-e2250s/m5180759",
+      "price_min": 800,
+      "price_max": 800,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Остапа Вишні, 4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T19:34:38Z",
+      "price_history": [
+        {
+          "price": 800,
+          "at": "2026-07-02T19:34:38Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Hp n223",
       "url": "https://tehnoskarb.ua/montor-hp-n223/m5108257",
       "price_min": 820,
@@ -2171,6 +2191,26 @@
         {
           "price": 1500,
           "at": "2026-06-29T09:15:36Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Fujitsu b24-8 te pro",
+      "url": "https://tehnoskarb.ua/montor-fujitsu-b24-8-te-pro/m5180436",
+      "price_min": 1600,
+      "price_max": 1600,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Остапа Вишні, 4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T19:34:38Z",
+      "price_history": [
+        {
+          "price": 1600,
+          "at": "2026-07-02T19:34:38Z"
         }
       ],
       "category": "Монітори",
@@ -4302,24 +4342,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Hp n223",
-      "url": "https://tehnoskarb.ua/montor-hp-n223/m5108257",
-      "price": 820,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 196v3l",
-      "url": "https://tehnoskarb.ua/montor-philips-196v3l/m5081628",
-      "price": 660,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-06-26T21:06:44Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg e1942c",
       "url": "https://tehnoskarb.ua/montor-lg-e1942c/m5076612",
       "price": 690,
@@ -6111,6 +6133,24 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-07-02T15:41:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg e2250s",
+      "url": "https://tehnoskarb.ua/montor-lg-e2250s/m5180759",
+      "price": 800,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-07-02T19:34:38Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Fujitsu b24-8 te pro",
+      "url": "https://tehnoskarb.ua/montor-fujitsu-b24-8-te-pro/m5180436",
+      "price": 1600,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-07-02T19:34:38Z"
     }
   ],
   "config": {
