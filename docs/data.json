@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T04:27:25Z",
+  "updated_at": "2026-07-03T07:47:37Z",
   "stats": {
     "total": 219,
     "avg_price": 2963,
@@ -1078,7 +1078,7 @@
         "м. Вишневе, вул. Святошинська, 27",
         "м. Київ, просп. Бажана, 3В (м. Харківська)"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -3012,26 +3012,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Aoc 27b3ha2",
-      "url": "https://tehnoskarb.ua/montor-aoc-27b3ha2/m5180641",
-      "price_min": 3160,
-      "price_max": 3160,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, вул. Дудинської, 1-А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-03T04:25:41Z",
-      "price_history": [
-        {
-          "price": 3160,
-          "at": "2026-07-03T04:25:41Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi optix g24c6 e2",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g24c6-e2/m5138664",
       "price_min": 3170,
@@ -3087,6 +3067,30 @@
         {
           "price": 3260,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Aoc 27b3ha2",
+      "url": "https://tehnoskarb.ua/montor-aoc-27b3ha2/m5180641",
+      "price_min": 3300,
+      "price_max": 3300,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, вул. Дудинської, 1-А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-03T04:25:41Z",
+      "price_history": [
+        {
+          "price": 3160,
+          "at": "2026-07-03T04:25:41Z"
+        },
+        {
+          "price": 3300,
+          "at": "2026-07-03T07:46:21Z"
         }
       ],
       "category": "Монітори",
@@ -4407,15 +4411,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls27d300gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls27d300gai/m5179117",
-      "price": 3400,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Aoc e2470swh",
@@ -6206,6 +6201,16 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-03T04:25:41Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Aoc 27b3ha2",
+      "url": "https://tehnoskarb.ua/montor-aoc-27b3ha2/m5180641",
+      "price_old": 3160,
+      "price_new": 3300,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-07-03T07:46:21Z"
     }
   ],
   "config": {
