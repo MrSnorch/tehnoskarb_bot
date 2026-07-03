@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-03T15:17:36Z",
+  "updated_at": "2026-07-03T16:54:44Z",
   "stats": {
     "total": 218,
-    "avg_price": 2940,
+    "avg_price": 2946,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -825,26 +825,6 @@
       "price_history": [
         {
           "price": 460,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus pa246",
-      "url": "https://tehnoskarb.ua/montor-asus-pa246/m5178608",
-      "price_min": 500,
-      "price_max": 500,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 500,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -2336,6 +2316,26 @@
         {
           "price": 1800,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung c27fg73",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27fg73/m4739795",
+      "price_min": 1800,
+      "price_max": 1800,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Свободи, 15/1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-03T16:54:33Z",
+      "price_history": [
+        {
+          "price": 1800,
+          "at": "2026-07-03T16:54:33Z"
         }
       ],
       "category": "Монітори",
@@ -4397,24 +4397,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung s19f355hn",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19f355hn/m5178343",
-      "price": 1350,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi mag301cr2",
-      "url": "https://tehnoskarb.ua/montor-msi-mag301cr2/m5178275",
-      "price": 10850,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Iiyama prolite e2407hds",
       "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167",
       "price": 700,
@@ -6196,6 +6178,24 @@
       "city": "Жмеринка",
       "category": "Монітори",
       "at": "2026-07-03T15:16:22Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus pa246",
+      "url": "https://tehnoskarb.ua/montor-asus-pa246/m5178608",
+      "price": 500,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-03T16:54:33Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung c27fg73",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27fg73/m4739795",
+      "price": 1800,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-03T16:54:33Z"
     }
   ],
   "config": {
