@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-03T12:57:03Z",
+  "updated_at": "2026-07-03T15:17:36Z",
   "stats": {
-    "total": 219,
-    "avg_price": 2944,
+    "total": 218,
+    "avg_price": 2940,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -3321,26 +3321,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung business t45f",
-      "url": "https://tehnoskarb.ua/montor-samsung-business-t45f/m5179364",
-      "price_min": 3800,
-      "price_max": 3800,
-      "city": "Жмеринка",
-      "addresses": [
-        "м. Жмеринка, вул. Соборна, 2, прим.№25"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 3800,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vg249q1",
       "url": "https://tehnoskarb.ua/montor-asus-vg249q1/m5114747",
       "price_min": 3800,
@@ -4415,15 +4395,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg l206wtq",
-      "url": "https://tehnoskarb.ua/montor-lg-l206wtq/m5178437",
-      "price": 350,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s19f355hn",
@@ -6216,6 +6187,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-03T12:56:54Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung business t45f",
+      "url": "https://tehnoskarb.ua/montor-samsung-business-t45f/m5179364",
+      "price": 3800,
+      "city": "Жмеринка",
+      "category": "Монітори",
+      "at": "2026-07-03T15:16:22Z"
     }
   ],
   "config": {
