@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-04T07:24:02Z",
+  "updated_at": "2026-07-04T09:36:50Z",
   "stats": {
-    "total": 221,
-    "avg_price": 2927,
+    "total": 218,
+    "avg_price": 2961,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -92,26 +92,6 @@
       "price_history": [
         {
           "price": 105,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung gh17ls",
-      "url": "https://tehnoskarb.ua/montor-samsung-gh17ls/m5098840",
-      "price_min": 170,
-      "price_max": 170,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, вул. Героїв майдану, 48"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 170,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -349,26 +329,6 @@
         {
           "price": 290,
           "at": "2026-07-03T18:14:30Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 740n",
-      "url": "https://tehnoskarb.ua/montor-17-samsung-740n/m5174253",
-      "price_min": 300,
-      "price_max": 300,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, вул. Університетська, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 300,
-          "at": "2026-07-02T22:37:11Z"
         }
       ],
       "category": "Монітори",
@@ -1915,26 +1875,6 @@
       "price_history": [
         {
           "price": 1020,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo thinkvision t2054pc",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2054pc/m5134008",
-      "price_min": 1030,
-      "price_max": 1030,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, вул. Героїв майдану, 48"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 1030,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -4462,33 +4402,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg l1750u",
-      "url": "https://tehnoskarb.ua/montor-lg-l1750u/m5177876",
-      "price": 350,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus ve208",
-      "url": "https://tehnoskarb.ua/montor-asus-ve208/m5177805",
-      "price": 750,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer sa242yp1bip",
-      "url": "https://tehnoskarb.ua/montor-acer-sa242yp1bip/m5177542",
-      "price": 2720,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s30gd",
       "url": "https://tehnoskarb.ua/montor-samsung-s30gd/m5177463",
       "price": 1800,
@@ -6262,6 +6175,33 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-07-03T18:14:30Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 740n",
+      "url": "https://tehnoskarb.ua/montor-17-samsung-740n/m5174253",
+      "price": 300,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-07-04T09:36:40Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo thinkvision t2054pc",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2054pc/m5134008",
+      "price": 1030,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-07-04T09:36:40Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung gh17ls",
+      "url": "https://tehnoskarb.ua/montor-samsung-gh17ls/m5098840",
+      "price": 170,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-07-04T09:36:40Z"
     }
   ],
   "config": {
