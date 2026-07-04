@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-04T11:34:39Z",
+  "updated_at": "2026-07-04T13:40:37Z",
   "stats": {
-    "total": 216,
-    "avg_price": 2969,
+    "total": 215,
+    "avg_price": 2979,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1435,26 +1435,6 @@
       "city": "Золочів",
       "addresses": [
         "м. Золочів, вул. Шашкевича, 4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 760,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 961bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-961bw/m5149374",
-      "price_min": 760,
-      "price_max": 760,
-      "city": "Миколаїв",
-      "addresses": [
-        "м. Миколаїв, вул. 3-я Слобідська, 51"
       ],
       "offers": 1,
       "first_seen": "2026-07-02T22:37:11Z",
@@ -4358,15 +4338,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Acer nitro vg271upbmiipx",
-      "url": "https://tehnoskarb.ua/montor-acer-nitro-vg271upbmiipx/m5177181",
-      "price": 5200,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg flatron e2241t-bn",
       "url": "https://tehnoskarb.ua/montor-lg-flatron-e2241t-bn/m5177084",
       "price": 900,
@@ -6158,6 +6129,15 @@
       "city": "Харків",
       "category": "Монітори",
       "at": "2026-07-04T11:34:28Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 961bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-961bw/m5149374",
+      "price": 760,
+      "city": "Миколаїв",
+      "category": "Монітори",
+      "at": "2026-07-04T13:39:21Z"
     }
   ],
   "config": {
