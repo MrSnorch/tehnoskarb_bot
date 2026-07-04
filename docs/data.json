@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-04T16:31:40Z",
+  "updated_at": "2026-07-04T18:04:05Z",
   "stats": {
-    "total": 215,
-    "avg_price": 2979,
+    "total": 216,
+    "avg_price": 2988,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -3575,6 +3575,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lenovo 27-10",
+      "url": "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317",
+      "price_min": 4870,
+      "price_max": 4870,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Степана Бандери, 89"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-04T18:03:55Z",
+      "price_history": [
+        {
+          "price": 4870,
+          "at": "2026-07-04T18:03:55Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi optix g2712",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g2712/m5147416",
       "price_min": 4900,
@@ -4336,15 +4356,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg flatron e2241t-bn",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2241t-bn/m5177084",
-      "price": 900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vu249cfe-b",
@@ -6138,6 +6149,15 @@
       "city": "Миколаїв",
       "category": "Монітори",
       "at": "2026-07-04T13:39:21Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo 27-10",
+      "url": "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317",
+      "price": 4870,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-04T18:03:55Z"
     }
   ],
   "config": {
