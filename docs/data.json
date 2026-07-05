@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-05T11:36:33Z",
+  "updated_at": "2026-07-05T13:46:16Z",
   "stats": {
-    "total": 217,
-    "avg_price": 2983,
+    "total": 216,
+    "avg_price": 2939,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -4256,26 +4256,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi mag 272qpw qd-oled x28",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-272qpw-qd-oled-x28/m5174027",
-      "price_min": 12610,
-      "price_max": 12610,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Білоруська, 8"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 12610,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 27gn950-b",
       "url": "https://tehnoskarb.ua/montor-lg-27gn950-b/m5165373",
       "price_min": 13330,
@@ -4376,15 +4356,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 232e2",
-      "url": "https://tehnoskarb.ua/montor-philips-232e2/m5176721",
-      "price": 1020,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus rog strix xg27acmg",
@@ -6178,6 +6149,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-05T09:54:53Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi mag 272qpw qd-oled x28",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-272qpw-qd-oled-x28/m5174027",
+      "price": 12610,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-05T13:46:08Z"
     }
   ],
   "config": {
