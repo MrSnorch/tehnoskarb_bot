@@ -4518,9 +4518,9 @@
         "at": "2026-07-05T16:34:33Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-07-05T18:05:35Z",
-    "details_retry_at": "2026-07-05T19:05:35Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-07-05T19:51:13Z",
+    "details_retry_at": "2026-07-05T21:51:13Z"
   },
   "https://tehnoskarb.ua/nastlnijj-montor-acer-x193w/m5181267": {
     "name": "Монітор Acer x193w",
@@ -4563,5 +4563,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-05T18:05:35Z"
+  },
+  "https://tehnoskarb.ua/montor-chiq-27f690/m5181091": {
+    "name": "Монітор Chiq 27f690",
+    "price_min": 2900,
+    "price_max": 2900,
+    "city": "Калуш",
+    "addresses": [
+      "м. Калуш, вул. Богдана Хмельницького, 21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-05T19:51:13Z",
+    "price_history": [
+      {
+        "price": 2900,
+        "at": "2026-07-05T19:51:13Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-05T19:51:13Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-flatron-l1953s-bf/m5181110": {
+    "name": "Монітор Lg flatron l1953s-bf",
+    "price_min": 530,
+    "price_max": 530,
+    "city": "Калуш",
+    "addresses": [
+      "м. Калуш, вул. Богдана Хмельницького, 21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-05T19:51:13Z",
+    "price_history": [
+      {
+        "price": 530,
+        "at": "2026-07-05T19:51:13Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-05T19:51:13Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-931bw/m5048829": {
+    "name": "Монітор Samsung 931bw",
+    "price_min": 340,
+    "price_max": 340,
+    "city": "Рівне",
+    "addresses": [
+      "м. Рівне, вул. Соборна, 63"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-05T19:51:13Z",
+    "price_history": [
+      {
+        "price": 340,
+        "at": "2026-07-05T19:51:13Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-05T19:51:13Z"
   }
 }

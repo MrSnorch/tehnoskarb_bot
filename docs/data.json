@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-05T18:05:52Z",
+  "updated_at": "2026-07-05T19:51:32Z",
   "stats": {
-    "total": 217,
-    "avg_price": 2932,
+    "total": 220,
+    "avg_price": 2910,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -531,6 +531,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung 931bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-931bw/m5048829",
+      "price_min": 340,
+      "price_max": 340,
+      "city": "Рівне",
+      "addresses": [
+        "м. Рівне, вул. Соборна, 63"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-05T19:51:13Z",
+      "price_history": [
+        {
+          "price": 340,
+          "at": "2026-07-05T19:51:13Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg l206wtq",
       "url": "https://tehnoskarb.ua/montor-lg-l206wtq/m5178437",
       "price_min": 350,
@@ -944,6 +964,26 @@
         {
           "price": 530,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg flatron l1953s-bf",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1953s-bf/m5181110",
+      "price_min": 530,
+      "price_max": 530,
+      "city": "Калуш",
+      "addresses": [
+        "м. Калуш, вул. Богдана Хмельницького, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-05T19:51:13Z",
+      "price_history": [
+        {
+          "price": 530,
+          "at": "2026-07-05T19:51:13Z"
         }
       ],
       "category": "Монітори",
@@ -2918,6 +2958,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Chiq 27f690",
+      "url": "https://tehnoskarb.ua/montor-chiq-27f690/m5181091",
+      "price_min": 2900,
+      "price_max": 2900,
+      "city": "Калуш",
+      "addresses": [
+        "м. Калуш, вул. Богдана Хмельницького, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-05T19:51:13Z",
+      "price_history": [
+        {
+          "price": 2900,
+          "at": "2026-07-05T19:51:13Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi g2412",
       "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
       "price_min": 2970,
@@ -4378,33 +4438,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung qm32r",
-      "url": "https://tehnoskarb.ua/montor-samsung-qm32r/m5175769",
-      "price": 4000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer nitro xv272uw2bmiiprx",
-      "url": "https://tehnoskarb.ua/montor-acer-nitro-xv272uw2bmiiprx/m5175710",
-      "price": 7700,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Fujitsu b22w-7 led",
-      "url": "https://tehnoskarb.ua/montor-fujitsu-b22w-7-led/m5175440",
-      "price": 1070,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Apple cinema hd display 30",
@@ -6181,6 +6214,33 @@
       "city": "Запоріжжя",
       "category": "Монітори",
       "at": "2026-07-05T18:05:35Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Chiq 27f690",
+      "url": "https://tehnoskarb.ua/montor-chiq-27f690/m5181091",
+      "price": 2900,
+      "city": "Калуш",
+      "category": "Монітори",
+      "at": "2026-07-05T19:51:13Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg flatron l1953s-bf",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1953s-bf/m5181110",
+      "price": 530,
+      "city": "Калуш",
+      "category": "Монітори",
+      "at": "2026-07-05T19:51:13Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 931bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-931bw/m5048829",
+      "price": 340,
+      "city": "Рівне",
+      "category": "Монітори",
+      "at": "2026-07-05T19:51:13Z"
     }
   ],
   "config": {
