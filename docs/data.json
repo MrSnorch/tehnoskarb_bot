@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-05T07:29:37Z",
+  "updated_at": "2026-07-05T09:56:07Z",
   "stats": {
-    "total": 216,
-    "avg_price": 2988,
+    "total": 217,
+    "avg_price": 2983,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2363,6 +2363,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 24mp68vq",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp68vq/m5181179",
+      "price_min": 2000,
+      "price_max": 2000,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. О. Архипенка, 1/12"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-05T09:54:53Z",
+      "price_history": [
+        {
+          "price": 2000,
+          "at": "2026-07-05T09:54:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vp249hr",
       "url": "https://tehnoskarb.ua/montor-asus-vp249hr/m5111111",
       "price_min": 2070,
@@ -4358,15 +4378,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus vu249cfe-b",
-      "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
-      "price": 6480,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Philips 232e2",
       "url": "https://tehnoskarb.ua/montor-philips-232e2/m5176721",
       "price": 1020,
@@ -6158,6 +6169,15 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-07-04T18:03:55Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 24mp68vq",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp68vq/m5181179",
+      "price": 2000,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-05T09:54:53Z"
     }
   ],
   "config": {
