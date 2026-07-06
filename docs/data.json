@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-06T18:57:30Z",
+  "updated_at": "2026-07-06T20:55:16Z",
   "stats": {
-    "total": 220,
-    "avg_price": 2901,
+    "total": 219,
+    "avg_price": 2911,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1145,26 +1145,6 @@
         {
           "price": 585,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s24b350hl",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24b350hl/m5181375",
-      "price_min": 598,
-      "price_max": 598,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-06T18:57:16Z",
-      "price_history": [
-        {
-          "price": 598,
-          "at": "2026-07-06T18:57:16Z"
         }
       ],
       "category": "Монітори",
@@ -4435,15 +4415,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Hp p244",
-      "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
-      "price": 2440,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg flatron w1930s",
       "url": "https://tehnoskarb.ua/montor-lg-flatron-w1930s/m5173068",
       "price": 550,
@@ -6236,6 +6207,15 @@
       "city": "Івано-Франківськ",
       "category": "Монітори",
       "at": "2026-07-06T18:57:16Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s24b350hl",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24b350hl/m5181375",
+      "price": 598,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-06T20:55:06Z"
     }
   ],
   "config": {
