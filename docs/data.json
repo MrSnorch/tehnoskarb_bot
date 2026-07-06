@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-06T00:10:20Z",
+  "updated_at": "2026-07-06T04:52:36Z",
   "stats": {
-    "total": 220,
-    "avg_price": 2910,
+    "total": 221,
+    "avg_price": 2909,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2882,6 +2882,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Viewsonic va2432-mhd",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va2432-mhd/m5181265",
+      "price_min": 2700,
+      "price_max": 2700,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+      ],
+      "offers": 3,
+      "first_seen": "2026-07-06T04:52:24Z",
+      "price_history": [
+        {
+          "price": 2700,
+          "at": "2026-07-06T04:52:24Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Acer sa242yp1bip",
       "url": "https://tehnoskarb.ua/montor-acer-sa242yp1bip/m5177542",
       "price_min": 2720,
@@ -4438,15 +4458,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Apple cinema hd display 30",
-      "url": "https://tehnoskarb.ua/montor-apple-cinema-hd-display-30/m5175163",
-      "price": 7000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lenovo thinkvision t27i-30",
@@ -6241,6 +6252,15 @@
       "city": "Рівне",
       "category": "Монітори",
       "at": "2026-07-05T19:51:13Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Viewsonic va2432-mhd",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va2432-mhd/m5181265",
+      "price": 2700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-06T04:52:24Z"
     }
   ],
   "config": {

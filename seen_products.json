@@ -4518,9 +4518,9 @@
         "at": "2026-07-05T16:34:33Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-07-05T22:32:01Z",
-    "details_retry_at": "2026-07-06T02:32:01Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-07-06T04:52:24Z",
+    "details_retry_at": "2026-07-06T10:52:24Z"
   },
   "https://tehnoskarb.ua/nastlnijj-montor-acer-x193w/m5181267": {
     "name": "Монітор Acer x193w",
@@ -4626,5 +4626,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-05T19:51:13Z"
+  },
+  "https://tehnoskarb.ua/montor-viewsonic-va2432-mhd/m5181265": {
+    "name": "Монітор Viewsonic va2432-mhd",
+    "price_min": 2700,
+    "price_max": 2700,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+    ],
+    "offers_count": 3,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-06T04:52:24Z",
+    "price_history": [
+      {
+        "price": 2700,
+        "at": "2026-07-06T04:52:24Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-06T04:52:24Z"
   }
 }
