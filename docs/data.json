@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-06T16:38:32Z",
+  "updated_at": "2026-07-06T18:57:30Z",
   "stats": {
-    "total": 218,
-    "avg_price": 2923,
+    "total": 220,
+    "avg_price": 2901,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -173,6 +173,26 @@
         {
           "price": 251,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 740n",
+      "url": "https://tehnoskarb.ua/montor-samsung-740n/m4996661",
+      "price_min": 260,
+      "price_max": 260,
+      "city": "Івано-Франківськ",
+      "addresses": [
+        "м. Івано-Франківськ, вул. Василя Стуса, 17А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-06T18:57:16Z",
+      "price_history": [
+        {
+          "price": 260,
+          "at": "2026-07-06T18:57:16Z"
         }
       ],
       "category": "Монітори",
@@ -1125,6 +1145,26 @@
         {
           "price": 585,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung s24b350hl",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24b350hl/m5181375",
+      "price_min": 598,
+      "price_max": 598,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-06T18:57:16Z",
+      "price_history": [
+        {
+          "price": 598,
+          "at": "2026-07-06T18:57:16Z"
         }
       ],
       "category": "Монітори",
@@ -4395,24 +4435,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus rog strix xg27acs-w",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368",
-      "price": 8500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Aoc 24p2q",
-      "url": "https://tehnoskarb.ua/montor-aoc-24p2q/m5173255",
-      "price": 4840,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Hp p244",
       "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
       "price": 2440,
@@ -6196,6 +6218,24 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-07-06T16:37:18Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s24b350hl",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24b350hl/m5181375",
+      "price": 598,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-06T18:57:16Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 740n",
+      "url": "https://tehnoskarb.ua/montor-samsung-740n/m4996661",
+      "price": 260,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-07-06T18:57:16Z"
     }
   ],
   "config": {
