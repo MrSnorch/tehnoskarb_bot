@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-07T13:35:12Z",
+  "updated_at": "2026-07-07T16:34:21Z",
   "stats": {
-    "total": 218,
-    "avg_price": 2914,
+    "total": 217,
+    "avg_price": 2932,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1398,26 +1398,6 @@
       "price_history": [
         {
           "price": 690,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Iiyama prolite e2407hds",
-      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167",
-      "price_min": 700,
-      "price_max": 700,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 700,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -3038,26 +3018,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix g24c6 e2",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g24c6-e2/m5138664",
-      "price_min": 3170,
-      "price_max": 3170,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олекси Тихого, 40/16"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-03T04:25:41Z",
-      "price_history": [
-        {
-          "price": 3170,
-          "at": "2026-07-03T04:25:41Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi pro mp252",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
       "price_min": 3230,
@@ -3610,6 +3570,26 @@
         {
           "price": 4840,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung odyssey g4",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g4/m5179696",
+      "price_min": 4840,
+      "price_max": 4840,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Братства тарасівців, 2А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-07T16:32:57Z",
+      "price_history": [
+        {
+          "price": 4840,
+          "at": "2026-07-07T16:32:57Z"
         }
       ],
       "category": "Монітори",
@@ -4397,33 +4377,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Benq gl-2760b",
-      "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
-      "price": 3640,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips hnv9170t/170v9fb",
-      "url": "https://tehnoskarb.ua/montor-philips-hnv9170t-170v9fb/m5170843",
-      "price": 320,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Aoc 22p1",
-      "url": "https://tehnoskarb.ua/montor-aoc-22p1/m5169396",
-      "price": 1670,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Acer r242y",
@@ -6201,6 +6154,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-07T13:35:04Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Iiyama prolite e2407hds",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167",
+      "price": 700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-07T16:32:57Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix g24c6 e2",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g24c6-e2/m5138664",
+      "price": 3170,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-07T16:32:57Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey g4",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g4/m5179696",
+      "price": 4840,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-07T16:32:57Z"
     }
   ],
   "config": {
