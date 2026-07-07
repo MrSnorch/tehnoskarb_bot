@@ -3412,7 +3412,7 @@
   },
   "https://tehnoskarb.ua/montor-philips-223v5l/m5061207": {
     "name": "Монітор Philips 223v5l",
-    "price_min": 700,
+    "price_min": 730,
     "price_max": 1200,
     "city": "Київ",
     "addresses": [
@@ -3421,7 +3421,7 @@
       "м. Київ, б-р Чоколовський, 21",
       "м. Київ, просп. Берестейський, 27"
     ],
-    "offers_count": 5,
+    "offers_count": 4,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -3429,6 +3429,10 @@
       {
         "price": 700,
         "at": "2026-07-02T22:37:11Z"
+      },
+      {
+        "price": 730,
+        "at": "2026-07-07T11:10:19Z"
       }
     ],
     "details_failures": 0,
@@ -4387,9 +4391,9 @@
         "at": "2026-07-05T16:34:33Z"
       }
     ],
-    "details_failures": 8,
-    "details_last_attempt": "2026-07-07T03:41:18Z",
-    "details_retry_at": "2026-07-07T09:41:18Z"
+    "details_failures": 9,
+    "details_last_attempt": "2026-07-07T11:10:19Z",
+    "details_retry_at": "2026-07-07T17:10:19Z"
   },
   "https://tehnoskarb.ua/nastlnijj-montor-acer-x193w/m5181267": {
     "name": "Монітор Acer x193w",
