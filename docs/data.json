@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-07T19:04:03Z",
+  "updated_at": "2026-07-07T21:06:36Z",
   "stats": {
-    "total": 217,
-    "avg_price": 2933,
+    "total": 216,
+    "avg_price": 2930,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -3099,26 +3099,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung ls27d300gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls27d300gai/m5179117",
-      "price_min": 3400,
-      "price_max": 3400,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Проскурівська, 109"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 3400,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор 2E 2e-h2420b",
       "url": "https://tehnoskarb.ua/montor-2e-2e-h2420b/m5176124",
       "price_min": 3500,
@@ -4377,15 +4357,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Dell e198fpf",
-      "url": "https://tehnoskarb.ua/montor-dell-e198fpf/m5168466",
-      "price": 500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Philips 272e1c",
@@ -6181,6 +6152,15 @@
       "city": "Запоріжжя",
       "category": "Монітори",
       "at": "2026-07-07T19:03:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung ls27d300gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls27d300gai/m5179117",
+      "price": 3400,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-07T21:06:28Z"
     }
   ],
   "config": {
