@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-07-08T11:23:28Z",
+  "updated_at": "2026-07-08T13:07:34Z",
   "stats": {
-    "total": 212,
-    "avg_price": 2962,
+    "total": 210,
+    "avg_price": 2960,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
       "Івано-Франківськ",
       "Бердичів",
       "Берегове",
-      "Борислав",
       "Бориспіль",
       "Боярка",
       "Бровари",
@@ -1826,26 +1825,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 232e2",
-      "url": "https://tehnoskarb.ua/montor-philips-232e2/m5176721",
-      "price_min": 1020,
-      "price_max": 1020,
-      "city": "Борислав",
-      "addresses": [
-        "м. Борислав, вул. Міцкевича, 4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 1020,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer g227hgl",
       "url": "https://tehnoskarb.ua/montor-acer-g227hgl/m5147853",
       "price_min": 1050,
@@ -3630,26 +3609,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp e24q g5",
-      "url": "https://tehnoskarb.ua/montor-hp-e24q-g5/m5158061",
-      "price_min": 5310,
-      "price_max": 5310,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 5310,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi mag 275qf",
       "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
       "price_min": 5610,
@@ -4297,24 +4256,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg 19m38a",
-      "url": "https://tehnoskarb.ua/montor-lg-19m38a/m5165371",
-      "price": 770,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus zenscreen mb169ck",
-      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
-      "price": 2321,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi optix g27c4 e3",
@@ -6106,6 +6047,24 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-07-08T11:23:01Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 232e2",
+      "url": "https://tehnoskarb.ua/montor-philips-232e2/m5176721",
+      "price": 1020,
+      "city": "Борислав",
+      "category": "Монітори",
+      "at": "2026-07-08T13:06:21Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp e24q g5",
+      "url": "https://tehnoskarb.ua/montor-hp-e24q-g5/m5158061",
+      "price": 5310,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-08T13:06:21Z"
     }
   ],
   "config": {
