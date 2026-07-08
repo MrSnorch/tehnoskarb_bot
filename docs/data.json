@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-08T15:41:55Z",
+  "updated_at": "2026-07-08T17:39:46Z",
   "stats": {
-    "total": 210,
-    "avg_price": 2960,
+    "total": 208,
+    "avg_price": 2981,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1306,26 +1306,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus vh228",
-      "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
-      "price_min": 680,
-      "price_max": 680,
-      "city": "Тернопіль",
-      "addresses": [
-        "м. Тернопіль, б-р Шевченка, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 680,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg e1942c",
       "url": "https://tehnoskarb.ua/montor-lg-e1942c/m5076612",
       "price_min": 690,
@@ -1620,26 +1600,6 @@
       "price_history": [
         {
           "price": 880,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Aoc tft22w90ps",
-      "url": "https://tehnoskarb.ua/montor-aoc-tft22w90ps/m5179569",
-      "price_min": 890,
-      "price_max": 890,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. В. Перспективна, 18/14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 890,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -4258,24 +4218,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Msi optix g27c4 e3",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g27c4-e3/m5165161",
-      "price": 6300,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi pro mp241 e14v",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp241-e14v/m5165082",
-      "price": 1500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung 2043nwx",
       "url": "https://tehnoskarb.ua/montor-samsung-2043nwx/m5163893",
       "price": 251,
@@ -6065,6 +6007,24 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-07-08T13:06:21Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc tft22w90ps",
+      "url": "https://tehnoskarb.ua/montor-aoc-tft22w90ps/m5179569",
+      "price": 890,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-07-08T17:39:35Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vh228",
+      "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
+      "price": 680,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-07-08T17:39:35Z"
     }
   ],
   "config": {
