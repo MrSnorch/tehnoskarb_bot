@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-08T03:36:39Z",
+  "updated_at": "2026-07-08T06:31:15Z",
   "stats": {
-    "total": 216,
-    "avg_price": 2930,
+    "total": 215,
+    "avg_price": 2926,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -3317,26 +3317,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 27e1n1900ae/00",
-      "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
-      "price_min": 3910,
-      "price_max": 3910,
-      "city": "Новий Розділ",
-      "addresses": [
-        "м. Новий Розділ, просп. Тараса Шевченка, 34"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 3910,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung qm32r",
       "url": "https://tehnoskarb.ua/montor-samsung-qm32r/m5175769",
       "price_min": 4000,
@@ -4357,15 +4337,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 272e1c",
-      "url": "https://tehnoskarb.ua/montor-philips-272e1c/m5167752",
-      "price": 4500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi optix g274qpf e2",
@@ -6161,6 +6132,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-07-07T21:06:28Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 27e1n1900ae/00",
+      "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
+      "price": 3910,
+      "city": "Новий Розділ",
+      "category": "Монітори",
+      "at": "2026-07-08T06:30:04Z"
     }
   ],
   "config": {
