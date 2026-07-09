@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-09T08:35:27Z",
+  "updated_at": "2026-07-09T11:30:31Z",
   "stats": {
-    "total": 215,
-    "avg_price": 2973,
+    "total": 214,
+    "avg_price": 2981,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -70,27 +70,6 @@
       "price_history": [
         {
           "price": 100,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 710n",
-      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
-      "price_min": 105,
-      "price_max": 280,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11",
-        "м. Вінниця, вул. Героїв Нацгвардії, 44"
-      ],
-      "offers": 2,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 105,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -268,6 +247,31 @@
         {
           "price": 280,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 710n",
+      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
+      "price_min": 280,
+      "price_max": 280,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Кам`янецька, 11",
+        "м. Вінниця, вул. Героїв Нацгвардії, 44"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T22:37:11Z",
+      "price_history": [
+        {
+          "price": 105,
+          "at": "2026-07-02T22:37:11Z"
+        },
+        {
+          "price": 280,
+          "at": "2026-07-09T11:29:13Z"
         }
       ],
       "category": "Монітори",
@@ -1945,24 +1949,6 @@
         {
           "price": 1200,
           "at": "2026-07-05T16:34:33Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Aoc e2470swh",
-      "url": "https://tehnoskarb.ua/montor-aoc-e2470swh/m5179031",
-      "price_min": 1290,
-      "price_max": 1290,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 1290,
-          "at": "2026-07-02T22:37:11Z"
         }
       ],
       "category": "Монітори",
@@ -4378,24 +4364,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg e2340t",
-      "url": "https://tehnoskarb.ua/montor-lg-e2340t/m5153461",
-      "price": 760,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Tft панель Delta Electronics dop-b05s111",
-      "url": "https://tehnoskarb.ua/tft-panel-operatora-delta-electronics-dop-b05s111/m5152927",
-      "price": 2110,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Asus tuf gaming vg27vqm",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
       "price": 6360,
@@ -6190,6 +6158,25 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-07-09T08:35:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc e2470swh",
+      "url": "https://tehnoskarb.ua/montor-aoc-e2470swh/m5179031",
+      "price": 1290,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-07-09T11:29:13Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung 710n",
+      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
+      "price_old": 105,
+      "price_new": 280,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-09T11:29:13Z"
     }
   ],
   "config": {
