@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-09T14:08:22Z",
+  "updated_at": "2026-07-09T17:01:45Z",
   "stats": {
-    "total": 213,
-    "avg_price": 2983,
+    "total": 212,
+    "avg_price": 2918,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -4102,18 +4102,22 @@
     {
       "name": "Монітор Samsung odyssey g5 c34g55tw",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
-      "price_min": 9670,
+      "price_min": 8980,
       "price_max": 9670,
       "city": "Ужгород",
       "addresses": [
         "м. Ужгород, вул. Мукачівська, 2"
       ],
-      "offers": 1,
+      "offers": 3,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
           "price": 9670,
           "at": "2026-07-02T22:37:11Z"
+        },
+        {
+          "price": 8980,
+          "at": "2026-07-09T17:01:32Z"
         }
       ],
       "category": "Монітори",
@@ -4285,26 +4289,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp z27xs g3",
-      "url": "https://tehnoskarb.ua/montor-hp-z27xs-g3/m5171605",
-      "price_min": 16060,
-      "price_max": 16060,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 16060,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus rog strix xg27acdng",
       "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acdng/m5180106",
       "price_min": 27430,
@@ -4344,24 +4328,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Hp nk570a",
-      "url": "https://tehnoskarb.ua/montor-hp-nk570a/m5151542",
-      "price": 460,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 961bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-961bw/m5149374",
-      "price": 760,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung 204b",
@@ -6159,6 +6125,25 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-07-09T14:08:14Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp z27xs g3",
+      "url": "https://tehnoskarb.ua/montor-hp-z27xs-g3/m5171605",
+      "price": 16060,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-09T17:01:32Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung odyssey g5 c34g55tw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
+      "price_old": 9670,
+      "price_new": 8980,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-07-09T17:01:32Z"
     }
   ],
   "config": {
