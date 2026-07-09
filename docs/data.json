@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-09T11:30:31Z",
+  "updated_at": "2026-07-09T14:08:22Z",
   "stats": {
-    "total": 214,
-    "avg_price": 2981,
+    "total": 213,
+    "avg_price": 2983,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2828,24 +2828,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Acer sa242yp1bip",
-      "url": "https://tehnoskarb.ua/montor-acer-sa242yp1bip/m5177542",
-      "price_min": 2720,
-      "price_max": 2720,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 2720,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
       "price_min": 2770,
@@ -4362,15 +4344,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg27vqm",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
-      "price": 6360,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hp nk570a",
@@ -6177,6 +6150,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-07-09T11:29:13Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer sa242yp1bip",
+      "url": "https://tehnoskarb.ua/montor-acer-sa242yp1bip/m5177542",
+      "price": 2720,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-07-09T14:08:14Z"
     }
   ],
   "config": {
