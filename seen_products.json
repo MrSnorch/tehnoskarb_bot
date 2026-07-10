@@ -1438,8 +1438,8 @@
   },
   "https://tehnoskarb.ua/montor-msi-optix-g27c4-e3/m5165161": {
     "name": "Монітор Msi optix g27c4 e3",
-    "price_min": 6300,
-    "price_max": 6300,
+    "price_min": 5700,
+    "price_max": 5700,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Воскресенський, 34/2"
@@ -1452,6 +1452,10 @@
       {
         "price": 6300,
         "at": "2026-07-02T22:37:11Z"
+      },
+      {
+        "price": 5700,
+        "at": "2026-07-10T08:25:04Z"
       }
     ],
     "details_failures": 0,
@@ -2606,26 +2610,6 @@
     "details_last_attempt": "2026-07-10T04:34:06Z",
     "details_retry_at": "2026-07-10T10:34:06Z"
   },
-  "https://tehnoskarb.ua/montor-asus-vg249q1/m5114747": {
-    "name": "Монітор Asus vg249q1",
-    "price_min": 3800,
-    "price_max": 3800,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 3800,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 26,
-    "details_last_attempt": "2026-07-10T04:34:06Z",
-    "details_retry_at": "2026-07-10T10:34:06Z"
-  },
   "https://tehnoskarb.ua/montor-lg-e2040st/m5112294": {
     "name": "Монітор Lg e2040st",
     "price_min": 560,
@@ -3048,8 +3032,8 @@
   },
   "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136": {
     "name": "Монітор Samsung smart m7",
-    "price_min": 8600,
-    "price_max": 8600,
+    "price_min": 7800,
+    "price_max": 7800,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Бажана, 3В (м. Харківська)"
@@ -3062,6 +3046,10 @@
       {
         "price": 8600,
         "at": "2026-07-02T22:37:11Z"
+      },
+      {
+        "price": 7800,
+        "at": "2026-07-10T08:25:04Z"
       }
     ],
     "details_failures": 0,
@@ -4039,9 +4027,9 @@
         "at": "2026-07-05T16:34:33Z"
       }
     ],
-    "details_failures": 17,
-    "details_last_attempt": "2026-07-10T00:07:17Z",
-    "details_retry_at": "2026-07-10T06:07:17Z"
+    "details_failures": 18,
+    "details_last_attempt": "2026-07-10T08:25:04Z",
+    "details_retry_at": "2026-07-10T14:25:04Z"
   },
   "https://tehnoskarb.ua/nastlnijj-montor-acer-x193w/m5181267": {
     "name": "Монітор Acer x193w",
@@ -4257,27 +4245,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-07T16:32:57Z"
   },
-  "https://tehnoskarb.ua/montor-aoc-215lm00056/m5152680": {
-    "name": "Монітор Aoc 215lm00056",
-    "price_min": 690,
-    "price_max": 690,
-    "city": "Запоріжжя",
-    "addresses": [
-      "м. Запоріжжя, просп. Соборний, 224"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-07T19:03:50Z",
-    "price_history": [
-      {
-        "price": 690,
-        "at": "2026-07-07T19:03:50Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-07T19:03:50Z"
-  },
   "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982": {
     "name": "Монітор Philips 27e1n1900ae/00",
     "price_min": 3910,
@@ -4403,27 +4370,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-08T21:10:13Z"
-  },
-  "https://tehnoskarb.ua/montor-acer-ka242ygbi/m5181858": {
-    "name": "Монітор Acer ka242ygbi",
-    "price_min": 2060,
-    "price_max": 2060,
-    "city": "Львів",
-    "addresses": [
-      "м. Львів, вул. Промислова, 50/52"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-09T04:36:09Z",
-    "price_history": [
-      {
-        "price": 2060,
-        "at": "2026-07-09T04:36:09Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-09T04:36:09Z"
   },
   "https://tehnoskarb.ua/montor-gigabyte-g25f2/m5181848": {
     "name": "Монітор Gigabyte g25f2",
@@ -4695,5 +4641,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-10T04:34:06Z"
+  },
+  "https://tehnoskarb.ua/montor-aoc-215lm00041/m5182119": {
+    "name": "Монітор Aoc 215lm00041",
+    "price_min": 1100,
+    "price_max": 1100,
+    "city": "Запоріжжя",
+    "addresses": [
+      "м. Запоріжжя, просп. Соборний, 224"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-10T08:25:04Z",
+    "price_history": [
+      {
+        "price": 1100,
+        "at": "2026-07-10T08:25:04Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-10T08:25:04Z"
   }
 }
