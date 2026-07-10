@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-10T11:27:37Z",
+  "updated_at": "2026-07-10T13:28:17Z",
   "stats": {
-    "total": 216,
-    "avg_price": 2886,
+    "total": 213,
+    "avg_price": 2871,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -12,7 +12,6 @@
       "Бориспіль",
       "Бровари",
       "Біла Церква",
-      "Вишгород",
       "Вишневе",
       "Вінниця",
       "Дрогобич",
@@ -31,7 +30,6 @@
       "Луцьк",
       "Львів",
       "Миколаїв",
-      "Миргород",
       "Могилів-Подільський",
       "Новий Розділ",
       "Ніжин",
@@ -2405,26 +2403,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus vp249hr",
-      "url": "https://tehnoskarb.ua/montor-asus-vp249hr/m5111111",
-      "price_min": 2070,
-      "price_max": 2070,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Гришка 6а"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 2070,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Dell p2414h",
       "url": "https://tehnoskarb.ua/montor-dell-p2414h/m5051920",
       "price_min": 2100,
@@ -3450,26 +3428,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Aoc 24g4x",
-      "url": "https://tehnoskarb.ua/montor-aoc-24g4x/m5140719",
-      "price_min": 4460,
-      "price_max": 4460,
-      "city": "Вишгород",
-      "addresses": [
-        "м. Вишгород, просп. Мазепи, 5"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 4460,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Philips 272e1c",
       "url": "https://tehnoskarb.ua/montor-philips-272e1c/m5167752",
       "price_min": 4500,
@@ -3722,26 +3680,6 @@
       "price_history": [
         {
           "price": 5250,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung c27rg50fh",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
-      "price_min": 5260,
-      "price_max": 5260,
-      "city": "Миргород",
-      "addresses": [
-        "м. Миргород, вул. Гоголя, 115"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 5260,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -4414,33 +4352,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vh222",
-      "url": "https://tehnoskarb.ua/montor-asus-vh222/m5136501",
-      "price": 1080,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Benq ex240n",
-      "url": "https://tehnoskarb.ua/montor-benq-ex240n/m5134563",
-      "price": 3000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
-      "price": 2770,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lenovo thinkvision t2054pc",
@@ -6233,6 +6144,33 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-07-10T11:26:10Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung c27rg50fh",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
+      "price": 5260,
+      "city": "Миргород",
+      "category": "Монітори",
+      "at": "2026-07-10T13:28:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc 24g4x",
+      "url": "https://tehnoskarb.ua/montor-aoc-24g4x/m5140719",
+      "price": 4460,
+      "city": "Вишгород",
+      "category": "Монітори",
+      "at": "2026-07-10T13:28:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vp249hr",
+      "url": "https://tehnoskarb.ua/montor-asus-vp249hr/m5111111",
+      "price": 2070,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-10T13:28:05Z"
     }
   ],
   "config": {
