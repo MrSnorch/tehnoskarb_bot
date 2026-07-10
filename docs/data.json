@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-10T15:57:55Z",
+  "updated_at": "2026-07-10T17:55:10Z",
   "stats": {
-    "total": 213,
-    "avg_price": 2871,
+    "total": 214,
+    "avg_price": 2866,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2403,6 +2403,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus vp249hr",
+      "url": "https://tehnoskarb.ua/montor-asus-vp249hr/m5111111",
+      "price_min": 2070,
+      "price_max": 2070,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Гришка 6а"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-10T17:53:52Z",
+      "price_history": [
+        {
+          "price": 2070,
+          "at": "2026-07-10T17:53:52Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell p2414h",
       "url": "https://tehnoskarb.ua/montor-dell-p2414h/m5051920",
       "price_min": 2100,
@@ -2475,6 +2495,26 @@
         {
           "price": 2220,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung ls24d300gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gai/m5182092",
+      "price_min": 2260,
+      "price_max": 2260,
+      "city": "Миколаїв",
+      "addresses": [
+        "м. Миколаїв, просп. Богоявленський, 20/9"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-10T17:53:52Z",
+      "price_history": [
+        {
+          "price": 2260,
+          "at": "2026-07-10T17:53:52Z"
         }
       ],
       "category": "Монітори",
@@ -2735,26 +2775,6 @@
         {
           "price": 2600,
           "at": "2026-07-05T18:05:35Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer b246hyl",
-      "url": "https://tehnoskarb.ua/montor-acer-b246hyl/m5181698",
-      "price_min": 2600,
-      "price_max": 2600,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Промислова, 50/52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-08T19:36:15Z",
-      "price_history": [
-        {
-          "price": 2600,
-          "at": "2026-07-08T19:36:15Z"
         }
       ],
       "category": "Монітори",
@@ -4352,33 +4372,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lenovo thinkvision t2054pc",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2054pc/m5134008",
-      "price": 1030,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung viewfinity s9 5k",
-      "url": "https://tehnoskarb.ua/montor-samsung-viewfinity-s9-5k/m5133461",
-      "price": 35440,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s22d300",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194",
-      "price": 1485,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Benq gw2283",
@@ -6171,6 +6164,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-10T13:28:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer b246hyl",
+      "url": "https://tehnoskarb.ua/montor-acer-b246hyl/m5181698",
+      "price": 2600,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-10T17:53:52Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung ls24d300gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gai/m5182092",
+      "price": 2260,
+      "city": "Миколаїв",
+      "category": "Монітори",
+      "at": "2026-07-10T17:53:52Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vp249hr",
+      "url": "https://tehnoskarb.ua/montor-asus-vp249hr/m5111111",
+      "price": 2070,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-10T17:53:52Z"
     }
   ],
   "config": {
