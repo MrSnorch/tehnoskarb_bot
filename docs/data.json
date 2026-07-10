@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-10T17:55:10Z",
+  "updated_at": "2026-07-10T19:37:00Z",
   "stats": {
-    "total": 214,
-    "avg_price": 2866,
+    "total": 213,
+    "avg_price": 2875,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1525,26 +1525,6 @@
         {
           "price": 820,
           "at": "2026-07-10T11:26:10Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s23b450t",
-      "url": "https://tehnoskarb.ua/montor-samsung-s23b450t/m5178691",
-      "price_min": 840,
-      "price_max": 840,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, вул. Коновальця, 147/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 840,
-          "at": "2026-07-02T22:37:11Z"
         }
       ],
       "category": "Монітори",
@@ -4374,15 +4354,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Benq gw2283",
-      "url": "https://tehnoskarb.ua/montor-benq-gw2283/m5131752",
-      "price": 2205,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung odyssey g5 ls27cg550",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
       "price": 5830,
@@ -6191,6 +6162,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-10T17:53:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s23b450t",
+      "url": "https://tehnoskarb.ua/montor-samsung-s23b450t/m5178691",
+      "price": 840,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-07-10T19:36:51Z"
     }
   ],
   "config": {
