@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-10T00:07:25Z",
+  "updated_at": "2026-07-10T04:35:19Z",
   "stats": {
-    "total": 219,
-    "avg_price": 2910,
+    "total": 221,
+    "avg_price": 2890,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -856,6 +856,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Eizo flexscan ev2316w",
+      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2316w/m5143535",
+      "price_min": 450,
+      "price_max": 450,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Чоколовський, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-10T04:34:06Z",
+      "price_history": [
+        {
+          "price": 450,
+          "at": "2026-07-10T04:34:06Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Hp nk570a",
       "url": "https://tehnoskarb.ua/montor-hp-nk570a/m5151542",
       "price_min": 460,
@@ -1569,6 +1589,26 @@
         {
           "price": 840,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Hp zr22w",
+      "url": "https://tehnoskarb.ua/montor-hp-zr22w/m5182062",
+      "price_min": 850,
+      "price_max": 850,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Бажана, 3В (м. Харківська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-10T04:34:06Z",
+      "price_history": [
+        {
+          "price": 850,
+          "at": "2026-07-10T04:34:06Z"
         }
       ],
       "category": "Монітори",
@@ -4468,24 +4508,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg 22mk600m",
-      "url": "https://tehnoskarb.ua/montor-lg-22mk600m/m5145581",
-      "price": 2400,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s24f320gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24f320gai/m5144447",
-      "price": 2500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg w1942s",
       "url": "https://tehnoskarb.ua/montor-lg-w1942s/m5144273",
       "price": 650,
@@ -6282,6 +6304,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-07-09T19:08:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp zr22w",
+      "url": "https://tehnoskarb.ua/montor-hp-zr22w/m5182062",
+      "price": 850,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-10T04:34:06Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Eizo flexscan ev2316w",
+      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2316w/m5143535",
+      "price": 450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-10T04:34:06Z"
     }
   ],
   "config": {
