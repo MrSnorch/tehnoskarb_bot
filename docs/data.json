@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-11T17:00:47Z",
+  "updated_at": "2026-07-11T18:27:06Z",
   "stats": {
-    "total": 205,
-    "avg_price": 2910,
+    "total": 206,
+    "avg_price": 2899,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1284,6 +1284,26 @@
         {
           "price": 660,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung b2240w",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2240w/m5057742",
+      "price_min": 680,
+      "price_max": 680,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-11T18:26:57Z",
+      "price_history": [
+        {
+          "price": 680,
+          "at": "2026-07-11T18:26:57Z"
         }
       ],
       "category": "Монітори",
@@ -4202,15 +4222,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung s24d300h",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24d300h/m5087613",
-      "price": 1490,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Msi pro mp251",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
       "price": 3350,
@@ -6021,6 +6032,15 @@
       "city": "Золочів",
       "category": "Монітори",
       "at": "2026-07-11T17:00:39Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung b2240w",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2240w/m5057742",
+      "price": 680,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-07-11T18:26:57Z"
     }
   ],
   "config": {
