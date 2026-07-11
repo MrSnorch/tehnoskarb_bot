@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-11T09:58:54Z",
+  "updated_at": "2026-07-11T11:13:56Z",
   "stats": {
-    "total": 210,
-    "avg_price": 2889,
+    "total": 208,
+    "avg_price": 2904,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -23,7 +23,6 @@
       "Київ",
       "Конотоп",
       "Коростень",
-      "Кременчук",
       "Кривий Ріг",
       "Кропивницький",
       "Лозова",
@@ -1345,26 +1344,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Iiyama prolite e2407hds",
-      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167",
-      "price_min": 700,
-      "price_max": 700,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-10T11:26:10Z",
-      "price_history": [
-        {
-          "price": 700,
-          "at": "2026-07-10T11:26:10Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung ls20b3u",
       "url": "https://tehnoskarb.ua/montor-samsung-ls20b3u/m5171325",
       "price_min": 730,
@@ -1570,26 +1549,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg flatron e2241t-bn",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2241t-bn/m5177084",
-      "price_min": 900,
-      "price_max": 900,
-      "city": "Біла Церква",
-      "addresses": [
-        "м. Біла Церква, вул. О.Гончара, 1А/42А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 900,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vw223b",
       "url": "https://tehnoskarb.ua/montor-asus-vw223b/m5176386",
       "price_min": 900,
@@ -1722,6 +1681,26 @@
         {
           "price": 980,
           "at": "2026-07-09T19:08:03Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg 23ea53tp",
+      "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
+      "price_min": 1000,
+      "price_max": 1000,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, вул. Корольова, 80"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-11T11:13:41Z",
+      "price_history": [
+        {
+          "price": 1000,
+          "at": "2026-07-11T11:13:41Z"
         }
       ],
       "category": "Монітори",
@@ -2368,26 +2347,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell p2414h",
-      "url": "https://tehnoskarb.ua/montor-dell-p2414h/m5051920",
-      "price_min": 2100,
-      "price_max": 2100,
-      "city": "Кременчук",
-      "addresses": [
-        "м. Кременчук, вул. Покровська, 15/34"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 2100,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung lf22t350f",
       "url": "https://tehnoskarb.ua/montor-samsung-lf22t350f/m5139636",
       "price_min": 2170,
@@ -2927,12 +2886,12 @@
       "name": "Монітор Msi pro mp251",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
       "price_min": 3020,
-      "price_max": 3350,
+      "price_max": 3020,
       "city": "Кропивницький",
       "addresses": [
         "м. Кропивницький, вул. В. Перспективна, 18/14"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -4297,42 +4256,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi optix g2412f",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g2412f/m5103531",
-      "price": 10001,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s24f350fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24f350fhi/m5102117",
-      "price": 1890,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung gh17ls",
-      "url": "https://tehnoskarb.ua/montor-samsung-gh17ls/m5098840",
-      "price": 170,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s19a100n",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19a100n/m5098815",
-      "price": 315,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi mag 275qf",
@@ -6117,6 +6040,42 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-11T09:58:43Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg flatron e2241t-bn",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2241t-bn/m5177084",
+      "price": 900,
+      "city": "Біла Церква",
+      "category": "Монітори",
+      "at": "2026-07-11T11:13:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell p2414h",
+      "url": "https://tehnoskarb.ua/montor-dell-p2414h/m5051920",
+      "price": 2100,
+      "city": "Кременчук",
+      "category": "Монітори",
+      "at": "2026-07-11T11:13:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Iiyama prolite e2407hds",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167",
+      "price": 700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-11T11:13:41Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 23ea53tp",
+      "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
+      "price": 1000,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-07-11T11:13:41Z"
     }
   ],
   "config": {

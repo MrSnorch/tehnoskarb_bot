@@ -523,27 +523,6 @@
     "details_last_attempt": "2026-07-11T06:16:39Z",
     "details_retry_at": "2026-07-11T12:16:39Z"
   },
-  "https://tehnoskarb.ua/montor-lg-flatron-e2241t-bn/m5177084": {
-    "name": "Монітор Lg flatron e2241t-bn",
-    "price_min": 900,
-    "price_max": 900,
-    "city": "Біла Церква",
-    "addresses": [
-      "м. Біла Церква, вул. О.Гончара, 1А/42А"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 900,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
-  },
   "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106": {
     "name": "Монітор Asus vu249cfe-b",
     "price_min": 6480,
@@ -2592,12 +2571,12 @@
   "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236": {
     "name": "Монітор Msi pro mp251",
     "price_min": 3020,
-    "price_max": 3350,
+    "price_max": 3020,
     "city": "Кропивницький",
     "addresses": [
       "м. Кропивницький, вул. В. Перспективна, 18/14"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -3061,27 +3040,6 @@
     "price_history": [
       {
         "price": 1290,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
-  },
-  "https://tehnoskarb.ua/montor-dell-p2414h/m5051920": {
-    "name": "Монітор Dell p2414h",
-    "price_min": 2100,
-    "price_max": 2100,
-    "city": "Кременчук",
-    "addresses": [
-      "м. Кременчук, вул. Покровська, 15/34"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 2100,
         "at": "2026-07-02T22:37:11Z"
       }
     ],
@@ -4307,27 +4265,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-10T08:25:04Z"
   },
-  "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167": {
-    "name": "Монітор Iiyama prolite e2407hds",
-    "price_min": 700,
-    "price_max": 700,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-10T11:26:10Z",
-    "price_history": [
-      {
-        "price": 700,
-        "at": "2026-07-10T11:26:10Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-10T11:26:10Z"
-  },
   "https://tehnoskarb.ua/montor-hp-n223/m5108257": {
     "name": "Монітор Hp n223",
     "price_min": 820,
@@ -4477,5 +4414,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-11T09:58:43Z"
+  },
+  "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523": {
+    "name": "Монітор Lg 23ea53tp",
+    "price_min": 1000,
+    "price_max": 1000,
+    "city": "Одеса",
+    "addresses": [
+      "м. Одеса, вул. Корольова, 80"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-11T11:13:41Z",
+    "price_history": [
+      {
+        "price": 1000,
+        "at": "2026-07-11T11:13:41Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-11T11:13:41Z"
   }
 }
