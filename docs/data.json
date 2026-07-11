@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-11T14:03:37Z",
+  "updated_at": "2026-07-11T15:30:56Z",
   "stats": {
-    "total": 208,
-    "avg_price": 2904,
+    "total": 206,
+    "avg_price": 2897,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2802,26 +2802,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Chiq 27f690",
-      "url": "https://tehnoskarb.ua/montor-chiq-27f690/m5181091",
-      "price_min": 2900,
-      "price_max": 2900,
-      "city": "Калуш",
-      "addresses": [
-        "м. Калуш, вул. Богдана Хмельницького, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-05T19:51:13Z",
-      "price_history": [
-        {
-          "price": 2900,
-          "at": "2026-07-05T19:51:13Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi g2412",
       "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
       "price_min": 2970,
@@ -3285,26 +3265,6 @@
       "price_history": [
         {
           "price": 4050,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Xiaomi mi desktop monitor 27 bhr4975eu",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-desktop-monitor-27-bhr4975eu/m5179988",
-      "price_min": 4380,
-      "price_max": 4380,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Промислова, 50/52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 4380,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -4256,24 +4216,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi mag 275qf",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
-      "price": 5610,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s22a300n",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22a300n/m5091704",
-      "price": 880,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi g255f",
@@ -6076,6 +6018,24 @@
       "city": "Одеса",
       "category": "Монітори",
       "at": "2026-07-11T11:13:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Xiaomi mi desktop monitor 27 bhr4975eu",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-desktop-monitor-27-bhr4975eu/m5179988",
+      "price": 4380,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-11T15:30:48Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Chiq 27f690",
+      "url": "https://tehnoskarb.ua/montor-chiq-27f690/m5181091",
+      "price": 2900,
+      "city": "Калуш",
+      "category": "Монітори",
+      "at": "2026-07-11T15:30:48Z"
     }
   ],
   "config": {
