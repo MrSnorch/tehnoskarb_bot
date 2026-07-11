@@ -741,27 +741,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-03T00:08:52Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-gs19eeee/m5174651": {
-    "name": "Монітор Samsung gs19eeee",
-    "price_min": 340,
-    "price_max": 340,
-    "city": "Ужгород",
-    "addresses": [
-      "м. Ужгород, вул. Мукачівська, 2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 340,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-s19a300/m5174337": {
     "name": "Монітор Samsung s19a300",
     "price_min": 1100,
@@ -2250,7 +2229,7 @@
   },
   "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297": {
     "name": "Монітор Lg w1943ss",
-    "price_min": 400,
+    "price_min": 495,
     "price_max": 500,
     "city": "Золочів",
     "addresses": [
@@ -2259,7 +2238,7 @@
       "м. Житомир, вул. Довженко, 44",
       "м. Кропивницький, вул. В. Перспективна, 18/14"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -2267,6 +2246,10 @@
       {
         "price": 400,
         "at": "2026-07-02T22:37:11Z"
+      },
+      {
+        "price": 495,
+        "at": "2026-07-11T17:00:39Z"
       }
     ],
     "details_failures": 0,

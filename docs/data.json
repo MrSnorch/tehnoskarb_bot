@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-11T15:30:56Z",
+  "updated_at": "2026-07-11T17:00:47Z",
   "stats": {
-    "total": 206,
-    "avg_price": 2897,
+    "total": 205,
+    "avg_price": 2910,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -470,26 +470,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung gs19eeee",
-      "url": "https://tehnoskarb.ua/montor-samsung-gs19eeee/m5174651",
-      "price_min": 340,
-      "price_max": 340,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Мукачівська, 2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 340,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg l206wtq",
       "url": "https://tehnoskarb.ua/montor-lg-l206wtq/m5178437",
       "price_min": 350,
@@ -688,29 +668,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg w1943ss",
-      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
-      "price_min": 400,
-      "price_max": 500,
-      "city": "Золочів",
-      "addresses": [
-        "м. Золочів, вул. Шашкевича, 4",
-        "м. Івано-Франківськ, вул. Василя Стуса, 17А",
-        "м. Житомир, вул. Довженко, 44",
-        "м. Кропивницький, вул. В. Перспективна, 18/14"
-      ],
-      "offers": 3,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 400,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung 943nw",
       "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
       "price_min": 400,
@@ -846,6 +803,33 @@
         {
           "price": 460,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg w1943ss",
+      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
+      "price_min": 495,
+      "price_max": 500,
+      "city": "Золочів",
+      "addresses": [
+        "м. Золочів, вул. Шашкевича, 4",
+        "м. Івано-Франківськ, вул. Василя Стуса, 17А",
+        "м. Житомир, вул. Довженко, 44",
+        "м. Кропивницький, вул. В. Перспективна, 18/14"
+      ],
+      "offers": 2,
+      "first_seen": "2026-07-02T22:37:11Z",
+      "price_history": [
+        {
+          "price": 400,
+          "at": "2026-07-02T22:37:11Z"
+        },
+        {
+          "price": 495,
+          "at": "2026-07-11T17:00:39Z"
         }
       ],
       "category": "Монітори",
@@ -4218,24 +4202,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Msi g255f",
-      "url": "https://tehnoskarb.ua/montor-msi-g255f/m5091244",
-      "price": 4050,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 220e1sb",
-      "url": "https://tehnoskarb.ua/montor-philips-220e1sb/m5089110",
-      "price": 790,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s24d300h",
       "url": "https://tehnoskarb.ua/montor-samsung-s24d300h/m5087613",
       "price": 1490,
@@ -6036,6 +6002,25 @@
       "city": "Калуш",
       "category": "Монітори",
       "at": "2026-07-11T15:30:48Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung gs19eeee",
+      "url": "https://tehnoskarb.ua/montor-samsung-gs19eeee/m5174651",
+      "price": 340,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-07-11T17:00:39Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Lg w1943ss",
+      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
+      "price_old": 400,
+      "price_new": 495,
+      "city": "Золочів",
+      "category": "Монітори",
+      "at": "2026-07-11T17:00:39Z"
     }
   ],
   "config": {
