@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-12T06:35:40Z",
+  "updated_at": "2026-07-12T09:04:19Z",
   "stats": {
-    "total": 205,
-    "avg_price": 2910,
+    "total": 204,
+    "avg_price": 2921,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2246,30 +2246,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Tft панель Delta Electronics dop-b05s111",
-      "url": "https://tehnoskarb.ua/tft-panel-operatora-delta-electronics-dop-b05s111/m5152927",
-      "price_min": 1900,
-      "price_max": 1900,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, вул. Дудинської, 1-А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 2110,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 1900,
-          "at": "2026-07-08T11:23:01Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 22mp58d-p",
       "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
       "price_min": 1970,
@@ -3335,27 +3311,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Eizo flexscan ev2430",
-      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
-      "price_min": 4570,
-      "price_max": 6390,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, вул. Отакара Яроша, 23",
-        "м. Харків, вул. Дудинської, 1-А"
-      ],
-      "offers": 6,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 4570,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi pro mp273",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp273/m5065045",
       "price_min": 4790,
@@ -3596,6 +3551,31 @@
         {
           "price": 5700,
           "at": "2026-07-10T08:25:04Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Eizo flexscan ev2430",
+      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
+      "price_min": 5760,
+      "price_max": 6390,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, вул. Отакара Яроша, 23",
+        "м. Харків, вул. Дудинської, 1-А"
+      ],
+      "offers": 4,
+      "first_seen": "2026-07-02T22:37:11Z",
+      "price_history": [
+        {
+          "price": 4570,
+          "at": "2026-07-02T22:37:11Z"
+        },
+        {
+          "price": 5760,
+          "at": "2026-07-12T09:04:08Z"
         }
       ],
       "category": "Монітори",
@@ -4199,24 +4179,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg 24mp59g-p",
-      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
-      "price": 2400,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 196v3l",
-      "url": "https://tehnoskarb.ua/montor-philips-196v3l/m5081628",
-      "price": 660,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Acer v226hql",
@@ -6020,6 +5982,25 @@
       "city": "Ромни",
       "category": "Монітори",
       "at": "2026-07-12T06:35:33Z"
+    },
+    {
+      "type": "sold",
+      "name": "Tft панель Delta Electronics dop-b05s111",
+      "url": "https://tehnoskarb.ua/tft-panel-operatora-delta-electronics-dop-b05s111/m5152927",
+      "price": 1900,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-07-12T09:04:08Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Eizo flexscan ev2430",
+      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
+      "price_old": 4570,
+      "price_new": 5760,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-07-12T09:04:08Z"
     }
   ],
   "config": {
