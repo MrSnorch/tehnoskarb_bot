@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-12T09:04:19Z",
+  "updated_at": "2026-07-12T10:55:09Z",
   "stats": {
-    "total": 204,
-    "avg_price": 2921,
+    "total": 203,
+    "avg_price": 2933,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1028,26 +1028,6 @@
         {
           "price": 550,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 2223nw",
-      "url": "https://tehnoskarb.ua/montor-samsung-2223nw/m5045817",
-      "price_min": 550,
-      "price_max": 550,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Ревуцького, 12/1"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-03T04:25:41Z",
-      "price_history": [
-        {
-          "price": 550,
-          "at": "2026-07-03T04:25:41Z"
         }
       ],
       "category": "Монітори",
@@ -4181,15 +4161,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Acer v226hql",
-      "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
-      "price": 950,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg e1942c",
       "url": "https://tehnoskarb.ua/montor-lg-e1942c/m5076612",
       "price": 690,
@@ -6001,6 +5972,15 @@
       "city": "Харків",
       "category": "Монітори",
       "at": "2026-07-12T09:04:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 2223nw",
+      "url": "https://tehnoskarb.ua/montor-samsung-2223nw/m5045817",
+      "price": 550,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-12T10:53:54Z"
     }
   ],
   "config": {
