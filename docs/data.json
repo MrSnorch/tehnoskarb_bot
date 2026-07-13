@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-13T13:27:19Z",
+  "updated_at": "2026-07-13T16:04:50Z",
   "stats": {
-    "total": 204,
-    "avg_price": 2868,
+    "total": 203,
+    "avg_price": 2853,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -3610,26 +3610,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Gigabyte gs27q",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27q/m5055580",
-      "price_min": 5960,
-      "price_max": 5960,
-      "city": "Лозова",
-      "addresses": [
-        "м. Лозова, вул. Соборна, 7"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 5960,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 32qn600-b",
       "url": "https://tehnoskarb.ua/montor-lg-32qn600-b/m5179869",
       "price_min": 6000,
@@ -4187,15 +4167,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg w2043s",
-      "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
-      "price": 690,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s19f350h",
@@ -6013,6 +5984,15 @@
       "city": "Харків",
       "category": "Монітори",
       "at": "2026-07-13T13:25:56Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Gigabyte gs27q",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27q/m5055580",
+      "price": 5960,
+      "city": "Лозова",
+      "category": "Монітори",
+      "at": "2026-07-13T16:04:43Z"
     }
   ],
   "config": {
