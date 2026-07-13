@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-13T03:46:24Z",
+  "updated_at": "2026-07-13T06:57:14Z",
   "stats": {
-    "total": 205,
+    "total": 203,
     "avg_price": 2880,
     "min_price": 100,
     "max_price": 35440,
@@ -2496,26 +2496,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix mag241c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
-      "price_min": 2401,
-      "price_max": 2401,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 2401,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Xiaomi monitor a24i",
       "url": "https://tehnoskarb.ua/montor-xiaomi-monitor-a24i/m5154283",
       "price_min": 2430,
@@ -2995,26 +2975,6 @@
         {
           "price": 3260,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Benq zowie xl2411p",
-      "url": "https://tehnoskarb.ua/montor-benq-zowie-xl2411p/m5147920",
-      "price_min": 3300,
-      "price_max": 3300,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Миру, 2/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-03T04:25:41Z",
-      "price_history": [
-        {
-          "price": 3300,
-          "at": "2026-07-03T04:25:41Z"
         }
       ],
       "category": "Монітори",
@@ -4206,24 +4166,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 223v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
-      "price": 700,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg27aqa1a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqa1a/m5058821",
-      "price": 6890,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Dell s2421hn",
@@ -6031,6 +5973,24 @@
       "city": "Харків",
       "category": "Монітори",
       "at": "2026-07-12T18:27:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix mag241c",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
+      "price": 2401,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-13T06:56:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq zowie xl2411p",
+      "url": "https://tehnoskarb.ua/montor-benq-zowie-xl2411p/m5147920",
+      "price": 3300,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-13T06:56:05Z"
     }
   ],
   "config": {
