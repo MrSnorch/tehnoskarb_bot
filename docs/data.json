@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-13T16:04:50Z",
+  "updated_at": "2026-07-13T18:17:05Z",
   "stats": {
-    "total": 203,
-    "avg_price": 2853,
+    "total": 205,
+    "avg_price": 2869,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2697,6 +2697,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Anmite a160w03",
+      "url": "https://tehnoskarb.ua/montor-anmite-a160w03/m5182370",
+      "price_min": 2670,
+      "price_max": 2670,
+      "city": "Новий Розділ",
+      "addresses": [
+        "м. Новий Розділ, просп. Тараса Шевченка, 34"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-13T18:16:50Z",
+      "price_history": [
+        {
+          "price": 2670,
+          "at": "2026-07-13T18:16:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung c24f396fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c24f396fhi/m5160256",
       "price_min": 2680,
@@ -3709,6 +3729,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 43sm5b",
+      "url": "https://tehnoskarb.ua/montor-lg-43sm5b/m5182129",
+      "price_min": 6480,
+      "price_max": 6480,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, просп. Тракторобудівників, 108"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-13T18:16:50Z",
+      "price_history": [
+        {
+          "price": 6480,
+          "at": "2026-07-13T18:16:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung odyssey g5 lc27g55t",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-lc27g55t/m5117557",
       "price_min": 6540,
@@ -4167,24 +4207,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung s19f350h",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19f350h/m5054533",
-      "price": 1290,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Dell p2414h",
-      "url": "https://tehnoskarb.ua/montor-dell-p2414h/m5051920",
-      "price": 2100,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg l1717s",
@@ -5993,6 +6015,24 @@
       "city": "Лозова",
       "category": "Монітори",
       "at": "2026-07-13T16:04:43Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Anmite a160w03",
+      "url": "https://tehnoskarb.ua/montor-anmite-a160w03/m5182370",
+      "price": 2670,
+      "city": "Новий Розділ",
+      "category": "Монітори",
+      "at": "2026-07-13T18:16:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 43sm5b",
+      "url": "https://tehnoskarb.ua/montor-lg-43sm5b/m5182129",
+      "price": 6480,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-07-13T18:16:50Z"
     }
   ],
   "config": {
