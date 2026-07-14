@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-14T17:23:51Z",
+  "updated_at": "2026-07-14T18:39:59Z",
   "stats": {
-    "total": 209,
-    "avg_price": 2880,
+    "total": 208,
+    "avg_price": 2892,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -655,26 +655,6 @@
       "city": "Київ",
       "addresses": [
         "м. Київ, просп. Червоної Калини, 60/10"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 400,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vw193d",
-      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
-      "price_min": 400,
-      "price_max": 400,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Воскресенський, 34/2"
       ],
       "offers": 1,
       "first_seen": "2026-07-02T22:37:11Z",
@@ -4293,15 +4273,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg 22mp58d-p",
-      "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
-      "price": 1970,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Msi optix g241v",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g241v/m5012486",
       "price": 3500,
@@ -6118,6 +6089,15 @@
       "city": "Первомайськ",
       "category": "Монітори",
       "at": "2026-07-14T17:22:42Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vw193d",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
+      "price": 400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-14T18:39:53Z"
     }
   ],
   "config": {
