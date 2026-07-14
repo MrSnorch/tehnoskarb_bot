@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-14T12:16:26Z",
+  "updated_at": "2026-07-14T14:24:54Z",
   "stats": {
-    "total": 211,
-    "avg_price": 2870,
+    "total": 210,
+    "avg_price": 2868,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -3063,26 +3063,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Benq zowie xl2411p",
-      "url": "https://tehnoskarb.ua/montor-benq-zowie-xl2411p/m5147920",
-      "price_min": 3300,
-      "price_max": 3300,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Миру, 2/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-14T08:36:23Z",
-      "price_history": [
-        {
-          "price": 3300,
-          "at": "2026-07-14T08:36:23Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор 2E 2e-h2420b",
       "url": "https://tehnoskarb.ua/montor-2e-2e-h2420b/m5176124",
       "price_min": 3500,
@@ -4332,15 +4312,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi g2412",
-      "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
-      "price": 2970,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Acer v193hq",
@@ -6159,6 +6130,15 @@
       "city": "Кропивницький",
       "category": "Монітори",
       "at": "2026-07-14T10:49:24Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq zowie xl2411p",
+      "url": "https://tehnoskarb.ua/montor-benq-zowie-xl2411p/m5147920",
+      "price": 3300,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-14T14:24:47Z"
     }
   ],
   "config": {
