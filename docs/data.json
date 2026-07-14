@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-14T15:57:58Z",
+  "updated_at": "2026-07-14T17:23:51Z",
   "stats": {
-    "total": 210,
-    "avg_price": 2868,
+    "total": 209,
+    "avg_price": 2880,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -35,7 +35,6 @@
       "Могилів-Подільський",
       "Новий Розділ",
       "Одеса",
-      "Первомайськ",
       "Полтава",
       "Рівне",
       "Самбір",
@@ -498,26 +497,6 @@
       "city": "Київ",
       "addresses": [
         "м. Київ, вул. Щербаківського, 45"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 350,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg l1750u",
-      "url": "https://tehnoskarb.ua/montor-lg-l1750u/m5177876",
-      "price_min": 350,
-      "price_max": 350,
-      "city": "Первомайськ",
-      "addresses": [
-        "м. Первомайськ, вул. Коротченка, 3/68"
       ],
       "offers": 1,
       "first_seen": "2026-07-02T22:37:11Z",
@@ -4314,15 +4293,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Acer v193hq",
-      "url": "https://tehnoskarb.ua/montor-acer-v193hq/m5019742",
-      "price": 585,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg 22mp58d-p",
       "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
       "price": 1970,
@@ -6139,6 +6109,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-14T14:24:47Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg l1750u",
+      "url": "https://tehnoskarb.ua/montor-lg-l1750u/m5177876",
+      "price": 350,
+      "city": "Первомайськ",
+      "category": "Монітори",
+      "at": "2026-07-14T17:22:42Z"
     }
   ],
   "config": {
