@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-14T08:36:33Z",
+  "updated_at": "2026-07-14T10:50:36Z",
   "stats": {
-    "total": 212,
-    "avg_price": 2863,
+    "total": 211,
+    "avg_price": 2870,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2126,26 +2126,6 @@
       "price_history": [
         {
           "price": 1485,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s24d300h",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24d300h/m5087613",
-      "price_min": 1490,
-      "price_max": 1490,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Соборна, 3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 1490,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -4354,15 +4334,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg w2042t",
-      "url": "https://tehnoskarb.ua/montor-lg-w2042t/m5026868",
-      "price": 550,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Msi g2412",
       "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
       "price": 2970,
@@ -6179,6 +6150,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-14T08:36:23Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s24d300h",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24d300h/m5087613",
+      "price": 1490,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-07-14T10:49:24Z"
     }
   ],
   "config": {
