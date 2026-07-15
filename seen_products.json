@@ -461,26 +461,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-03T00:08:52Z"
   },
-  "https://tehnoskarb.ua/montor-acer-nitro-vg271upbmiipx/m5177181": {
-    "name": "Монітор Acer nitro vg271upbmiipx",
-    "price_min": 5200,
-    "price_max": 5200,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 5200,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 43,
-    "details_last_attempt": "2026-07-14T23:59:43Z",
-    "details_retry_at": "2026-07-15T05:59:43Z"
-  },
   "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106": {
     "name": "Монітор Asus vu249cfe-b",
     "price_min": 6480,
@@ -2255,12 +2235,12 @@
   "https://tehnoskarb.ua/montor-samsung-s19a100n/m5098815": {
     "name": "Монітор Samsung s19a100n",
     "price_min": 315,
-    "price_max": 343,
+    "price_max": 420,
     "city": "Херсон",
     "addresses": [
       "м. Херсон, вул. І. Кулика, 135"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -4453,13 +4433,13 @@
   },
   "https://tehnoskarb.ua/montor-hp-p244/m5173198": {
     "name": "Монітор Hp p244",
-    "price_min": 2030,
+    "price_min": 1820,
     "price_max": 2030,
     "city": "Полтава",
     "addresses": [
       "м. Полтава, вул. Європейська, 22"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-14T20:14:34Z",
@@ -4467,6 +4447,10 @@
       {
         "price": 2030,
         "at": "2026-07-14T20:14:34Z"
+      },
+      {
+        "price": 1820,
+        "at": "2026-07-15T05:53:31Z"
       }
     ],
     "details_failures": 0,
@@ -4513,5 +4497,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-14T20:14:34Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vs239/m5169186": {
+    "name": "Монітор Asus vs239",
+    "price_min": 1700,
+    "price_max": 1700,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-15T05:53:31Z",
+    "price_history": [
+      {
+        "price": 1700,
+        "at": "2026-07-15T05:53:31Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-15T05:53:31Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-bx2240/m5115317": {
+    "name": "Монітор Samsung bx2240",
+    "price_min": 570,
+    "price_max": 570,
+    "city": "Житомир",
+    "addresses": [
+      "м. Житомир, вул. Вітрука, 33"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-15T05:53:31Z",
+    "price_history": [
+      {
+        "price": 570,
+        "at": "2026-07-15T05:53:31Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-15T05:53:31Z"
   }
 }
