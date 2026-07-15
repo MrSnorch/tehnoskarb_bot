@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-15T16:03:03Z",
+  "updated_at": "2026-07-15T17:47:58Z",
   "stats": {
-    "total": 209,
-    "avg_price": 2854,
+    "total": 208,
+    "avg_price": 2880,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -294,26 +294,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung 940bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-940bw/m4996862",
-      "price_min": 280,
-      "price_max": 280,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Порика Василя, 13"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 280,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg flatron l1953s",
       "url": "https://tehnoskarb.ua/montor-lg-flatron-l1953s/m5087302",
       "price_min": 290,
@@ -584,26 +564,6 @@
         {
           "price": 350,
           "at": "2026-07-08T21:10:13Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg 19en33",
-      "url": "https://tehnoskarb.ua/montor-lg-19en33/m5182644",
-      "price_min": 350,
-      "price_max": 350,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Грушевського, 67"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-14T06:19:44Z",
-      "price_history": [
-        {
-          "price": 350,
-          "at": "2026-07-14T06:19:44Z"
         }
       ],
       "category": "Монітори",
@@ -3021,6 +2981,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus vz27ehe",
+      "url": "https://tehnoskarb.ua/montor-asus-vz27ehe/m5182672",
+      "price_min": 3100,
+      "price_max": 3100,
+      "city": "Бориспіль",
+      "addresses": [
+        "м. Бориспіль, вул. Київський шлях, 47"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-15T17:47:44Z",
+      "price_history": [
+        {
+          "price": 3100,
+          "at": "2026-07-15T17:47:44Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung professional s24c430",
       "url": "https://tehnoskarb.ua/montor-samsung-professional-s24c430/m5154762",
       "price_min": 3150,
@@ -4297,34 +4277,6 @@
     }
   ],
   "events": [
-    {
-      "type": "rise",
-      "name": "Монітор Aoc 27b3ha2",
-      "url": "https://tehnoskarb.ua/montor-aoc-27b3ha2/m5180641",
-      "price_old": 3160,
-      "price_new": 3300,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-07-03T07:46:21Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Philips 241v8l/00",
-      "url": "https://tehnoskarb.ua/montor-philips-241v8l-00/m5167405",
-      "price": 2700,
-      "city": "Ніжин",
-      "category": "Монітори",
-      "at": "2026-07-03T10:39:00Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung s24e391hl",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24e391hl/m5065257",
-      "price": 2430,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-03T10:39:00Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg flatron l1953s",
@@ -6126,6 +6078,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-15T16:02:51Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 940bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-940bw/m4996862",
+      "price": 280,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-15T17:47:44Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 19en33",
+      "url": "https://tehnoskarb.ua/montor-lg-19en33/m5182644",
+      "price": 350,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-07-15T17:47:44Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vz27ehe",
+      "url": "https://tehnoskarb.ua/montor-asus-vz27ehe/m5182672",
+      "price": 3100,
+      "city": "Бориспіль",
+      "category": "Монітори",
+      "at": "2026-07-15T17:47:44Z"
     }
   ],
   "config": {
