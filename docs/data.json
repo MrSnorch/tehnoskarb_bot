@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-15T10:21:17Z",
+  "updated_at": "2026-07-15T12:01:01Z",
   "stats": {
     "total": 211,
-    "avg_price": 2824,
+    "avg_price": 2832,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1539,38 +1539,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg 24mp59g-p",
-      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
-      "price_min": 800,
-      "price_max": 2400,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олени Теліги , 17"
-      ],
-      "offers": 2,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 2400,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 800,
-          "at": "2026-07-12T15:33:26Z"
-        },
-        {
-          "price": 2400,
-          "at": "2026-07-12T18:27:41Z"
-        },
-        {
-          "price": 800,
-          "at": "2026-07-13T13:25:56Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Hp n223",
       "url": "https://tehnoskarb.ua/montor-hp-n223/m5108257",
       "price_min": 820,
@@ -2555,6 +2523,42 @@
         {
           "price": 2400,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg 24mp59g-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
+      "price_min": 2400,
+      "price_max": 2400,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Олени Теліги , 17"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T22:37:11Z",
+      "price_history": [
+        {
+          "price": 2400,
+          "at": "2026-07-02T22:37:11Z"
+        },
+        {
+          "price": 800,
+          "at": "2026-07-12T15:33:26Z"
+        },
+        {
+          "price": 2400,
+          "at": "2026-07-12T18:27:41Z"
+        },
+        {
+          "price": 800,
+          "at": "2026-07-13T13:25:56Z"
+        },
+        {
+          "price": 2400,
+          "at": "2026-07-15T12:00:53Z"
         }
       ],
       "category": "Монітори",
@@ -4337,15 +4341,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Aoc 27b3ha2",
-      "url": "https://tehnoskarb.ua/montor-aoc-27b3ha2/m5180641",
-      "price": 3160,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-07-03T04:25:41Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung odyssey g5 c27g55tqb",
@@ -6165,6 +6160,16 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-15T08:18:22Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Lg 24mp59g-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
+      "price_old": 800,
+      "price_new": 2400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-15T12:00:53Z"
     }
   ],
   "config": {
