@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-15T19:15:46Z",
+  "updated_at": "2026-07-15T20:35:09Z",
   "stats": {
-    "total": 210,
-    "avg_price": 2864,
+    "total": 209,
+    "avg_price": 2859,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -3304,26 +3304,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi g244f-e2",
-      "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
-      "price_min": 3890,
-      "price_max": 3890,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Широка, 70-В"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-06T16:37:18Z",
-      "price_history": [
-        {
-          "price": 3890,
-          "at": "2026-07-06T16:37:18Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Xiaomi gaming monitor g27i",
       "url": "https://tehnoskarb.ua/montor-xiaomi-gaming-monitor-g27i/m5135243",
       "price_min": 3900,
@@ -4313,16 +4293,6 @@
     }
   ],
   "events": [
-    {
-      "type": "rise",
-      "name": "Монітор Dell u2312hmt",
-      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
-      "price_old": 900,
-      "price_new": 1130,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-03T12:56:54Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung business t45f",
@@ -6141,6 +6111,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-07-15T19:15:32Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi g244f-e2",
+      "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
+      "price": 3890,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-15T20:33:59Z"
     }
   ],
   "config": {
