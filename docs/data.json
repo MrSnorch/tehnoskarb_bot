@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-15T05:53:49Z",
+  "updated_at": "2026-07-15T08:19:36Z",
   "stats": {
-    "total": 212,
-    "avg_price": 2815,
+    "total": 211,
+    "avg_price": 2824,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -35,7 +35,6 @@
       "Могилів-Подільський",
       "Новий Розділ",
       "Одеса",
-      "Первомайськ",
       "Полтава",
       "Рівне",
       "Самбір",
@@ -625,26 +624,6 @@
         {
           "price": 350,
           "at": "2026-07-14T06:19:44Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg l1750u",
-      "url": "https://tehnoskarb.ua/montor-lg-l1750u/m5177876",
-      "price_min": 350,
-      "price_max": 350,
-      "city": "Первомайськ",
-      "addresses": [
-        "м. Первомайськ, вул. Коротченка, 3/68"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-14T20:14:34Z",
-      "price_history": [
-        {
-          "price": 350,
-          "at": "2026-07-14T20:14:34Z"
         }
       ],
       "category": "Монітори",
@@ -3369,6 +3348,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Xiaomi gaming monitor g27i",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-gaming-monitor-g27i/m5135243",
+      "price_min": 3900,
+      "price_max": 3900,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 136"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-15T08:18:22Z",
+      "price_history": [
+        {
+          "price": 3900,
+          "at": "2026-07-15T08:18:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Philips 27e1n1900ae/00",
       "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
       "price_min": 3910,
@@ -3443,26 +3442,6 @@
         {
           "price": 4250,
           "at": "2026-07-14T06:19:44Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Qube g27f240",
-      "url": "https://tehnoskarb.ua/montor-qube-g27f240/m5166596",
-      "price_min": 4420,
-      "price_max": 4420,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Корольова, 80"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 4420,
-          "at": "2026-07-02T22:37:11Z"
         }
       ],
       "category": "Монітори",
@@ -4358,33 +4337,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung 943nw",
-      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
-      "price": 400,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-02T22:37:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lenovo li2241",
-      "url": "https://tehnoskarb.ua/montor-lenovo-li2241/m5180816",
-      "price": 980,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-07-03T04:25:41Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s19f355",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19f355/m5180825",
-      "price": 1110,
-      "city": "Коростень",
-      "category": "Монітори",
-      "at": "2026-07-03T04:25:41Z"
-    },
     {
       "type": "new",
       "name": "Монітор Aoc 27b3ha2",
@@ -6186,6 +6138,33 @@
       "city": "Житомир",
       "category": "Монітори",
       "at": "2026-07-15T05:53:31Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Qube g27f240",
+      "url": "https://tehnoskarb.ua/montor-qube-g27f240/m5166596",
+      "price": 4420,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-07-15T08:18:22Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg l1750u",
+      "url": "https://tehnoskarb.ua/montor-lg-l1750u/m5177876",
+      "price": 350,
+      "city": "Первомайськ",
+      "category": "Монітори",
+      "at": "2026-07-15T08:18:22Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Xiaomi gaming monitor g27i",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-gaming-monitor-g27i/m5135243",
+      "price": 3900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-15T08:18:22Z"
     }
   ],
   "config": {
