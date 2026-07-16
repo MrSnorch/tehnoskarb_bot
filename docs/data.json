@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-16T09:35:09Z",
+  "updated_at": "2026-07-16T11:43:19Z",
   "stats": {
-    "total": 211,
-    "avg_price": 2886,
+    "total": 210,
+    "avg_price": 2867,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -3914,26 +3914,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Apple cinema hd display 30",
-      "url": "https://tehnoskarb.ua/montor-apple-cinema-hd-display-30/m5175163",
-      "price_min": 7000,
-      "price_max": 7000,
-      "city": "Луцьк",
-      "addresses": [
-        "м. Луцьк, просп. Соборності, 4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 7000,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus tuf gaming vg279qm1a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279qm1a/m5062453",
       "price_min": 7000,
@@ -4334,16 +4314,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Asus tuf gaming vg279qm1a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279qm1a/m5062453",
-      "price_old": 7070,
-      "price_new": 7000,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-07-03T18:14:30Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung 740n",
@@ -6161,6 +6131,15 @@
       "city": "Запоріжжя",
       "category": "Монітори",
       "at": "2026-07-16T09:35:02Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Apple cinema hd display 30",
+      "url": "https://tehnoskarb.ua/montor-apple-cinema-hd-display-30/m5175163",
+      "price": 7000,
+      "city": "Луцьк",
+      "category": "Монітори",
+      "at": "2026-07-16T11:42:13Z"
     }
   ],
   "config": {
