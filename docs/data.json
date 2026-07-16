@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-16T07:23:41Z",
+  "updated_at": "2026-07-16T09:35:09Z",
   "stats": {
-    "total": 212,
-    "avg_price": 2885,
+    "total": 211,
+    "avg_price": 2886,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2758,26 +2758,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi pro mp2412",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp2412/m5057728",
-      "price_min": 2600,
-      "price_max": 2600,
-      "city": "Запоріжжя",
-      "addresses": [
-        "м. Запоріжжя, вул. Ентузіастів, 3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-05T18:05:35Z",
-      "price_history": [
-        {
-          "price": 2600,
-          "at": "2026-07-05T18:05:35Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Qube b24f75-ips",
       "url": "https://tehnoskarb.ua/rk-montor-qube-b24f75-ips/m5182535",
       "price_min": 2600,
@@ -4354,15 +4334,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg l1952t-bf",
-      "url": "https://tehnoskarb.ua/montor-lg-l1952t-bf/m5180598",
-      "price": 290,
-      "city": "Полтава",
-      "category": "Монітори",
-      "at": "2026-07-03T18:14:30Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Asus tuf gaming vg279qm1a",
@@ -6181,6 +6152,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-16T07:23:24Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp2412",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp2412/m5057728",
+      "price": 2600,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-07-16T09:35:02Z"
     }
   ],
   "config": {
