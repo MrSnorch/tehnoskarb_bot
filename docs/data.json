@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-16T04:40:36Z",
+  "updated_at": "2026-07-16T07:23:41Z",
   "stats": {
-    "total": 210,
-    "avg_price": 2845,
+    "total": 212,
+    "avg_price": 2885,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2482,6 +2482,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus zenscreen mb169ck",
+      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
+      "price_min": 2321,
+      "price_max": 2321,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Чоколовський, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-16T07:23:24Z",
+      "price_history": [
+        {
+          "price": 2321,
+          "at": "2026-07-16T07:23:24Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vz249hg",
       "url": "https://tehnoskarb.ua/montor-asus-vz249hg/m5154430",
       "price_min": 2330,
@@ -4230,6 +4250,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Hp omen 27qs",
+      "url": "https://tehnoskarb.ua/montor-hp-omen-27qs/m5182774",
+      "price_min": 11800,
+      "price_max": 11800,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Спаська, 5"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-16T07:23:24Z",
+      "price_history": [
+        {
+          "price": 11800,
+          "at": "2026-07-16T07:23:24Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 27gn950-b",
       "url": "https://tehnoskarb.ua/montor-lg-27gn950-b/m5165373",
       "price_min": 13330,
@@ -4314,24 +4354,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung t27d390ex",
-      "url": "https://tehnoskarb.ua/montor-samsung-t27d390ex/m5180755",
-      "price": 1400,
-      "city": "Чернігів",
-      "category": "Монітори",
-      "at": "2026-07-03T18:14:30Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор 2E h2420b",
-      "url": "https://tehnoskarb.ua/montor-2e-h2420b/m5180684",
-      "price": 3100,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-03T18:14:30Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg l1952t-bf",
@@ -6141,6 +6163,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-16T04:39:18Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp omen 27qs",
+      "url": "https://tehnoskarb.ua/montor-hp-omen-27qs/m5182774",
+      "price": 11800,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-16T07:23:24Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus zenscreen mb169ck",
+      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
+      "price": 2321,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-16T07:23:24Z"
     }
   ],
   "config": {
