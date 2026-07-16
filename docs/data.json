@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-16T01:02:02Z",
+  "updated_at": "2026-07-16T04:40:36Z",
   "stats": {
-    "total": 209,
-    "avg_price": 2859,
+    "total": 210,
+    "avg_price": 2845,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -34,6 +34,7 @@
       "Миколаїв",
       "Могилів-Подільський",
       "Новий Розділ",
+      "Новояворівськ",
       "Одеса",
       "Полтава",
       "Рівне",
@@ -107,6 +108,26 @@
         {
           "price": 200,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 940n",
+      "url": "https://tehnoskarb.ua/montor-samsung-940n/m4997158",
+      "price_min": 220,
+      "price_max": 220,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Миру, 2/3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-16T04:39:18Z",
+      "price_history": [
+        {
+          "price": 220,
+          "at": "2026-07-16T04:39:18Z"
         }
       ],
       "category": "Монітори",
@@ -1939,6 +1960,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus vh222",
+      "url": "https://tehnoskarb.ua/montor-asus-vh222/m5136501",
+      "price_min": 1170,
+      "price_max": 1170,
+      "city": "Новояворівськ",
+      "addresses": [
+        "м. Новояворівськ, вул. Степана Бандери, 10"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-16T04:39:18Z",
+      "price_history": [
+        {
+          "price": 1170,
+          "at": "2026-07-16T04:39:18Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lenovo l2250pwd",
       "url": "https://tehnoskarb.ua/montor-lenovo-l2250pwd/m5181236",
       "price_min": 1200,
@@ -2085,26 +2126,6 @@
       "city": "Київ",
       "addresses": [
         "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 1500,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi pro mp241 e14v",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp241-e14v/m5165082",
-      "price_min": 1500,
-      "price_max": 1500,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олени Теліги , 17"
       ],
       "offers": 1,
       "first_seen": "2026-07-02T22:37:11Z",
@@ -4294,33 +4315,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Samsung business t45f",
-      "url": "https://tehnoskarb.ua/montor-samsung-business-t45f/m5179364",
-      "price": 3800,
-      "city": "Жмеринка",
-      "category": "Монітори",
-      "at": "2026-07-03T15:16:22Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus pa246",
-      "url": "https://tehnoskarb.ua/montor-asus-pa246/m5178608",
-      "price": 500,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-07-03T16:54:33Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung c27fg73",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27fg73/m4739795",
-      "price": 1800,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-03T16:54:33Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Samsung t27d390ex",
       "url": "https://tehnoskarb.ua/montor-samsung-t27d390ex/m5180755",
@@ -6120,6 +6114,33 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-07-15T20:33:59Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp241 e14v",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp241-e14v/m5165082",
+      "price": 1500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-16T04:39:18Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vh222",
+      "url": "https://tehnoskarb.ua/montor-asus-vh222/m5136501",
+      "price": 1170,
+      "city": "Новояворівськ",
+      "category": "Монітори",
+      "at": "2026-07-16T04:39:18Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 940n",
+      "url": "https://tehnoskarb.ua/montor-samsung-940n/m4997158",
+      "price": 220,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-16T04:39:18Z"
     }
   ],
   "config": {
