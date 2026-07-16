@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-16T15:43:39Z",
+  "updated_at": "2026-07-16T17:20:19Z",
   "stats": {
-    "total": 210,
-    "avg_price": 2867,
+    "total": 207,
+    "avg_price": 2902,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -108,26 +108,6 @@
         {
           "price": 200,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 940n",
-      "url": "https://tehnoskarb.ua/montor-samsung-940n/m4997158",
-      "price_min": 220,
-      "price_max": 220,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Миру, 2/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-16T04:39:18Z",
-      "price_history": [
-        {
-          "price": 220,
-          "at": "2026-07-16T04:39:18Z"
         }
       ],
       "category": "Монітори",
@@ -789,26 +769,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Eizo flexscan ev2316w",
-      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2316w/m5143535",
-      "price_min": 450,
-      "price_max": 450,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-10T04:34:06Z",
-      "price_history": [
-        {
-          "price": 450,
-          "at": "2026-07-10T04:34:06Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Hp nk570a",
       "url": "https://tehnoskarb.ua/montor-hp-nk570a/m5151542",
       "price_min": 460,
@@ -1149,26 +1109,6 @@
         {
           "price": 600,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 225bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-225bw/m5018524",
-      "price_min": 600,
-      "price_max": 600,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, вул. Дудинської, 1-А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-13T13:25:56Z",
-      "price_history": [
-        {
-          "price": 600,
-          "at": "2026-07-13T13:25:56Z"
         }
       ],
       "category": "Монітори",
@@ -3941,12 +3881,12 @@
       "name": "Монітор Samsung s27dg500",
       "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
       "price_min": 7000,
-      "price_max": 7000,
+      "price_max": 7600,
       "city": "Чернівці",
       "addresses": [
         "м. Чернівці, вул. Героїв майдану, 48"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-07-07T07:41:52Z",
       "price_history": [
         {
@@ -4314,33 +4254,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 740n",
-      "url": "https://tehnoskarb.ua/montor-17-samsung-740n/m5174253",
-      "price": 300,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-07-04T09:36:40Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lenovo thinkvision t2054pc",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2054pc/m5134008",
-      "price": 1030,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-07-04T09:36:40Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung gh17ls",
-      "url": "https://tehnoskarb.ua/montor-samsung-gh17ls/m5098840",
-      "price": 170,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-07-04T09:36:40Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lg ips234t",
@@ -6140,6 +6053,33 @@
       "city": "Луцьк",
       "category": "Монітори",
       "at": "2026-07-16T11:42:13Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Eizo flexscan ev2316w",
+      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2316w/m5143535",
+      "price": 450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-16T17:20:09Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 225bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-225bw/m5018524",
+      "price": 600,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-07-16T17:20:09Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 940n",
+      "url": "https://tehnoskarb.ua/montor-samsung-940n/m4997158",
+      "price": 220,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-16T17:20:09Z"
     }
   ],
   "config": {
