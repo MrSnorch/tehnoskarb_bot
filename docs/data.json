@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-16T18:42:32Z",
+  "updated_at": "2026-07-16T20:03:44Z",
   "stats": {
-    "total": 207,
-    "avg_price": 2902,
+    "total": 206,
+    "avg_price": 2904,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2520,26 +2520,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix mag241c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
-      "price_min": 2401,
-      "price_max": 2401,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-13T10:31:20Z",
-      "price_history": [
-        {
-          "price": 2401,
-          "at": "2026-07-13T10:31:20Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Xiaomi monitor a24i",
       "url": "https://tehnoskarb.ua/montor-xiaomi-monitor-a24i/m5154283",
       "price_min": 2430,
@@ -4256,15 +4236,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lg ips234t",
-      "url": "https://tehnoskarb.ua/montor-lg-ips234t/m5045409",
-      "price": 800,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-07-04T11:34:28Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Aoc 27b3ha2",
@@ -6082,6 +6053,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-16T17:20:09Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix mag241c",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
+      "price": 2401,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-16T20:03:32Z"
     }
   ],
   "config": {
