@@ -1,12 +1,13 @@
 {
-  "updated_at": "2026-07-17T15:56:12Z",
+  "updated_at": "2026-07-17T17:18:18Z",
   "stats": {
-    "total": 206,
-    "avg_price": 2863,
+    "total": 207,
+    "avg_price": 2869,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
       "Івано-Франківськ",
+      "Ірпінь",
       "Бердичів",
       "Берегове",
       "Бориспіль",
@@ -3331,6 +3332,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus tuf gaming vg249q5r",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q5r/m5183089",
+      "price_min": 4000,
+      "price_max": 4000,
+      "city": "Ірпінь",
+      "addresses": [
+        "м. Ірпінь, вул. Центральна, 6-Г/4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-17T17:17:03Z",
+      "price_history": [
+        {
+          "price": 4000,
+          "at": "2026-07-17T17:17:03Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi g255f",
       "url": "https://tehnoskarb.ua/montor-msi-g255f/m5091244",
       "price_min": 4050,
@@ -4236,16 +4257,6 @@
     }
   ],
   "events": [
-    {
-      "type": "rise",
-      "name": "Монітор Dell u2412m",
-      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
-      "price_old": 1650,
-      "price_new": 1830,
-      "city": "Бровари",
-      "category": "Монітори",
-      "at": "2026-07-05T16:34:33Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung c27fg73",
@@ -6063,6 +6074,15 @@
       "city": "Одеса",
       "category": "Монітори",
       "at": "2026-07-17T14:12:22Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus tuf gaming vg249q5r",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q5r/m5183089",
+      "price": 4000,
+      "city": "Ірпінь",
+      "category": "Монітори",
+      "at": "2026-07-17T17:17:03Z"
     }
   ],
   "config": {
