@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-17T18:34:14Z",
+  "updated_at": "2026-07-17T20:06:58Z",
   "stats": {
-    "total": 207,
-    "avg_price": 2869,
+    "total": 208,
+    "avg_price": 2859,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1479,6 +1479,24 @@
         {
           "price": 800,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 221b3l",
+      "url": "https://tehnoskarb.ua/montor-philips-221b3l/m5183210",
+      "price_min": 800,
+      "price_max": 800,
+      "city": "",
+      "addresses": [],
+      "offers": 3,
+      "first_seen": "2026-07-17T20:06:48Z",
+      "price_history": [
+        {
+          "price": 800,
+          "at": "2026-07-17T20:06:48Z"
         }
       ],
       "category": "Монітори",
@@ -4258,15 +4276,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Samsung c27fg73",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27fg73/m4739795",
-      "price": 1800,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-05T18:05:35Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Acer x193w",
       "url": "https://tehnoskarb.ua/nastlnijj-montor-acer-x193w/m5181267",
@@ -6083,6 +6092,15 @@
       "city": "Ірпінь",
       "category": "Монітори",
       "at": "2026-07-17T17:17:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 221b3l",
+      "url": "https://tehnoskarb.ua/montor-philips-221b3l/m5183210",
+      "price": 800,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-07-17T20:06:48Z"
     }
   ],
   "config": {
