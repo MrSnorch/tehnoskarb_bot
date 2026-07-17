@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-17T03:48:21Z",
+  "updated_at": "2026-07-17T06:19:18Z",
   "stats": {
-    "total": 206,
-    "avg_price": 2904,
+    "total": 207,
+    "avg_price": 2908,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -3167,6 +3167,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi optix g24c4",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g24c4/m5049855",
+      "price_min": 3600,
+      "price_max": 3600,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Чоколовський, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-17T06:19:07Z",
+      "price_history": [
+        {
+          "price": 3600,
+          "at": "2026-07-17T06:19:07Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Benq gl-2760b",
       "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
       "price_min": 3640,
@@ -4236,15 +4256,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Aoc 27b3ha2",
-      "url": "https://tehnoskarb.ua/montor-aoc-27b3ha2/m5180641",
-      "price": 3300,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-07-04T11:34:28Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung 961bw",
@@ -6062,6 +6073,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-16T20:03:32Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi optix g24c4",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g24c4/m5049855",
+      "price": 3600,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-17T06:19:07Z"
     }
   ],
   "config": {
