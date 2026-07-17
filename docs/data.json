@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-17T12:11:17Z",
+  "updated_at": "2026-07-17T14:12:31Z",
   "stats": {
-    "total": 207,
-    "avg_price": 2886,
+    "total": 206,
+    "avg_price": 2863,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -201,26 +201,6 @@
       "city": "",
       "addresses": [],
       "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 280,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung syncmaster 932b",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-932b/m5156935",
-      "price_min": 280,
-      "price_max": 510,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Корольова, 80"
-      ],
-      "offers": 2,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -848,6 +828,30 @@
         {
           "price": 500,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung syncmaster 932b",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-932b/m5156935",
+      "price_min": 510,
+      "price_max": 510,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, вул. Корольова, 80"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T22:37:11Z",
+      "price_history": [
+        {
+          "price": 280,
+          "at": "2026-07-02T22:37:11Z"
+        },
+        {
+          "price": 510,
+          "at": "2026-07-17T14:12:22Z"
         }
       ],
       "category": "Монітори",
@@ -3944,30 +3948,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung smart m7",
-      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
-      "price_min": 7800,
-      "price_max": 7800,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Бажана, 3В (м. Харківська)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 8600,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 7800,
-          "at": "2026-07-10T08:25:04Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc c27g2ze",
       "url": "https://tehnoskarb.ua/montor-aoc-c27g2ze/m5147959",
       "price_min": 7880,
@@ -4256,24 +4236,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lenovo li2241",
-      "url": "https://tehnoskarb.ua/montor-lenovo-li2241/m5180816",
-      "price": 980,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-07-05T16:34:33Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lenovo l2250pwd",
-      "url": "https://tehnoskarb.ua/montor-lenovo-l2250pwd/m5181236",
-      "price": 1200,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-05T16:34:33Z"
-    },
     {
       "type": "rise",
       "name": "Монітор Dell u2412m",
@@ -6082,6 +6044,25 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-17T12:11:06Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung smart m7",
+      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
+      "price": 7800,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-17T14:12:22Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung syncmaster 932b",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-932b/m5156935",
+      "price_old": 280,
+      "price_new": 510,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-07-17T14:12:22Z"
     }
   ],
   "config": {
