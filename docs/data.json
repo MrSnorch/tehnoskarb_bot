@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-18T11:11:48Z",
+  "updated_at": "2026-07-18T12:27:11Z",
   "stats": {
-    "total": 214,
-    "avg_price": 3061,
+    "total": 213,
+    "avg_price": 3064,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -18,7 +18,6 @@
       "Вишневе",
       "Вінниця",
       "Дрогобич",
-      "Житомир",
       "Жмеринка",
       "Запоріжжя",
       "Звягель (Новоград-Волинський)",
@@ -2583,26 +2582,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s24f320gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24f320gai/m5144447",
-      "price_min": 2500,
-      "price_max": 2500,
-      "city": "Житомир",
-      "addresses": [
-        "м. Житомир, вул. Київська, 120"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 2500,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vp229hf",
       "url": "https://tehnoskarb.ua/montor-asus-vp229hf/m5180111",
       "price_min": 2540,
@@ -4403,15 +4382,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lenovo li2241",
-      "url": "https://tehnoskarb.ua/montor-lenovo-li2241/m5180816",
-      "price": 980,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-07-06T13:04:45Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung 931bw",
@@ -6231,6 +6201,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-18T08:22:28Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s24f320gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24f320gai/m5144447",
+      "price": 2500,
+      "city": "Житомир",
+      "category": "Монітори",
+      "at": "2026-07-18T12:27:04Z"
     }
   ],
   "config": {
