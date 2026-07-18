@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-18T16:27:11Z",
+  "updated_at": "2026-07-18T17:32:52Z",
   "stats": {
-    "total": 212,
-    "avg_price": 3077,
+    "total": 211,
+    "avg_price": 3078,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2682,26 +2682,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Anmite a160w03",
-      "url": "https://tehnoskarb.ua/montor-anmite-a160w03/m5182370",
-      "price_min": 2670,
-      "price_max": 2670,
-      "city": "Новий Розділ",
-      "addresses": [
-        "м. Новий Розділ, просп. Тараса Шевченка, 34"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-13T18:16:50Z",
-      "price_history": [
-        {
-          "price": 2670,
-          "at": "2026-07-13T18:16:50Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung c24f396fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c24f396fhi/m5160256",
       "price_min": 2680,
@@ -4362,15 +4342,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi g244f-e2",
-      "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
-      "price": 3890,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-07-06T16:37:18Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s24b350hl",
@@ -6190,6 +6161,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-18T15:04:43Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Anmite a160w03",
+      "url": "https://tehnoskarb.ua/montor-anmite-a160w03/m5182370",
+      "price": 2670,
+      "city": "Новий Розділ",
+      "category": "Монітори",
+      "at": "2026-07-18T17:32:45Z"
     }
   ],
   "config": {
