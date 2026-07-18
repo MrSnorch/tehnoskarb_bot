@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-18T04:04:43Z",
+  "updated_at": "2026-07-18T06:29:08Z",
   "stats": {
     "total": 215,
-    "avg_price": 3057,
+    "avg_price": 3055,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2845,12 +2845,12 @@
       "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
       "price_min": 2770,
-      "price_max": 2770,
+      "price_max": 3330,
       "city": "Київ",
       "addresses": [
         "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -3690,6 +3690,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi mag 275qf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
+      "price_min": 5190,
+      "price_max": 5610,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Панаса Мирного, 18-Б"
+      ],
+      "offers": 2,
+      "first_seen": "2026-07-02T22:37:11Z",
+      "price_history": [
+        {
+          "price": 5610,
+          "at": "2026-07-02T22:37:11Z"
+        },
+        {
+          "price": 5190,
+          "at": "2026-07-18T06:27:54Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lenovo thinkvision t27i-30",
       "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091",
       "price_min": 5250,
@@ -3728,26 +3752,6 @@
         {
           "price": 5500,
           "at": "2026-07-10T11:26:10Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi mag 275qf",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
-      "price_min": 5610,
-      "price_max": 5610,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Панаса Мирного, 18-Б"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 5610,
-          "at": "2026-07-02T22:37:11Z"
         }
       ],
       "category": "Монітори",
@@ -4419,15 +4423,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Acer r242y",
-      "url": "https://tehnoskarb.ua/montor-acer-r242y/m5169264",
-      "price": 2890,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-06T13:04:45Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Dell u2312hmt",
@@ -6246,6 +6241,16 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-17T21:21:28Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Msi mag 275qf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
+      "price_old": 5610,
+      "price_new": 5190,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-18T06:27:54Z"
     }
   ],
   "config": {
