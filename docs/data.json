@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-18T06:29:08Z",
+  "updated_at": "2026-07-18T08:22:37Z",
   "stats": {
-    "total": 215,
-    "avg_price": 3055,
+    "total": 214,
+    "avg_price": 3061,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2136,26 +2136,6 @@
         {
           "price": 1670,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vс239",
-      "url": "https://tehnoskarb.ua/montor-asus-vs239/m5183381",
-      "price_min": 1700,
-      "price_max": 1700,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-17T12:11:06Z",
-      "price_history": [
-        {
-          "price": 1700,
-          "at": "2026-07-17T12:11:06Z"
         }
       ],
       "category": "Монітори",
@@ -4424,15 +4404,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Dell u2312hmt",
-      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
-      "price": 1130,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-06T13:04:45Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Lenovo li2241",
       "url": "https://tehnoskarb.ua/montor-lenovo-li2241/m5180816",
@@ -6251,6 +6222,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-07-18T06:27:54Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vс239",
+      "url": "https://tehnoskarb.ua/montor-asus-vs239/m5183381",
+      "price": 1700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-18T08:22:28Z"
     }
   ],
   "config": {
