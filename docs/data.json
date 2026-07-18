@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-18T13:59:55Z",
+  "updated_at": "2026-07-18T15:04:50Z",
   "stats": {
-    "total": 213,
-    "avg_price": 3064,
+    "total": 212,
+    "avg_price": 3077,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -663,26 +663,6 @@
         {
           "price": 400,
           "at": "2026-07-12T18:27:41Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vw193d",
-      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
-      "price_min": 400,
-      "price_max": 400,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Воскресенський, 34/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-15T14:19:49Z",
-      "price_history": [
-        {
-          "price": 400,
-          "at": "2026-07-15T14:19:49Z"
         }
       ],
       "category": "Монітори",
@@ -4383,15 +4363,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Samsung 931bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-931bw/m5048829",
-      "price": 340,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-07-06T16:37:18Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Msi g244f-e2",
       "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
@@ -6210,6 +6181,15 @@
       "city": "Житомир",
       "category": "Монітори",
       "at": "2026-07-18T12:27:04Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vw193d",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
+      "price": 400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-18T15:04:43Z"
     }
   ],
   "config": {
