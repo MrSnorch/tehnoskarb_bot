@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-19T01:03:47Z",
+  "updated_at": "2026-07-19T04:50:34Z",
   "stats": {
-    "total": 212,
-    "avg_price": 3077,
+    "total": 216,
+    "avg_price": 3310,
     "min_price": 100,
-    "max_price": 35440,
+    "max_price": 58000,
     "cities": [
       "Івано-Франківськ",
       "Ірпінь",
@@ -35,6 +35,7 @@
       "Могилів-Подільський",
       "Новий Розділ",
       "Новояворівськ",
+      "Обухів",
       "Одеса",
       "Полтава",
       "Рівне",
@@ -999,6 +1000,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Acer x203h",
+      "url": "https://tehnoskarb.ua/montor-acer-x203h/m5180992",
+      "price_min": 550,
+      "price_max": 550,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-19T04:49:06Z",
+      "price_history": [
+        {
+          "price": 550,
+          "at": "2026-07-19T04:49:06Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung sm t190 ls19twh",
       "url": "https://tehnoskarb.ua/montor-samsung-sm-t190-ls19twh/m5141108",
       "price_min": 560,
@@ -1692,6 +1713,26 @@
         {
           "price": 1000,
           "at": "2026-07-11T11:13:41Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung s22f350fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22f350fhi/m5139689",
+      "price_min": 1000,
+      "price_max": 1000,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-19T04:49:06Z",
+      "price_history": [
+        {
+          "price": 1000,
+          "at": "2026-07-19T04:49:06Z"
         }
       ],
       "category": "Монітори",
@@ -3000,6 +3041,26 @@
         {
           "price": 3150,
           "at": "2026-07-08T11:23:01Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung s31c / ls24c310e",
+      "url": "https://tehnoskarb.ua/montor-samsung-s31c-ls24c310e/m5183471",
+      "price_min": 3200,
+      "price_max": 3200,
+      "city": "Івано-Франківськ",
+      "addresses": [
+        "м. Івано-Франківськ, вул. Галицька, 112-Д"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-19T04:49:06Z",
+      "price_history": [
+        {
+          "price": 3200,
+          "at": "2026-07-19T04:49:06Z"
         }
       ],
       "category": "Монітори",
@@ -4359,45 +4420,29 @@
       ],
       "category": "Монітори",
       "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Apple studio display 27\" with tilt adjustable stand",
+      "url": "https://tehnoskarb.ua/montor-apple-studio-display-27-with-tilt-adjustable-stand/m5183475",
+      "price_min": 58000,
+      "price_max": 58000,
+      "city": "Обухів",
+      "addresses": [
+        "м. Обухів, вул. Київська, 109"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-19T04:49:06Z",
+      "price_history": [
+        {
+          "price": 58000,
+          "at": "2026-07-19T04:49:06Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung 740n",
-      "url": "https://tehnoskarb.ua/montor-samsung-740n/m4996661",
-      "price": 260,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-07-06T18:57:16Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung s24b350hl",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24b350hl/m5181375",
-      "price": 598,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-06T20:55:06Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Hp 25es",
-      "url": "https://tehnoskarb.ua/montor-hp-25es/m5179864",
-      "price": 2000,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-07T07:41:52Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Msi mag255f",
-      "url": "https://tehnoskarb.ua/montor-msi-mag255f/m5179683",
-      "price": 4250,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-07T07:41:52Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s24b350hl",
@@ -6190,6 +6235,42 @@
       "city": "Новий Розділ",
       "category": "Монітори",
       "at": "2026-07-18T19:08:57Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Apple studio display 27\" with tilt adjustable stand",
+      "url": "https://tehnoskarb.ua/montor-apple-studio-display-27-with-tilt-adjustable-stand/m5183475",
+      "price": 58000,
+      "city": "Обухів",
+      "category": "Монітори",
+      "at": "2026-07-19T04:49:06Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s31c / ls24c310e",
+      "url": "https://tehnoskarb.ua/montor-samsung-s31c-ls24c310e/m5183471",
+      "price": 3200,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-07-19T04:49:06Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer x203h",
+      "url": "https://tehnoskarb.ua/montor-acer-x203h/m5180992",
+      "price": 550,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-19T04:49:06Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s22f350fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22f350fhi/m5139689",
+      "price": 1000,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-19T04:49:06Z"
     }
   ],
   "config": {
