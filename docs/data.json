@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-19T19:43:52Z",
+  "updated_at": "2026-07-19T20:53:38Z",
   "stats": {
-    "total": 210,
-    "avg_price": 3485,
+    "total": 209,
+    "avg_price": 3493,
     "min_price": 100,
     "max_price": 58000,
     "cities": [
@@ -24,7 +24,6 @@
       "Золочів",
       "Калуш",
       "Київ",
-      "Козятин",
       "Конотоп",
       "Коростень",
       "Кривий Ріг",
@@ -2041,26 +2040,6 @@
         {
           "price": 1670,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор 2E 2e-g2423b-01.ua",
-      "url": "https://tehnoskarb.ua/montor-2e-2e-g2423b-01-ua/m5183502",
-      "price_min": 1700,
-      "price_max": 1700,
-      "city": "Козятин",
-      "addresses": [
-        "м. Козятин, вул. Січових Стрільців, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-19T19:43:44Z",
-      "price_history": [
-        {
-          "price": 1700,
-          "at": "2026-07-19T19:43:44Z"
         }
       ],
       "category": "Монітори",
@@ -4340,16 +4319,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Samsung professional s24c430",
-      "url": "https://tehnoskarb.ua/montor-samsung-professional-s24c430/m5154762",
-      "price_old": 3500,
-      "price_new": 3150,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-08T11:23:01Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Samsung f24t452fqr",
       "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
       "price_old": 4000,
@@ -6168,6 +6137,15 @@
       "city": "Козятин",
       "category": "Монітори",
       "at": "2026-07-19T19:43:44Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор 2E 2e-g2423b-01.ua",
+      "url": "https://tehnoskarb.ua/montor-2e-2e-g2423b-01-ua/m5183502",
+      "price": 1700,
+      "city": "Козятин",
+      "category": "Монітори",
+      "at": "2026-07-19T20:53:31Z"
     }
   ],
   "config": {
