@@ -1106,27 +1106,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-03T00:08:52Z"
   },
-  "https://tehnoskarb.ua/montor-aoc-e2475pwj/m5160193": {
-    "name": "Монітор Aoc e2475pwj",
-    "price_min": 1870,
-    "price_max": 1870,
-    "city": "Бровари",
-    "addresses": [
-      "м. Бровари, б-р Незалежності, 11"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 1870,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-ls20t/m5159939": {
     "name": "Монітор Samsung ls20t",
     "price_min": 650,
@@ -2731,7 +2710,7 @@
   },
   "https://tehnoskarb.ua/montor-msi-g2412/m5024355": {
     "name": "Монітор Msi g2412",
-    "price_min": 2970,
+    "price_min": 3990,
     "price_max": 4320,
     "city": "Київ",
     "addresses": [
@@ -2740,7 +2719,7 @@
       "м. Запоріжжя, просп. Соборний, 224",
       "м. Київ, б-р М. Міхновського, 25"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -2748,6 +2727,10 @@
       {
         "price": 2970,
         "at": "2026-07-02T22:37:11Z"
+      },
+      {
+        "price": 3990,
+        "at": "2026-07-19T15:31:37Z"
       }
     ],
     "details_failures": 0,

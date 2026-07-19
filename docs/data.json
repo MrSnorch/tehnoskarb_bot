@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-19T14:01:53Z",
+  "updated_at": "2026-07-19T15:31:46Z",
   "stats": {
-    "total": 208,
-    "avg_price": 3399,
+    "total": 207,
+    "avg_price": 3411,
     "min_price": 100,
     "max_price": 58000,
     "cities": [
@@ -2153,26 +2153,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Aoc e2475pwj",
-      "url": "https://tehnoskarb.ua/montor-aoc-e2475pwj/m5160193",
-      "price_min": 1870,
-      "price_max": 1870,
-      "city": "Бровари",
-      "addresses": [
-        "м. Бровари, б-р Незалежності, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 1870,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s24f350fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-s24f350fhi/m5102117",
       "price_min": 1890,
@@ -2706,29 +2686,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi g2412",
-      "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
-      "price_min": 2970,
-      "price_max": 4320,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Миру, 2/3",
-        "м. Бровари, вул. Героїв України, 11",
-        "м. Запоріжжя, просп. Соборний, 224",
-        "м. Київ, б-р М. Міхновського, 25"
-      ],
-      "offers": 3,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 2970,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq ex240n",
       "url": "https://tehnoskarb.ua/montor-benq-ex240n/m5134563",
       "price_min": 3000,
@@ -3234,6 +3191,33 @@
         {
           "price": 3910,
           "at": "2026-07-08T11:23:01Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi g2412",
+      "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
+      "price_min": 3990,
+      "price_max": 4320,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Миру, 2/3",
+        "м. Бровари, вул. Героїв України, 11",
+        "м. Запоріжжя, просп. Соборний, 224",
+        "м. Київ, б-р М. Міхновського, 25"
+      ],
+      "offers": 2,
+      "first_seen": "2026-07-02T22:37:11Z",
+      "price_history": [
+        {
+          "price": 2970,
+          "at": "2026-07-02T22:37:11Z"
+        },
+        {
+          "price": 3990,
+          "at": "2026-07-19T15:31:37Z"
         }
       ],
       "category": "Монітори",
@@ -4293,24 +4277,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Philips 27e1n1900ae/00",
-      "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
-      "price": 3910,
-      "city": "Новий Розділ",
-      "category": "Монітори",
-      "at": "2026-07-08T06:30:04Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus zenscreen mb169ck",
-      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
-      "price": 2321,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-08T11:23:01Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lg e2340t",
@@ -6122,6 +6088,25 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-07-19T12:01:12Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc e2475pwj",
+      "url": "https://tehnoskarb.ua/montor-aoc-e2475pwj/m5160193",
+      "price": 1870,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-07-19T15:31:37Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Msi g2412",
+      "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
+      "price_old": 2970,
+      "price_new": 3990,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-19T15:31:37Z"
     }
   ],
   "config": {
