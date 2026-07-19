@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-19T10:57:06Z",
+  "updated_at": "2026-07-19T12:01:19Z",
   "stats": {
-    "total": 209,
-    "avg_price": 3387,
+    "total": 208,
+    "avg_price": 3399,
     "min_price": 100,
     "max_price": 58000,
     "cities": [
@@ -1633,26 +1633,6 @@
         {
           "price": 1000,
           "at": "2026-07-11T11:13:41Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s22f350fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22f350fhi/m5139689",
-      "price_min": 1000,
-      "price_max": 1000,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Промислова, 50/52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-19T04:49:06Z",
-      "price_history": [
-        {
-          "price": 1000,
-          "at": "2026-07-19T04:49:06Z"
         }
       ],
       "category": "Монітори",
@@ -4315,15 +4295,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Samsung ls27d300gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls27d300gai/m5179117",
-      "price": 3400,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-07-07T21:06:28Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Philips 27e1n1900ae/00",
       "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
       "price": 3910,
@@ -6142,6 +6113,15 @@
       "city": "Дрогобич",
       "category": "Монітори",
       "at": "2026-07-19T09:28:45Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s22f350fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22f350fhi/m5139689",
+      "price": 1000,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-19T12:01:12Z"
     }
   ],
   "config": {
