@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-19T17:01:31Z",
+  "updated_at": "2026-07-19T18:28:00Z",
   "stats": {
-    "total": 207,
-    "avg_price": 3411,
+    "total": 209,
+    "avg_price": 3493,
     "min_price": 100,
     "max_price": 58000,
     "cities": [
@@ -3674,6 +3674,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus rog strix xg259cs",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg259cs/m5183563",
+      "price_min": 6330,
+      "price_max": 6330,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Олекси Тихого, 40/16"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-19T18:27:46Z",
+      "price_history": [
+        {
+          "price": 6330,
+          "at": "2026-07-19T18:27:46Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus tuf gaming vg27vqm",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
       "price_min": 6360,
@@ -4198,6 +4218,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey oled g6",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g6/m5183556",
+      "price_min": 17620,
+      "price_max": 17620,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Олекси Тихого, 40/16"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-19T18:27:46Z",
+      "price_history": [
+        {
+          "price": 17620,
+          "at": "2026-07-19T18:27:46Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus proart pa27ucge",
       "url": "https://tehnoskarb.ua/montor-asus-proart-pa27ucge/m5183347",
       "price_min": 24000,
@@ -4277,24 +4317,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lg e2340t",
-      "url": "https://tehnoskarb.ua/montor-lg-e2340t/m5153461",
-      "price": 760,
-      "city": "Золочів",
-      "category": "Монітори",
-      "at": "2026-07-08T11:23:01Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung bx2235 ls22b3uvmn",
-      "url": "https://tehnoskarb.ua/montor-samsung-bx2235-ls22b3uvmn/m5141009",
-      "price": 710,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-07-08T11:23:01Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lg w2042s",
@@ -6107,6 +6129,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-19T15:31:37Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey oled g6",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g6/m5183556",
+      "price": 17620,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-19T18:27:46Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus rog strix xg259cs",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg259cs/m5183563",
+      "price": 6330,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-19T18:27:46Z"
     }
   ],
   "config": {
