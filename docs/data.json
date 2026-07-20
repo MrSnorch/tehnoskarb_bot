@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-20T13:08:31Z",
+  "updated_at": "2026-07-20T15:29:50Z",
   "stats": {
-    "total": 211,
+    "total": 210,
     "avg_price": 3491,
     "min_price": 100,
     "max_price": 58000,
@@ -2919,26 +2919,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi mag 244c",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
-      "price_min": 3300,
-      "price_max": 3300,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, вул. Героїв майдану, 48"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-14T20:14:34Z",
-      "price_history": [
-        {
-          "price": 3300,
-          "at": "2026-07-14T20:14:34Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus tuf gaming vg249q",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q/m5183569",
       "price_min": 3330,
@@ -4361,15 +4341,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Philips 232e2",
-      "url": "https://tehnoskarb.ua/montor-philips-232e2/m5176721",
-      "price": 1020,
-      "city": "Борислав",
-      "category": "Монітори",
-      "at": "2026-07-08T13:06:21Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Hp e24q g5",
@@ -6187,6 +6158,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-20T13:08:21Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi mag 244c",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
+      "price": 3300,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-07-20T15:28:35Z"
     }
   ],
   "config": {
