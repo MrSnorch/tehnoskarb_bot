@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-21T15:05:16Z",
+  "updated_at": "2026-07-21T16:55:13Z",
   "stats": {
-    "total": 207,
-    "avg_price": 3637,
+    "total": 206,
+    "avg_price": 3653,
     "min_price": 100,
     "max_price": 58000,
     "cities": [
@@ -523,26 +523,6 @@
       "price_history": [
         {
           "price": 370,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung syncmaster 913n",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
-      "price_min": 400,
-      "price_max": 400,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Червоної Калини, 60/10"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 400,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -4281,16 +4261,6 @@
   ],
   "events": [
     {
-      "type": "drop",
-      "name": "Монітор Samsung ls22b300",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls22b300/m5140878",
-      "price_old": 1350,
-      "price_new": 1100,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-07-09T08:35:08Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Aoc e2470swh",
       "url": "https://tehnoskarb.ua/montor-aoc-e2470swh/m5179031",
@@ -6103,6 +6073,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-21T15:05:04Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung syncmaster 913n",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
+      "price": 400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-21T16:55:05Z"
     }
   ],
   "config": {
