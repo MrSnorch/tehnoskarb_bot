@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-21T11:10:36Z",
+  "updated_at": "2026-07-21T12:55:37Z",
   "stats": {
-    "total": 211,
-    "avg_price": 3578,
+    "total": 208,
+    "avg_price": 3622,
     "min_price": 100,
     "max_price": 58000,
     "cities": [
@@ -169,26 +169,6 @@
         {
           "price": 260,
           "at": "2026-07-06T18:57:16Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg l1717s",
-      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
-      "price_min": 270,
-      "price_max": 270,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Кирилівська, 129"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 270,
-          "at": "2026-07-02T22:37:11Z"
         }
       ],
       "category": "Монітори",
@@ -1240,26 +1220,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung ls20b3u",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls20b3u/m5171325",
-      "price_min": 730,
-      "price_max": 730,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Кирилівська, 129"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 730,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Philips 223v5l",
       "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
       "price_min": 730,
@@ -1281,26 +1241,6 @@
         {
           "price": 730,
           "at": "2026-07-07T11:10:19Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus ve208",
-      "url": "https://tehnoskarb.ua/montor-asus-ve208/m5177805",
-      "price_min": 750,
-      "price_max": 750,
-      "city": "Рівне",
-      "addresses": [
-        "м. Рівне, вул. Корольова, 8"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 750,
-          "at": "2026-07-02T22:37:11Z"
         }
       ],
       "category": "Монітори",
@@ -4361,35 +4301,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Msi pro mp243x",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp243x/m5061631",
-      "price": 3000,
-      "city": "Боярка",
-      "category": "Монітори",
-      "at": "2026-07-09T08:35:08Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Asus rog strix xg27acmg",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acmg/m5176699",
-      "price_old": 14900,
-      "price_new": 14700,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-07-09T08:35:08Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Acer eb192qbbi",
-      "url": "https://tehnoskarb.ua/montor-acer-eb192qbbi/m5176018",
-      "price_old": 1800,
-      "price_new": 1570,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-09T08:35:08Z"
-    },
-    {
       "type": "drop",
       "name": "Монітор Hp p244",
       "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
@@ -6186,6 +6097,33 @@
       "city": "Харків",
       "category": "Монітори",
       "at": "2026-07-21T11:10:20Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus ve208",
+      "url": "https://tehnoskarb.ua/montor-asus-ve208/m5177805",
+      "price": 750,
+      "city": "Рівне",
+      "category": "Монітори",
+      "at": "2026-07-21T12:54:26Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung ls20b3u",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls20b3u/m5171325",
+      "price": 730,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-21T12:54:26Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg l1717s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
+      "price": 270,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-21T12:54:26Z"
     }
   ],
   "config": {
