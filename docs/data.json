@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-21T12:55:37Z",
+  "updated_at": "2026-07-21T15:05:16Z",
   "stats": {
-    "total": 208,
-    "avg_price": 3622,
+    "total": 207,
+    "avg_price": 3637,
     "min_price": 100,
     "max_price": 58000,
     "cities": [
@@ -439,26 +439,6 @@
       "city": "Львів",
       "addresses": [
         "м. Львів, вул. Промислова, 50/52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 350,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg l1753tr",
-      "url": "https://tehnoskarb.ua/montor-lg-l1753tr/m5055971",
-      "price_min": 350,
-      "price_max": 350,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олени Теліги , 17"
       ],
       "offers": 1,
       "first_seen": "2026-07-02T22:37:11Z",
@@ -4302,16 +4282,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Hp p244",
-      "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
-      "price_old": 2440,
-      "price_new": 2030,
-      "city": "Полтава",
-      "category": "Монітори",
-      "at": "2026-07-09T08:35:08Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Samsung ls22b300",
       "url": "https://tehnoskarb.ua/montor-samsung-ls22b300/m5140878",
       "price_old": 1350,
@@ -6124,6 +6094,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-21T12:54:26Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg l1753tr",
+      "url": "https://tehnoskarb.ua/montor-lg-l1753tr/m5055971",
+      "price": 350,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-21T15:05:04Z"
     }
   ],
   "config": {
