@@ -569,27 +569,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-03T00:08:52Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-971p/m5174877": {
-    "name": "Монітор Samsung 971p",
-    "price_min": 450,
-    "price_max": 450,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Павла Тичини, 9"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 450,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-s19a300/m5174337": {
     "name": "Монітор Samsung s19a300",
     "price_min": 1100,
@@ -1690,27 +1669,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-03T00:08:52Z"
   },
-  "https://tehnoskarb.ua/montor-msi-pro-mp275/m5138021": {
-    "name": "Монітор Msi pro mp275",
-    "price_min": 3820,
-    "price_max": 3820,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Княжий Затон, 11"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 3820,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
-  },
   "https://tehnoskarb.ua/montor-22-lg-22m37a/m5137076": {
     "name": "Монітор Lg 22m37a",
     "price_min": 620,
@@ -1908,8 +1866,8 @@
   },
   "https://tehnoskarb.ua/montor-aoc-24p1/m5123527": {
     "name": "Монітор Aoc 24p1",
-    "price_min": 4500,
-    "price_max": 4500,
+    "price_min": 4100,
+    "price_max": 4100,
     "city": "Харків",
     "addresses": [
       "м. Харків, вул. Дудинської, 1-А"
@@ -1922,6 +1880,10 @@
       {
         "price": 4500,
         "at": "2026-07-02T22:37:11Z"
+      },
+      {
+        "price": 4100,
+        "at": "2026-07-21T11:10:20Z"
       }
     ],
     "details_failures": 0,
@@ -2350,27 +2312,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-03T00:08:52Z"
   },
-  "https://tehnoskarb.ua/montor-msi-pro-mp273/m5065045": {
-    "name": "Монітор Msi pro mp273",
-    "price_min": 4790,
-    "price_max": 4790,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ,  вул. Драгоманова, 27"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 4790,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-ex1920/m5063504": {
     "name": "Монітор Samsung ex1920",
     "price_min": 950,
@@ -2591,27 +2532,6 @@
       {
         "price": 8980,
         "at": "2026-07-09T17:01:32Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-e1920/m5047217": {
-    "name": "Монітор Samsung e1920",
-    "price_min": 530,
-    "price_max": 530,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Княжий Затон, 11"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 530,
-        "at": "2026-07-02T22:37:11Z"
       }
     ],
     "details_failures": 0,
@@ -4617,8 +4537,8 @@
         "at": "2026-07-21T08:32:56Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-07-21T08:32:56Z",
-    "details_retry_at": "2026-07-21T09:02:56Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-07-21T11:10:20Z",
+    "details_retry_at": "2026-07-21T12:10:20Z"
   }
 }
