@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-21T20:01:44Z",
+  "updated_at": "2026-07-21T21:39:52Z",
   "stats": {
-    "total": 204,
-    "avg_price": 3397,
+    "total": 205,
+    "avg_price": 3400,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -40,6 +40,7 @@
       "Рівне",
       "Самбір",
       "Стрий",
+      "Суми",
       "Тернопіль",
       "Ужгород",
       "Харків",
@@ -3207,6 +3208,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Aoc c24g2",
+      "url": "https://tehnoskarb.ua/montor-aoc-c24g2/m5183953",
+      "price_min": 4000,
+      "price_max": 4000,
+      "city": "Суми",
+      "addresses": [
+        "м. Суми, просп. Перемоги, 115"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-21T21:39:42Z",
+      "price_history": [
+        {
+          "price": 4000,
+          "at": "2026-07-21T21:39:42Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi g255f",
       "url": "https://tehnoskarb.ua/montor-msi-g255f/m5091244",
       "price_min": 4050,
@@ -4219,16 +4240,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Samsung odyssey g5 c34g55tw",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
-      "price_old": 9670,
-      "price_new": 8980,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-07-09T17:01:32Z"
-    },
     {
       "type": "new",
       "name": "Монітор Acer sb241y bi",
@@ -6040,6 +6051,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-21T20:00:33Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc c24g2",
+      "url": "https://tehnoskarb.ua/montor-aoc-c24g2/m5183953",
+      "price": 4000,
+      "city": "Суми",
+      "category": "Монітори",
+      "at": "2026-07-21T21:39:42Z"
     }
   ],
   "config": {
