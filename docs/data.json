@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-07-21T16:55:13Z",
+  "updated_at": "2026-07-21T18:16:48Z",
   "stats": {
-    "total": 206,
-    "avg_price": 3653,
+    "total": 205,
+    "avg_price": 3390,
     "min_price": 100,
-    "max_price": 58000,
+    "max_price": 35440,
     "cities": [
       "Івано-Франківськ",
       "Ірпінь",
@@ -35,7 +35,6 @@
       "Могилів-Подільський",
       "Новий Розділ",
       "Новояворівськ",
-      "Обухів",
       "Одеса",
       "Полтава",
       "Рівне",
@@ -840,26 +839,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Acer x203h",
-      "url": "https://tehnoskarb.ua/montor-acer-x203h/m5180992",
-      "price_min": 550,
-      "price_max": 550,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Промислова, 50/52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-19T04:49:06Z",
-      "price_history": [
-        {
-          "price": 550,
-          "at": "2026-07-19T04:49:06Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung sm t190 ls19twh",
       "url": "https://tehnoskarb.ua/montor-samsung-sm-t190-ls19twh/m5141108",
       "price_min": 560,
@@ -1335,6 +1314,26 @@
         {
           "price": 840,
           "at": "2026-07-11T08:19:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lenovo lt2252pwa",
+      "url": "https://tehnoskarb.ua/montor-lenovo-lt2252pwa/m5159261",
+      "price_min": 850,
+      "price_max": 850,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Чоколовський, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-21T18:16:34Z",
+      "price_history": [
+        {
+          "price": 850,
+          "at": "2026-07-21T18:16:34Z"
         }
       ],
       "category": "Монітори",
@@ -4237,57 +4236,9 @@
       ],
       "category": "Монітори",
       "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Apple studio display 27\" with tilt adjustable stand",
-      "url": "https://tehnoskarb.ua/montor-apple-studio-display-27-with-tilt-adjustable-stand/m5183475",
-      "price_min": 58000,
-      "price_max": 58000,
-      "city": "Обухів",
-      "addresses": [
-        "м. Обухів, вул. Київська, 109"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-19T04:49:06Z",
-      "price_history": [
-        {
-          "price": 58000,
-          "at": "2026-07-19T04:49:06Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Aoc e2470swh",
-      "url": "https://tehnoskarb.ua/montor-aoc-e2470swh/m5179031",
-      "price": 1290,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-09T11:29:13Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Samsung 710n",
-      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
-      "price_old": 105,
-      "price_new": 280,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-07-09T11:29:13Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Acer sa242yp1bip",
-      "url": "https://tehnoskarb.ua/montor-acer-sa242yp1bip/m5177542",
-      "price": 2720,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-09T14:08:14Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Hp z27xs g3",
@@ -6082,6 +6033,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-21T16:55:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Apple studio display 27\" with tilt adjustable stand",
+      "url": "https://tehnoskarb.ua/montor-apple-studio-display-27-with-tilt-adjustable-stand/m5183475",
+      "price": 58000,
+      "city": "Обухів",
+      "category": "Монітори",
+      "at": "2026-07-21T18:16:34Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer x203h",
+      "url": "https://tehnoskarb.ua/montor-acer-x203h/m5180992",
+      "price": 550,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-21T18:16:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo lt2252pwa",
+      "url": "https://tehnoskarb.ua/montor-lenovo-lt2252pwa/m5159261",
+      "price": 850,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-21T18:16:34Z"
     }
   ],
   "config": {
