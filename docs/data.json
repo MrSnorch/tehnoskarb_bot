@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-21T18:16:48Z",
+  "updated_at": "2026-07-21T20:01:44Z",
   "stats": {
-    "total": 205,
-    "avg_price": 3390,
+    "total": 204,
+    "avg_price": 3397,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2016,26 +2016,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus vy229he",
-      "url": "https://tehnoskarb.ua/montor-asus-vy229he/m5181807",
-      "price_min": 1850,
-      "price_max": 1850,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р М. Міхновського, 25"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-08T21:10:13Z",
-      "price_history": [
-        {
-          "price": 1850,
-          "at": "2026-07-08T21:10:13Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vz229",
       "url": "https://tehnoskarb.ua/montor-asus-vz229/m5149410",
       "price_min": 1860,
@@ -2044,7 +2024,7 @@
       "addresses": [
         "м. Вишневе, вул. Остапа Вишні, 4"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-07-09T04:36:09Z",
       "price_history": [
         {
@@ -4240,15 +4220,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Hp z27xs g3",
-      "url": "https://tehnoskarb.ua/montor-hp-z27xs-g3/m5171605",
-      "price": 16060,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-09T17:01:32Z"
-    },
-    {
       "type": "drop",
       "name": "Монітор Samsung odyssey g5 c34g55tw",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
@@ -6060,6 +6031,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-21T18:16:34Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vy229he",
+      "url": "https://tehnoskarb.ua/montor-asus-vy229he/m5181807",
+      "price": 1850,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-21T20:00:33Z"
     }
   ],
   "config": {
