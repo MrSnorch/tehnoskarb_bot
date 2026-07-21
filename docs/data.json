@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-21T02:53:47Z",
+  "updated_at": "2026-07-21T05:54:30Z",
   "stats": {
-    "total": 214,
-    "avg_price": 3577,
+    "total": 215,
+    "avg_price": 3573,
     "min_price": 100,
     "max_price": 58000,
     "cities": [
@@ -2555,6 +2555,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s24r650f",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24r650f/m5072693",
+      "price_min": 2590,
+      "price_max": 2590,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Кам`янецька, 11"
+      ],
+      "offers": 13,
+      "first_seen": "2026-07-21T05:53:20Z",
+      "price_history": [
+        {
+          "price": 2590,
+          "at": "2026-07-21T05:53:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Xiaomi mi desktop monitor 1c / rmmnt238nf",
       "url": "https://tehnoskarb.ua/montor-xiaomi-mi-desktop-monitor-1c-rmmnt238nf/m5179782",
       "price_min": 2600,
@@ -4419,15 +4439,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Philips 191ew9fb",
-      "url": "https://tehnoskarb.ua/montor-philips-191ew9fb/m5138394",
-      "price": 330,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-07-09T04:36:09Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Acer ka242ygbi",
       "url": "https://tehnoskarb.ua/montor-acer-ka242ygbi/m5181858",
@@ -6244,6 +6255,15 @@
       "city": "Конотоп",
       "category": "Монітори",
       "at": "2026-07-20T19:13:22Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s24r650f",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24r650f/m5072693",
+      "price": 2590,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-21T05:53:20Z"
     }
   ],
   "config": {
