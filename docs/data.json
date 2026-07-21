@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-21T05:54:30Z",
+  "updated_at": "2026-07-21T08:33:09Z",
   "stats": {
     "total": 215,
-    "avg_price": 3573,
+    "avg_price": 3558,
     "min_price": 100,
     "max_price": 58000,
     "cities": [
@@ -2115,6 +2115,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 24mp58vq-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
+      "price_min": 1750,
+      "price_max": 1750,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-07-21T08:32:56Z",
+      "price_history": [
+        {
+          "price": 1750,
+          "at": "2026-07-21T08:32:56Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Hp p244",
       "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
       "price_min": 1820,
@@ -3510,26 +3528,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey g4",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g4/m5179696",
-      "price_min": 4840,
-      "price_max": 4840,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Братства тарасівців, 2А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-07T16:32:57Z",
-      "price_history": [
-        {
-          "price": 4840,
-          "at": "2026-07-07T16:32:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung odyssey g5 c27g55tqb",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c27g55tqb/m5180698",
       "price_min": 4870,
@@ -4438,24 +4436,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Acer ka242ygbi",
-      "url": "https://tehnoskarb.ua/montor-acer-ka242ygbi/m5181858",
-      "price": 2060,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-07-09T04:36:09Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Gigabyte g25f2",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-g25f2/m5181848",
-      "price": 3700,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-07-09T04:36:09Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung u32j590u",
@@ -6264,6 +6244,24 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-07-21T05:53:20Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey g4",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g4/m5179696",
+      "price": 4840,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-21T08:32:56Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 24mp58vq-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
+      "price": 1750,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-07-21T08:32:56Z"
     }
   ],
   "config": {
