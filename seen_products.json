@@ -297,27 +297,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-03T00:08:52Z"
   },
-  "https://tehnoskarb.ua/montor-lg-l206wtq/m5178437": {
-    "name": "Монітор Lg l206wtq",
-    "price_min": 350,
-    "price_max": 350,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Щербаківського, 45"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 350,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-s19f355hn/m5178343": {
     "name": "Монітор Samsung s19f355hn",
     "price_min": 1350,
@@ -2205,7 +2184,7 @@
   },
   "https://tehnoskarb.ua/montor-philips-223v5l/m5061207": {
     "name": "Монітор Philips 223v5l",
-    "price_min": 730,
+    "price_min": 960,
     "price_max": 1200,
     "city": "Київ",
     "addresses": [
@@ -2214,7 +2193,7 @@
       "м. Київ, б-р Чоколовський, 21",
       "м. Київ, просп. Берестейський, 27"
     ],
-    "offers_count": 4,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -2226,6 +2205,10 @@
       {
         "price": 730,
         "at": "2026-07-07T11:10:19Z"
+      },
+      {
+        "price": 960,
+        "at": "2026-07-22T15:19:35Z"
       }
     ],
     "details_failures": 0,
@@ -2254,13 +2237,13 @@
   "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230": {
     "name": "Монітор Samsung e2220n",
     "price_min": 600,
-    "price_max": 730,
+    "price_max": 600,
     "city": "Львів",
     "addresses": [
       "м. Львів, вул. Промислова, 50/52",
       "м. Київ, вул. О. Архипенка, 1/12"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
