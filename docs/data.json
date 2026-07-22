@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-22T09:28:16Z",
+  "updated_at": "2026-07-22T11:27:23Z",
   "stats": {
-    "total": 206,
-    "avg_price": 3381,
+    "total": 205,
+    "avg_price": 3395,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -689,30 +689,6 @@
         {
           "price": 500,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung syncmaster 932b",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-932b/m5156935",
-      "price_min": 510,
-      "price_max": 510,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Корольова, 80"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 280,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 510,
-          "at": "2026-07-17T14:12:22Z"
         }
       ],
       "category": "Монітори",
@@ -4258,16 +4234,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Msi optix g27c4 e3",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g27c4-e3/m5165161",
-      "price_old": 6300,
-      "price_new": 5700,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-10T08:25:04Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Samsung smart m7",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
       "price_old": 8600,
@@ -6076,6 +6042,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-22T09:27:51Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung syncmaster 932b",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-932b/m5156935",
+      "price": 510,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-07-22T11:26:15Z"
     }
   ],
   "config": {
