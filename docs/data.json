@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-22T15:19:43Z",
+  "updated_at": "2026-07-22T16:55:43Z",
   "stats": {
-    "total": 204,
-    "avg_price": 3411,
+    "total": 205,
+    "avg_price": 3415,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1736,7 +1736,7 @@
       "price_max": 1200,
       "city": "",
       "addresses": [],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-07-05T16:34:33Z",
       "price_history": [
         {
@@ -3248,6 +3248,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lenovo legion r24e",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
+      "price_min": 4250,
+      "price_max": 4250,
+      "city": "Ужгород",
+      "addresses": [
+        "м. Ужгород, вул. Мукачівська, 2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-22T16:55:34Z",
+      "price_history": [
+        {
+          "price": 4250,
+          "at": "2026-07-22T16:55:34Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Philips 272e1c",
       "url": "https://tehnoskarb.ua/montor-philips-272e1c/m5167752",
       "price_min": 4500,
@@ -4216,15 +4236,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lg flatron l1910b",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1910b/m5167050",
-      "price": 310,
-      "city": "Ніжин",
-      "category": "Монітори",
-      "at": "2026-07-10T11:26:10Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Philips 220e1sb",
@@ -6035,6 +6046,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-22T15:19:35Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo legion r24e",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
+      "price": 4250,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-07-22T16:55:34Z"
     }
   ],
   "config": {

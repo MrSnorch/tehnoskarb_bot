@@ -2757,7 +2757,7 @@
     "price_max": 1200,
     "city": "",
     "addresses": [],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-05T16:34:33Z",
@@ -4389,5 +4389,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-22T09:27:51Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020": {
+    "name": "Монітор Lenovo legion r24e",
+    "price_min": 4250,
+    "price_max": 4250,
+    "city": "Ужгород",
+    "addresses": [
+      "м. Ужгород, вул. Мукачівська, 2"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-22T16:55:34Z",
+    "price_history": [
+      {
+        "price": 4250,
+        "at": "2026-07-22T16:55:34Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-22T16:55:34Z"
   }
 }
