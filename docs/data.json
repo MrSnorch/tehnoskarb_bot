@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-23T13:01:17Z",
+  "updated_at": "2026-07-23T15:31:41Z",
   "stats": {
-    "total": 201,
-    "avg_price": 3481,
+    "total": 202,
+    "avg_price": 3472,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1439,7 +1439,7 @@
         "м. Київ, б-р Чоколовський, 21",
         "м. Київ, просп. Берестейський, 27"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -1945,6 +1945,24 @@
         {
           "price": 1670,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg 24mp58vq-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
+      "price_min": 1750,
+      "price_max": 1750,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-07-23T15:31:30Z",
+      "price_history": [
+        {
+          "price": 1750,
+          "at": "2026-07-23T15:31:30Z"
         }
       ],
       "category": "Монітори",
@@ -4166,15 +4184,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Lg 24mp68vq",
-      "url": "https://tehnoskarb.ua/montor-lg-24mp68vq/m5181179",
-      "price": 2000,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-11T06:16:39Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Hp zr22w",
       "url": "https://tehnoskarb.ua/montor-hp-zr22w/m5182062",
       "price": 850,
@@ -5985,6 +5994,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-23T13:01:10Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 24mp58vq-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
+      "price": 1750,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-07-23T15:31:30Z"
     }
   ],
   "config": {
