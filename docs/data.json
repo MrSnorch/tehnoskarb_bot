@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-23T11:26:11Z",
+  "updated_at": "2026-07-23T13:01:17Z",
   "stats": {
-    "total": 202,
-    "avg_price": 3465,
+    "total": 201,
+    "avg_price": 3481,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -128,26 +128,6 @@
       "price_history": [
         {
           "price": 240,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 2043nwx",
-      "url": "https://tehnoskarb.ua/montor-samsung-2043nwx/m5163893",
-      "price_min": 251,
-      "price_max": 251,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 251,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -4186,15 +4166,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Philips 236v3lab/01",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lab-01/m5141554",
-      "price": 870,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-11T06:16:39Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Lg 24mp68vq",
       "url": "https://tehnoskarb.ua/montor-lg-24mp68vq/m5181179",
       "price": 2000,
@@ -6005,6 +5976,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-23T11:25:02Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 2043nwx",
+      "url": "https://tehnoskarb.ua/montor-samsung-2043nwx/m5163893",
+      "price": 251,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-23T13:01:10Z"
     }
   ],
   "config": {
