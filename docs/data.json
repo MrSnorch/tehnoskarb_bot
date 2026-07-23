@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-23T18:47:15Z",
+  "updated_at": "2026-07-23T20:15:03Z",
   "stats": {
-    "total": 202,
-    "avg_price": 3472,
+    "total": 203,
+    "avg_price": 3463,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1927,6 +1927,26 @@
         {
           "price": 1500,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung fx2490hd",
+      "url": "https://tehnoskarb.ua/montor-samsung-fx2490hd/m5077826",
+      "price_min": 1540,
+      "price_max": 1540,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Вишгородська, 56/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-23T20:14:54Z",
+      "price_history": [
+        {
+          "price": 1540,
+          "at": "2026-07-23T20:14:54Z"
         }
       ],
       "category": "Монітори",
@@ -4183,15 +4203,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Hp zr22w",
-      "url": "https://tehnoskarb.ua/montor-hp-zr22w/m5182062",
-      "price": 850,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-11T06:16:39Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Benq gw2280",
       "url": "https://tehnoskarb.ua/montor-benq-gw2280/m5042255",
@@ -6003,6 +6014,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-07-23T15:31:30Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung fx2490hd",
+      "url": "https://tehnoskarb.ua/montor-samsung-fx2490hd/m5077826",
+      "price": 1540,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-23T20:14:54Z"
     }
   ],
   "config": {
