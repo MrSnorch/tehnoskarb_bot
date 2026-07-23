@@ -1,8 +1,8 @@
 {
   "https://tehnoskarb.ua/montor-lg-e2250s/m5180759": {
     "name": "Монітор Lg e2250s",
-    "price_min": 800,
-    "price_max": 800,
+    "price_min": 670,
+    "price_max": 670,
     "city": "Вишневе",
     "addresses": [
       "м. Вишневе, вул. Остапа Вишні, 4"
@@ -15,6 +15,10 @@
       {
         "price": 800,
         "at": "2026-07-02T22:37:11Z"
+      },
+      {
+        "price": 670,
+        "at": "2026-07-23T09:25:32Z"
       }
     ],
     "details_failures": 0,
@@ -22,8 +26,8 @@
   },
   "https://tehnoskarb.ua/montor-fujitsu-b24-8-te-pro/m5180436": {
     "name": "Монітор Fujitsu b24-8 te pro",
-    "price_min": 1600,
-    "price_max": 1600,
+    "price_min": 1500,
+    "price_max": 1500,
     "city": "Вишневе",
     "addresses": [
       "м. Вишневе, вул. Остапа Вишні, 4"
@@ -36,6 +40,10 @@
       {
         "price": 1600,
         "at": "2026-07-02T22:37:11Z"
+      },
+      {
+        "price": 1500,
+        "at": "2026-07-23T09:25:32Z"
       }
     ],
     "details_failures": 0,
@@ -995,27 +1003,6 @@
     "details_last_attempt": "2026-07-23T03:54:16Z",
     "details_retry_at": "2026-07-23T09:54:16Z"
   },
-  "https://tehnoskarb.ua/montor-qube-b24f75-ips/m5159122": {
-    "name": "Монітор Qube b24f75 ips",
-    "price_min": 2540,
-    "price_max": 2540,
-    "city": "Вишневе",
-    "addresses": [
-      "м. Вишневе, вул. Святоюріївська, 11"
-    ],
-    "offers_count": 2,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 2540,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
-  },
   "https://tehnoskarb.ua/montor-acer-v223hq/m5158994": {
     "name": "Монітор Acer v223hq",
     "price_min": 900,
@@ -1170,27 +1157,6 @@
     "details_failures": 70,
     "details_last_attempt": "2026-07-23T03:54:16Z",
     "details_retry_at": "2026-07-23T09:54:16Z"
-  },
-  "https://tehnoskarb.ua/montor-asus-vz249hg/m5154430": {
-    "name": "Монітор Asus vz249hg",
-    "price_min": 2330,
-    "price_max": 2330,
-    "city": "Вишневе",
-    "addresses": [
-      "м. Вишневе, вул. Святоюріївська, 11"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 2330,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
   },
   "https://tehnoskarb.ua/montor-xiaomi-monitor-a24i/m5154283": {
     "name": "Монітор Xiaomi monitor a24i",
@@ -1886,12 +1852,12 @@
   "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212": {
     "name": "Монітор Msi mag 275qf",
     "price_min": 5190,
-    "price_max": 5610,
+    "price_max": 5190,
     "city": "Хмельницький",
     "addresses": [
       "м. Хмельницький, вул. Панаса Мирного, 18-Б"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -2369,7 +2335,7 @@
   },
   "https://tehnoskarb.ua/montor-msi-g2412/m5024355": {
     "name": "Монітор Msi g2412",
-    "price_min": 3990,
+    "price_min": 4320,
     "price_max": 4320,
     "city": "Київ",
     "addresses": [
@@ -2378,7 +2344,7 @@
       "м. Запоріжжя, просп. Соборний, 224",
       "м. Київ, б-р М. Міхновського, 25"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -2390,6 +2356,10 @@
       {
         "price": 3990,
         "at": "2026-07-19T15:31:37Z"
+      },
+      {
+        "price": 4320,
+        "at": "2026-07-23T09:25:32Z"
       }
     ],
     "details_failures": 0,
@@ -4180,26 +4150,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-21T05:53:20Z"
-  },
-  "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379": {
-    "name": "Монітор Lg 24mp58vq-p",
-    "price_min": 1750,
-    "price_max": 1750,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-21T08:32:56Z",
-    "price_history": [
-      {
-        "price": 1750,
-        "at": "2026-07-21T08:32:56Z"
-      }
-    ],
-    "details_failures": 9,
-    "details_last_attempt": "2026-07-23T03:54:16Z",
-    "details_retry_at": "2026-07-23T09:54:16Z"
   },
   "https://tehnoskarb.ua/montor-lenovo-lt2252pwa/m5159261": {
     "name": "Монітор Lenovo lt2252pwa",
