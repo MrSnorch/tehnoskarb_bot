@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-23T03:55:26Z",
+  "updated_at": "2026-07-23T06:31:49Z",
   "stats": {
-    "total": 207,
-    "avg_price": 3476,
+    "total": 209,
+    "avg_price": 3446,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -354,6 +354,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Philips hwc7190t",
+      "url": "https://tehnoskarb.ua/montor-philips-hwc7190t/m5184149",
+      "price_min": 310,
+      "price_max": 310,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Проскурівська, 109"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-23T06:31:36Z",
+      "price_history": [
+        {
+          "price": 310,
+          "at": "2026-07-23T06:31:36Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s19a100n",
       "url": "https://tehnoskarb.ua/montor-samsung-s19a100n/m5098815",
       "price_min": 315,
@@ -406,6 +426,26 @@
         {
           "price": 320,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung b1930n",
+      "url": "https://tehnoskarb.ua/nastlnijj-montor-samsung-b1930n/m5184201",
+      "price_min": 320,
+      "price_max": 320,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Степана Бандери, 89"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-23T06:31:36Z",
+      "price_history": [
+        {
+          "price": 320,
+          "at": "2026-07-23T06:31:36Z"
         }
       ],
       "category": "Монітори",
@@ -903,7 +943,7 @@
         "м. Вишневе, вул. Святошинська, 27",
         "м. Київ, просп. Бажана, 3В (м. Харківська)"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -4277,24 +4317,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Acer sb241y bi",
-      "url": "https://tehnoskarb.ua/montor-acer-sb241y-bi/m5181974",
-      "price": 2110,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-10T11:26:10Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Iiyama prolite e2407hds",
-      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167",
-      "price": 700,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-10T11:26:10Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Hp n223",
       "url": "https://tehnoskarb.ua/montor-hp-n223/m5108257",
@@ -6095,6 +6117,24 @@
       "city": "Івано-Франківськ",
       "category": "Монітори",
       "at": "2026-07-22T19:52:30Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung b1930n",
+      "url": "https://tehnoskarb.ua/nastlnijj-montor-samsung-b1930n/m5184201",
+      "price": 320,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-23T06:31:36Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips hwc7190t",
+      "url": "https://tehnoskarb.ua/montor-philips-hwc7190t/m5184149",
+      "price": 310,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-23T06:31:36Z"
     }
   ],
   "config": {
