@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-24T06:28:19Z",
+  "updated_at": "2026-07-24T09:05:02Z",
   "stats": {
-    "total": 205,
-    "avg_price": 3460,
+    "total": 204,
+    "avg_price": 3474,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1059,27 +1059,6 @@
       "city": "Вінниця",
       "addresses": [
         "м. Вінниця, вул. Замостянська, 37 пр.77"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 650,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg w1942s",
-      "url": "https://tehnoskarb.ua/montor-lg-w1942s/m5144273",
-      "price_min": 650,
-      "price_max": 650,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)",
-        "м. Вишневе, вул. Остапа Вишні, 4"
       ],
       "offers": 1,
       "first_seen": "2026-07-02T22:37:11Z",
@@ -4246,15 +4225,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Dell p2414h",
-      "url": "https://tehnoskarb.ua/montor-dell-p2414h/m5051920",
-      "price": 2100,
-      "city": "Кременчук",
-      "category": "Монітори",
-      "at": "2026-07-11T11:13:41Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Iiyama prolite e2407hds",
       "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167",
       "price": 700,
@@ -6065,6 +6035,15 @@
       "city": "Суми",
       "category": "Монітори",
       "at": "2026-07-24T06:27:43Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg w1942s",
+      "url": "https://tehnoskarb.ua/montor-lg-w1942s/m5144273",
+      "price": 650,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-24T09:04:50Z"
     }
   ],
   "config": {
