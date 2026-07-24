@@ -852,13 +852,13 @@
   "https://tehnoskarb.ua/montor-samsung-c24f396fhi/m5160256": {
     "name": "Монітор Samsung c24f396fhi",
     "price_min": 2680,
-    "price_max": 2680,
+    "price_max": 2710,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Червоної Калини, 26",
       "м. Хмельницький, вул. Панаса Мирного, 18-Б"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -2244,7 +2244,7 @@
   },
   "https://tehnoskarb.ua/montor-msi-g2412/m5024355": {
     "name": "Монітор Msi g2412",
-    "price_min": 4320,
+    "price_min": 3990,
     "price_max": 4320,
     "city": "Київ",
     "addresses": [
@@ -2253,7 +2253,7 @@
       "м. Запоріжжя, просп. Соборний, 224",
       "м. Київ, б-р М. Міхновського, 25"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -2269,6 +2269,10 @@
       {
         "price": 4320,
         "at": "2026-07-23T09:25:32Z"
+      },
+      {
+        "price": 3990,
+        "at": "2026-07-24T06:27:43Z"
       }
     ],
     "details_failures": 0,
@@ -3745,27 +3749,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-17T21:21:28Z"
   },
-  "https://tehnoskarb.ua/montor-anmite-a160w03/m5182370": {
-    "name": "Монітор Anmite a160w03",
-    "price_min": 2670,
-    "price_max": 2670,
-    "city": "Новий Розділ",
-    "addresses": [
-      "м. Новий Розділ, просп. Тараса Шевченка, 34"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-18T19:08:57Z",
-    "price_history": [
-      {
-        "price": 2670,
-        "at": "2026-07-18T19:08:57Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-18T19:08:57Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-s31c-ls24c310e/m5183471": {
     "name": "Монітор Samsung s31c / ls24c310e",
     "price_min": 3200,
@@ -4060,27 +4043,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-21T18:16:34Z"
   },
-  "https://tehnoskarb.ua/montor-aoc-c24g2/m5183953": {
-    "name": "Монітор Aoc c24g2",
-    "price_min": 4000,
-    "price_max": 4000,
-    "city": "Суми",
-    "addresses": [
-      "м. Суми, просп. Перемоги, 115"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-21T21:39:42Z",
-    "price_history": [
-      {
-        "price": 4000,
-        "at": "2026-07-21T21:39:42Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-21T21:39:42Z"
-  },
   "https://tehnoskarb.ua/montor-lenovo-legion-25-10/m5183970": {
     "name": "Монітор Lenovo legion 25-10",
     "price_min": 4800,
@@ -4228,27 +4190,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-22T09:27:51Z"
   },
-  "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020": {
-    "name": "Монітор Lenovo legion r24e",
-    "price_min": 4250,
-    "price_max": 4250,
-    "city": "Ужгород",
-    "addresses": [
-      "м. Ужгород, вул. Мукачівська, 2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-22T16:55:34Z",
-    "price_history": [
-      {
-        "price": 4250,
-        "at": "2026-07-22T16:55:34Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-22T16:55:34Z"
-  },
   "https://tehnoskarb.ua/montor-hp-p34hc-g4-curved/m5184076": {
     "name": "Монітор Hp p34hc g4 curved",
     "price_min": 14860,
@@ -4373,5 +4314,109 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-23T20:14:54Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175": {
+    "name": "Монітор Samsung syncmaster 913n",
+    "price_min": 400,
+    "price_max": 400,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Воскресенський, 34/2"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-24T06:27:43Z",
+    "price_history": [
+      {
+        "price": 400,
+        "at": "2026-07-24T06:27:43Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-24T06:27:43Z"
+  },
+  "https://tehnoskarb.ua/montor-portativnijj-zsus-pm14tt-2k/m5176376": {
+    "name": "Монітор портативний Zsus pm14tt-2k",
+    "price_min": 3100,
+    "price_max": 3100,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-24T06:27:43Z",
+    "price_history": [
+      {
+        "price": 3100,
+        "at": "2026-07-24T06:27:43Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-07-24T06:27:43Z",
+    "details_retry_at": "2026-07-24T06:57:43Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368": {
+    "name": "Монітор Asus rog strix xg27acs-w",
+    "price_min": 8500,
+    "price_max": 8500,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, б-р Чоколовський, 21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-24T06:27:43Z",
+    "price_history": [
+      {
+        "price": 8500,
+        "at": "2026-07-24T06:27:43Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-24T06:27:43Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-optix-g2712/m5147416": {
+    "name": "Монітор Msi optix g2712",
+    "price_min": 4900,
+    "price_max": 4900,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Воскресенський, 34/2"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-24T06:27:43Z",
+    "price_history": [
+      {
+        "price": 4900,
+        "at": "2026-07-24T06:27:43Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-24T06:27:43Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-b2030n/m5016638": {
+    "name": "Монітор Samsung b2030n",
+    "price_min": 750,
+    "price_max": 750,
+    "city": "Суми",
+    "addresses": [
+      "м. Суми, просп. Перемоги, 115"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-24T06:27:43Z",
+    "price_history": [
+      {
+        "price": 750,
+        "at": "2026-07-24T06:27:43Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-24T06:27:43Z"
   }
 }
