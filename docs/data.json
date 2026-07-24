@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-24T11:18:39Z",
+  "updated_at": "2026-07-24T12:59:12Z",
   "stats": {
-    "total": 202,
-    "avg_price": 3503,
+    "total": 200,
+    "avg_price": 3491,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2916,26 +2916,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey g3 f24g33tfw",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215",
-      "price_min": 3690,
-      "price_max": 3690,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Червоної Калини, 47"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-20T10:54:35Z",
-      "price_history": [
-        {
-          "price": 3690,
-          "at": "2026-07-20T10:54:35Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer sb272ebi",
       "url": "https://tehnoskarb.ua/montor-acer-sb272ebi/m5178108",
       "price_min": 3700,
@@ -3437,30 +3417,6 @@
         {
           "price": 5500,
           "at": "2026-07-10T11:26:10Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi optix g27c4 e3",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g27c4-e3/m5165161",
-      "price_min": 5700,
-      "price_max": 5700,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Воскресенський, 34/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 6300,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 5700,
-          "at": "2026-07-10T08:25:04Z"
         }
       ],
       "category": "Монітори",
@@ -4183,24 +4139,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Xiaomi mi desktop monitor 27 bhr4975eu",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-desktop-monitor-27-bhr4975eu/m5179988",
-      "price": 4380,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-07-11T15:30:48Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Chiq 27f690",
-      "url": "https://tehnoskarb.ua/montor-chiq-27f690/m5181091",
-      "price": 2900,
-      "city": "Калуш",
-      "category": "Монітори",
-      "at": "2026-07-11T15:30:48Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung gs19eeee",
@@ -6004,6 +5942,24 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-07-24T11:17:25Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix g27c4 e3",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g27c4-e3/m5165161",
+      "price": 5700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-24T12:59:02Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey g3 f24g33tfw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215",
+      "price": 3690,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-24T12:59:02Z"
     }
   ],
   "config": {
