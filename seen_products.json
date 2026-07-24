@@ -4242,9 +4242,9 @@
         "at": "2026-07-24T06:27:43Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-07-24T11:17:25Z",
-    "details_retry_at": "2026-07-24T13:17:25Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-07-24T15:02:16Z",
+    "details_retry_at": "2026-07-24T19:02:16Z"
   },
   "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368": {
     "name": "Монітор Asus rog strix xg27acs-w",
@@ -4308,5 +4308,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-24T06:27:43Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215": {
+    "name": "Монітор Samsung odyssey g3 f24g33tfw",
+    "price_min": 3690,
+    "price_max": 3690,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Червоної Калини, 47"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-24T15:02:16Z",
+    "price_history": [
+      {
+        "price": 3690,
+        "at": "2026-07-24T15:02:16Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-24T15:02:16Z"
   }
 }
