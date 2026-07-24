@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-24T15:02:29Z",
+  "updated_at": "2026-07-24T17:05:54Z",
   "stats": {
-    "total": 201,
-    "avg_price": 3492,
+    "total": 200,
+    "avg_price": 3507,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -823,26 +823,6 @@
       "city": "Київ",
       "addresses": [
         "м. Київ, вул. Гната Юри, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 550,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 206bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-206bw/m5008710",
-      "price_min": 550,
-      "price_max": 550,
-      "city": "Вишневе",
-      "addresses": [
-        "м. Вишневе, вул. Святошинська, 27"
       ],
       "offers": 1,
       "first_seen": "2026-07-02T22:37:11Z",
@@ -4160,16 +4140,6 @@
   ],
   "events": [
     {
-      "type": "rise",
-      "name": "Монітор Lg w1943ss",
-      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
-      "price_old": 400,
-      "price_new": 495,
-      "city": "Золочів",
-      "category": "Монітори",
-      "at": "2026-07-11T17:00:39Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Samsung b2240w",
       "url": "https://tehnoskarb.ua/montor-samsung-b2240w/m5057742",
@@ -5980,6 +5950,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-24T15:02:16Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 206bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-206bw/m5008710",
+      "price": 550,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-07-24T17:05:46Z"
     }
   ],
   "config": {
