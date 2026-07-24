@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-24T18:59:45Z",
+  "updated_at": "2026-07-24T20:35:45Z",
   "stats": {
-    "total": 201,
+    "total": 202,
     "avg_price": 3518,
     "min_price": 100,
     "max_price": 35440,
@@ -2734,6 +2734,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi mag 244c",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
+      "price_min": 3400,
+      "price_max": 3400,
+      "city": "Тернопіль",
+      "addresses": [
+        "м. Тернопіль, вул. Мазепи, 5"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-24T20:35:32Z",
+      "price_history": [
+        {
+          "price": 3400,
+          "at": "2026-07-24T20:35:32Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор 2E 2e-h2420b",
       "url": "https://tehnoskarb.ua/montor-2e-2e-h2420b/m5176124",
       "price_min": 3500,
@@ -4159,16 +4179,6 @@
     }
   ],
   "events": [
-    {
-      "type": "rise",
-      "name": "Монітор Eizo flexscan ev2430",
-      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
-      "price_old": 4570,
-      "price_new": 5760,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-07-12T09:04:08Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung 2223nw",
@@ -5979,6 +5989,15 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-07-24T18:58:31Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi mag 244c",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
+      "price": 3400,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-07-24T20:35:32Z"
     }
   ],
   "config": {
