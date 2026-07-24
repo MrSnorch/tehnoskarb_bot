@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-24T17:05:54Z",
+  "updated_at": "2026-07-24T18:59:45Z",
   "stats": {
-    "total": 200,
-    "avg_price": 3507,
+    "total": 201,
+    "avg_price": 3518,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -915,26 +915,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 206v3l",
-      "url": "https://tehnoskarb.ua/montor-philips-206v3l/m5168988",
-      "price_min": 600,
-      "price_max": 600,
-      "city": "Калуш",
-      "addresses": [
-        "м. Калуш, вул. Богдана Хмельницького, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 600,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung e2220n",
       "url": "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230",
       "price_min": 600,
@@ -1623,6 +1603,26 @@
         {
           "price": 1100,
           "at": "2026-07-08T21:10:13Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung ls22b300",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls22b300/m5140878",
+      "price_min": 1100,
+      "price_max": 1100,
+      "city": "Чернівці",
+      "addresses": [
+        "м. Чернівці, вул. Героїв майдану, 48"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-24T18:58:31Z",
+      "price_history": [
+        {
+          "price": 1100,
+          "at": "2026-07-24T18:58:31Z"
         }
       ],
       "category": "Монітори",
@@ -3379,6 +3379,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Iiyama g-master eagle g2770hsu-b1",
+      "url": "https://tehnoskarb.ua/montor-iiyama-g-master-eagle-g2770hsu-b1/m5184508",
+      "price_min": 5240,
+      "price_max": 5240,
+      "city": "Ужгород",
+      "addresses": [
+        "м. Ужгород, вул. Грушевського, 67"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-24T18:58:31Z",
+      "price_history": [
+        {
+          "price": 5240,
+          "at": "2026-07-24T18:58:31Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lenovo thinkvision t27i-30",
       "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091",
       "price_min": 5250,
@@ -4139,33 +4159,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung b2240w",
-      "url": "https://tehnoskarb.ua/montor-samsung-b2240w/m5057742",
-      "price": 680,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-07-11T18:26:57Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg flatron w1930s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-w1930s/m5173068",
-      "price": 550,
-      "city": "Ромни",
-      "category": "Монітори",
-      "at": "2026-07-12T06:35:33Z"
-    },
-    {
-      "type": "sold",
-      "name": "Tft панель Delta Electronics dop-b05s111",
-      "url": "https://tehnoskarb.ua/tft-panel-operatora-delta-electronics-dop-b05s111/m5152927",
-      "price": 1900,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-07-12T09:04:08Z"
-    },
     {
       "type": "rise",
       "name": "Монітор Eizo flexscan ev2430",
@@ -5959,6 +5952,33 @@
       "city": "Вишневе",
       "category": "Монітори",
       "at": "2026-07-24T17:05:46Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 206v3l",
+      "url": "https://tehnoskarb.ua/montor-philips-206v3l/m5168988",
+      "price": 600,
+      "city": "Калуш",
+      "category": "Монітори",
+      "at": "2026-07-24T18:58:31Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Iiyama g-master eagle g2770hsu-b1",
+      "url": "https://tehnoskarb.ua/montor-iiyama-g-master-eagle-g2770hsu-b1/m5184508",
+      "price": 5240,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-07-24T18:58:31Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung ls22b300",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls22b300/m5140878",
+      "price": 1100,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-07-24T18:58:31Z"
     }
   ],
   "config": {
