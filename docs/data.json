@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-24T09:05:02Z",
+  "updated_at": "2026-07-24T11:18:39Z",
   "stats": {
-    "total": 204,
-    "avg_price": 3474,
+    "total": 202,
+    "avg_price": 3503,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -328,26 +328,6 @@
         {
           "price": 310,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips hwc7190t",
-      "url": "https://tehnoskarb.ua/montor-philips-hwc7190t/m5184149",
-      "price_min": 310,
-      "price_max": 310,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Проскурівська, 109"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-23T06:31:36Z",
-      "price_history": [
-        {
-          "price": 310,
-          "at": "2026-07-23T06:31:36Z"
         }
       ],
       "category": "Монітори",
@@ -1025,26 +1005,6 @@
       "price_history": [
         {
           "price": 630,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 236v3lsb",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
-      "price_min": 650,
-      "price_max": 650,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Білоруська, 8"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 650,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -4225,24 +4185,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Iiyama prolite e2407hds",
-      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-e2407hds/m5178167",
-      "price": 700,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-11T11:13:41Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 23ea53tp",
-      "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
-      "price": 1000,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-07-11T11:13:41Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Xiaomi mi desktop monitor 27 bhr4975eu",
       "url": "https://tehnoskarb.ua/montor-xiaomi-mi-desktop-monitor-27-bhr4975eu/m5179988",
       "price": 4380,
@@ -6044,6 +5986,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-24T09:04:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 236v3lsb",
+      "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
+      "price": 650,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-24T11:17:25Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips hwc7190t",
+      "url": "https://tehnoskarb.ua/montor-philips-hwc7190t/m5184149",
+      "price": 310,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-24T11:17:25Z"
     }
   ],
   "config": {
