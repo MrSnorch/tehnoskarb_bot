@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-25T15:05:11Z",
+  "updated_at": "2026-07-25T16:27:01Z",
   "stats": {
     "total": 205,
-    "avg_price": 3419,
+    "avg_price": 3423,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -20,6 +20,7 @@
       "Дрогобич",
       "Жмеринка",
       "Запоріжжя",
+      "Звягель (Новоград-Волинський)",
       "Золочів",
       "Калуш",
       "Київ",
@@ -2213,26 +2214,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung ls24d300gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gai/m5182092",
-      "price_min": 2260,
-      "price_max": 2260,
-      "city": "Миколаїв",
-      "addresses": [
-        "м. Миколаїв, просп. Богоявленський, 20/9"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-10T17:53:52Z",
-      "price_history": [
-        {
-          "price": 2260,
-          "at": "2026-07-10T17:53:52Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s24c330g",
       "url": "https://tehnoskarb.ua/montor-samsung-s24c330g/m5039521",
       "price_min": 2310,
@@ -2638,6 +2619,26 @@
         {
           "price": 3000,
           "at": "2026-07-09T19:08:03Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Prologix gm2425c",
+      "url": "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801",
+      "price_min": 3000,
+      "price_max": 3000,
+      "city": "Звягель (Новоград-Волинський)",
+      "addresses": [
+        "м. Звягель (Новоград-Волинський), вул. Тараса Шевченка, 10"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-25T16:25:49Z",
+      "price_history": [
+        {
+          "price": 3000,
+          "at": "2026-07-25T16:25:49Z"
         }
       ],
       "category": "Монітори",
@@ -4231,24 +4232,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Benq zowie xl2411p",
-      "url": "https://tehnoskarb.ua/montor-benq-zowie-xl2411p/m5147920",
-      "price": 3300,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-13T06:56:05Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Acer eb192qbbi",
-      "url": "https://tehnoskarb.ua/montor-acer-eb192qbbi/m5176018",
-      "price": 1570,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-13T10:31:20Z"
-    },
     {
       "type": "new",
       "name": "Монітор Philips 227e4lsb",
@@ -6049,6 +6032,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-25T13:40:09Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung ls24d300gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gai/m5182092",
+      "price": 2260,
+      "city": "Миколаїв",
+      "category": "Монітори",
+      "at": "2026-07-25T16:25:49Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Prologix gm2425c",
+      "url": "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801",
+      "price": 3000,
+      "city": "Звягель (Новоград-Волинський)",
+      "category": "Монітори",
+      "at": "2026-07-25T16:25:49Z"
     }
   ],
   "config": {
