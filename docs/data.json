@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-25T10:09:31Z",
+  "updated_at": "2026-07-25T11:44:54Z",
   "stats": {
-    "total": 205,
+    "total": 203,
     "avg_price": 3445,
     "min_price": 100,
     "max_price": 35440,
@@ -20,7 +20,6 @@
       "Дрогобич",
       "Жмеринка",
       "Запоріжжя",
-      "Звягель (Новоград-Волинський)",
       "Золочів",
       "Калуш",
       "Київ",
@@ -2006,30 +2005,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp p244",
-      "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
-      "price_min": 1820,
-      "price_max": 2030,
-      "city": "Полтава",
-      "addresses": [
-        "м. Полтава, вул. Європейська, 22"
-      ],
-      "offers": 2,
-      "first_seen": "2026-07-14T20:14:34Z",
-      "price_history": [
-        {
-          "price": 2030,
-          "at": "2026-07-14T20:14:34Z"
-        },
-        {
-          "price": 1820,
-          "at": "2026-07-15T05:53:31Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vz229",
       "url": "https://tehnoskarb.ua/montor-asus-vz229/m5149410",
       "price_min": 1860,
@@ -2104,6 +2079,34 @@
         {
           "price": 1970,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Hp p244",
+      "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
+      "price_min": 2030,
+      "price_max": 2030,
+      "city": "Полтава",
+      "addresses": [
+        "м. Полтава, вул. Європейська, 22"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-14T20:14:34Z",
+      "price_history": [
+        {
+          "price": 2030,
+          "at": "2026-07-14T20:14:34Z"
+        },
+        {
+          "price": 1820,
+          "at": "2026-07-15T05:53:31Z"
+        },
+        {
+          "price": 2030,
+          "at": "2026-07-25T11:44:41Z"
         }
       ],
       "category": "Монітори",
@@ -2595,26 +2598,6 @@
         {
           "price": 3000,
           "at": "2026-07-09T19:08:03Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Prologix gm2425c",
-      "url": "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801",
-      "price_min": 3000,
-      "price_max": 3000,
-      "city": "Звягель (Новоград-Волинський)",
-      "addresses": [
-        "м. Звягель (Новоград-Волинський), вул. Тараса Шевченка, 10"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-12T18:27:41Z",
-      "price_history": [
-        {
-          "price": 3000,
-          "at": "2026-07-12T18:27:41Z"
         }
       ],
       "category": "Монітори",
@@ -3203,30 +3186,6 @@
         {
           "price": 4050,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Aoc 24p1",
-      "url": "https://tehnoskarb.ua/montor-aoc-24p1/m5123527",
-      "price_min": 4100,
-      "price_max": 4100,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, вул. Дудинської, 1-А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 4500,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 4100,
-          "at": "2026-07-21T11:10:20Z"
         }
       ],
       "category": "Монітори",
@@ -3897,7 +3856,7 @@
       "addresses": [
         "м. Ужгород, вул. Мукачівська, 2"
       ],
-      "offers": 4,
+      "offers": 3,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -4232,34 +4191,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Prologix gm2425c",
-      "url": "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801",
-      "price": 3000,
-      "city": "Звягель (Новоград-Волинський)",
-      "category": "Монітори",
-      "at": "2026-07-12T18:27:41Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Lg 24mp59g-p",
-      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
-      "price_old": 800,
-      "price_new": 2400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-12T18:27:41Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg l1753s",
-      "url": "https://tehnoskarb.ua/montor-lg-l1753s/m5045737",
-      "price": 300,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-07-12T18:27:41Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung 226bw",
@@ -6050,6 +5981,34 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-25T10:08:16Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc 24p1",
+      "url": "https://tehnoskarb.ua/montor-aoc-24p1/m5123527",
+      "price": 4100,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-07-25T11:44:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Prologix gm2425c",
+      "url": "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801",
+      "price": 3000,
+      "city": "Звягель (Новоград-Волинський)",
+      "category": "Монітори",
+      "at": "2026-07-25T11:44:41Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Hp p244",
+      "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
+      "price_old": 1820,
+      "price_new": 2030,
+      "city": "Полтава",
+      "category": "Монітори",
+      "at": "2026-07-25T11:44:41Z"
     }
   ],
   "config": {

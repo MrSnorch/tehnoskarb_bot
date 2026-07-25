@@ -1452,31 +1452,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-03T00:08:52Z"
   },
-  "https://tehnoskarb.ua/montor-aoc-24p1/m5123527": {
-    "name": "Монітор Aoc 24p1",
-    "price_min": 4100,
-    "price_max": 4100,
-    "city": "Харків",
-    "addresses": [
-      "м. Харків, вул. Дудинської, 1-А"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 4500,
-        "at": "2026-07-02T22:37:11Z"
-      },
-      {
-        "price": 4100,
-        "at": "2026-07-21T11:10:20Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
-  },
   "https://tehnoskarb.ua/montor-acer-v233hbd/m5121988": {
     "name": "Монітор Acer v233hbd",
     "price_min": 800,
@@ -2070,7 +2045,7 @@
     "addresses": [
       "м. Ужгород, вул. Мукачівська, 2"
     ],
-    "offers_count": 4,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -3069,27 +3044,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-12T18:27:41Z"
   },
-  "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801": {
-    "name": "Монітор Prologix gm2425c",
-    "price_min": 3000,
-    "price_max": 3000,
-    "city": "Звягель (Новоград-Волинський)",
-    "addresses": [
-      "м. Звягель (Новоград-Волинський), вул. Тараса Шевченка, 10"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-12T18:27:41Z",
-    "price_history": [
-      {
-        "price": 3000,
-        "at": "2026-07-12T18:27:41Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-12T18:27:41Z"
-  },
   "https://tehnoskarb.ua/montor-lg-l1753s/m5045737": {
     "name": "Монітор Lg l1753s",
     "price_min": 300,
@@ -3239,13 +3193,13 @@
   },
   "https://tehnoskarb.ua/montor-hp-p244/m5173198": {
     "name": "Монітор Hp p244",
-    "price_min": 1820,
+    "price_min": 2030,
     "price_max": 2030,
     "city": "Полтава",
     "addresses": [
       "м. Полтава, вул. Європейська, 22"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-14T20:14:34Z",
@@ -3257,6 +3211,10 @@
       {
         "price": 1820,
         "at": "2026-07-15T05:53:31Z"
+      },
+      {
+        "price": 2030,
+        "at": "2026-07-25T11:44:41Z"
       }
     ],
     "details_failures": 0,
