@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-25T11:44:54Z",
+  "updated_at": "2026-07-25T13:40:30Z",
   "stats": {
-    "total": 203,
-    "avg_price": 3445,
+    "total": 205,
+    "avg_price": 3419,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1072,6 +1072,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Philips 223v7qsb",
+      "url": "https://tehnoskarb.ua/montor-philips-223v7qsb/m5154740",
+      "price_min": 650,
+      "price_max": 650,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Спаська, 5"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-25T13:40:09Z",
+      "price_history": [
+        {
+          "price": 650,
+          "at": "2026-07-25T13:40:09Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Philips 196v3l",
       "url": "https://tehnoskarb.ua/montor-philips-196v3l/m5081628",
       "price_min": 660,
@@ -1316,6 +1336,26 @@
         {
           "price": 840,
           "at": "2026-07-11T08:19:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell se2219",
+      "url": "https://tehnoskarb.ua/montor-dell-se2219/m5184091",
+      "price_min": 850,
+      "price_max": 850,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Спаська, 5"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-25T13:40:09Z",
+      "price_history": [
+        {
+          "price": 850,
+          "at": "2026-07-25T13:40:09Z"
         }
       ],
       "category": "Монітори",
@@ -4192,24 +4232,6 @@
   ],
   "events": [
     {
-      "type": "new",
-      "name": "Монітор Samsung 226bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-226bw/m5019166",
-      "price": 450,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-07-12T18:27:41Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Msi optix mag241c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
-      "price": 2401,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-13T06:56:05Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Benq zowie xl2411p",
       "url": "https://tehnoskarb.ua/montor-benq-zowie-xl2411p/m5147920",
@@ -6009,6 +6031,24 @@
       "city": "Полтава",
       "category": "Монітори",
       "at": "2026-07-25T11:44:41Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell se2219",
+      "url": "https://tehnoskarb.ua/montor-dell-se2219/m5184091",
+      "price": 850,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-25T13:40:09Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 223v7qsb",
+      "url": "https://tehnoskarb.ua/montor-philips-223v7qsb/m5154740",
+      "price": 650,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-25T13:40:09Z"
     }
   ],
   "config": {
