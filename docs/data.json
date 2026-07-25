@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-25T17:31:59Z",
+  "updated_at": "2026-07-25T19:11:15Z",
   "stats": {
-    "total": 206,
-    "avg_price": 3417,
+    "total": 207,
+    "avg_price": 3403,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1087,6 +1087,26 @@
         {
           "price": 650,
           "at": "2026-07-25T13:40:09Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 236v3lsb",
+      "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
+      "price_min": 650,
+      "price_max": 650,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р М. Міхновського, 25"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-25T19:10:57Z",
+      "price_history": [
+        {
+          "price": 650,
+          "at": "2026-07-25T19:10:57Z"
         }
       ],
       "category": "Монітори",
@@ -4253,15 +4273,6 @@
   ],
   "events": [
     {
-      "type": "new",
-      "name": "Монітор Msi optix mag241c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
-      "price": 2401,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-13T10:31:20Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Samsung 226bw",
       "url": "https://tehnoskarb.ua/montor-samsung-226bw/m5019166",
@@ -6070,6 +6081,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-25T17:31:49Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 236v3lsb",
+      "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
+      "price": 650,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-25T19:10:57Z"
     }
   ],
   "config": {
