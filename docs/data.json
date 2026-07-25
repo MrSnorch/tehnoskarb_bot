@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-25T08:09:47Z",
+  "updated_at": "2026-07-25T10:09:31Z",
   "stats": {
-    "total": 206,
-    "avg_price": 3433,
+    "total": 205,
+    "avg_price": 3445,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1323,26 +1323,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lenovo lt2252pwa",
-      "url": "https://tehnoskarb.ua/montor-lenovo-lt2252pwa/m5159261",
-      "price_min": 850,
-      "price_max": 850,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-21T18:16:34Z",
-      "price_history": [
-        {
-          "price": 850,
-          "at": "2026-07-21T18:16:34Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s22a300n",
       "url": "https://tehnoskarb.ua/montor-samsung-s22a300n/m5091704",
       "price_min": 880,
@@ -2414,7 +2394,7 @@
       "addresses": [
         "м. Хмельницький, вул. Кам`янецька, 11"
       ],
-      "offers": 13,
+      "offers": 12,
       "first_seen": "2026-07-21T05:53:20Z",
       "price_history": [
         {
@@ -4254,15 +4234,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lenovo thinkvision t2224pd",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2224pd/m5182252",
-      "price": 1250,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-07-12T18:27:41Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Prologix gm2425c",
       "url": "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801",
       "price": 3000,
@@ -6070,6 +6041,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-07-25T05:44:47Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo lt2252pwa",
+      "url": "https://tehnoskarb.ua/montor-lenovo-lt2252pwa/m5159261",
+      "price": 850,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-25T10:08:16Z"
     }
   ],
   "config": {
