@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-26T15:39:44Z",
+  "updated_at": "2026-07-26T17:04:37Z",
   "stats": {
-    "total": 208,
-    "avg_price": 3297,
+    "total": 207,
+    "avg_price": 3311,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -464,26 +464,6 @@
         {
           "price": 350,
           "at": "2026-07-05T18:05:35Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg l1752s",
-      "url": "https://tehnoskarb.ua/montor-lg-l1752s/m5064683",
-      "price_min": 350,
-      "price_max": 350,
-      "city": "Стрий",
-      "addresses": [
-        "м. Стрий, вул. Валова, 2/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-08T21:10:13Z",
-      "price_history": [
-        {
-          "price": 350,
-          "at": "2026-07-08T21:10:13Z"
         }
       ],
       "category": "Монітори",
@@ -4302,15 +4282,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Benq zowie xl2411p",
-      "url": "https://tehnoskarb.ua/montor-benq-zowie-xl2411p/m5147920",
-      "price": 3300,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-14T14:24:47Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Lg l1750u",
       "url": "https://tehnoskarb.ua/montor-lg-l1750u/m5177876",
       "price": 350,
@@ -6118,6 +6089,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-07-26T15:39:16Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg l1752s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1752s/m5064683",
+      "price": 350,
+      "city": "Стрий",
+      "category": "Монітори",
+      "at": "2026-07-26T17:04:18Z"
     }
   ],
   "config": {
