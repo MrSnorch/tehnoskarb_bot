@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-26T20:11:42Z",
+  "updated_at": "2026-07-26T21:27:24Z",
   "stats": {
-    "total": 209,
-    "avg_price": 3287,
+    "total": 210,
+    "avg_price": 3285,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2657,6 +2657,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Aoc g2590fx",
+      "url": "https://tehnoskarb.ua/montor-aoc-g2590fx/m5184862",
+      "price_min": 2760,
+      "price_max": 2760,
+      "city": "Суми",
+      "addresses": [
+        "м. Суми, вул. Іллінська, 7"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-26T21:27:11Z",
+      "price_history": [
+        {
+          "price": 2760,
+          "at": "2026-07-26T21:27:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Acer ek251qgbi",
       "url": "https://tehnoskarb.ua/montor-acer-ek251qgbi/m5133742",
       "price_min": 2790,
@@ -4325,15 +4345,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Benq gl2460",
-      "url": "https://tehnoskarb.ua/montor-benq-gl2460/m5165717",
-      "price": 1250,
-      "city": "Тернопіль",
-      "category": "Монітори",
-      "at": "2026-07-14T20:14:34Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi mag 244c",
@@ -6144,6 +6155,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-26T18:32:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc g2590fx",
+      "url": "https://tehnoskarb.ua/montor-aoc-g2590fx/m5184862",
+      "price": 2760,
+      "city": "Суми",
+      "category": "Монітори",
+      "at": "2026-07-26T21:27:11Z"
     }
   ],
   "config": {

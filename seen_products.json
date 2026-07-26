@@ -4398,9 +4398,9 @@
         "at": "2026-07-26T15:39:16Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-07-26T18:32:07Z",
-    "details_retry_at": "2026-07-26T20:32:07Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-07-26T21:27:11Z",
+    "details_retry_at": "2026-07-27T01:27:11Z"
   },
   "https://tehnoskarb.ua/montor-eizo-flexscan-ev2316w/m5143535": {
     "name": "Монітор Eizo flexscan ev2316w",
@@ -4439,9 +4439,9 @@
         "at": "2026-07-26T15:39:16Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-07-26T18:32:07Z",
-    "details_retry_at": "2026-07-26T20:32:07Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-07-26T21:27:11Z",
+    "details_retry_at": "2026-07-27T01:27:11Z"
   },
   "https://tehnoskarb.ua/montor-samsung-lt22c350/m5184893": {
     "name": "Монітор Samsung lt22c350",
@@ -4506,5 +4506,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-26T18:32:07Z"
+  },
+  "https://tehnoskarb.ua/montor-aoc-g2590fx/m5184862": {
+    "name": "Монітор Aoc g2590fx",
+    "price_min": 2760,
+    "price_max": 2760,
+    "city": "Суми",
+    "addresses": [
+      "м. Суми, вул. Іллінська, 7"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-26T21:27:11Z",
+    "price_history": [
+      {
+        "price": 2760,
+        "at": "2026-07-26T21:27:11Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-26T21:27:11Z"
   }
 }
