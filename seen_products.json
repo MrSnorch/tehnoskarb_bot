@@ -217,7 +217,7 @@
     "addresses": [
       "м. Запоріжжя, вул. Ентузіастів, 3"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -1242,13 +1242,13 @@
   },
   "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480": {
     "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
-    "price_min": 2770,
+    "price_min": 2600,
     "price_max": 3330,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -1256,6 +1256,10 @@
       {
         "price": 2770,
         "at": "2026-07-02T22:37:11Z"
+      },
+      {
+        "price": 2600,
+        "at": "2026-07-26T18:32:07Z"
       }
     ],
     "details_failures": 0,
@@ -1547,12 +1551,12 @@
   "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212": {
     "name": "Монітор Msi mag 275qf",
     "price_min": 5190,
-    "price_max": 5190,
+    "price_max": 5610,
     "city": "Хмельницький",
     "addresses": [
       "м. Хмельницький, вул. Панаса Мирного, 18-Б"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -4090,12 +4094,12 @@
   "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904": {
     "name": "Монітор Msi mag 244c",
     "price_min": 3400,
-    "price_max": 3400,
+    "price_max": 3590,
     "city": "Тернопіль",
     "addresses": [
       "м. Тернопіль, вул. Мазепи, 5"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-24T20:35:32Z",
@@ -4357,27 +4361,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-26T14:08:35Z"
   },
-  "https://tehnoskarb.ua/montor-asus-zenscreen-mb166c/m5183364": {
-    "name": "Монітор Asus zenscreen mb166c",
-    "price_min": 3800,
-    "price_max": 3800,
-    "city": "Ужгород",
-    "addresses": [
-      "м. Ужгород, вул. Мукачівська, 2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-26T15:39:16Z",
-    "price_history": [
-      {
-        "price": 3800,
-        "at": "2026-07-26T15:39:16Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-26T15:39:16Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-ls24d300gai/m5182092": {
     "name": "Монітор Samsung ls24d300gai",
     "price_min": 2260,
@@ -4415,9 +4398,9 @@
         "at": "2026-07-26T15:39:16Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-07-26T17:04:18Z",
-    "details_retry_at": "2026-07-26T18:04:18Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-07-26T18:32:07Z",
+    "details_retry_at": "2026-07-26T20:32:07Z"
   },
   "https://tehnoskarb.ua/montor-eizo-flexscan-ev2316w/m5143535": {
     "name": "Монітор Eizo flexscan ev2316w",
@@ -4456,8 +4439,72 @@
         "at": "2026-07-26T15:39:16Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-07-26T17:04:18Z",
-    "details_retry_at": "2026-07-26T18:04:18Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-07-26T18:32:07Z",
+    "details_retry_at": "2026-07-26T20:32:07Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-lt22c350/m5184893": {
+    "name": "Монітор Samsung lt22c350",
+    "price_min": 1260,
+    "price_max": 1260,
+    "city": "Одеса",
+    "addresses": [
+      "м. Одеса, просп. Добровольського, 75-А"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-26T18:32:07Z",
+    "price_history": [
+      {
+        "price": 1260,
+        "at": "2026-07-26T18:32:07Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-26T18:32:07Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-mag-242f/m5162284": {
+    "name": "Монітор Msi mag 242f",
+    "price_min": 3750,
+    "price_max": 3850,
+    "city": "Чернівці",
+    "addresses": [
+      "м. Чернівці, просп. Незалежності, 82",
+      "м. Харків, вул. Дудинської, 1-А"
+    ],
+    "offers_count": 2,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-26T18:32:07Z",
+    "price_history": [
+      {
+        "price": 3750,
+        "at": "2026-07-26T18:32:07Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-26T18:32:07Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-w1942s/m5144273": {
+    "name": "Монітор Lg w1942s",
+    "price_min": 650,
+    "price_max": 650,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, б-р М. Міхновського, 25"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-07-26T18:32:07Z",
+    "price_history": [
+      {
+        "price": 650,
+        "at": "2026-07-26T18:32:07Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-07-26T18:32:07Z"
   }
 }
