@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-27T14:41:10Z",
+  "updated_at": "2026-07-27T16:59:58Z",
   "stats": {
-    "total": 207,
-    "avg_price": 3265,
+    "total": 206,
+    "avg_price": 3269,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2356,42 +2356,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg 24mp59g-p",
-      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
-      "price_min": 2400,
-      "price_max": 2400,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олени Теліги , 17"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 2400,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 800,
-          "at": "2026-07-12T15:33:26Z"
-        },
-        {
-          "price": 2400,
-          "at": "2026-07-12T18:27:41Z"
-        },
-        {
-          "price": 800,
-          "at": "2026-07-13T13:25:56Z"
-        },
-        {
-          "price": 2400,
-          "at": "2026-07-15T12:00:53Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi optix mag241c",
       "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
       "price_min": 2401,
@@ -2540,7 +2504,7 @@
       "addresses": [
         "м. Хмельницький, вул. Кам`янецька, 11"
       ],
-      "offers": 11,
+      "offers": 9,
       "first_seen": "2026-07-21T05:53:20Z",
       "price_history": [
         {
@@ -3968,7 +3932,7 @@
       "addresses": [
         "м. Ужгород, вул. Мукачівська, 2"
       ],
-      "offers": 4,
+      "offers": 3,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -4283,15 +4247,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vw193d",
-      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
-      "price": 400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-15T14:19:49Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung odyssey g3 s27dg302ei",
@@ -6101,6 +6056,15 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-07-27T11:51:53Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 24mp59g-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp59g-p/m5082545",
+      "price": 2400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-27T16:59:51Z"
     }
   ],
   "config": {
