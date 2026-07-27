@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-27T00:02:18Z",
+  "updated_at": "2026-07-27T04:23:41Z",
   "stats": {
-    "total": 210,
-    "avg_price": 3285,
+    "total": 214,
+    "avg_price": 3258,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1096,12 +1096,12 @@
       "name": "Монітор Lg w1942s",
       "url": "https://tehnoskarb.ua/montor-lg-w1942s/m5144273",
       "price_min": 650,
-      "price_max": 650,
+      "price_max": 760,
       "city": "Київ",
       "addresses": [
         "м. Київ, б-р М. Міхновського, 25"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-07-26T18:32:07Z",
       "price_history": [
         {
@@ -1470,6 +1470,26 @@
         {
           "price": 900,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vw223b",
+      "url": "https://tehnoskarb.ua/montor-asus-vw223b/m5176386",
+      "price_min": 900,
+      "price_max": 900,
+      "city": "Тернопіль",
+      "addresses": [
+        "м. Тернопіль, б-р Шевченка, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-27T04:22:15Z",
+      "price_history": [
+        {
+          "price": 900,
+          "at": "2026-07-27T04:22:15Z"
         }
       ],
       "category": "Монітори",
@@ -2054,6 +2074,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Fujitsu b24-8 te pro",
+      "url": "https://tehnoskarb.ua/montor-fujitsu-b24-8-te-pro/m5180436",
+      "price_min": 1600,
+      "price_max": 1600,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Святошинська, 27"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-27T04:22:15Z",
+      "price_history": [
+        {
+          "price": 1600,
+          "at": "2026-07-27T04:22:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Aoc 22p1",
       "url": "https://tehnoskarb.ua/montor-aoc-22p1/m5169396",
       "price_min": 1670,
@@ -2338,6 +2378,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus vz249hg",
+      "url": "https://tehnoskarb.ua/montor-asus-vz249hg/m5154430",
+      "price_min": 2330,
+      "price_max": 2330,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Святошинська, 27"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-27T04:22:15Z",
+      "price_history": [
+        {
+          "price": 2330,
+          "at": "2026-07-27T04:22:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 22mk600m",
       "url": "https://tehnoskarb.ua/montor-lg-22mk600m/m5145581",
       "price_min": 2400,
@@ -2468,6 +2528,26 @@
         {
           "price": 2540,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Qube b24f75 ips",
+      "url": "https://tehnoskarb.ua/montor-qube-b24f75-ips/m5159122",
+      "price_min": 2540,
+      "price_max": 2540,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Святошинська, 27"
+      ],
+      "offers": 2,
+      "first_seen": "2026-07-27T04:22:15Z",
+      "price_history": [
+        {
+          "price": 2540,
+          "at": "2026-07-27T04:22:15Z"
         }
       ],
       "category": "Монітори",
@@ -4347,43 +4427,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Msi mag 244c",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
-      "price": 3300,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-07-14T20:14:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Acer nitro vg271upbmiipx",
-      "url": "https://tehnoskarb.ua/montor-acer-nitro-vg271upbmiipx/m5177181",
-      "price": 5200,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-15T05:53:31Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Hp p244",
-      "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
-      "price_old": 2030,
-      "price_new": 1820,
-      "city": "Полтава",
-      "category": "Монітори",
-      "at": "2026-07-15T05:53:31Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus vs239",
-      "url": "https://tehnoskarb.ua/montor-asus-vs239/m5169186",
-      "price": 1700,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-15T05:53:31Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung bx2240",
       "url": "https://tehnoskarb.ua/montor-samsung-bx2240/m5115317",
       "price": 570,
@@ -6164,6 +6207,42 @@
       "city": "Суми",
       "category": "Монітори",
       "at": "2026-07-26T21:27:11Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Fujitsu b24-8 te pro",
+      "url": "https://tehnoskarb.ua/montor-fujitsu-b24-8-te-pro/m5180436",
+      "price": 1600,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-07-27T04:22:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vw223b",
+      "url": "https://tehnoskarb.ua/montor-asus-vw223b/m5176386",
+      "price": 900,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-07-27T04:22:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Qube b24f75 ips",
+      "url": "https://tehnoskarb.ua/montor-qube-b24f75-ips/m5159122",
+      "price": 2540,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-07-27T04:22:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vz249hg",
+      "url": "https://tehnoskarb.ua/montor-asus-vz249hg/m5154430",
+      "price": 2330,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-07-27T04:22:15Z"
     }
   ],
   "config": {
