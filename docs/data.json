@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-27T16:59:58Z",
+  "updated_at": "2026-07-27T18:43:01Z",
   "stats": {
-    "total": 206,
-    "avg_price": 3269,
+    "total": 207,
+    "avg_price": 3256,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -957,7 +957,7 @@
         "м. Вишневе, вул. Святошинська, 27",
         "м. Київ, просп. Бажана, 3В (м. Харківська)"
       ],
-      "offers": 3,
+      "offers": 4,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -1085,6 +1085,26 @@
         {
           "price": 650,
           "at": "2026-07-26T18:32:07Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung b2240w",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2240w/m5057742",
+      "price_min": 650,
+      "price_max": 650,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р М. Міхновського, 25"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-27T18:41:51Z",
+      "price_history": [
+        {
+          "price": 650,
+          "at": "2026-07-27T18:41:51Z"
         }
       ],
       "category": "Монітори",
@@ -4248,15 +4268,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Samsung odyssey g3 s27dg302ei",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-s27dg302ei/m5143819",
-      "price": 4020,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-07-15T16:02:51Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Asus rog strix xg27acs-w",
       "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368",
@@ -6065,6 +6076,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-27T16:59:51Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung b2240w",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2240w/m5057742",
+      "price": 650,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-27T18:41:51Z"
     }
   ],
   "config": {
