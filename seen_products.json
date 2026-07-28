@@ -1313,8 +1313,8 @@
   },
   "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378": {
     "name": "Відеомонітор Konvision kvm-1930w",
-    "price_min": 2552,
-    "price_max": 2552,
+    "price_min": 1999,
+    "price_max": 1999,
     "city": "Львів",
     "addresses": [
       "м. Львів, вул. Промислова, 50/52"
@@ -1327,6 +1327,10 @@
       {
         "price": 2552,
         "at": "2026-07-02T22:37:11Z"
+      },
+      {
+        "price": 1999,
+        "at": "2026-07-28T18:15:59Z"
       }
     ],
     "details_failures": 0,
@@ -1343,7 +1347,7 @@
       "м. Житомир, вул. Довженко, 44",
       "м. Кропивницький, вул. В. Перспективна, 18/14"
     ],
-    "offers_count": 3,
+    "offers_count": 4,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -1873,7 +1877,7 @@
   },
   "https://tehnoskarb.ua/montor-asus-vs197/m5042579": {
     "name": "Монітор Asus vs197",
-    "price_min": 550,
+    "price_min": 650,
     "price_max": 650,
     "city": "Полтава",
     "addresses": [
@@ -1881,7 +1885,7 @@
       "м. Вишневе, вул. Святошинська, 27",
       "м. Харків, вул. Отакара Яроша, 23"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -1889,6 +1893,10 @@
       {
         "price": 550,
         "at": "2026-07-02T22:37:11Z"
+      },
+      {
+        "price": 650,
+        "at": "2026-07-28T18:15:59Z"
       }
     ],
     "details_failures": 0,
@@ -2688,27 +2696,6 @@
     "details_failures": 64,
     "details_last_attempt": "2026-07-28T14:59:44Z",
     "details_retry_at": "2026-07-28T20:59:44Z"
-  },
-  "https://tehnoskarb.ua/montor-asus-vp249hr/m5111111": {
-    "name": "Монітор Asus vp249hr",
-    "price_min": 2070,
-    "price_max": 2070,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Гришка 6а"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-10T17:53:52Z",
-    "price_history": [
-      {
-        "price": 2070,
-        "at": "2026-07-10T17:53:52Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-10T17:53:52Z"
   },
   "https://tehnoskarb.ua/montor-samsung-s23b450t/m5178691": {
     "name": "Монітор Samsung s23b450t",
@@ -3726,12 +3713,12 @@
   "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175": {
     "name": "Монітор Samsung syncmaster 913n",
     "price_min": 400,
-    "price_max": 400,
+    "price_max": 490,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Воскресенський, 34/2"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-24T06:27:43Z",
