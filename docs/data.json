@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-28T20:01:45Z",
+  "updated_at": "2026-07-28T21:40:30Z",
   "stats": {
-    "total": 200,
-    "avg_price": 3190,
+    "total": 202,
+    "avg_price": 3162,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -227,6 +227,26 @@
         {
           "price": 280,
           "at": "2026-07-09T11:29:13Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 720т stnc",
+      "url": "https://tehnoskarb.ua/montor-17-samsung-720t-stnc/m5185103",
+      "price_min": 280,
+      "price_max": 280,
+      "city": "Чернівці",
+      "addresses": [
+        "м. Чернівці, вул. Університетська, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-28T21:39:15Z",
+      "price_history": [
+        {
+          "price": 280,
+          "at": "2026-07-28T21:39:15Z"
         }
       ],
       "category": "Монітори",
@@ -503,6 +523,26 @@
         {
           "price": 350,
           "at": "2026-07-25T05:44:47Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg l194w",
+      "url": "https://tehnoskarb.ua/montor-lg-l194w/m5140303",
+      "price_min": 350,
+      "price_max": 350,
+      "city": "Чернівці",
+      "addresses": [
+        "м. Чернівці, вул. Університетська, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-28T21:39:15Z",
+      "price_history": [
+        {
+          "price": 350,
+          "at": "2026-07-28T21:39:15Z"
         }
       ],
       "category": "Монітори",
@@ -4142,24 +4182,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Msi pro mp2412",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp2412/m5057728",
-      "price": 2600,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-07-16T09:35:02Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Apple cinema hd display 30",
-      "url": "https://tehnoskarb.ua/montor-apple-cinema-hd-display-30/m5175163",
-      "price": 7000,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-07-16T11:42:13Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Eizo flexscan ev2316w",
       "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2316w/m5143535",
       "price": 450,
@@ -5961,6 +5983,24 @@
       "city": "Полтава",
       "category": "Монітори",
       "at": "2026-07-28T18:15:59Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 720т stnc",
+      "url": "https://tehnoskarb.ua/montor-17-samsung-720t-stnc/m5185103",
+      "price": 280,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-07-28T21:39:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg l194w",
+      "url": "https://tehnoskarb.ua/montor-lg-l194w/m5140303",
+      "price": 350,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-07-28T21:39:15Z"
     }
   ],
   "config": {
