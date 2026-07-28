@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-28T10:08:08Z",
+  "updated_at": "2026-07-28T12:21:29Z",
   "stats": {
-    "total": 204,
-    "avg_price": 3184,
+    "total": 202,
+    "avg_price": 3195,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1295,26 +1295,6 @@
         {
           "price": 780,
           "at": "2026-07-15T19:15:32Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer v233hbd",
-      "url": "https://tehnoskarb.ua/montor-acer-v233hbd/m5121988",
-      "price_min": 800,
-      "price_max": 800,
-      "city": "Новий Розділ",
-      "addresses": [
-        "м. Новий Розділ, просп. Тараса Шевченка, 34"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 800,
-          "at": "2026-07-02T22:37:11Z"
         }
       ],
       "category": "Монітори",
@@ -2866,26 +2846,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi pro mp252",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
-      "price_min": 3230,
-      "price_max": 3230,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, просп. Незалежності, 82"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 3230,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi pro mp271",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp271/m5166042",
       "price_min": 3260,
@@ -4212,24 +4172,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Msi g244f-e2",
-      "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
-      "price": 3890,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-07-15T20:33:59Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Msi pro mp241 e14v",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp241-e14v/m5165082",
-      "price": 1500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-16T04:39:18Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vh222",
@@ -6031,6 +5973,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-28T10:08:00Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp252",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
+      "price": 3230,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-07-28T12:21:13Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer v233hbd",
+      "url": "https://tehnoskarb.ua/montor-acer-v233hbd/m5121988",
+      "price": 800,
+      "city": "Новий Розділ",
+      "category": "Монітори",
+      "at": "2026-07-28T12:21:13Z"
     }
   ],
   "config": {
