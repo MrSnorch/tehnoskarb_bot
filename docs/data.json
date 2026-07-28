@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-28T15:00:59Z",
+  "updated_at": "2026-07-28T16:46:34Z",
   "stats": {
-    "total": 202,
-    "avg_price": 3195,
+    "total": 201,
+    "avg_price": 3187,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -3413,26 +3413,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix g271",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g271/m5122313",
-      "price_min": 4920,
-      "price_max": 4920,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-14T06:19:44Z",
-      "price_history": [
-        {
-          "price": 4920,
-          "at": "2026-07-14T06:19:44Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Hp p27q g4",
       "url": "https://tehnoskarb.ua/montor-hp-p27q-g4/m5179936",
       "price_min": 4990,
@@ -4172,15 +4152,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vh222",
-      "url": "https://tehnoskarb.ua/montor-asus-vh222/m5136501",
-      "price": 1170,
-      "city": "Новояворівськ",
-      "category": "Монітори",
-      "at": "2026-07-16T04:39:18Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung 940n",
@@ -5991,6 +5962,15 @@
       "city": "Новий Розділ",
       "category": "Монітори",
       "at": "2026-07-28T12:21:13Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix g271",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g271/m5122313",
+      "price": 4920,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-28T16:46:27Z"
     }
   ],
   "config": {
