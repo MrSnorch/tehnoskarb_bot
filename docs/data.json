@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-28T07:16:08Z",
+  "updated_at": "2026-07-28T10:08:08Z",
   "stats": {
-    "total": 206,
-    "avg_price": 3165,
+    "total": 204,
+    "avg_price": 3184,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -641,26 +641,6 @@
         {
           "price": 450,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Eizo flexscan ev2316w",
-      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2316w/m5143535",
-      "price_min": 450,
-      "price_max": 450,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-26T15:39:16Z",
-      "price_history": [
-        {
-          "price": 450,
-          "at": "2026-07-26T15:39:16Z"
         }
       ],
       "category": "Монітори",
@@ -2143,26 +2123,6 @@
         {
           "price": 1890,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s24f320gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24f320gai/m5144447",
-      "price_min": 1960,
-      "price_max": 1960,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Степана Бандери, 89"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-25T05:44:47Z",
-      "price_history": [
-        {
-          "price": 1960,
-          "at": "2026-07-25T05:44:47Z"
         }
       ],
       "category": "Монітори",
@@ -4253,24 +4213,6 @@
   ],
   "events": [
     {
-      "type": "new",
-      "name": "Монітор Samsung 2333sw",
-      "url": "https://tehnoskarb.ua/montor-samsung-2333sw/m5180910",
-      "price": 780,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-15T19:15:32Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 24mp58vq-p",
-      "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
-      "price": 1750,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-15T19:15:32Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Msi g244f-e2",
       "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
@@ -6071,6 +6013,24 @@
       "city": "Фастів",
       "category": "Монітори",
       "at": "2026-07-28T07:14:51Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s24f320gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24f320gai/m5144447",
+      "price": 1960,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-28T10:08:00Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Eizo flexscan ev2316w",
+      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2316w/m5143535",
+      "price": 450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-28T10:08:00Z"
     }
   ],
   "config": {
