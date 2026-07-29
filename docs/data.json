@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-29T17:48:18Z",
+  "updated_at": "2026-07-29T19:21:44Z",
   "stats": {
     "total": 204,
-    "avg_price": 3215,
+    "avg_price": 3218,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1051,31 +1051,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung 943nw",
-      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
-      "price_min": 650,
-      "price_max": 650,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Промислова, 50/52",
-        "м. Чернігів, просп. Перемоги, 89"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 400,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 650,
-          "at": "2026-07-12T12:02:17Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Philips 236v3lsb",
       "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
       "price_min": 650,
@@ -1858,6 +1833,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell u2312hmt",
+      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
+      "price_min": 1180,
+      "price_max": 1180,
+      "city": "Ірпінь",
+      "addresses": [
+        "м. Ірпінь, вул. Центральна, 6-Г/4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-29T19:20:24Z",
+      "price_history": [
+        {
+          "price": 1180,
+          "at": "2026-07-29T19:20:24Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lenovo l2250pwd",
       "url": "https://tehnoskarb.ua/montor-lenovo-l2250pwd/m5181236",
       "price_min": 1200,
@@ -2307,18 +2302,22 @@
     {
       "name": "Монітор Samsung s24c330g",
       "url": "https://tehnoskarb.ua/montor-samsung-s24c330g/m5039521",
-      "price_min": 2310,
+      "price_min": 2280,
       "price_max": 2310,
       "city": "Конотоп",
       "addresses": [
         "м. Конотоп, просп. Миру, 10"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-07-20T19:13:22Z",
       "price_history": [
         {
           "price": 2310,
           "at": "2026-07-20T19:13:22Z"
+        },
+        {
+          "price": 2280,
+          "at": "2026-07-29T19:20:24Z"
         }
       ],
       "category": "Монітори",
@@ -4228,33 +4227,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus tuf gaming vg249q5r",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q5r/m5183089",
-      "price": 4000,
-      "city": "Ірпінь",
-      "category": "Монітори",
-      "at": "2026-07-17T17:17:03Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 221b3l",
-      "url": "https://tehnoskarb.ua/montor-philips-221b3l/m5183210",
-      "price": 800,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-17T20:06:48Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus pa278qv",
-      "url": "https://tehnoskarb.ua/montor-asus-pa278qv/m5183344",
-      "price": 9200,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-07-17T21:21:28Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Asus proart pa27ucge",
       "url": "https://tehnoskarb.ua/montor-asus-proart-pa27ucge/m5183347",
       "price": 24000,
@@ -6047,6 +6019,34 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-29T17:48:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 943nw",
+      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
+      "price": 650,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-07-29T19:20:24Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell u2312hmt",
+      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
+      "price": 1180,
+      "city": "Ірпінь",
+      "category": "Монітори",
+      "at": "2026-07-29T19:20:24Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung s24c330g",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24c330g/m5039521",
+      "price_old": 2310,
+      "price_new": 2280,
+      "city": "Конотоп",
+      "category": "Монітори",
+      "at": "2026-07-29T19:20:24Z"
     }
   ],
   "config": {
