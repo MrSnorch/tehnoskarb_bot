@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-29T07:20:40Z",
+  "updated_at": "2026-07-29T10:09:14Z",
   "stats": {
-    "total": 204,
-    "avg_price": 3246,
+    "total": 205,
+    "avg_price": 3250,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -31,6 +31,7 @@
       "Львів",
       "Миколаїв",
       "Могилів-Подільський",
+      "Новий Розділ",
       "Новояворівськ",
       "Одеса",
       "Полтава",
@@ -2492,7 +2493,7 @@
       "addresses": [
         "м. Хмельницький, вул. Кам`янецька, 11"
       ],
-      "offers": 9,
+      "offers": 8,
       "first_seen": "2026-07-21T05:53:20Z",
       "price_history": [
         {
@@ -2902,26 +2903,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi mag 244c",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
-      "price_min": 3400,
-      "price_max": 3590,
-      "city": "Тернопіль",
-      "addresses": [
-        "м. Тернопіль, вул. Мазепи, 5"
-      ],
-      "offers": 2,
-      "first_seen": "2026-07-24T20:35:32Z",
-      "price_history": [
-        {
-          "price": 3400,
-          "at": "2026-07-24T20:35:32Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор 2E 2e-h2420b",
       "url": "https://tehnoskarb.ua/montor-2e-2e-h2420b/m5176124",
       "price_min": 3500,
@@ -2996,6 +2977,30 @@
         {
           "price": 3500,
           "at": "2026-07-20T19:13:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi mag 244c",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
+      "price_min": 3590,
+      "price_max": 3590,
+      "city": "Тернопіль",
+      "addresses": [
+        "м. Тернопіль, вул. Мазепи, 5"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-24T20:35:32Z",
+      "price_history": [
+        {
+          "price": 3400,
+          "at": "2026-07-24T20:35:32Z"
+        },
+        {
+          "price": 3590,
+          "at": "2026-07-29T10:09:01Z"
         }
       ],
       "category": "Монітори",
@@ -3179,6 +3184,26 @@
         {
           "price": 3900,
           "at": "2026-07-15T08:18:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 27e1n1900ae/00",
+      "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
+      "price_min": 3910,
+      "price_max": 3910,
+      "city": "Новий Розділ",
+      "addresses": [
+        "м. Новий Розділ, просп. Тараса Шевченка, 34"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-29T10:09:01Z",
+      "price_history": [
+        {
+          "price": 3910,
+          "at": "2026-07-29T10:09:01Z"
         }
       ],
       "category": "Монітори",
@@ -4219,24 +4244,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi optix mag241c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
-      "price": 2401,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-17T08:35:12Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus vs239",
-      "url": "https://tehnoskarb.ua/montor-asus-vs239/m5169186",
-      "price": 1700,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-17T12:11:06Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vс239",
@@ -6040,6 +6047,25 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-07-29T07:20:16Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Msi mag 244c",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
+      "price_old": 3400,
+      "price_new": 3590,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-07-29T10:09:01Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 27e1n1900ae/00",
+      "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
+      "price": 3910,
+      "city": "Новий Розділ",
+      "category": "Монітори",
+      "at": "2026-07-29T10:09:01Z"
     }
   ],
   "config": {
