@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-29T16:23:11Z",
+  "updated_at": "2026-07-29T17:48:18Z",
   "stats": {
-    "total": 203,
-    "avg_price": 3229,
+    "total": 204,
+    "avg_price": 3215,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -543,6 +543,26 @@
         {
           "price": 350,
           "at": "2026-07-28T21:39:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vw202s",
+      "url": "https://tehnoskarb.ua/montor-asus-vw202s/m5007997",
+      "price_min": 360,
+      "price_max": 360,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-29T17:48:08Z",
+      "price_history": [
+        {
+          "price": 360,
+          "at": "2026-07-29T17:48:08Z"
         }
       ],
       "category": "Монітори",
@@ -4207,16 +4227,6 @@
   ],
   "events": [
     {
-      "type": "rise",
-      "name": "Монітор Samsung syncmaster 932b",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-932b/m5156935",
-      "price_old": 280,
-      "price_new": 510,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-07-17T14:12:22Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Asus tuf gaming vg249q5r",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q5r/m5183089",
@@ -6028,6 +6038,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-07-29T16:23:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vw202s",
+      "url": "https://tehnoskarb.ua/montor-asus-vw202s/m5007997",
+      "price": 360,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-29T17:48:08Z"
     }
   ],
   "config": {
