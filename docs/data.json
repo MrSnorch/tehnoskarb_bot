@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-30T05:43:56Z",
+  "updated_at": "2026-07-30T08:34:05Z",
   "stats": {
     "total": 212,
-    "avg_price": 3286,
+    "avg_price": 3252,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2320,6 +2320,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung c24f390fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
+      "price_min": 2100,
+      "price_max": 2100,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Симиренка, 5"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-30T08:33:53Z",
+      "price_history": [
+        {
+          "price": 2100,
+          "at": "2026-07-30T08:33:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lenovo l24i-4a",
       "url": "https://tehnoskarb.ua/montor-lenovo-l24i-4a/m5118837",
       "price_min": 2200,
@@ -4046,26 +4066,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus pa278qv",
-      "url": "https://tehnoskarb.ua/montor-asus-pa278qv/m5183344",
-      "price_min": 9200,
-      "price_max": 9200,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Мукачівська, 2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-17T21:21:28Z",
-      "price_history": [
-        {
-          "price": 9200,
-          "at": "2026-07-17T21:21:28Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus tuf gaming vg32wq3b",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg32wq3b/m5185269",
       "price_min": 9520,
@@ -4385,24 +4385,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Asus vс239",
-      "url": "https://tehnoskarb.ua/montor-asus-vs239/m5183381",
-      "price": 1700,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-18T08:22:28Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung s24f320gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24f320gai/m5144447",
-      "price": 2500,
-      "city": "Житомир",
-      "category": "Монітори",
-      "at": "2026-07-18T12:27:04Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Asus vw193d",
@@ -6205,6 +6187,24 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-07-30T05:43:21Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus pa278qv",
+      "url": "https://tehnoskarb.ua/montor-asus-pa278qv/m5183344",
+      "price": 9200,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-07-30T08:33:53Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung c24f390fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
+      "price": 2100,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-30T08:33:53Z"
     }
   ],
   "config": {
