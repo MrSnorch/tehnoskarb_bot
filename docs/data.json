@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-30T17:38:46Z",
+  "updated_at": "2026-07-30T19:36:28Z",
   "stats": {
-    "total": 211,
-    "avg_price": 3290,
+    "total": 210,
+    "avg_price": 3291,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2805,26 +2805,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Benq ex240n",
-      "url": "https://tehnoskarb.ua/montor-benq-ex240n/m5134563",
-      "price_min": 3000,
-      "price_max": 3000,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Воскресенський, 34/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 3000,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi pro mp243x",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp243x/m5061631",
       "price_min": 3000,
@@ -4365,15 +4345,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung s31c / ls24c310e",
-      "url": "https://tehnoskarb.ua/montor-samsung-s31c-ls24c310e/m5183471",
-      "price": 3200,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-07-19T04:49:06Z"
-    },
     {
       "type": "new",
       "name": "Монітор Acer x203h",
@@ -6186,6 +6157,15 @@
       "city": "Житомир",
       "category": "Монітори",
       "at": "2026-07-30T17:37:32Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq ex240n",
+      "url": "https://tehnoskarb.ua/montor-benq-ex240n/m5134563",
+      "price": 3000,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-30T19:36:20Z"
     }
   ],
   "config": {
