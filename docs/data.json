@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-30T11:10:23Z",
+  "updated_at": "2026-07-30T13:06:37Z",
   "stats": {
-    "total": 211,
-    "avg_price": 3266,
+    "total": 210,
+    "avg_price": 3280,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -518,26 +518,6 @@
         {
           "price": 350,
           "at": "2026-07-28T21:39:15Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 971p",
-      "url": "https://tehnoskarb.ua/montor-samsung-971p/m5174877",
-      "price_min": 350,
-      "price_max": 350,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-30T05:43:21Z",
-      "price_history": [
-        {
-          "price": 350,
-          "at": "2026-07-30T05:43:21Z"
         }
       ],
       "category": "Монітори",
@@ -2511,7 +2491,7 @@
       "addresses": [
         "м. Київ, б-р Вацлава Гавела, 53"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -4366,15 +4346,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Anmite a160w03",
-      "url": "https://tehnoskarb.ua/montor-anmite-a160w03/m5182370",
-      "price": 2670,
-      "city": "Новий Розділ",
-      "category": "Монітори",
-      "at": "2026-07-18T19:08:57Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Apple studio display 27\" with tilt adjustable stand",
       "url": "https://tehnoskarb.ua/montor-apple-studio-display-27-with-tilt-adjustable-stand/m5183475",
       "price": 58000,
@@ -6185,6 +6156,15 @@
       "city": "Ірпінь",
       "category": "Монітори",
       "at": "2026-07-30T11:09:02Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 971p",
+      "url": "https://tehnoskarb.ua/montor-samsung-971p/m5174877",
+      "price": 350,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-30T13:06:28Z"
     }
   ],
   "config": {
