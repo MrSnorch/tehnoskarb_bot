@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-30T08:34:05Z",
+  "updated_at": "2026-07-30T11:10:23Z",
   "stats": {
-    "total": 212,
-    "avg_price": 3252,
+    "total": 211,
+    "avg_price": 3266,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -202,31 +202,6 @@
         {
           "price": 280,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 710n",
-      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
-      "price_min": 280,
-      "price_max": 280,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11",
-        "м. Вінниця, вул. Героїв Нацгвардії, 44"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 105,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 280,
-          "at": "2026-07-09T11:29:13Z"
         }
       ],
       "category": "Монітори",
@@ -1913,26 +1888,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell u2312hmt",
-      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
-      "price_min": 1180,
-      "price_max": 1180,
-      "city": "Ірпінь",
-      "addresses": [
-        "м. Ірпінь, вул. Центральна, 6-Г/4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-29T19:20:24Z",
-      "price_history": [
-        {
-          "price": 1180,
-          "at": "2026-07-29T19:20:24Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lenovo l2250pwd",
       "url": "https://tehnoskarb.ua/montor-lenovo-l2250pwd/m5181236",
       "price_min": 1200,
@@ -1945,6 +1900,30 @@
         {
           "price": 1200,
           "at": "2026-07-05T16:34:33Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell u2312hmt",
+      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
+      "price_min": 1200,
+      "price_max": 1200,
+      "city": "Ірпінь",
+      "addresses": [
+        "м. Ірпінь, вул. Центральна, 6-Г/4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-29T19:20:24Z",
+      "price_history": [
+        {
+          "price": 1180,
+          "at": "2026-07-29T19:20:24Z"
+        },
+        {
+          "price": 1200,
+          "at": "2026-07-30T11:09:02Z"
         }
       ],
       "category": "Монітори",
@@ -2632,7 +2611,7 @@
       "addresses": [
         "м. Хмельницький, вул. Кам`янецька, 11"
       ],
-      "offers": 8,
+      "offers": 6,
       "first_seen": "2026-07-21T05:53:20Z",
       "price_history": [
         {
@@ -4385,24 +4364,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Asus vw193d",
-      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
-      "price": 400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-18T15:04:43Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Anmite a160w03",
-      "url": "https://tehnoskarb.ua/montor-anmite-a160w03/m5182370",
-      "price": 2670,
-      "city": "Новий Розділ",
-      "category": "Монітори",
-      "at": "2026-07-18T17:32:45Z"
-    },
     {
       "type": "new",
       "name": "Монітор Anmite a160w03",
@@ -6205,6 +6166,25 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-30T08:33:53Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 710n",
+      "url": "https://tehnoskarb.ua/montor-samsung-710n/m5011926",
+      "price": 280,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-07-30T11:09:02Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Dell u2312hmt",
+      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
+      "price_old": 1180,
+      "price_new": 1200,
+      "city": "Ірпінь",
+      "category": "Монітори",
+      "at": "2026-07-30T11:09:02Z"
     }
   ],
   "config": {
