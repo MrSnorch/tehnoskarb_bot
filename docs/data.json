@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-31T10:05:40Z",
+  "updated_at": "2026-07-31T12:26:46Z",
   "stats": {
-    "total": 210,
-    "avg_price": 3271,
+    "total": 209,
+    "avg_price": 3280,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1931,26 +1931,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lenovo thinkvision t2224pd",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2224pd/m5182252",
-      "price_min": 1250,
-      "price_max": 1250,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Академіка Філатова, 86"
-      ],
-      "offers": 2,
-      "first_seen": "2026-07-12T18:27:41Z",
-      "price_history": [
-        {
-          "price": 1250,
-          "at": "2026-07-12T18:27:41Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq gl2460",
       "url": "https://tehnoskarb.ua/montor-benq-gl2460/m5165717",
       "price_min": 1250,
@@ -2612,7 +2592,7 @@
       "addresses": [
         "м. Хмельницький, вул. Кам`янецька, 11"
       ],
-      "offers": 6,
+      "offers": 4,
       "first_seen": "2026-07-21T05:53:20Z",
       "price_history": [
         {
@@ -4349,15 +4329,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung lf22t350f",
-      "url": "https://tehnoskarb.ua/montor-samsung-lf22t350f/m5139636",
-      "price": 2170,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-19T09:28:45Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Hp la2006x",
@@ -6171,6 +6142,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-31T10:05:33Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo thinkvision t2224pd",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2224pd/m5182252",
+      "price": 1250,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-07-31T12:26:40Z"
     }
   ],
   "config": {
