@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-31T15:01:34Z",
+  "updated_at": "2026-07-31T17:04:55Z",
   "stats": {
-    "total": 207,
-    "avg_price": 3305,
+    "total": 206,
+    "avg_price": 3302,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -3286,26 +3286,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus tuf gaming vg249q5r",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q5r/m5183089",
-      "price_min": 4000,
-      "price_max": 4000,
-      "city": "Ірпінь",
-      "addresses": [
-        "м. Ірпінь, вул. Центральна, 6-Г/4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-17T17:17:03Z",
-      "price_history": [
-        {
-          "price": 4000,
-          "at": "2026-07-17T17:17:03Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vz27ehf-w",
       "url": "https://tehnoskarb.ua/montor-asus-vz27ehf-w/m5183362",
       "price_min": 4000,
@@ -4291,15 +4271,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 940bf",
-      "url": "https://tehnoskarb.ua/montor-samsung-940bf/m4999586",
-      "price": 280,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-07-19T09:28:45Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Aoc 215lm00041",
@@ -6113,6 +6084,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-07-31T15:00:18Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus tuf gaming vg249q5r",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q5r/m5183089",
+      "price": 4000,
+      "city": "Ірпінь",
+      "category": "Монітори",
+      "at": "2026-07-31T17:04:48Z"
     }
   ],
   "config": {
