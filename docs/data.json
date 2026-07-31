@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-31T18:53:10Z",
+  "updated_at": "2026-07-31T20:21:05Z",
   "stats": {
-    "total": 206,
-    "avg_price": 3308,
+    "total": 208,
+    "avg_price": 3286,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1476,6 +1476,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Hp elitedisplay e222",
+      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-e222/m5185359",
+      "price_min": 910,
+      "price_max": 910,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Заболотного, 20А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-31T20:20:50Z",
+      "price_history": [
+        {
+          "price": 910,
+          "at": "2026-07-31T20:20:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Acer v226hql",
       "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
       "price_min": 950,
@@ -1911,6 +1931,26 @@
         {
           "price": 1250,
           "at": "2026-07-31T18:52:56Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Aoc i2480sx",
+      "url": "https://tehnoskarb.ua/montor-aoc-i2480sx/m5185628",
+      "price_min": 1250,
+      "price_max": 1250,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Спаська, 5"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-31T20:20:50Z",
+      "price_history": [
+        {
+          "price": 1250,
+          "at": "2026-07-31T20:20:50Z"
         }
       ],
       "category": "Монітори",
@@ -3196,14 +3236,14 @@
     {
       "name": "Монітор Msi mag 242f",
       "url": "https://tehnoskarb.ua/montor-msi-mag-242f/m5162284",
-      "price_min": 3850,
+      "price_min": 3750,
       "price_max": 3850,
       "city": "Чернівці",
       "addresses": [
         "м. Чернівці, просп. Незалежності, 82",
         "м. Харків, вул. Дудинської, 1-А"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-07-26T18:32:07Z",
       "price_history": [
         {
@@ -3213,6 +3253,10 @@
         {
           "price": 3850,
           "at": "2026-07-31T18:52:56Z"
+        },
+        {
+          "price": 3750,
+          "at": "2026-07-31T20:20:50Z"
         }
       ],
       "category": "Монітори",
@@ -4279,34 +4323,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung s22f350fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22f350fhi/m5139689",
-      "price": 1000,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-07-19T12:01:12Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Aoc e2475pwj",
-      "url": "https://tehnoskarb.ua/montor-aoc-e2475pwj/m5160193",
-      "price": 1870,
-      "city": "Бровари",
-      "category": "Монітори",
-      "at": "2026-07-19T15:31:37Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Msi g2412",
-      "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
-      "price_old": 2970,
-      "price_new": 3990,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-19T15:31:37Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung odyssey oled g6",
@@ -6101,6 +6117,34 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-07-31T18:52:56Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc i2480sx",
+      "url": "https://tehnoskarb.ua/montor-aoc-i2480sx/m5185628",
+      "price": 1250,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-31T20:20:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp elitedisplay e222",
+      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-e222/m5185359",
+      "price": 910,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-31T20:20:50Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Msi mag 242f",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-242f/m5162284",
+      "price_old": 3850,
+      "price_new": 3750,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-07-31T20:20:50Z"
     }
   ],
   "config": {
