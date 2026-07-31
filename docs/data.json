@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-31T04:00:31Z",
+  "updated_at": "2026-07-31T07:23:27Z",
   "stats": {
-    "total": 210,
-    "avg_price": 3291,
+    "total": 211,
+    "avg_price": 3273,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -69,6 +69,26 @@
         {
           "price": 100,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 940n",
+      "url": "https://tehnoskarb.ua/montor-samsung-940n/m4997158",
+      "price_min": 170,
+      "price_max": 170,
+      "city": "Бровари",
+      "addresses": [
+        "м. Бровари, вул. Героїв України, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-31T07:22:04Z",
+      "price_history": [
+        {
+          "price": 170,
+          "at": "2026-07-31T07:22:04Z"
         }
       ],
       "category": "Монітори",
@@ -3688,6 +3708,34 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi optix g274qpf e2",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g274qpf-e2/m5167776",
+      "price_min": 5900,
+      "price_max": 5900,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, вул. Корольова, 80"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T22:37:11Z",
+      "price_history": [
+        {
+          "price": 7200,
+          "at": "2026-07-02T22:37:11Z"
+        },
+        {
+          "price": 6500,
+          "at": "2026-07-14T06:19:44Z"
+        },
+        {
+          "price": 5900,
+          "at": "2026-07-31T07:22:04Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 32qn600-b",
       "url": "https://tehnoskarb.ua/montor-lg-32qn600-b/m5179869",
       "price_min": 6000,
@@ -3782,30 +3830,6 @@
         {
           "price": 6480,
           "at": "2026-07-13T18:16:50Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi optix g274qpf e2",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g274qpf-e2/m5167776",
-      "price_min": 6500,
-      "price_max": 6500,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Корольова, 80"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 7200,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 6500,
-          "at": "2026-07-14T06:19:44Z"
         }
       ],
       "category": "Монітори",
@@ -4269,12 +4293,12 @@
       "name": "Монітор Asus proart pa27ucge",
       "url": "https://tehnoskarb.ua/montor-asus-proart-pa27ucge/m5183347",
       "price_min": 24000,
-      "price_max": 24000,
+      "price_max": 29900,
       "city": "Ужгород",
       "addresses": [
         "м. Ужгород, вул. Мукачівська, 2"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-07-17T21:21:28Z",
       "price_history": [
         {
@@ -4345,24 +4369,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Acer x203h",
-      "url": "https://tehnoskarb.ua/montor-acer-x203h/m5180992",
-      "price": 550,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-07-19T04:49:06Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s22f350fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22f350fhi/m5139689",
-      "price": 1000,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-07-19T04:49:06Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Hp v24i",
@@ -6166,6 +6172,25 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-07-30T19:36:20Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Msi optix g274qpf e2",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g274qpf-e2/m5167776",
+      "price_old": 6500,
+      "price_new": 5900,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-07-31T07:22:04Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 940n",
+      "url": "https://tehnoskarb.ua/montor-samsung-940n/m4997158",
+      "price": 170,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-07-31T07:22:04Z"
     }
   ],
   "config": {
