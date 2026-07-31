@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-31T07:23:27Z",
+  "updated_at": "2026-07-31T10:05:40Z",
   "stats": {
-    "total": 211,
-    "avg_price": 3273,
+    "total": 210,
+    "avg_price": 3271,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -3269,26 +3269,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi pro mp275",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp275/m5138021",
-      "price_min": 3820,
-      "price_max": 3820,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олени Теліги , 17"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-22T06:37:30Z",
-      "price_history": [
-        {
-          "price": 3820,
-          "at": "2026-07-22T06:37:30Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Xiaomi gaming monitor g27i",
       "url": "https://tehnoskarb.ua/montor-xiaomi-gaming-monitor-g27i/m5135243",
       "price_min": 3900,
@@ -4369,15 +4349,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Hp v24i",
-      "url": "https://tehnoskarb.ua/montor-hp-v24i/m5177884",
-      "price": 2700,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-07-19T09:28:45Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung lf22t350f",
@@ -6191,6 +6162,15 @@
       "city": "Бровари",
       "category": "Монітори",
       "at": "2026-07-31T07:22:04Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp275",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp275/m5138021",
+      "price": 3820,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-07-31T10:05:33Z"
     }
   ],
   "config": {
