@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-01T12:33:20Z",
+  "updated_at": "2026-08-01T14:35:26Z",
   "stats": {
-    "total": 212,
-    "avg_price": 3243,
+    "total": 210,
+    "avg_price": 3246,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -18,7 +18,6 @@
       "Вінниця",
       "Дрогобич",
       "Житомир",
-      "Жмеринка",
       "Запоріжжя",
       "Золочів",
       "Калуш",
@@ -2232,26 +2231,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Tft панель Delta Electronics dop-b05s111",
-      "url": "https://tehnoskarb.ua/tft-panel-operatora-delta-electronics-dop-b05s111/m5152927",
-      "price_min": 1818,
-      "price_max": 1818,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-30T05:43:21Z",
-      "price_history": [
-        {
-          "price": 1818,
-          "at": "2026-07-30T05:43:21Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vz229",
       "url": "https://tehnoskarb.ua/montor-asus-vz229/m5149410",
       "price_min": 1860,
@@ -3440,26 +3419,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi g255f",
-      "url": "https://tehnoskarb.ua/montor-msi-g255f/m5091244",
-      "price_min": 4050,
-      "price_max": 4050,
-      "city": "Жмеринка",
-      "addresses": [
-        "м. Жмеринка, вул. Соборна, 2, прим.№25"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 4050,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc c24g2u/bk",
       "url": "https://tehnoskarb.ua/montor-aoc-c24g2u-bk/m5148499",
       "price_min": 4500,
@@ -4405,24 +4364,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg249q",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q/m5183569",
-      "price": 3330,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-20T13:08:21Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Msi mag 244c",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
-      "price": 3300,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-07-20T15:28:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Asus rog strix xg27acmg",
@@ -6228,6 +6169,24 @@
       "city": "Вінниця",
       "category": "Монітори",
       "at": "2026-08-01T09:32:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi g255f",
+      "url": "https://tehnoskarb.ua/montor-msi-g255f/m5091244",
+      "price": 4050,
+      "city": "Жмеринка",
+      "category": "Монітори",
+      "at": "2026-08-01T14:35:17Z"
+    },
+    {
+      "type": "sold",
+      "name": "Tft панель Delta Electronics dop-b05s111",
+      "url": "https://tehnoskarb.ua/tft-panel-operatora-delta-electronics-dop-b05s111/m5152927",
+      "price": 1818,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-01T14:35:17Z"
     }
   ],
   "config": {
