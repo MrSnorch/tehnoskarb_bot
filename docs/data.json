@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-01T19:12:01Z",
+  "updated_at": "2026-08-01T20:26:37Z",
   "stats": {
-    "total": 210,
-    "avg_price": 3246,
+    "total": 211,
+    "avg_price": 3237,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -2028,6 +2028,24 @@
         {
           "price": 1260,
           "at": "2026-07-26T18:32:07Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell u2713h",
+      "url": "https://tehnoskarb.ua/montor-dell-u2713h/m5184691",
+      "price_min": 1280,
+      "price_max": 1280,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-08-01T20:26:27Z",
+      "price_history": [
+        {
+          "price": 1280,
+          "at": "2026-08-01T20:26:27Z"
         }
       ],
       "category": "Монітори",
@@ -4366,15 +4384,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Asus rog strix xg27acmg",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acmg/m5176699",
-      "price": 14700,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-07-20T19:13:22Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Lg 24mp58vq-p",
       "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
       "price": 1750,
@@ -6187,6 +6196,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-08-01T14:35:17Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell u2713h",
+      "url": "https://tehnoskarb.ua/montor-dell-u2713h/m5184691",
+      "price": 1280,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-01T20:26:27Z"
     }
   ],
   "config": {
