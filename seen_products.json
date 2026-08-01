@@ -4422,27 +4422,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-30T17:37:32Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-940n/m4997158": {
-    "name": "Монітор Samsung 940n",
-    "price_min": 170,
-    "price_max": 170,
-    "city": "Бровари",
-    "addresses": [
-      "м. Бровари, вул. Героїв України, 11"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-31T07:22:04Z",
-    "price_history": [
-      {
-        "price": 170,
-        "at": "2026-07-31T07:22:04Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-31T07:22:04Z"
-  },
   "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2224pd/m5182252": {
     "name": "Монітор Lenovo thinkvision t2224pd",
     "price_min": 1250,
@@ -4564,9 +4543,9 @@
         "at": "2026-08-01T04:52:43Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-08-01T04:52:43Z",
-    "details_retry_at": "2026-08-01T05:22:43Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-08-01T07:28:28Z",
+    "details_retry_at": "2026-08-01T08:28:28Z"
   },
   "https://tehnoskarb.ua/montor-philips-192e2sb2/m5058006": {
     "name": "Монітор Philips 192e2sb2",
@@ -4584,9 +4563,9 @@
         "at": "2026-08-01T04:52:43Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-08-01T04:52:43Z",
-    "details_retry_at": "2026-08-01T05:22:43Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-08-01T07:28:28Z",
+    "details_retry_at": "2026-08-01T08:28:28Z"
   },
   "https://tehnoskarb.ua/montor-samsung-940bf/m4999586": {
     "name": "Монітор Samsung 940bf",
@@ -4604,8 +4583,8 @@
         "at": "2026-08-01T04:52:43Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-08-01T04:52:43Z",
-    "details_retry_at": "2026-08-01T05:22:43Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-08-01T07:28:28Z",
+    "details_retry_at": "2026-08-01T08:28:28Z"
   }
 }
