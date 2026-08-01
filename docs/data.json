@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-01T07:28:42Z",
+  "updated_at": "2026-08-01T09:32:54Z",
   "stats": {
     "total": 212,
-    "avg_price": 3241,
+    "avg_price": 3243,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -733,13 +733,13 @@
       "name": "Монітор Samsung syncmaster 931bf",
       "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
       "price_min": 520,
-      "price_max": 550,
+      "price_max": 520,
       "city": "Бровари",
       "addresses": [
         "м. Бровари, б-р Незалежності, 11",
         "м. Вінниця, вул. Героїв Нацгвардії, 44"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -2144,7 +2144,7 @@
         "м. Вінниця, вул. Замостянська, 37 пр.77",
         "м. Івано-Франківськ, вул. Гетьмана Мазепи, 20/1"
       ],
-      "offers": 4,
+      "offers": 3,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -2417,26 +2417,6 @@
       "price_history": [
         {
           "price": 2205,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 243v7q",
-      "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
-      "price_min": 2220,
-      "price_max": 2810,
-      "city": "Вінниця",
-      "addresses": [
-        "м. Вінниця, вул. Келецька, 1"
-      ],
-      "offers": 2,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 2220,
           "at": "2026-07-02T22:37:11Z"
         }
       ],
@@ -2865,6 +2845,30 @@
         {
           "price": 2800,
           "at": "2026-07-30T05:43:21Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 243v7q",
+      "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
+      "price_min": 2810,
+      "price_max": 2810,
+      "city": "Вінниця",
+      "addresses": [
+        "м. Вінниця, вул. Келецька, 1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T22:37:11Z",
+      "price_history": [
+        {
+          "price": 2220,
+          "at": "2026-07-02T22:37:11Z"
+        },
+        {
+          "price": 2810,
+          "at": "2026-08-01T09:32:38Z"
         }
       ],
       "category": "Монітори",
@@ -4401,15 +4405,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 720n",
-      "url": "https://tehnoskarb.ua/montor-samsung-720n/m5042700",
-      "price": 420,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-20T13:08:21Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus tuf gaming vg249q",
@@ -6223,6 +6218,16 @@
       "city": "Бровари",
       "category": "Монітори",
       "at": "2026-08-01T07:28:28Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Philips 243v7q",
+      "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
+      "price_old": 2220,
+      "price_new": 2810,
+      "city": "Вінниця",
+      "category": "Монітори",
+      "at": "2026-08-01T09:32:38Z"
     }
   ],
   "config": {
