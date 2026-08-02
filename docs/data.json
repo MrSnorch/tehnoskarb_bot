@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-02T10:42:34Z",
+  "updated_at": "2026-08-02T12:04:26Z",
   "stats": {
-    "total": 210,
-    "avg_price": 3260,
+    "total": 208,
+    "avg_price": 3275,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -1933,26 +1933,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Benq gl2460",
-      "url": "https://tehnoskarb.ua/montor-benq-gl2460/m5165717",
-      "price_min": 1250,
-      "price_max": 1250,
-      "city": "Тернопіль",
-      "addresses": [
-        "м. Тернопіль, б-р Шевченка, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-14T20:14:34Z",
-      "price_history": [
-        {
-          "price": 1250,
-          "at": "2026-07-14T20:14:34Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lenovo thinkvision t2224pd",
       "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2224pd/m5182252",
       "price_min": 1250,
@@ -2332,26 +2312,6 @@
         {
           "price": 2100,
           "at": "2026-07-30T08:33:53Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo l24i-4a",
-      "url": "https://tehnoskarb.ua/montor-lenovo-l24i-4a/m5118837",
-      "price_min": 2200,
-      "price_max": 2200,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Лятошинського, 18"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-25T17:31:49Z",
-      "price_history": [
-        {
-          "price": 2200,
-          "at": "2026-07-25T17:31:49Z"
         }
       ],
       "category": "Монітори",
@@ -4361,24 +4321,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus proart pa329cv",
-      "url": "https://tehnoskarb.ua/montor-asus-proart-pa329cv/m5093621",
-      "price": 25000,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-07-20T19:13:22Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s24c330g",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24c330g/m5039521",
-      "price": 2310,
-      "city": "Конотоп",
-      "category": "Монітори",
-      "at": "2026-07-20T19:13:22Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s24r650f",
       "url": "https://tehnoskarb.ua/montor-samsung-s24r650f/m5072693",
       "price": 2590,
@@ -6182,6 +6124,24 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-08-02T08:54:47Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq gl2460",
+      "url": "https://tehnoskarb.ua/montor-benq-gl2460/m5165717",
+      "price": 1250,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-08-02T12:04:16Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo l24i-4a",
+      "url": "https://tehnoskarb.ua/montor-lenovo-l24i-4a/m5118837",
+      "price": 2200,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-02T12:04:16Z"
     }
   ],
   "config": {
