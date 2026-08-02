@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-02T18:30:40Z",
+  "updated_at": "2026-08-02T20:12:13Z",
   "stats": {
-    "total": 209,
-    "avg_price": 3256,
+    "total": 210,
+    "avg_price": 3242,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -731,13 +731,13 @@
       "name": "Монітор Samsung syncmaster 931bf",
       "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
       "price_min": 520,
-      "price_max": 520,
+      "price_max": 550,
       "city": "Бровари",
       "addresses": [
         "м. Бровари, б-р Незалежності, 11",
         "м. Вінниця, вул. Героїв Нацгвардії, 44"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -859,6 +859,24 @@
         {
           "price": 550,
           "at": "2026-07-25T05:44:47Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg l1742s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1742s/m5011804",
+      "price_min": 550,
+      "price_max": 550,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-08-02T20:10:53Z",
+      "price_history": [
+        {
+          "price": 550,
+          "at": "2026-08-02T20:10:53Z"
         }
       ],
       "category": "Монітори",
@@ -1070,12 +1088,12 @@
       "name": "Монітор Lg w1942s",
       "url": "https://tehnoskarb.ua/montor-lg-w1942s/m5144273",
       "price_min": 650,
-      "price_max": 760,
+      "price_max": 800,
       "city": "Київ",
       "addresses": [
         "м. Київ, б-р М. Міхновського, 25"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-07-26T18:32:07Z",
       "price_history": [
         {
@@ -3044,6 +3062,34 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi mag 244c",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
+      "price_min": 3300,
+      "price_max": 3590,
+      "city": "Тернопіль",
+      "addresses": [
+        "м. Тернопіль, вул. Мазепи, 5"
+      ],
+      "offers": 2,
+      "first_seen": "2026-07-24T20:35:32Z",
+      "price_history": [
+        {
+          "price": 3400,
+          "at": "2026-07-24T20:35:32Z"
+        },
+        {
+          "price": 3590,
+          "at": "2026-07-29T10:09:01Z"
+        },
+        {
+          "price": 3300,
+          "at": "2026-08-02T20:10:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор 2E 2e-h2420b",
       "url": "https://tehnoskarb.ua/montor-2e-2e-h2420b/m5176124",
       "price_min": 3500,
@@ -3098,30 +3144,6 @@
         {
           "price": 3500,
           "at": "2026-07-20T19:13:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi mag 244c",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
-      "price_min": 3590,
-      "price_max": 3590,
-      "city": "Тернопіль",
-      "addresses": [
-        "м. Тернопіль, вул. Мазепи, 5"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-24T20:35:32Z",
-      "price_history": [
-        {
-          "price": 3400,
-          "at": "2026-07-24T20:35:32Z"
-        },
-        {
-          "price": 3590,
-          "at": "2026-07-29T10:09:01Z"
         }
       ],
       "category": "Монітори",
@@ -4339,24 +4361,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Msi pro mp273",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp273/m5065045",
-      "price": 4790,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-21T11:10:20Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung e1920",
-      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
-      "price": 530,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-21T11:10:20Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Aoc 24p1",
@@ -6162,6 +6166,25 @@
       "city": "Самбір",
       "category": "Монітори",
       "at": "2026-08-02T18:30:21Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Msi mag 244c",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
+      "price_old": 3590,
+      "price_new": 3300,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-08-02T20:10:53Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg l1742s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1742s/m5011804",
+      "price": 550,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-02T20:10:53Z"
     }
   ],
   "config": {
