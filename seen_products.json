@@ -4532,8 +4532,10 @@
     "name": "Монітор Lg l1742s",
     "price_min": 550,
     "price_max": 550,
-    "city": "",
-    "addresses": [],
+    "city": "Кропивницький",
+    "addresses": [
+      "м. Кропивницький, вул. Незалежності, 9А"
+    ],
     "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
@@ -4544,8 +4546,7 @@
         "at": "2026-08-02T20:10:53Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-08-02T20:10:53Z",
-    "details_retry_at": "2026-08-02T20:40:53Z"
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-02T21:25:26Z"
   }
 }
