@@ -721,13 +721,13 @@
   "https://tehnoskarb.ua/montor-samsung-c24f396fhi/m5160256": {
     "name": "Монітор Samsung c24f396fhi",
     "price_min": 2680,
-    "price_max": 2710,
+    "price_max": 2680,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Червоної Калини, 26",
       "м. Хмельницький, вул. Панаса Мирного, 18-Б"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -1992,27 +1992,6 @@
     "price_history": [
       {
         "price": 4870,
-        "at": "2026-07-03T04:25:41Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T04:25:41Z"
-  },
-  "https://tehnoskarb.ua/montor-aoc-24g2u5/m5180639": {
-    "name": "Монітор Aoc 24g2u5",
-    "price_min": 3500,
-    "price_max": 3500,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, б-р Чоколовський, 21"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-03T04:25:41Z",
-    "price_history": [
-      {
-        "price": 3500,
         "at": "2026-07-03T04:25:41Z"
       }
     ],
@@ -4481,5 +4460,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-02T08:54:47Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-m228wdh/m5185460": {
+    "name": "Монітор Lg m228wdh",
+    "price_min": 730,
+    "price_max": 730,
+    "city": "Івано-Франківськ",
+    "addresses": [
+      "м. Івано-Франківськ, вул. Коновальця, 147/3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-02T18:30:21Z",
+    "price_history": [
+      {
+        "price": 730,
+        "at": "2026-08-02T18:30:21Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-02T18:30:21Z"
+  },
+  "https://tehnoskarb.ua/montor-fujitsu-l22t-2/m5169037": {
+    "name": "Монітор Fujitsu l22t-2",
+    "price_min": 580,
+    "price_max": 580,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, б-р Чоколовський, 21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-02T18:30:21Z",
+    "price_history": [
+      {
+        "price": 580,
+        "at": "2026-08-02T18:30:21Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-02T18:30:21Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-s24d300/m5149081": {
+    "name": "Монітор Samsung s24d300",
+    "price_min": 2300,
+    "price_max": 2300,
+    "city": "Самбір",
+    "addresses": [
+      "м. Самбір, площа Ринок, 26"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-02T18:30:21Z",
+    "price_history": [
+      {
+        "price": 2300,
+        "at": "2026-08-02T18:30:21Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-02T18:30:21Z"
   }
 }
