@@ -1417,27 +1417,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-03T00:08:52Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-s22a300n/m5091704": {
-    "name": "Монітор Samsung s22a300n",
-    "price_min": 880,
-    "price_max": 880,
-    "city": "Могилів-Подільський",
-    "addresses": [
-      "м. Могилів-Подільський, вул. Стависька, 42/78А"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-02T22:37:11Z",
-    "price_history": [
-      {
-        "price": 880,
-        "at": "2026-07-02T22:37:11Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-03T00:08:52Z"
-  },
   "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236": {
     "name": "Монітор Msi pro mp251",
     "price_min": 3020,
@@ -4524,26 +4503,6 @@
     "details_last_attempt": "2026-08-02T06:17:52Z",
     "details_retry_at": "2026-08-02T12:17:52Z"
   },
-  "https://tehnoskarb.ua/montor-dell-u2713h/m5184691": {
-    "name": "Монітор Dell u2713h",
-    "price_min": 1280,
-    "price_max": 1280,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-01T20:26:27Z",
-    "price_history": [
-      {
-        "price": 1280,
-        "at": "2026-08-01T20:26:27Z"
-      }
-    ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-08-02T03:15:25Z",
-    "details_retry_at": "2026-08-02T07:15:25Z"
-  },
   "https://tehnoskarb.ua/montor-vinga-27s118-21b/m5113452": {
     "name": "Монітор Vinga 27s118-21b",
     "price_min": 3760,
@@ -4564,5 +4523,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-02T06:17:52Z"
+  },
+  "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378": {
+    "name": "Відеомонітор Konvision kvm-1930w",
+    "price_min": 1999,
+    "price_max": 1999,
+    "city": "Львів",
+    "addresses": [
+      "м. Львів, вул. Промислова, 50/52"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-02T08:54:47Z",
+    "price_history": [
+      {
+        "price": 1999,
+        "at": "2026-08-02T08:54:47Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-02T08:54:47Z"
   }
 }
