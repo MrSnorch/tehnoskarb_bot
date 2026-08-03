@@ -1941,7 +1941,7 @@
       "м. Вишневе, вул. Святошинська, 27",
       "м. Київ, просп. Бажана, 3В (м. Харківська)"
     ],
-    "offers_count": 4,
+    "offers_count": 5,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -3942,13 +3942,13 @@
   },
   "https://tehnoskarb.ua/montor-samsung-b2240w/m5057742": {
     "name": "Монітор Samsung b2240w",
-    "price_min": 650,
+    "price_min": 680,
     "price_max": 680,
     "city": "Київ",
     "addresses": [
       "м. Київ, б-р М. Міхновського, 25"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-27T18:41:51Z",
@@ -3956,6 +3956,10 @@
       {
         "price": 650,
         "at": "2026-07-27T18:41:51Z"
+      },
+      {
+        "price": 680,
+        "at": "2026-08-03T20:12:03Z"
       }
     ],
     "details_failures": 0,
@@ -4680,27 +4684,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-03T13:42:06Z"
   },
-  "https://tehnoskarb.ua/montor-msi-mag342cqpv/m5186241": {
-    "name": "Монітор Msi mag342cqpv",
-    "price_min": 6750,
-    "price_max": 6750,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Олекси Тихого, 40/16"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-03T18:18:32Z",
-    "price_history": [
-      {
-        "price": 6750,
-        "at": "2026-08-03T18:18:32Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-03T18:18:32Z"
-  },
   "https://tehnoskarb.ua/montor-dell-s2722qc/m5185518": {
     "name": "Монітор Dell s2722qc",
     "price_min": 12500,
@@ -4742,5 +4725,46 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-03T18:18:32Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-legion-25-10/m5183970": {
+    "name": "Монітор Lenovo legion 25-10",
+    "price_min": 4600,
+    "price_max": 4600,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-03T20:12:03Z",
+    "price_history": [
+      {
+        "price": 4600,
+        "at": "2026-08-03T20:12:03Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-08-03T20:12:03Z",
+    "details_retry_at": "2026-08-03T20:42:03Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-pro-mp273a/m5175277": {
+    "name": "Монітор Msi pro mp273a",
+    "price_min": 3070,
+    "price_max": 3070,
+    "city": "Одеса",
+    "addresses": [
+      "м. Одеса, вул. Космонавтів, 9"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-03T20:12:03Z",
+    "price_history": [
+      {
+        "price": 3070,
+        "at": "2026-08-03T20:12:03Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-03T20:12:03Z"
   }
 }

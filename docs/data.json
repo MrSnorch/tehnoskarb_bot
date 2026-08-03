@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-03T18:19:59Z",
+  "updated_at": "2026-08-03T20:12:20Z",
   "stats": {
-    "total": 212,
-    "avg_price": 3238,
+    "total": 213,
+    "avg_price": 3227,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -882,7 +882,7 @@
         "м. Вишневе, вул. Святошинська, 27",
         "м. Київ, просп. Бажана, 3В (м. Харківська)"
       ],
-      "offers": 4,
+      "offers": 5,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -1259,26 +1259,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung b2240w",
-      "url": "https://tehnoskarb.ua/montor-samsung-b2240w/m5057742",
-      "price_min": 650,
-      "price_max": 680,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р М. Міхновського, 25"
-      ],
-      "offers": 2,
-      "first_seen": "2026-07-27T18:41:51Z",
-      "price_history": [
-        {
-          "price": 650,
-          "at": "2026-07-27T18:41:51Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer b223w",
       "url": "https://tehnoskarb.ua/montor-acer-b223w/m5110337",
       "price_min": 650,
@@ -1332,6 +1312,30 @@
         {
           "price": 660,
           "at": "2026-08-03T13:42:06Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung b2240w",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2240w/m5057742",
+      "price_min": 680,
+      "price_max": 680,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р М. Міхновського, 25"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-27T18:41:51Z",
+      "price_history": [
+        {
+          "price": 650,
+          "at": "2026-07-27T18:41:51Z"
+        },
+        {
+          "price": 680,
+          "at": "2026-08-03T20:12:03Z"
         }
       ],
       "category": "Монітори",
@@ -3138,6 +3142,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi pro mp273a",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp273a/m5175277",
+      "price_min": 3070,
+      "price_max": 3070,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, вул. Космонавтів, 9"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-03T20:12:03Z",
+      "price_history": [
+        {
+          "price": 3070,
+          "at": "2026-08-03T20:12:03Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung c27f390fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c27f390fhi/m5143525",
       "price_min": 3090,
@@ -3626,6 +3650,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lenovo legion 25-10",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-25-10/m5183970",
+      "price_min": 4600,
+      "price_max": 4600,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-08-03T20:12:03Z",
+      "price_history": [
+        {
+          "price": 4600,
+          "at": "2026-08-03T20:12:03Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi pro mp273",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp273/m5065045",
       "price_min": 4790,
@@ -4014,26 +4056,6 @@
         {
           "price": 6540,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi mag342cqpv",
-      "url": "https://tehnoskarb.ua/montor-msi-mag342cqpv/m5186241",
-      "price_min": 6750,
-      "price_max": 6750,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олекси Тихого, 40/16"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-03T18:18:32Z",
-      "price_history": [
-        {
-          "price": 6750,
-          "at": "2026-08-03T18:18:32Z"
         }
       ],
       "category": "Монітори",
@@ -4555,43 +4577,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus rog strix xg27acs-w",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368",
-      "price": 8500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-24T06:27:43Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi optix g2712",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g2712/m5147416",
-      "price": 4900,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-24T06:27:43Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Msi g2412",
-      "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
-      "price_old": 4320,
-      "price_new": 3990,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-24T06:27:43Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung b2030n",
-      "url": "https://tehnoskarb.ua/montor-samsung-b2030n/m5016638",
-      "price": 750,
-      "city": "Суми",
-      "category": "Монітори",
-      "at": "2026-07-24T06:27:43Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lg w1942s",
@@ -6412,6 +6397,43 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-03T18:18:32Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi mag342cqpv",
+      "url": "https://tehnoskarb.ua/montor-msi-mag342cqpv/m5186241",
+      "price": 6750,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-03T20:12:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo legion 25-10",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-25-10/m5183970",
+      "price": 4600,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-03T20:12:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp273a",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp273a/m5175277",
+      "price": 3070,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-08-03T20:12:03Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung b2240w",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2240w/m5057742",
+      "price_old": 650,
+      "price_new": 680,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-03T20:12:03Z"
     }
   ],
   "config": {
