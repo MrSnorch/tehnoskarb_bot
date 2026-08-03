@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-03T03:18:47Z",
+  "updated_at": "2026-08-03T06:44:22Z",
   "stats": {
-    "total": 210,
-    "avg_price": 3242,
+    "total": 211,
+    "avg_price": 3233,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -743,6 +743,26 @@
         {
           "price": 520,
           "at": "2026-07-02T22:37:11Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 220v1sb",
+      "url": "https://tehnoskarb.ua/montor-philips-220v1sb/m5185755",
+      "price_min": 520,
+      "price_max": 520,
+      "city": "Тернопіль",
+      "addresses": [
+        "м. Тернопіль, б-р Шевченка, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-03T06:44:10Z",
+      "price_history": [
+        {
+          "price": 520,
+          "at": "2026-08-03T06:44:10Z"
         }
       ],
       "category": "Монітори",
@@ -1628,35 +1648,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell u2412m",
-      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
-      "price_min": 1000,
-      "price_max": 1830,
-      "city": "Бровари",
-      "addresses": [
-        "м. Бровари, б-р Незалежності, 11",
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 2,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 1650,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 1830,
-          "at": "2026-07-05T16:34:33Z"
-        },
-        {
-          "price": 1000,
-          "at": "2026-07-20T10:54:35Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 23ea53tp",
       "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
       "price_min": 1000,
@@ -2224,6 +2215,39 @@
         {
           "price": 1750,
           "at": "2026-07-23T15:31:30Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell u2412m",
+      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
+      "price_min": 1830,
+      "price_max": 1830,
+      "city": "Бровари",
+      "addresses": [
+        "м. Бровари, б-р Незалежності, 11",
+        "м. Київ, б-р Чоколовський, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-02T22:37:11Z",
+      "price_history": [
+        {
+          "price": 1650,
+          "at": "2026-07-02T22:37:11Z"
+        },
+        {
+          "price": 1830,
+          "at": "2026-07-05T16:34:33Z"
+        },
+        {
+          "price": 1000,
+          "at": "2026-07-20T10:54:35Z"
+        },
+        {
+          "price": 1830,
+          "at": "2026-08-03T06:44:10Z"
         }
       ],
       "category": "Монітори",
@@ -4364,25 +4388,6 @@
   ],
   "events": [
     {
-      "type": "drop",
-      "name": "Монітор Aoc 24p1",
-      "url": "https://tehnoskarb.ua/montor-aoc-24p1/m5123527",
-      "price_old": 4500,
-      "price_new": 4100,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-07-21T11:10:20Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus ve208",
-      "url": "https://tehnoskarb.ua/montor-asus-ve208/m5177805",
-      "price": 750,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-07-21T12:54:26Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Samsung ls20b3u",
       "url": "https://tehnoskarb.ua/montor-samsung-ls20b3u/m5171325",
@@ -6187,6 +6192,25 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-02T20:10:53Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 220v1sb",
+      "url": "https://tehnoskarb.ua/montor-philips-220v1sb/m5185755",
+      "price": 520,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-08-03T06:44:10Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Dell u2412m",
+      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
+      "price_old": 1000,
+      "price_new": 1830,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-08-03T06:44:10Z"
     }
   ],
   "config": {
