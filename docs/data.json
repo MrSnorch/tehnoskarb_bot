@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-03T06:44:22Z",
+  "updated_at": "2026-08-03T10:46:02Z",
   "stats": {
-    "total": 211,
-    "avg_price": 3233,
+    "total": 208,
+    "avg_price": 3238,
     "min_price": 100,
     "max_price": 35440,
     "cities": [
@@ -457,26 +457,6 @@
         {
           "price": 350,
           "at": "2026-07-14T06:19:44Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg l206wtq",
-      "url": "https://tehnoskarb.ua/montor-lg-l206wtq/m5178437",
-      "price_min": 350,
-      "price_max": 350,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Вишгородська, 56/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-25T05:44:47Z",
-      "price_history": [
-        {
-          "price": 350,
-          "at": "2026-07-25T05:44:47Z"
         }
       ],
       "category": "Монітори",
@@ -2777,7 +2757,7 @@
       "addresses": [
         "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-07-06T04:52:24Z",
       "price_history": [
         {
@@ -2829,8 +2809,8 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Aoc 24b2xh",
-      "url": "https://tehnoskarb.ua/montor-aoc-24b2xh/m5147578",
+      "name": "Монітор Aoc 24b2xda",
+      "url": "https://tehnoskarb.ua/montor-aoc-24b2xda/m5186492",
       "price_min": 2800,
       "price_max": 2800,
       "city": "Луцьк",
@@ -2838,11 +2818,11 @@
         "м. Луцьк, вул. Лесі Українки, 24"
       ],
       "offers": 1,
-      "first_seen": "2026-07-30T05:43:21Z",
+      "first_seen": "2026-08-03T10:44:30Z",
       "price_history": [
         {
           "price": 2800,
-          "at": "2026-07-30T05:43:21Z"
+          "at": "2026-08-03T10:44:30Z"
         }
       ],
       "category": "Монітори",
@@ -3123,26 +3103,6 @@
       "city": "Київ",
       "addresses": [
         "м. Київ, просп. Правди, 41-А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 3500,
-          "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Dell p2418d",
-      "url": "https://tehnoskarb.ua/montor-dell-p2418d/m5065599",
-      "price_min": 3500,
-      "price_max": 3500,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
       ],
       "offers": 1,
       "first_seen": "2026-07-02T22:37:11Z",
@@ -3536,26 +3496,6 @@
         {
           "price": 4870,
           "at": "2026-07-03T04:25:41Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo 27-10",
-      "url": "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317",
-      "price_min": 4870,
-      "price_max": 4870,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Степана Бандери, 89"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-04T18:03:55Z",
-      "price_history": [
-        {
-          "price": 4870,
-          "at": "2026-07-04T18:03:55Z"
         }
       ],
       "category": "Монітори",
@@ -4387,51 +4327,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung ls20b3u",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls20b3u/m5171325",
-      "price": 730,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-21T12:54:26Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg l1717s",
-      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
-      "price": 270,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-21T12:54:26Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg l1753tr",
-      "url": "https://tehnoskarb.ua/montor-lg-l1753tr/m5055971",
-      "price": 350,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-21T15:05:04Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung syncmaster 913n",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
-      "price": 400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-21T16:55:05Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Apple studio display 27\" with tilt adjustable stand",
-      "url": "https://tehnoskarb.ua/montor-apple-studio-display-27-with-tilt-adjustable-stand/m5183475",
-      "price": 58000,
-      "city": "Обухів",
-      "category": "Монітори",
-      "at": "2026-07-21T18:16:34Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Acer x203h",
@@ -6211,6 +6106,51 @@
       "city": "Бровари",
       "category": "Монітори",
       "at": "2026-08-03T06:44:10Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell p2418d",
+      "url": "https://tehnoskarb.ua/montor-dell-p2418d/m5065599",
+      "price": 3500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-03T10:44:30Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo 27-10",
+      "url": "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317",
+      "price": 4870,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-08-03T10:44:30Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg l206wtq",
+      "url": "https://tehnoskarb.ua/montor-lg-l206wtq/m5178437",
+      "price": 350,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-03T10:44:30Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc 24b2xh",
+      "url": "https://tehnoskarb.ua/montor-aoc-24b2xh/m5147578",
+      "price": 2800,
+      "city": "Луцьк",
+      "category": "Монітори",
+      "at": "2026-08-03T10:44:30Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc 24b2xda",
+      "url": "https://tehnoskarb.ua/montor-aoc-24b2xda/m5186492",
+      "price": 2800,
+      "city": "Луцьк",
+      "category": "Монітори",
+      "at": "2026-08-03T10:44:30Z"
     }
   ],
   "config": {
