@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-03T13:43:49Z",
+  "updated_at": "2026-08-03T16:27:49Z",
   "stats": {
-    "total": 210,
-    "avg_price": 3210,
+    "total": 209,
+    "avg_price": 3184,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -815,13 +815,13 @@
       "name": "Монітор Samsung syncmaster 931bf",
       "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
       "price_min": 520,
-      "price_max": 550,
+      "price_max": 520,
       "city": "Бровари",
       "addresses": [
         "м. Бровари, б-р Незалежності, 11",
         "м. Вінниця, вул. Героїв Нацгвардії, 44"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -1616,6 +1616,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 23ea53tp",
+      "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
+      "price_min": 900,
+      "price_max": 900,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, вул. Корольова, 80"
+      ],
+      "offers": 1,
+      "first_seen": "2026-07-11T11:13:41Z",
+      "price_history": [
+        {
+          "price": 1000,
+          "at": "2026-07-11T11:13:41Z"
+        },
+        {
+          "price": 900,
+          "at": "2026-08-03T16:27:39Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vw223b",
       "url": "https://tehnoskarb.ua/montor-asus-vw223b/m5176386",
       "price_min": 900,
@@ -1756,26 +1780,6 @@
         {
           "price": 980,
           "at": "2026-07-09T19:08:03Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg 23ea53tp",
-      "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
-      "price_min": 1000,
-      "price_max": 1000,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Корольова, 80"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-11T11:13:41Z",
-      "price_history": [
-        {
-          "price": 1000,
-          "at": "2026-07-11T11:13:41Z"
         }
       ],
       "category": "Монітори",
@@ -4148,26 +4152,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus rog strix xg27acs-w",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368",
-      "price_min": 8500,
-      "price_max": 8500,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-24T06:27:43Z",
-      "price_history": [
-        {
-          "price": 8500,
-          "at": "2026-07-24T06:27:43Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung odyssey g5 c34g55tw",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
       "price_min": 8980,
@@ -4511,24 +4495,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Anmite a160w03",
-      "url": "https://tehnoskarb.ua/montor-anmite-a160w03/m5182370",
-      "price": 2670,
-      "city": "Новий Розділ",
-      "category": "Монітори",
-      "at": "2026-07-24T06:27:43Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Aoc c24g2",
-      "url": "https://tehnoskarb.ua/montor-aoc-c24g2/m5183953",
-      "price": 4000,
-      "city": "Суми",
-      "category": "Монітори",
-      "at": "2026-07-24T06:27:43Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lenovo legion r24e",
@@ -6367,6 +6333,25 @@
       "city": "Бровари",
       "category": "Монітори",
       "at": "2026-08-03T13:42:06Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus rog strix xg27acs-w",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368",
+      "price": 8500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-03T16:27:39Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Lg 23ea53tp",
+      "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
+      "price_old": 1000,
+      "price_new": 900,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-08-03T16:27:39Z"
     }
   ],
   "config": {

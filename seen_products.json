@@ -598,13 +598,13 @@
   "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064": {
     "name": "Монітор Samsung syncmaster 931bf",
     "price_min": 520,
-    "price_max": 550,
+    "price_max": 520,
     "city": "Бровари",
     "addresses": [
       "м. Бровари, б-р Незалежності, 11",
       "м. Вінниця, вул. Героїв Нацгвардії, 44"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -2574,8 +2574,8 @@
   },
   "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523": {
     "name": "Монітор Lg 23ea53tp",
-    "price_min": 1000,
-    "price_max": 1000,
+    "price_min": 900,
+    "price_max": 900,
     "city": "Одеса",
     "addresses": [
       "м. Одеса, вул. Корольова, 80"
@@ -2588,6 +2588,10 @@
       {
         "price": 1000,
         "at": "2026-07-11T11:13:41Z"
+      },
+      {
+        "price": 900,
+        "at": "2026-08-03T16:27:39Z"
       }
     ],
     "details_failures": 0,
@@ -3494,27 +3498,6 @@
     "details_failures": 38,
     "details_last_attempt": "2026-08-03T10:44:30Z",
     "details_retry_at": "2026-08-03T16:44:30Z"
-  },
-  "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs-w/m5173368": {
-    "name": "Монітор Asus rog strix xg27acs-w",
-    "price_min": 8500,
-    "price_max": 8500,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, б-р Чоколовський, 21"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-24T06:27:43Z",
-    "price_history": [
-      {
-        "price": 8500,
-        "at": "2026-07-24T06:27:43Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-24T06:27:43Z"
   },
   "https://tehnoskarb.ua/montor-msi-optix-g2712/m5147416": {
     "name": "Монітор Msi optix g2712",
