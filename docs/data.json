@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-03T16:27:49Z",
+  "updated_at": "2026-08-03T18:19:59Z",
   "stats": {
-    "total": 209,
-    "avg_price": 3184,
+    "total": 212,
+    "avg_price": 3238,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2344,6 +2344,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Benq gw2480",
+      "url": "https://tehnoskarb.ua/montor-benq-gw2480/m5124510",
+      "price_min": 1690,
+      "price_max": 1690,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 136"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-03T18:18:32Z",
+      "price_history": [
+        {
+          "price": 1690,
+          "at": "2026-08-03T18:18:32Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 24mp58vq-p",
       "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
       "price_min": 1750,
@@ -4000,6 +4020,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi mag342cqpv",
+      "url": "https://tehnoskarb.ua/montor-msi-mag342cqpv/m5186241",
+      "price_min": 6750,
+      "price_max": 6750,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Олекси Тихого, 40/16"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-03T18:18:32Z",
+      "price_history": [
+        {
+          "price": 6750,
+          "at": "2026-08-03T18:18:32Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus tuf gaming vg279qm1a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279qm1a/m5062453",
       "price_min": 7000,
@@ -4356,6 +4396,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell s2722qc",
+      "url": "https://tehnoskarb.ua/montor-dell-s2722qc/m5185518",
+      "price_min": 12500,
+      "price_max": 12500,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Гната Юри, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-03T18:18:32Z",
+      "price_history": [
+        {
+          "price": 12500,
+          "at": "2026-08-03T18:18:32Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 27gn950-b",
       "url": "https://tehnoskarb.ua/montor-lg-27gn950-b/m5165373",
       "price_min": 13330,
@@ -4495,33 +4555,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lenovo legion r24e",
-      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
-      "price": 4250,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-07-24T06:27:43Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung syncmaster 913n",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
-      "price": 400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-24T06:27:43Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор портативний Zsus pm14tt-2k",
-      "url": "https://tehnoskarb.ua/montor-portativnijj-zsus-pm14tt-2k/m5176376",
-      "price": 3100,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-24T06:27:43Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus rog strix xg27acs-w",
@@ -6352,6 +6385,33 @@
       "city": "Одеса",
       "category": "Монітори",
       "at": "2026-08-03T16:27:39Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi mag342cqpv",
+      "url": "https://tehnoskarb.ua/montor-msi-mag342cqpv/m5186241",
+      "price": 6750,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-03T18:18:32Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell s2722qc",
+      "url": "https://tehnoskarb.ua/montor-dell-s2722qc/m5185518",
+      "price": 12500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-03T18:18:32Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Benq gw2480",
+      "url": "https://tehnoskarb.ua/montor-benq-gw2480/m5124510",
+      "price": 1690,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-03T18:18:32Z"
     }
   ],
   "config": {
