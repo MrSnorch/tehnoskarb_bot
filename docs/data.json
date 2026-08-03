@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-03T20:12:20Z",
+  "updated_at": "2026-08-03T21:41:07Z",
   "stats": {
-    "total": 213,
-    "avg_price": 3227,
+    "total": 214,
+    "avg_price": 3222,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2446,6 +2446,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi pro mp252",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
+      "price_min": 1970,
+      "price_max": 1970,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів,  просп. Чорновола, 45"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-03T21:40:56Z",
+      "price_history": [
+        {
+          "price": 1970,
+          "at": "2026-08-03T21:40:56Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Відеомонітор Konvision kvm-1930w",
       "url": "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378",
       "price_min": 1999,
@@ -4579,15 +4599,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Lg w1942s",
-      "url": "https://tehnoskarb.ua/montor-lg-w1942s/m5144273",
-      "price": 650,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-24T09:04:50Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Philips 236v3lsb",
       "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
       "price": 650,
@@ -6434,6 +6445,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-03T20:12:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp252",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
+      "price": 1970,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-08-03T21:40:56Z"
     }
   ],
   "config": {
