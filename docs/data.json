@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-04T15:04:12Z",
+  "updated_at": "2026-08-04T17:12:47Z",
   "stats": {
-    "total": 216,
-    "avg_price": 3197,
+    "total": 214,
+    "avg_price": 3202,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -30,7 +30,6 @@
       "Луцьк",
       "Львів",
       "Миколаїв",
-      "Новий Розділ",
       "Новояворівськ",
       "Одеса",
       "Полтава",
@@ -2333,43 +2332,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell u2412m",
-      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
-      "price_min": 1650,
-      "price_max": 1650,
-      "city": "Бровари",
-      "addresses": [
-        "м. Бровари, б-р Незалежності, 11",
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 1650,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 1830,
-          "at": "2026-07-05T16:34:33Z"
-        },
-        {
-          "price": 1000,
-          "at": "2026-07-20T10:54:35Z"
-        },
-        {
-          "price": 1830,
-          "at": "2026-08-03T06:44:10Z"
-        },
-        {
-          "price": 1650,
-          "at": "2026-08-03T13:42:06Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc 22p1",
       "url": "https://tehnoskarb.ua/montor-aoc-22p1/m5169396",
       "price_min": 1670,
@@ -3436,30 +3398,6 @@
         {
           "price": 3500,
           "at": "2026-07-20T19:13:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 27e1n1900ae/00",
-      "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
-      "price_min": 3520,
-      "price_max": 3520,
-      "city": "Новий Розділ",
-      "addresses": [
-        "м. Новий Розділ, просп. Тараса Шевченка, 34"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-29T10:09:01Z",
-      "price_history": [
-        {
-          "price": 3910,
-          "at": "2026-07-29T10:09:01Z"
-        },
-        {
-          "price": 3520,
-          "at": "2026-08-03T13:42:06Z"
         }
       ],
       "category": "Монітори",
@@ -4635,25 +4573,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Samsung syncmaster t220hd",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-t220hd/m5178542",
-      "price_old": 1500,
-      "price_new": 1140,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-07-25T05:44:47Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg l206wtq",
-      "url": "https://tehnoskarb.ua/montor-lg-l206wtq/m5178437",
-      "price": 350,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-25T05:44:47Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg flatron w1930s",
@@ -6493,6 +6412,24 @@
       "city": "Вишневе",
       "category": "Монітори",
       "at": "2026-08-04T15:02:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell u2412m",
+      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
+      "price": 1650,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-08-04T17:12:39Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 27e1n1900ae/00",
+      "url": "https://tehnoskarb.ua/montor-philips-27e1n1900ae-00/m5136982",
+      "price": 3520,
+      "city": "Новий Розділ",
+      "category": "Монітори",
+      "at": "2026-08-04T17:12:39Z"
     }
   ],
   "config": {
