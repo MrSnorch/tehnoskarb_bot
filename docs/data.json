@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-04T12:26:01Z",
+  "updated_at": "2026-08-04T15:04:12Z",
   "stats": {
-    "total": 217,
-    "avg_price": 3188,
+    "total": 216,
+    "avg_price": 3197,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2253,26 +2253,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s22e200b",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22e200b/m5183701",
-      "price_min": 1400,
-      "price_max": 1400,
-      "city": "Вишневе",
-      "addresses": [
-        "м. Вишневе, вул. Остапа Вишні, 4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-20T19:13:22Z",
-      "price_history": [
-        {
-          "price": 1400,
-          "at": "2026-07-20T19:13:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung b2430l",
       "url": "https://tehnoskarb.ua/montor-samsung-b2430l/m5051260",
       "price_min": 1450,
@@ -2454,7 +2434,7 @@
       "addresses": [
         "м. Вишневе, вул. Остапа Вишні, 4"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-07-09T04:36:09Z",
       "price_history": [
         {
@@ -4656,15 +4636,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Samsung odyssey g5 ls32cg550",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125",
-      "price": 6900,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-25T05:44:47Z"
-    },
-    {
       "type": "drop",
       "name": "Монітор Samsung syncmaster t220hd",
       "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-t220hd/m5178542",
@@ -6513,6 +6484,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-04T12:25:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s22e200b",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22e200b/m5183701",
+      "price": 1400,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-08-04T15:02:52Z"
     }
   ],
   "config": {
