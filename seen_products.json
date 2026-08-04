@@ -3228,7 +3228,7 @@
     "addresses": [
       "м. Хмельницький, вул. Кам`янецька, 11"
     ],
-    "offers_count": 4,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-21T05:53:20Z",
@@ -3319,27 +3319,6 @@
     "price_history": [
       {
         "price": 1080,
-        "at": "2026-07-22T09:27:51Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-22T09:27:51Z"
-  },
-  "https://tehnoskarb.ua/montor-hp-l1908w/m5183173": {
-    "name": "Монітор Hp l1908w",
-    "price_min": 400,
-    "price_max": 400,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Закревського, 27/2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-22T09:27:51Z",
-    "price_history": [
-      {
-        "price": 400,
         "at": "2026-07-22T09:27:51Z"
       }
     ],
@@ -4847,5 +4826,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-04T07:14:22Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105": {
+    "name": "Монітор Samsung s27dg500",
+    "price_min": 7600,
+    "price_max": 7600,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Княжий Затон, 11"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-04T12:25:50Z",
+    "price_history": [
+      {
+        "price": 7600,
+        "at": "2026-08-04T12:25:50Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-04T12:25:50Z"
   }
 }
