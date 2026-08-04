@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-04T19:08:11Z",
+  "updated_at": "2026-08-04T20:51:07Z",
   "stats": {
-    "total": 217,
-    "avg_price": 3207,
+    "total": 216,
+    "avg_price": 3199,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3748,26 +3748,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey g5 c27g55tqb",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c27g55tqb/m5180698",
-      "price_min": 4870,
-      "price_max": 4870,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олекси Тихого, 40/16"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-03T04:25:41Z",
-      "price_history": [
-        {
-          "price": 4870,
-          "at": "2026-07-03T04:25:41Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lenovo 27-10",
       "url": "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317",
       "price_min": 4870,
@@ -4633,15 +4613,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg l1717s",
-      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
-      "price": 270,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-25T05:44:47Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lenovo lt2252pwa",
@@ -6490,6 +6461,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-04T19:07:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey g5 c27g55tqb",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c27g55tqb/m5180698",
+      "price": 4870,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-04T20:50:59Z"
     }
   ],
   "config": {
