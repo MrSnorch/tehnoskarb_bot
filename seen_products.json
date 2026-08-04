@@ -106,8 +106,8 @@
   },
   "https://tehnoskarb.ua/montor-benq-benq-zowie-xl2546k/m5180042": {
     "name": "Монітор Benq benq zowie xl2546k",
-    "price_min": 11700,
-    "price_max": 11700,
+    "price_min": 11380,
+    "price_max": 11380,
     "city": "Харків",
     "addresses": [
       "м. Харків, вул. Дудинської, 1-А"
@@ -120,6 +120,10 @@
       {
         "price": 11700,
         "at": "2026-07-02T22:37:11Z"
+      },
+      {
+        "price": 11380,
+        "at": "2026-08-04T10:11:16Z"
       }
     ],
     "details_failures": 0,
@@ -1694,7 +1698,7 @@
   "https://tehnoskarb.ua/montor-philips-223v5l/m5061207": {
     "name": "Монітор Philips 223v5l",
     "price_min": 660,
-    "price_max": 1200,
+    "price_max": 1010,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. О. Архипенка, 1/12",
@@ -2288,35 +2292,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-07-06T18:57:16Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105": {
-    "name": "Монітор Samsung s27dg500",
-    "price_min": 7600,
-    "price_max": 7600,
-    "city": "Чернівці",
-    "addresses": [
-      "м. Чернівці, вул. Героїв майдану, 48"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-07T07:41:52Z",
-    "price_history": [
-      {
-        "price": 6510,
-        "at": "2026-07-07T07:41:52Z"
-      },
-      {
-        "price": 7000,
-        "at": "2026-07-08T11:23:01Z"
-      },
-      {
-        "price": 7600,
-        "at": "2026-07-27T11:51:53Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-07T07:41:52Z"
   },
   "https://tehnoskarb.ua/montor-acer-al-1916/m5139854": {
     "name": "Монітор Acer al 1916",
@@ -4725,26 +4700,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-03T18:18:32Z"
-  },
-  "https://tehnoskarb.ua/montor-lenovo-legion-25-10/m5183970": {
-    "name": "Монітор Lenovo legion 25-10",
-    "price_min": 4600,
-    "price_max": 4600,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-03T20:12:03Z",
-    "price_history": [
-      {
-        "price": 4600,
-        "at": "2026-08-03T20:12:03Z"
-      }
-    ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-08-04T04:21:30Z",
-    "details_retry_at": "2026-08-04T08:21:30Z"
   },
   "https://tehnoskarb.ua/montor-msi-pro-mp273a/m5175277": {
     "name": "Монітор Msi pro mp273a",
