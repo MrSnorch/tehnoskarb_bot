@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-04T17:12:47Z",
+  "updated_at": "2026-08-04T19:08:11Z",
   "stats": {
-    "total": 214,
-    "avg_price": 3202,
+    "total": 217,
+    "avg_price": 3207,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -646,6 +646,26 @@
         {
           "price": 400,
           "at": "2026-07-12T18:27:41Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Benq g925hda",
+      "url": "https://tehnoskarb.ua/montor-benq-g925hda/m5058394",
+      "price_min": 400,
+      "price_max": 400,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-04T19:07:52Z",
+      "price_history": [
+        {
+          "price": 400,
+          "at": "2026-08-04T19:07:52Z"
         }
       ],
       "category": "Монітори",
@@ -2246,6 +2266,26 @@
         {
           "price": 1350,
           "at": "2026-08-03T13:42:06Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 226v4l",
+      "url": "https://tehnoskarb.ua/montor-philips-226v4l/m5137525",
+      "price_min": 1400,
+      "price_max": 1400,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-04T19:07:52Z",
+      "price_history": [
+        {
+          "price": 1400,
+          "at": "2026-08-04T19:07:52Z"
         }
       ],
       "category": "Монітори",
@@ -4206,6 +4246,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Aoc u34g3xm",
+      "url": "https://tehnoskarb.ua/montor-aoc-u34g3xm/m5186670",
+      "price_min": 8800,
+      "price_max": 8800,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-04T19:07:52Z",
+      "price_history": [
+        {
+          "price": 8800,
+          "at": "2026-08-04T19:07:52Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung odyssey g5 c34g55tw",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
       "price_min": 8980,
@@ -4573,33 +4633,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg flatron w1930s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-w1930s/m5173068",
-      "price": 550,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-25T05:44:47Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls20b3u",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls20b3u/m5171325",
-      "price": 730,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-25T05:44:47Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s24f320gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24f320gai/m5144447",
-      "price": 1960,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-07-25T05:44:47Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg l1717s",
@@ -6430,6 +6463,33 @@
       "city": "Новий Розділ",
       "category": "Монітори",
       "at": "2026-08-04T17:12:39Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc u34g3xm",
+      "url": "https://tehnoskarb.ua/montor-aoc-u34g3xm/m5186670",
+      "price": 8800,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-04T19:07:52Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 226v4l",
+      "url": "https://tehnoskarb.ua/montor-philips-226v4l/m5137525",
+      "price": 1400,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-08-04T19:07:52Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Benq g925hda",
+      "url": "https://tehnoskarb.ua/montor-benq-g925hda/m5058394",
+      "price": 400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-04T19:07:52Z"
     }
   ],
   "config": {
