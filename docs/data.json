@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-05T05:49:22Z",
+  "updated_at": "2026-08-05T08:39:47Z",
   "stats": {
     "total": 217,
-    "avg_price": 3187,
+    "avg_price": 3189,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2509,26 +2509,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi pro mp252",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
-      "price_min": 1970,
-      "price_max": 1970,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів,  просп. Чорновола, 45"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-03T21:40:56Z",
-      "price_history": [
-        {
-          "price": 1970,
-          "at": "2026-08-03T21:40:56Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Відеомонітор Konvision kvm-1930w",
       "url": "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378",
       "price_min": 1999,
@@ -2849,6 +2829,30 @@
         {
           "price": 2490,
           "at": "2026-08-03T13:42:06Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi pro mp252",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
+      "price_min": 2500,
+      "price_max": 2500,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів,  просп. Чорновола, 45"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-03T21:40:56Z",
+      "price_history": [
+        {
+          "price": 1970,
+          "at": "2026-08-03T21:40:56Z"
+        },
+        {
+          "price": 2500,
+          "at": "2026-08-05T08:39:39Z"
         }
       ],
       "category": "Монітори",
@@ -4634,15 +4638,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Aoc 24p1",
-      "url": "https://tehnoskarb.ua/montor-aoc-24p1/m5123527",
-      "price": 4100,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-07-25T11:44:41Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Prologix gm2425c",
@@ -6491,6 +6486,16 @@
       "city": "Кременчук",
       "category": "Монітори",
       "at": "2026-08-05T05:47:55Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Msi pro mp252",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
+      "price_old": 1970,
+      "price_new": 2500,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-08-05T08:39:39Z"
     }
   ],
   "config": {
