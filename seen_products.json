@@ -1545,12 +1545,12 @@
   "https://tehnoskarb.ua/montor-acer-v226hql/m5076841": {
     "name": "Монітор Acer v226hql",
     "price_min": 950,
-    "price_max": 950,
+    "price_max": 1020,
     "city": "Самбір",
     "addresses": [
       "м. Самбір, площа Ринок, 26"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -1881,7 +1881,7 @@
   },
   "https://tehnoskarb.ua/montor-msi-g2412/m5024355": {
     "name": "Монітор Msi g2412",
-    "price_min": 3990,
+    "price_min": 3930,
     "price_max": 4320,
     "city": "Київ",
     "addresses": [
@@ -1890,7 +1890,7 @@
       "м. Запоріжжя, просп. Соборний, 224",
       "м. Київ, б-р М. Міхновського, 25"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-02T22:37:11Z",
@@ -1910,6 +1910,10 @@
       {
         "price": 3990,
         "at": "2026-07-24T06:27:43Z"
+      },
+      {
+        "price": 3930,
+        "at": "2026-08-05T17:41:23Z"
       }
     ],
     "details_failures": 0,
@@ -3620,13 +3624,13 @@
   "https://tehnoskarb.ua/montor-msi-mag-242f/m5162284": {
     "name": "Монітор Msi mag 242f",
     "price_min": 3750,
-    "price_max": 3850,
+    "price_max": 3750,
     "city": "Чернівці",
     "addresses": [
       "м. Чернівці, просп. Незалежності, 82",
       "м. Харків, вул. Дудинської, 1-А"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-07-26T18:32:07Z",
@@ -4282,27 +4286,6 @@
     "details_last_attempt": "2026-08-05T13:11:15Z",
     "details_retry_at": "2026-08-05T19:11:15Z"
   },
-  "https://tehnoskarb.ua/montor-vinga-27s118-21b/m5113452": {
-    "name": "Монітор Vinga 27s118-21b",
-    "price_min": 3760,
-    "price_max": 3760,
-    "city": "Житомир",
-    "addresses": [
-      "м. Житомир, вул. Довженко, 44"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-02T06:17:52Z",
-    "price_history": [
-      {
-        "price": 3760,
-        "at": "2026-08-02T06:17:52Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-02T06:17:52Z"
-  },
   "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378": {
     "name": "Відеомонітор Konvision kvm-1930w",
     "price_min": 1999,
@@ -4768,5 +4751,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-05T15:38:35Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vp249hr/m5111111": {
+    "name": "Монітор Asus vp249hr",
+    "price_min": 2400,
+    "price_max": 2400,
+    "city": "Бровари",
+    "addresses": [
+      "м. Бровари, вул. Героїв України, 11"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-05T17:41:23Z",
+    "price_history": [
+      {
+        "price": 2400,
+        "at": "2026-08-05T17:41:23Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-05T17:41:23Z"
   }
 }
