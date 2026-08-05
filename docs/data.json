@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-05T02:44:17Z",
+  "updated_at": "2026-08-05T05:49:22Z",
   "stats": {
-    "total": 216,
-    "avg_price": 3199,
+    "total": 217,
+    "avg_price": 3187,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -24,6 +24,7 @@
       "Київ",
       "Конотоп",
       "Коростень",
+      "Кременчук",
       "Кривий Ріг",
       "Кропивницький",
       "Лозова",
@@ -721,6 +722,26 @@
         {
           "price": 450,
           "at": "2026-08-03T13:42:06Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 206bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-206bw/m5008710",
+      "price_min": 470,
+      "price_max": 470,
+      "city": "Кременчук",
+      "addresses": [
+        "м. Кременчук, вул. Покровська, 15/34"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-05T05:47:55Z",
+      "price_history": [
+        {
+          "price": 470,
+          "at": "2026-08-05T05:47:55Z"
         }
       ],
       "category": "Монітори",
@@ -4615,15 +4636,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Lenovo lt2252pwa",
-      "url": "https://tehnoskarb.ua/montor-lenovo-lt2252pwa/m5159261",
-      "price": 850,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-25T10:08:16Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Aoc 24p1",
       "url": "https://tehnoskarb.ua/montor-aoc-24p1/m5123527",
       "price": 4100,
@@ -6470,6 +6482,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-04T20:50:59Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 206bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-206bw/m5008710",
+      "price": 470,
+      "city": "Кременчук",
+      "category": "Монітори",
+      "at": "2026-08-05T05:47:55Z"
     }
   ],
   "config": {
