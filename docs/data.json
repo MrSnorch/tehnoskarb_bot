@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-05T19:39:46Z",
+  "updated_at": "2026-08-05T21:13:07Z",
   "stats": {
     "total": 214,
-    "avg_price": 3176,
+    "avg_price": 3174,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -855,13 +855,13 @@
       "name": "Монітор Samsung syncmaster 931bf",
       "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
       "price_min": 520,
-      "price_max": 520,
+      "price_max": 550,
       "city": "Бровари",
       "addresses": [
         "м. Бровари, б-р Незалежності, 11",
         "м. Вінниця, вул. Героїв Нацгвардії, 44"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-07-02T22:37:11Z",
       "price_history": [
         {
@@ -3044,6 +3044,34 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Xiaomi monitor a24i",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-monitor-a24i/m5154283",
+      "price_min": 2800,
+      "price_max": 3120,
+      "city": "Дрогобич",
+      "addresses": [
+        "м. Дрогобич, вул. Пилипа Орлика, 14"
+      ],
+      "offers": 2,
+      "first_seen": "2026-07-02T22:37:11Z",
+      "price_history": [
+        {
+          "price": 2430,
+          "at": "2026-07-02T22:37:11Z"
+        },
+        {
+          "price": 3120,
+          "at": "2026-07-19T09:28:45Z"
+        },
+        {
+          "price": 2800,
+          "at": "2026-08-05T21:12:59Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Aoc 24b2xda",
       "url": "https://tehnoskarb.ua/montor-aoc-24b2xda/m5186492",
       "price_min": 2800,
@@ -3283,30 +3311,6 @@
         {
           "price": 3100,
           "at": "2026-07-24T06:27:43Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Xiaomi monitor a24i",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-monitor-a24i/m5154283",
-      "price_min": 3120,
-      "price_max": 3120,
-      "city": "Дрогобич",
-      "addresses": [
-        "м. Дрогобич, вул. Пилипа Орлика, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 2430,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 3120,
-          "at": "2026-07-19T09:28:45Z"
         }
       ],
       "category": "Монітори",
@@ -4584,15 +4588,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lg e2040st",
-      "url": "https://tehnoskarb.ua/montor-lg-e2040st/m5112294",
-      "price": 560,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-07-26T12:04:51Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung odyssey g5 ls32cg550",
@@ -6440,6 +6435,16 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-08-05T19:38:26Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Xiaomi monitor a24i",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-monitor-a24i/m5154283",
+      "price_old": 3120,
+      "price_new": 2800,
+      "city": "Дрогобич",
+      "category": "Монітори",
+      "at": "2026-08-05T21:12:59Z"
     }
   ],
   "config": {
