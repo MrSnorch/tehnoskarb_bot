@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-06T12:05:10Z",
+  "updated_at": "2026-08-06T14:53:50Z",
   "stats": {
-    "total": 213,
-    "avg_price": 3173,
+    "total": 211,
+    "avg_price": 3156,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3663,26 +3663,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix g27c6",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g27c6/m5184075",
-      "price_min": 4600,
-      "price_max": 4600,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, вул. Коновальця, 147/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-22T19:52:30Z",
-      "price_history": [
-        {
-          "price": 4600,
-          "at": "2026-07-22T19:52:30Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi pro mp273",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp273/m5065045",
       "price_min": 4790,
@@ -3881,30 +3861,6 @@
         {
           "price": 5250,
           "at": "2026-07-02T22:37:11Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg 32qn600-b",
-      "url": "https://tehnoskarb.ua/montor-lg-32qn600-b/m5179869",
-      "price_min": 5400,
-      "price_max": 5400,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 6000,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 5400,
-          "at": "2026-08-03T13:42:06Z"
         }
       ],
       "category": "Монітори",
@@ -4568,24 +4524,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Asus rog strix xg27acdng",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acdng/m5180106",
-      "price": 27430,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-07-26T15:39:16Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus tuf gaming vg249q",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q/m5183569",
-      "price": 3330,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-07-26T15:39:16Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus zenscreen mb166c",
@@ -6425,6 +6363,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-06T12:03:49Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 32qn600-b",
+      "url": "https://tehnoskarb.ua/montor-lg-32qn600-b/m5179869",
+      "price": 5400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-06T14:53:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix g27c6",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g27c6/m5184075",
+      "price": 4600,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-08-06T14:53:41Z"
     }
   ],
   "config": {
