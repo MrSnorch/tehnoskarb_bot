@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-06T06:33:30Z",
+  "updated_at": "2026-08-06T09:41:10Z",
   "stats": {
-    "total": 215,
-    "avg_price": 3172,
+    "total": 214,
+    "avg_price": 3175,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2863,26 +2863,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Qube b24f75 ips",
-      "url": "https://tehnoskarb.ua/montor-qube-b24f75-ips/m5159122",
-      "price_min": 2540,
-      "price_max": 2540,
-      "city": "Вишневе",
-      "addresses": [
-        "м. Вишневе, вул. Святошинська, 27"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-27T04:22:15Z",
-      "price_history": [
-        {
-          "price": 2540,
-          "at": "2026-07-27T04:22:15Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vz24ehe",
       "url": "https://tehnoskarb.ua/montor-asus-vz24ehe/m5128511",
       "price_min": 2550,
@@ -4608,15 +4588,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Asus zenscreen mb166c",
-      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb166c/m5183364",
-      "price": 3800,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-07-26T14:08:35Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung lf22t350f",
@@ -6465,6 +6436,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-06T06:33:19Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Qube b24f75 ips",
+      "url": "https://tehnoskarb.ua/montor-qube-b24f75-ips/m5159122",
+      "price": 2540,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-08-06T09:41:03Z"
     }
   ],
   "config": {
