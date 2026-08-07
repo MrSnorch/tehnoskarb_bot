@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-07T13:09:12Z",
+  "updated_at": "2026-08-07T14:32:24Z",
   "stats": {
-    "total": 218,
-    "avg_price": 3276,
+    "total": 219,
+    "avg_price": 3271,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2597,6 +2597,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell p2418hz",
+      "url": "https://tehnoskarb.ua/montor-dell-p2418hz/m5186961",
+      "price_min": 2250,
+      "price_max": 2250,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Княжий Затон, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-07T14:32:16Z",
+      "price_history": [
+        {
+          "price": 2250,
+          "at": "2026-08-07T14:32:16Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung ls24d300gai",
       "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gai/m5182092",
       "price_min": 2260,
@@ -4655,15 +4675,6 @@
   ],
   "events": [
     {
-      "type": "new",
-      "name": "Монітор Asus vz249hg",
-      "url": "https://tehnoskarb.ua/montor-asus-vz249hg/m5154430",
-      "price": 2330,
-      "city": "Вишневе",
-      "category": "Монітори",
-      "at": "2026-07-27T04:22:15Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Dell se2219",
       "url": "https://tehnoskarb.ua/montor-dell-se2219/m5184091",
@@ -6510,6 +6521,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-08-07T13:09:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell p2418hz",
+      "url": "https://tehnoskarb.ua/montor-dell-p2418hz/m5186961",
+      "price": 2250,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-07T14:32:16Z"
     }
   ],
   "config": {
