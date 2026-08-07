@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-07T10:54:40Z",
+  "updated_at": "2026-08-07T11:49:26Z",
   "stats": {
-    "total": 221,
-    "avg_price": 3278,
+    "total": 220,
+    "avg_price": 3277,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3571,26 +3571,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung c27rg50fh",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
-      "price_min": 3500,
-      "price_max": 3500,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T05:17:40Z",
-      "price_history": [
-        {
-          "price": 3500,
-          "at": "2026-08-07T05:17:40Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vz279hg",
       "url": "https://tehnoskarb.ua/montor-asus-vz279hg/m5182521",
       "price_min": 3690,
@@ -4722,15 +4702,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Fujitsu b24-8 te pro",
-      "url": "https://tehnoskarb.ua/montor-fujitsu-b24-8-te-pro/m5180436",
-      "price": 1600,
-      "city": "Вишневе",
-      "category": "Монітори",
-      "at": "2026-07-27T04:22:15Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vw223b",
@@ -6578,6 +6549,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-07T10:54:27Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung c27rg50fh",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
+      "price": 3500,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-07T11:48:12Z"
     }
   ],
   "config": {
