@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-07T11:49:26Z",
+  "updated_at": "2026-08-07T13:09:12Z",
   "stats": {
-    "total": 220,
-    "avg_price": 3277,
+    "total": 218,
+    "avg_price": 3276,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -1592,26 +1592,6 @@
         {
           "price": 800,
           "at": "2026-07-17T20:06:48Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s24a350t",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24a350t/m5069757",
-      "price_min": 800,
-      "price_max": 800,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-30T05:43:21Z",
-      "price_history": [
-        {
-          "price": 800,
-          "at": "2026-07-30T05:43:21Z"
         }
       ],
       "category": "Монітори",
@@ -4023,34 +4003,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix g274qpf e2",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g274qpf-e2/m5167776",
-      "price_min": 5900,
-      "price_max": 5900,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Корольова, 80"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-02T22:37:11Z",
-      "price_history": [
-        {
-          "price": 7200,
-          "at": "2026-07-02T22:37:11Z"
-        },
-        {
-          "price": 6500,
-          "at": "2026-07-14T06:19:44Z"
-        },
-        {
-          "price": 5900,
-          "at": "2026-07-31T07:22:04Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus rog strix xg259cs",
       "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg259cs/m5183563",
       "price_min": 6330,
@@ -4702,24 +4654,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vw223b",
-      "url": "https://tehnoskarb.ua/montor-asus-vw223b/m5176386",
-      "price": 900,
-      "city": "Тернопіль",
-      "category": "Монітори",
-      "at": "2026-07-27T04:22:15Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Qube b24f75 ips",
-      "url": "https://tehnoskarb.ua/montor-qube-b24f75-ips/m5159122",
-      "price": 2540,
-      "city": "Вишневе",
-      "category": "Монітори",
-      "at": "2026-07-27T04:22:15Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vz249hg",
@@ -6558,6 +6492,24 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-08-07T11:48:12Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix g274qpf e2",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g274qpf-e2/m5167776",
+      "price": 5900,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-08-07T13:09:03Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s24a350t",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24a350t/m5069757",
+      "price": 800,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-07T13:09:03Z"
     }
   ],
   "config": {
