@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-08T11:32:11Z",
+  "updated_at": "2026-08-08T12:53:22Z",
   "stats": {
-    "total": 222,
-    "avg_price": 3255,
+    "total": 223,
+    "avg_price": 3256,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3371,6 +3371,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung c27rg50fh",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
+      "price_min": 3500,
+      "price_max": 3500,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Кам`янецька, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-08T12:53:10Z",
+      "price_history": [
+        {
+          "price": 3500,
+          "at": "2026-08-08T12:53:10Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi pro mp2412",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp2412/m5057728",
       "price_min": 3650,
@@ -4454,15 +4474,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 206bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-206bw/m5008710",
-      "price": 470,
-      "city": "Кременчук",
-      "category": "Монітори",
-      "at": "2026-08-07T18:12:01Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Dell u2412m",
@@ -6253,6 +6264,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-08T11:30:52Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung c27rg50fh",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
+      "price": 3500,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-08T12:53:10Z"
     }
   ],
   "config": {
