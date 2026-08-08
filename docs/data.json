@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-08T15:32:21Z",
+  "updated_at": "2026-08-08T16:36:43Z",
   "stats": {
-    "total": 223,
-    "avg_price": 3261,
+    "total": 222,
+    "avg_price": 3268,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2242,26 +2242,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell u2412m",
-      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
-      "price_min": 1650,
-      "price_max": 1650,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1650,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc 22p1",
       "url": "https://tehnoskarb.ua/montor-aoc-22p1/m5169396",
       "price_min": 1670,
@@ -4480,15 +4460,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Asus vp249hr",
-      "url": "https://tehnoskarb.ua/montor-asus-vp249hr/m5111111",
-      "price": 2400,
-      "city": "Бровари",
-      "category": "Монітори",
-      "at": "2026-08-07T18:12:01Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Msi optix g241vc",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
       "price": 3000,
@@ -6278,6 +6249,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-08T14:33:48Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell u2412m",
+      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
+      "price": 1650,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-08T16:36:35Z"
     }
   ],
   "config": {
