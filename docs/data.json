@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-08T10:36:03Z",
+  "updated_at": "2026-08-08T11:32:11Z",
   "stats": {
-    "total": 223,
-    "avg_price": 3244,
+    "total": 222,
+    "avg_price": 3255,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -1406,24 +1406,6 @@
       "price_history": [
         {
           "price": 750,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Hp la2006x",
-      "url": "https://tehnoskarb.ua/montor-hp-la2006x/m5075752",
-      "price_min": 770,
-      "price_max": 770,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 770,
           "at": "2026-08-07T19:29:58Z"
         }
       ],
@@ -4474,15 +4456,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Benq g925hda",
-      "url": "https://tehnoskarb.ua/montor-benq-g925hda/m5058394",
-      "price": 400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T18:12:01Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Samsung 206bw",
       "url": "https://tehnoskarb.ua/montor-samsung-206bw/m5008710",
       "price": 470,
@@ -6271,6 +6244,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-08T04:58:48Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp la2006x",
+      "url": "https://tehnoskarb.ua/montor-hp-la2006x/m5075752",
+      "price": 770,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-08T11:30:52Z"
     }
   ],
   "config": {
