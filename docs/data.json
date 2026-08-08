@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-08T13:47:55Z",
+  "updated_at": "2026-08-08T14:33:55Z",
   "stats": {
     "total": 223,
-    "avg_price": 3256,
+    "avg_price": 3261,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3037,27 +3037,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi pro mp271",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp271/m5166042",
-      "price_min": 2930,
-      "price_max": 4000,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Заболотного, 20А",
-        "м. Луцьк, вул. Лесі Українки, 24"
-      ],
-      "offers": 2,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2930,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi optix g241vc",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
       "price_min": 3000,
@@ -3567,6 +3546,31 @@
         {
           "price": 4000,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi pro mp271",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp271/m5166042",
+      "price_min": 4000,
+      "price_max": 4000,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Заболотного, 20А",
+        "м. Луцьк, вул. Лесі Українки, 24"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-07T19:29:58Z",
+      "price_history": [
+        {
+          "price": 2930,
+          "at": "2026-08-07T19:29:58Z"
+        },
+        {
+          "price": 4000,
+          "at": "2026-08-08T14:33:48Z"
         }
       ],
       "category": "Монітори",
@@ -4474,15 +4478,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Dell u2412m",
-      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
-      "price": 1650,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T18:12:01Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Asus vp249hr",
@@ -6273,6 +6268,16 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-08-08T12:53:10Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Msi pro mp271",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp271/m5166042",
+      "price_old": 2930,
+      "price_new": 4000,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-08T14:33:48Z"
     }
   ],
   "config": {
