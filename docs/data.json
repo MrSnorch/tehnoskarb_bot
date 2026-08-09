@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-09T09:42:01Z",
+  "updated_at": "2026-08-09T10:37:19Z",
   "stats": {
-    "total": 220,
-    "avg_price": 3266,
+    "total": 218,
+    "avg_price": 3272,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -14,7 +14,6 @@
       "Буча",
       "Вишгород",
       "Вишневе",
-      "Вінниця",
       "Дрогобич",
       "Житомир",
       "Запоріжжя",
@@ -2683,26 +2682,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi pro mp252",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
-      "price_min": 2500,
-      "price_max": 2500,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів,  просп. Чорновола, 45"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2500,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vp229hf",
       "url": "https://tehnoskarb.ua/montor-asus-vp229hf/m5180111",
       "price_min": 2540,
@@ -2788,26 +2767,6 @@
       "city": "Хмельницький",
       "addresses": [
         "м. Хмельницький, вул. Панаса Мирного, 18-Б"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2600,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Xiaomi mi desktop monitor 1c / rmmnt238nf",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-desktop-monitor-1c-rmmnt238nf/m5179782",
-      "price_min": 2600,
-      "price_max": 2600,
-      "city": "Вінниця",
-      "addresses": [
-        "м. Вінниця, просп. Коцюбинського, 29"
       ],
       "offers": 1,
       "first_seen": "2026-08-07T19:29:58Z",
@@ -4426,24 +4385,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vz27ehf-w",
-      "url": "https://tehnoskarb.ua/montor-asus-vz27ehf-w/m5183362",
-      "price": 4000,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 221b3l",
-      "url": "https://tehnoskarb.ua/montor-philips-221b3l/m5183210",
-      "price": 800,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hp omen 27qs",
@@ -6227,6 +6168,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-09T09:41:51Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Xiaomi mi desktop monitor 1c / rmmnt238nf",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-desktop-monitor-1c-rmmnt238nf/m5179782",
+      "price": 2600,
+      "city": "Вінниця",
+      "category": "Монітори",
+      "at": "2026-08-09T10:37:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp252",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
+      "price": 2500,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-08-09T10:37:05Z"
     }
   ],
   "config": {
