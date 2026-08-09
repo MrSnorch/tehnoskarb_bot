@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-09T03:46:22Z",
+  "updated_at": "2026-08-09T05:07:40Z",
   "stats": {
-    "total": 222,
-    "avg_price": 3268,
+    "total": 223,
+    "avg_price": 3261,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2280,6 +2280,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Aoc 22b1h",
+      "url": "https://tehnoskarb.ua/montor-aoc-22b1h/m5185788",
+      "price_min": 1800,
+      "price_max": 1800,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-09T05:07:31Z",
+      "price_history": [
+        {
+          "price": 1800,
+          "at": "2026-08-09T05:07:31Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vz229",
       "url": "https://tehnoskarb.ua/montor-asus-vz229/m5149410",
       "price_min": 1860,
@@ -4460,15 +4480,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Msi optix g241vc",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
-      "price": 3000,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-08-07T18:12:01Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Msi optix g242",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g242/m5056620",
       "price": 2750,
@@ -6258,6 +6269,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-08T16:36:35Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc 22b1h",
+      "url": "https://tehnoskarb.ua/montor-aoc-22b1h/m5185788",
+      "price": 1800,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-08-09T05:07:31Z"
     }
   ],
   "config": {
