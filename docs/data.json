@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-09T14:36:53Z",
+  "updated_at": "2026-08-09T15:35:24Z",
   "stats": {
-    "total": 217,
-    "avg_price": 3283,
+    "total": 216,
+    "avg_price": 3294,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -286,26 +286,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg flatron l1953s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1953s/m5087302",
-      "price_min": 290,
-      "price_max": 290,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 136"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 290,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung b1930n",
       "url": "https://tehnoskarb.ua/montor-samsung-b1930n/m5069561",
       "price_min": 290,
@@ -359,6 +339,26 @@
         {
           "price": 300,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg l194wts",
+      "url": "https://tehnoskarb.ua/montor-lg-l194wts/m5043373",
+      "price_min": 300,
+      "price_max": 300,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Данила Щербаківського, 63"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-09T15:33:54Z",
+      "price_history": [
+        {
+          "price": 300,
+          "at": "2026-08-09T15:33:54Z"
         }
       ],
       "category": "Монітори",
@@ -1620,26 +1620,6 @@
       "price_history": [
         {
           "price": 980,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s22e390",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22e390/m5156677",
-      "price_min": 1000,
-      "price_max": 1000,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Вишгородська, 56/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1000,
           "at": "2026-08-07T19:29:58Z"
         }
       ],
@@ -4367,33 +4347,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus vz27ehe",
-      "url": "https://tehnoskarb.ua/montor-asus-vz27ehe/m5182672",
-      "price": 3100,
-      "city": "Бориспіль",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Qube b24f75-ips",
-      "url": "https://tehnoskarb.ua/rk-montor-qube-b24f75-ips/m5182535",
-      "price": 2600,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор  19\"  TFT-LCD Asus vh192d",
-      "url": "https://tehnoskarb.ua/montor-19-tft-lcd-asus-vh192d/m5182559",
-      "price": 350,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Asus vz279hg",
       "url": "https://tehnoskarb.ua/montor-asus-vz279hg/m5182521",
       "price": 3690,
@@ -6166,6 +6119,33 @@
       "city": "Полтава",
       "category": "Монітори",
       "at": "2026-08-09T11:31:23Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s22e390",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22e390/m5156677",
+      "price": 1000,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-09T15:33:54Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg flatron l1953s",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1953s/m5087302",
+      "price": 290,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-09T15:33:54Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg l194wts",
+      "url": "https://tehnoskarb.ua/montor-lg-l194wts/m5043373",
+      "price": 300,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-09T15:33:54Z"
     }
   ],
   "config": {
