@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-09T10:37:19Z",
+  "updated_at": "2026-08-09T11:31:30Z",
   "stats": {
-    "total": 218,
-    "avg_price": 3272,
+    "total": 217,
+    "avg_price": 3283,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -1614,26 +1614,6 @@
       "city": "Рівне",
       "addresses": [
         "м. Рівне, вул. Грушевського, 1"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 980,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Fujitsu b22w-6",
-      "url": "https://tehnoskarb.ua/montor-fujitsu-b22w-6/m5110338",
-      "price_min": 980,
-      "price_max": 980,
-      "city": "Полтава",
-      "addresses": [
-        "м. Полтава, вул. Небесної Сотні, 61"
       ],
       "offers": 1,
       "first_seen": "2026-08-07T19:29:58Z",
@@ -4387,15 +4367,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Hp omen 27qs",
-      "url": "https://tehnoskarb.ua/montor-hp-omen-27qs/m5182774",
-      "price": 11800,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Asus vz27ehe",
       "url": "https://tehnoskarb.ua/montor-asus-vz27ehe/m5182672",
       "price": 3100,
@@ -6186,6 +6157,15 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-08-09T10:37:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Fujitsu b22w-6",
+      "url": "https://tehnoskarb.ua/montor-fujitsu-b22w-6/m5110338",
+      "price": 980,
+      "city": "Полтава",
+      "category": "Монітори",
+      "at": "2026-08-09T11:31:23Z"
     }
   ],
   "config": {
