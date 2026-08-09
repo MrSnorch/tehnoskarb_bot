@@ -2242,14 +2242,14 @@
   },
   "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904": {
     "name": "Монітор Msi mag 244c",
-    "price_min": 3300,
+    "price_min": 2990,
     "price_max": 3590,
     "city": "Харків",
     "addresses": [
       "м. Харків, Салтівське шосе 155/93",
       "м. Івано-Франківськ, вул. Василя Стуса, 17А"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -2257,6 +2257,10 @@
       {
         "price": 3300,
         "at": "2026-08-07T19:29:58Z"
+      },
+      {
+        "price": 2990,
+        "at": "2026-08-09T17:33:28Z"
       }
     ],
     "details_failures": 0,
@@ -2592,31 +2596,6 @@
     "details_failures": 10,
     "details_last_attempt": "2026-08-09T15:33:54Z",
     "details_retry_at": "2026-08-09T21:33:54Z"
-  },
-  "https://tehnoskarb.ua/montor-msi-optix-g2712/m5147416": {
-    "name": "Монітор Msi optix g2712",
-    "price_min": 4500,
-    "price_max": 4500,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Воскресенський, 34/2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 4900,
-        "at": "2026-08-07T19:29:58Z"
-      },
-      {
-        "price": 4500,
-        "at": "2026-08-09T07:33:17Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
   },
   "https://tehnoskarb.ua/montor-acer-g195hqv/m5146468": {
     "name": "Монітор Acer g195hqv",
@@ -3048,7 +3027,7 @@
     "addresses": [
       "м. Івано-Франківськ, вул. Гетьмана Мазепи, 20/1"
     ],
-    "offers_count": 4,
+    "offers_count": 5,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -4538,5 +4517,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-09T15:33:54Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-odyssey-g5-s27ag502/m5149547": {
+    "name": "Монітор Samsung odyssey g5 s27ag502",
+    "price_min": 7590,
+    "price_max": 7590,
+    "city": "Івано-Франківськ",
+    "addresses": [
+      "м. Івано-Франківськ, вул. Коновальця, 147/3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-09T17:33:28Z",
+    "price_history": [
+      {
+        "price": 7590,
+        "at": "2026-08-09T17:33:28Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-09T17:33:28Z"
   }
 }
