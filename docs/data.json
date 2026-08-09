@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-09T18:44:17Z",
+  "updated_at": "2026-08-09T19:35:16Z",
   "stats": {
-    "total": 216,
-    "avg_price": 3306,
+    "total": 215,
+    "avg_price": 3276,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3986,26 +3986,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus tuf gaming vg27aqml5a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqml5a/m5183357",
-      "price_min": 9900,
-      "price_max": 9900,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Мукачівська, 2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-17T21:21:28Z",
-      "price_history": [
-        {
-          "price": 9900,
-          "at": "2026-07-17T21:21:28Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus tuf gaming vg27aql3a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql3a/m5107130",
       "price_min": 10780,
@@ -4345,15 +4325,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lenovo thinkvision t2224pd",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2224pd/m5182252",
-      "price": 1250,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg 43sm5b",
@@ -6147,6 +6118,15 @@
       "city": "Івано-Франківськ",
       "category": "Монітори",
       "at": "2026-08-09T17:33:28Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus tuf gaming vg27aqml5a",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqml5a/m5183357",
+      "price": 9900,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-08-09T19:35:09Z"
     }
   ],
   "config": {
