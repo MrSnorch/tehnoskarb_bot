@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-09T08:46:53Z",
+  "updated_at": "2026-08-09T09:42:01Z",
   "stats": {
-    "total": 222,
-    "avg_price": 3271,
+    "total": 220,
+    "avg_price": 3266,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3412,26 +3412,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Acer sb272ebi",
-      "url": "https://tehnoskarb.ua/montor-acer-sb272ebi/m5178108",
-      "price_min": 3700,
-      "price_max": 3700,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олени Теліги , 17"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 3700,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi g244f-e2",
       "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
       "price_min": 3700,
@@ -3553,24 +3533,6 @@
         {
           "price": 4000,
           "at": "2026-08-08T14:33:48Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi g255f",
-      "url": "https://tehnoskarb.ua/montor-msi-g255f/m5091244",
-      "price_min": 4050,
-      "price_max": 4050,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-08T04:58:48Z",
-      "price_history": [
-        {
-          "price": 4050,
-          "at": "2026-08-08T04:58:48Z"
         }
       ],
       "category": "Монітори",
@@ -4464,24 +4426,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Aoc 215lm00041",
-      "url": "https://tehnoskarb.ua/montor-aoc-215lm00041/m5182119",
-      "price": 1100,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T18:12:01Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Hp v24i",
-      "url": "https://tehnoskarb.ua/montor-hp-v24i/m5177884",
-      "price": 2700,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T18:12:01Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vz27ehf-w",
@@ -6265,6 +6209,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-09T08:45:32Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer sb272ebi",
+      "url": "https://tehnoskarb.ua/montor-acer-sb272ebi/m5178108",
+      "price": 3700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-09T09:41:51Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi g255f",
+      "url": "https://tehnoskarb.ua/montor-msi-g255f/m5091244",
+      "price": 4050,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-09T09:41:51Z"
     }
   ],
   "config": {
