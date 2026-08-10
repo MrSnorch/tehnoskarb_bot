@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-10T09:25:00Z",
+  "updated_at": "2026-08-10T10:45:00Z",
   "stats": {
-    "total": 210,
-    "avg_price": 3279,
+    "total": 209,
+    "avg_price": 3292,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -1147,26 +1147,6 @@
       "price_history": [
         {
           "price": 620,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 236v3lsb",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
-      "price_min": 650,
-      "price_max": 650,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р М. Міхновського, 25"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 650,
           "at": "2026-08-07T19:29:58Z"
         }
       ],
@@ -4221,15 +4201,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Acer x193w",
-      "url": "https://tehnoskarb.ua/nastlnijj-montor-acer-x193w/m5181267",
-      "price": 350,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Viewsonic va2432-mhd",
       "url": "https://tehnoskarb.ua/montor-viewsonic-va2432-mhd/m5181265",
       "price": 2700,
@@ -6021,6 +5992,15 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-08-10T09:24:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 236v3lsb",
+      "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
+      "price": 650,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-10T10:43:38Z"
     }
   ],
   "config": {
