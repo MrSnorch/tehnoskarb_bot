@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-10T17:27:22Z",
+  "updated_at": "2026-08-10T18:24:05Z",
   "stats": {
-    "total": 208,
-    "avg_price": 3300,
+    "total": 209,
+    "avg_price": 3289,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -14,6 +14,7 @@
       "Буча",
       "Вишгород",
       "Вишневе",
+      "Вінниця",
       "Дрогобич",
       "Житомир",
       "Запоріжжя",
@@ -1442,6 +1443,26 @@
         {
           "price": 840,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg 22m38a",
+      "url": "https://tehnoskarb.ua/montor-lg-22m38a/m5041899",
+      "price_min": 870,
+      "price_max": 870,
+      "city": "Вінниця",
+      "addresses": [
+        "м. Вінниця, просп. Коцюбинського, 29"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-10T18:23:55Z",
+      "price_history": [
+        {
+          "price": 870,
+          "at": "2026-08-10T18:23:55Z"
         }
       ],
       "category": "Монітори",
@@ -4188,15 +4209,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg l1952t-bf",
-      "url": "https://tehnoskarb.ua/montor-lg-l1952t-bf/m5180598",
-      "price": 290,
-      "city": "Полтава",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Fujitsu b24-8 te pro",
       "url": "https://tehnoskarb.ua/montor-fujitsu-b24-8-te-pro/m5180436",
       "price": 1600,
@@ -5989,6 +6001,15 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-08-10T17:25:57Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 22m38a",
+      "url": "https://tehnoskarb.ua/montor-lg-22m38a/m5041899",
+      "price": 870,
+      "city": "Вінниця",
+      "category": "Монітори",
+      "at": "2026-08-10T18:23:55Z"
     }
   ],
   "config": {
