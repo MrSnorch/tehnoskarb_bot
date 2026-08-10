@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-10T13:14:09Z",
+  "updated_at": "2026-08-10T14:36:42Z",
   "stats": {
-    "total": 209,
-    "avg_price": 3292,
+    "total": 208,
+    "avg_price": 3290,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3274,26 +3274,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi mag 242f",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-242f/m5162284",
-      "price_min": 3750,
-      "price_max": 3750,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, просп. Незалежності, 82"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 3750,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Xiaomi gaming monitor g27i",
       "url": "https://tehnoskarb.ua/montor-xiaomi-gaming-monitor-g27i/m5135243",
       "price_min": 3900,
@@ -4199,15 +4179,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Viewsonic va2432-mhd",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va2432-mhd/m5181265",
-      "price": 2700,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg flatron l1953s-bf",
@@ -6001,6 +5972,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-10T10:43:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi mag 242f",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-242f/m5162284",
+      "price": 3750,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-08-10T14:36:35Z"
     }
   ],
   "config": {
