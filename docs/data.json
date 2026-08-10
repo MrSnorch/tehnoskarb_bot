@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-10T16:01:14Z",
+  "updated_at": "2026-08-10T17:27:22Z",
   "stats": {
     "total": 208,
-    "avg_price": 3302,
+    "avg_price": 3300,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -298,6 +298,26 @@
         {
           "price": 290,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 192el2",
+      "url": "https://tehnoskarb.ua/montor-philips-192el2/m5079374",
+      "price_min": 290,
+      "price_max": 290,
+      "city": "Ужгород",
+      "addresses": [
+        "м. Ужгород, просп. Свободи, 40/4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-10T17:25:57Z",
+      "price_history": [
+        {
+          "price": 290,
+          "at": "2026-08-10T17:25:57Z"
         }
       ],
       "category": "Монітори",
@@ -1090,26 +1110,6 @@
       "price_history": [
         {
           "price": 600,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vh228",
-      "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
-      "price_min": 610,
-      "price_max": 610,
-      "city": "Тернопіль",
-      "addresses": [
-        "м. Тернопіль, б-р Шевченка, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 610,
           "at": "2026-08-07T19:29:58Z"
         }
       ],
@@ -4188,24 +4188,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung s19f355",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19f355/m5180825",
-      "price": 1110,
-      "city": "Коростень",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Gigabyte g27q",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591",
-      "price": 7520,
-      "city": "Кривий Ріг",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg l1952t-bf",
       "url": "https://tehnoskarb.ua/montor-lg-l1952t-bf/m5180598",
       "price": 290,
@@ -5989,6 +5971,24 @@
       "city": "Житомир",
       "category": "Монітори",
       "at": "2026-08-10T16:01:01Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vh228",
+      "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
+      "price": 610,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-08-10T17:25:57Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 192el2",
+      "url": "https://tehnoskarb.ua/montor-philips-192el2/m5079374",
+      "price": 290,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-08-10T17:25:57Z"
     }
   ],
   "config": {
