@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-10T02:00:22Z",
+  "updated_at": "2026-08-10T04:14:10Z",
   "stats": {
-    "total": 215,
-    "avg_price": 3276,
+    "total": 214,
+    "avg_price": 3272,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3437,31 +3437,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi pro mp271",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp271/m5166042",
-      "price_min": 4000,
-      "price_max": 4000,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Заболотного, 20А",
-        "м. Луцьк, вул. Лесі Українки, 24"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2930,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 4000,
-          "at": "2026-08-08T14:33:48Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc c24g2u/bk",
       "url": "https://tehnoskarb.ua/montor-aoc-c24g2u-bk/m5148499",
       "price_min": 4500,
@@ -4325,15 +4300,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg 43sm5b",
-      "url": "https://tehnoskarb.ua/montor-lg-43sm5b/m5182129",
-      "price": 6480,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Aoc 215lm00041",
@@ -6127,6 +6093,15 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-08-09T19:35:09Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp271",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp271/m5166042",
+      "price": 4000,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-10T04:12:51Z"
     }
   ],
   "config": {
