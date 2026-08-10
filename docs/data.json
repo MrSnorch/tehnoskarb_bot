@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-10T05:55:39Z",
+  "updated_at": "2026-08-10T07:47:35Z",
   "stats": {
-    "total": 214,
-    "avg_price": 3272,
+    "total": 211,
+    "avg_price": 3273,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -15,7 +15,6 @@
       "Вишгород",
       "Вишневе",
       "Дрогобич",
-      "Житомир",
       "Запоріжжя",
       "Золочів",
       "Калуш",
@@ -2341,26 +2340,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung c24f390fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
-      "price_min": 2100,
-      "price_max": 2100,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Симиренка, 5"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2100,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq gw2283",
       "url": "https://tehnoskarb.ua/montor-benq-gw2283/m5131752",
       "price_min": 2205,
@@ -2455,26 +2434,6 @@
       "price_history": [
         {
           "price": 2300,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus zenscreen mb169ck",
-      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
-      "price_min": 2321,
-      "price_max": 2321,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2321,
           "at": "2026-08-07T19:29:58Z"
         }
       ],
@@ -3599,26 +3558,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lenovo r27qe",
-      "url": "https://tehnoskarb.ua/montor-lenovo-r27qe/m5134922",
-      "price_min": 5230,
-      "price_max": 5230,
-      "city": "Житомир",
-      "addresses": [
-        "м. Житомир, вул. Довженко, 44"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 5230,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Iiyama g-master eagle g2770hsu-b1",
       "url": "https://tehnoskarb.ua/montor-iiyama-g-master-eagle-g2770hsu-b1/m5184508",
       "price_min": 5240,
@@ -4300,33 +4239,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Aoc 215lm00041",
-      "url": "https://tehnoskarb.ua/montor-aoc-215lm00041/m5182119",
-      "price": 1100,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls24d300gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gai/m5182092",
-      "price": 2260,
-      "city": "Миколаїв",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls22c200b",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls22c200b/m5181924",
-      "price": 1160,
-      "city": "Херсон",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lenovo l2250pwd",
@@ -6102,6 +6014,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-10T04:12:51Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus zenscreen mb169ck",
+      "url": "https://tehnoskarb.ua/montor-asus-zenscreen-mb169ck/m5165306",
+      "price": 2321,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-10T07:47:24Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo r27qe",
+      "url": "https://tehnoskarb.ua/montor-lenovo-r27qe/m5134922",
+      "price": 5230,
+      "city": "Житомир",
+      "category": "Монітори",
+      "at": "2026-08-10T07:47:24Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung c24f390fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
+      "price": 2100,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-10T07:47:24Z"
     }
   ],
   "config": {
