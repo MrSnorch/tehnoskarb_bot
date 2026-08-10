@@ -2301,13 +2301,13 @@
   },
   "https://tehnoskarb.ua/montor-xiaomi-monitor-a24i/m5154283": {
     "name": "Монітор Xiaomi monitor a24i",
-    "price_min": 2800,
+    "price_min": 3120,
     "price_max": 3120,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Василя Порика, 13"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -2315,6 +2315,10 @@
       {
         "price": 2800,
         "at": "2026-08-07T19:29:58Z"
+      },
+      {
+        "price": 3120,
+        "at": "2026-08-10T16:01:01Z"
       }
     ],
     "details_failures": 0,
@@ -4220,26 +4224,6 @@
     "details_last_attempt": "2026-08-10T13:13:56Z",
     "details_retry_at": "2026-08-10T19:13:56Z"
   },
-  "https://tehnoskarb.ua/montor-prologix-gm2425c/m5155801": {
-    "name": "Монітор Prologix gm2425c",
-    "price_min": 3000,
-    "price_max": 3000,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-08T04:58:48Z",
-    "price_history": [
-      {
-        "price": 3000,
-        "at": "2026-08-08T04:58:48Z"
-      }
-    ],
-    "details_failures": 12,
-    "details_last_attempt": "2026-08-10T13:13:56Z",
-    "details_retry_at": "2026-08-10T19:13:56Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-c27f396fhi/m5145006": {
     "name": "Монітор Samsung c27f396fhi",
     "price_min": 3480,
@@ -4365,5 +4349,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-09T17:33:28Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-r27qe/m5134922": {
+    "name": "Монітор Lenovo r27qe",
+    "price_min": 5230,
+    "price_max": 5230,
+    "city": "Житомир",
+    "addresses": [
+      "м. Житомир, вул. Довженко, 44"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-10T16:01:01Z",
+    "price_history": [
+      {
+        "price": 5230,
+        "at": "2026-08-10T16:01:01Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-10T16:01:01Z"
   }
 }
