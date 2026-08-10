@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-10T07:47:35Z",
+  "updated_at": "2026-08-10T09:25:00Z",
   "stats": {
-    "total": 211,
-    "avg_price": 3273,
+    "total": 210,
+    "avg_price": 3279,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2300,26 +2300,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Відеомонітор Konvision kvm-1930w",
-      "url": "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378",
-      "price_min": 1999,
-      "price_max": 1999,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Промислова, 50/52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1999,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Hp p244",
       "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
       "price_min": 2030,
@@ -4241,15 +4221,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lenovo l2250pwd",
-      "url": "https://tehnoskarb.ua/montor-lenovo-l2250pwd/m5181236",
-      "price": 1200,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Acer x193w",
       "url": "https://tehnoskarb.ua/nastlnijj-montor-acer-x193w/m5181267",
       "price": 350,
@@ -6041,6 +6012,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-10T07:47:24Z"
+    },
+    {
+      "type": "sold",
+      "name": "Відеомонітор Konvision kvm-1930w",
+      "url": "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378",
+      "price": 1999,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-08-10T09:24:52Z"
     }
   ],
   "config": {
