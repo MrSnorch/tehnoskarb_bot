@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-11T10:07:14Z",
+  "updated_at": "2026-08-11T11:20:59Z",
   "stats": {
-    "total": 209,
-    "avg_price": 3316,
+    "total": 210,
+    "avg_price": 3324,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3450,6 +3450,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Hp p27q g4",
+      "url": "https://tehnoskarb.ua/montor-hp-p27q-g4/m5179936",
+      "price_min": 4990,
+      "price_max": 4990,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Вишгородська, 56/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-11T11:20:50Z",
+      "price_history": [
+        {
+          "price": 4990,
+          "at": "2026-08-11T11:20:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Eizo flexscan ev2430",
       "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
       "price_min": 5076,
@@ -4213,15 +4233,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Xiaomi mi desktop monitor 1c / rmmnt238nf",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-desktop-monitor-1c-rmmnt238nf/m5179782",
-      "price": 2600,
-      "city": "Вінниця",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s23b450t",
@@ -6017,6 +6028,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-11T10:07:04Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp p27q g4",
+      "url": "https://tehnoskarb.ua/montor-hp-p27q-g4/m5179936",
+      "price": 4990,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-11T11:20:50Z"
     }
   ],
   "config": {
