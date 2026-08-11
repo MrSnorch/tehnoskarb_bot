@@ -2070,13 +2070,13 @@
   "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904": {
     "name": "Монітор Msi mag 244c",
     "price_min": 2990,
-    "price_max": 3590,
+    "price_max": 3790,
     "city": "Харків",
     "addresses": [
       "м. Харків, Салтівське шосе 155/93",
       "м. Івано-Франківськ, вул. Василя Стуса, 17А"
     ],
-    "offers_count": 3,
+    "offers_count": 4,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -3828,7 +3828,7 @@
   },
   "https://tehnoskarb.ua/montor-acer-v193hq/m5019742": {
     "name": "Монітор Acer v193hq",
-    "price_min": 530,
+    "price_min": 440,
     "price_max": 855,
     "city": "Вишневе",
     "addresses": [
@@ -3837,7 +3837,7 @@
       "м. Київ, б-р Кольцова, 13",
       "м. Львів, вул. Широка, 70-В"
     ],
-    "offers_count": 6,
+    "offers_count": 7,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -3845,6 +3845,10 @@
       {
         "price": 530,
         "at": "2026-08-07T19:29:58Z"
+      },
+      {
+        "price": 440,
+        "at": "2026-08-11T17:28:07Z"
       }
     ],
     "details_failures": 0,
@@ -4356,5 +4360,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-11T11:20:50Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-f24t450fq/m5187580": {
+    "name": "Монітор Samsung f24t450fq",
+    "price_min": 3190,
+    "price_max": 3190,
+    "city": "Запоріжжя",
+    "addresses": [
+      "м. Запоріжжя, вул. Ентузіастів, 3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-11T17:28:07Z",
+    "price_history": [
+      {
+        "price": 3190,
+        "at": "2026-08-11T17:28:07Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-11T17:28:07Z"
+  },
+  "https://tehnoskarb.ua/montor-benq-gw2790/m5187586": {
+    "name": "Монітор Benq gw2790",
+    "price_min": 3630,
+    "price_max": 3630,
+    "city": "Чернігів",
+    "addresses": [
+      "м. Чернігів, просп. Миру, 194"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-11T17:28:07Z",
+    "price_history": [
+      {
+        "price": 3630,
+        "at": "2026-08-11T17:28:07Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-11T17:28:07Z"
+  },
+  "https://tehnoskarb.ua/montor-dell-p2422hewo/m5187602": {
+    "name": "Монітор Dell p2422hewo",
+    "price_min": 4780,
+    "price_max": 4780,
+    "city": "Чернігів",
+    "addresses": [
+      "м. Чернігів, просп. Миру, 194"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-11T17:28:07Z",
+    "price_history": [
+      {
+        "price": 4780,
+        "at": "2026-08-11T17:28:07Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-11T17:28:07Z"
   }
 }
