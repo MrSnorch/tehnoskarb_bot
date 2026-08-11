@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-11T19:37:45Z",
+  "updated_at": "2026-08-11T20:50:07Z",
   "stats": {
-    "total": 211,
-    "avg_price": 3274,
+    "total": 212,
+    "avg_price": 3263,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -1710,6 +1710,26 @@
         {
           "price": 1060,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell p2з14ht",
+      "url": "https://tehnoskarb.ua/montor-dell-p2z14ht/m5187319",
+      "price_min": 1060,
+      "price_max": 1060,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів,  просп. Чорновола, 45"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-11T20:48:55Z",
+      "price_history": [
+        {
+          "price": 1060,
+          "at": "2026-08-11T20:48:55Z"
         }
       ],
       "category": "Монітори",
@@ -4265,15 +4285,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus vu249cfe-b",
-      "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
-      "price": 6480,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Asus vw223b",
       "url": "https://tehnoskarb.ua/montor-asus-vw223b/m5176386",
       "price": 900,
@@ -6068,6 +6079,15 @@
       "city": "Івано-Франківськ",
       "category": "Монітори",
       "at": "2026-08-11T19:37:36Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell p2з14ht",
+      "url": "https://tehnoskarb.ua/montor-dell-p2z14ht/m5187319",
+      "price": 1060,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-08-11T20:48:55Z"
     }
   ],
   "config": {
