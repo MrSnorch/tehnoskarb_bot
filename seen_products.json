@@ -503,27 +503,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-06T23:09:34Z"
   },
-  "https://tehnoskarb.ua/montor-iiyama-t2752msc-b1/m5187007": {
-    "name": "Монітор Iiyama t2752msc-b1",
-    "price_min": 15120,
-    "price_max": 15120,
-    "city": "Ужгород",
-    "addresses": [
-      "м. Ужгород, вул. Мукачівська, 2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-06T23:09:34Z",
-    "price_history": [
-      {
-        "price": 15120,
-        "at": "2026-08-06T23:09:34Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-06T23:09:34Z"
-  },
   "https://tehnoskarb.ua/montor-viewsonic-td2760/m5187009": {
     "name": "Монітор Viewsonic td2760",
     "price_min": 20070,
@@ -4423,5 +4402,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-11T17:28:07Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-w2243st/m5064589": {
+    "name": "Монітор Lg w2243st",
+    "price_min": 800,
+    "price_max": 800,
+    "city": "Винники",
+    "addresses": [
+      "м. Винники, вул. Крушельницької, 3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-11T18:27:25Z",
+    "price_history": [
+      {
+        "price": 800,
+        "at": "2026-08-11T18:27:25Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-11T18:27:25Z"
   }
 }
