@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-11T12:09:55Z",
+  "updated_at": "2026-08-11T13:56:19Z",
   "stats": {
-    "total": 210,
-    "avg_price": 3324,
+    "total": 208,
+    "avg_price": 3338,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2026,26 +2026,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Benq g2420",
-      "url": "https://tehnoskarb.ua/montor-benq-g2420/m5165716",
-      "price_min": 1350,
-      "price_max": 1350,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1350,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Philips 226v4l",
       "url": "https://tehnoskarb.ua/montor-philips-226v4l/m5137525",
       "price_min": 1400,
@@ -2500,24 +2480,6 @@
       "price_history": [
         {
           "price": 2400,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Dell s2421hn",
-      "url": "https://tehnoskarb.ua/montor-dell-s2421hn/m5058716",
-      "price_min": 2430,
-      "price_max": 2430,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2430,
           "at": "2026-08-07T19:29:58Z"
         }
       ],
@@ -4233,24 +4195,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung s23b450t",
-      "url": "https://tehnoskarb.ua/montor-samsung-s23b450t/m5178691",
-      "price": 840,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 23ea53tp",
-      "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
-      "price": 900,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung syncmaster t220hd",
@@ -6037,6 +5981,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-11T11:20:50Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq g2420",
+      "url": "https://tehnoskarb.ua/montor-benq-g2420/m5165716",
+      "price": 1350,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-11T13:55:04Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell s2421hn",
+      "url": "https://tehnoskarb.ua/montor-dell-s2421hn/m5058716",
+      "price": 2430,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-11T13:55:04Z"
     }
   ],
   "config": {
