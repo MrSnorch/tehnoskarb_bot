@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-11T15:00:21Z",
+  "updated_at": "2026-08-11T16:23:45Z",
   "stats": {
-    "total": 208,
+    "total": 207,
     "avg_price": 3338,
     "min_price": 90,
     "max_price": 35440,
@@ -3032,24 +3032,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung f24t452fqr",
-      "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
-      "price_min": 3240,
-      "price_max": 3240,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 3240,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq gl-2760b",
       "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
       "price_min": 3280,
@@ -4195,15 +4177,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung syncmaster t220hd",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-t220hd/m5178542",
-      "price": 1010,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s19f355hn",
@@ -5999,6 +5972,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-11T13:55:04Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung f24t452fqr",
+      "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
+      "price": 3240,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-11T16:23:38Z"
     }
   ],
   "config": {
