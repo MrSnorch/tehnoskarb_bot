@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-11T18:27:37Z",
+  "updated_at": "2026-08-11T19:37:45Z",
   "stats": {
-    "total": 210,
-    "avg_price": 3277,
+    "total": 211,
+    "avg_price": 3274,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2613,6 +2613,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s24d360gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24d360gai/m5124115",
+      "price_min": 2540,
+      "price_max": 2540,
+      "city": "Івано-Франківськ",
+      "addresses": [
+        "м. Івано-Франківськ, вул. Василя Стуса, 17А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-11T19:37:36Z",
+      "price_history": [
+        {
+          "price": 2540,
+          "at": "2026-08-11T19:37:36Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vz24ehe",
       "url": "https://tehnoskarb.ua/montor-asus-vz24ehe/m5128511",
       "price_min": 2550,
@@ -4243,15 +4263,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg e1910pmw",
-      "url": "https://tehnoskarb.ua/montor-lg-e1910pmw/m5177302",
-      "price": 315,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vu249cfe-b",
@@ -6048,6 +6059,15 @@
       "city": "Винники",
       "category": "Монітори",
       "at": "2026-08-11T18:27:25Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s24d360gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24d360gai/m5124115",
+      "price": 2540,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-08-11T19:37:36Z"
     }
   ],
   "config": {
