@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-12T07:40:11Z",
+  "updated_at": "2026-08-12T09:14:05Z",
   "stats": {
-    "total": 209,
-    "avg_price": 3259,
+    "total": 210,
+    "avg_price": 3254,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2310,6 +2310,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi mag 242c",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-242c/m5187597",
+      "price_min": 2100,
+      "price_max": 2100,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-08-12T09:13:56Z",
+      "price_history": [
+        {
+          "price": 2100,
+          "at": "2026-08-12T09:13:56Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Benq gw2283",
       "url": "https://tehnoskarb.ua/montor-benq-gw2283/m5131752",
       "price_min": 2205,
@@ -4223,15 +4241,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lenovo thinkvision t27i-30",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091",
-      "price": 5250,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s19a300",
       "url": "https://tehnoskarb.ua/montor-samsung-s19a300/m5174337",
       "price": 1100,
@@ -6026,6 +6035,15 @@
       "city": "Фастів",
       "category": "Монітори",
       "at": "2026-08-12T07:40:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi mag 242c",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-242c/m5187597",
+      "price": 2100,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-12T09:13:56Z"
     }
   ],
   "config": {
