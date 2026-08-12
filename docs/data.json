@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-12T11:48:37Z",
+  "updated_at": "2026-08-12T13:15:03Z",
   "stats": {
-    "total": 207,
-    "avg_price": 3264,
+    "total": 204,
+    "avg_price": 3257,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -17,7 +17,6 @@
       "Вишневе",
       "Вінниця",
       "Дрогобич",
-      "Житомир",
       "Запоріжжя",
       "Золочів",
       "Калуш",
@@ -1667,26 +1666,6 @@
       "price_history": [
         {
           "price": 1030,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg ips235vx",
-      "url": "https://tehnoskarb.ua/montor-lg-ips235vx/m5179842",
-      "price_min": 1060,
-      "price_max": 1060,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Заболотного Академіка, 52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1060,
           "at": "2026-08-07T19:29:58Z"
         }
       ],
@@ -3422,26 +3401,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lenovo 27-10",
-      "url": "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317",
-      "price_min": 4870,
-      "price_max": 4870,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Степана Бандери, 89"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 4870,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Hp p27q g4",
       "url": "https://tehnoskarb.ua/montor-hp-p27q-g4/m5179936",
       "price_min": 4990,
@@ -3498,26 +3457,6 @@
         {
           "price": 5190,
           "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo r27qe",
-      "url": "https://tehnoskarb.ua/montor-lenovo-r27qe/m5134922",
-      "price_min": 5230,
-      "price_max": 5230,
-      "city": "Житомир",
-      "addresses": [
-        "м. Житомир, вул. Довженко, 44"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-10T16:01:01Z",
-      "price_history": [
-        {
-          "price": 5230,
-          "at": "2026-08-10T16:01:01Z"
         }
       ],
       "category": "Монітори",
@@ -4185,33 +4124,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg flatron w1930s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-w1930s/m5173068",
-      "price": 550,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 236v3lsb",
-      "url": "https://tehnoskarb.ua/montor-philips-236v3lsb/m5172547",
-      "price": 650,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Prestigio p3191w",
-      "url": "https://tehnoskarb.ua/montor-prestigio-p3191w/m5172125",
-      "price": 240,
-      "city": "Херсон",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung ls20b3u",
@@ -5991,6 +5903,33 @@
       "city": "Миколаїв",
       "category": "Монітори",
       "at": "2026-08-12T10:34:42Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg ips235vx",
+      "url": "https://tehnoskarb.ua/montor-lg-ips235vx/m5179842",
+      "price": 1060,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-08-12T13:14:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo 27-10",
+      "url": "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317",
+      "price": 4870,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-08-12T13:14:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo r27qe",
+      "url": "https://tehnoskarb.ua/montor-lenovo-r27qe/m5134922",
+      "price": 5230,
+      "city": "Житомир",
+      "category": "Монітори",
+      "at": "2026-08-12T13:14:52Z"
     }
   ],
   "config": {
