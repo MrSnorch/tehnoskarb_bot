@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-12T05:56:26Z",
+  "updated_at": "2026-08-12T07:40:11Z",
   "stats": {
-    "total": 210,
-    "avg_price": 3249,
+    "total": 209,
+    "avg_price": 3259,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -40,7 +40,6 @@
       "Суми",
       "Тернопіль",
       "Ужгород",
-      "Фастів",
       "Харків",
       "Херсон",
       "Хмельницький",
@@ -1644,26 +1643,6 @@
         "м. Харків, Салтівське шосе 155/93"
       ],
       "offers": 4,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1010,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg 22mp55a-p",
-      "url": "https://tehnoskarb.ua/montor-lg-22mp55a-p/m5049803",
-      "price_min": 1010,
-      "price_max": 1010,
-      "city": "Фастів",
-      "addresses": [
-        "м. Фастів, вул. Соборна, 30"
-      ],
-      "offers": 1,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -4244,15 +4223,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Msi pro mp273a",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp273a/m5175277",
-      "price": 3070,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lenovo thinkvision t27i-30",
       "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091",
       "price": 5250,
@@ -6047,6 +6017,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-08-12T05:56:16Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 22mp55a-p",
+      "url": "https://tehnoskarb.ua/montor-lg-22mp55a-p/m5049803",
+      "price": 1010,
+      "city": "Фастів",
+      "category": "Монітори",
+      "at": "2026-08-12T07:40:03Z"
     }
   ],
   "config": {
