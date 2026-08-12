@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T19:39:17Z",
+  "updated_at": "2026-08-12T20:49:28Z",
   "stats": {
     "total": 200,
     "avg_price": 3253,
@@ -2737,18 +2737,22 @@
     {
       "name": "Монітор Philips 243v7q",
       "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
-      "price_min": 2810,
+      "price_min": 2800,
       "price_max": 2810,
       "city": "Київ",
       "addresses": [
         "м. Київ, вул. Гарматна, 44/2"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
           "price": 2810,
           "at": "2026-08-07T19:29:58Z"
+        },
+        {
+          "price": 2800,
+          "at": "2026-08-12T20:49:20Z"
         }
       ],
       "category": "Монітори",
@@ -4047,15 +4051,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Benq g2420",
-      "url": "https://tehnoskarb.ua/montor-benq-g2420/m5165716",
-      "price": 1350,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg l1942s",
@@ -5853,6 +5848,16 @@
       "city": "Кривий Ріг",
       "category": "Монітори",
       "at": "2026-08-12T19:39:06Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Philips 243v7q",
+      "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
+      "price_old": 2810,
+      "price_new": 2800,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-12T20:49:20Z"
     }
   ],
   "config": {
