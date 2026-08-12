@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-12T13:15:03Z",
+  "updated_at": "2026-08-12T14:36:19Z",
   "stats": {
-    "total": 204,
-    "avg_price": 3257,
+    "total": 203,
+    "avg_price": 3255,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3219,26 +3219,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey g3 f24g33tfw",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215",
-      "price_min": 3690,
-      "price_max": 3690,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Червоної Калини, 47"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 3690,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi g244f-e2",
       "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
       "price_min": 3700,
@@ -4124,15 +4104,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls20b3u",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls20b3u/m5171325",
-      "price": 730,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lenovo 27-10",
@@ -5930,6 +5901,15 @@
       "city": "Житомир",
       "category": "Монітори",
       "at": "2026-08-12T13:14:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey g3 f24g33tfw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215",
+      "price": 3690,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-12T14:36:11Z"
     }
   ],
   "config": {
