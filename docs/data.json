@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-12T14:36:19Z",
+  "updated_at": "2026-08-12T16:00:02Z",
   "stats": {
     "total": 203,
-    "avg_price": 3255,
+    "avg_price": 3192,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3039,6 +3039,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung f24t452fqr",
+      "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
+      "price_min": 3240,
+      "price_max": 3240,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-08-12T15:59:51Z",
+      "price_history": [
+        {
+          "price": 3240,
+          "at": "2026-08-12T15:59:51Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Benq gl-2760b",
       "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
       "price_min": 3280,
@@ -3985,26 +4003,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus proart pa279crv",
-      "url": "https://tehnoskarb.ua/montor-asus-proart-pa279crv/m5183698",
-      "price_min": 16000,
-      "price_max": 16000,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Мукачівська, 2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-20T19:13:22Z",
-      "price_history": [
-        {
-          "price": 16000,
-          "at": "2026-07-20T19:13:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Viewsonic td2760",
       "url": "https://tehnoskarb.ua/montor-viewsonic-td2760/m5187009",
       "price_min": 20070,
@@ -4104,24 +4102,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lenovo 27-10",
-      "url": "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317",
-      "price": 4870,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Benq gl-2760b",
-      "url": "https://tehnoskarb.ua/montor-benq-gl-2760b/m5170901",
-      "price": 3280,
-      "city": "Бориспіль",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Philips hnv9170t/170v9fb",
@@ -5910,6 +5890,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-12T14:36:11Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus proart pa279crv",
+      "url": "https://tehnoskarb.ua/montor-asus-proart-pa279crv/m5183698",
+      "price": 16000,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-08-12T15:59:51Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung f24t452fqr",
+      "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
+      "price": 3240,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-12T15:59:51Z"
     }
   ],
   "config": {

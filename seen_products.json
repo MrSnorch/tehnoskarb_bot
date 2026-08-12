@@ -104,27 +104,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-07-20T19:13:22Z"
   },
-  "https://tehnoskarb.ua/montor-asus-proart-pa279crv/m5183698": {
-    "name": "Монітор Asus proart pa279crv",
-    "price_min": 16000,
-    "price_max": 16000,
-    "city": "Ужгород",
-    "addresses": [
-      "м. Ужгород, вул. Мукачівська, 2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-07-20T19:13:22Z",
-    "price_history": [
-      {
-        "price": 16000,
-        "at": "2026-07-20T19:13:22Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-07-20T19:13:22Z"
-  },
   "https://tehnoskarb.ua/montor-asus-vy229hf/m5183709": {
     "name": "Монітор Asus vy229hf",
     "price_min": 3500,
@@ -4280,5 +4259,25 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-12T05:56:16Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385": {
+    "name": "Монітор Samsung f24t452fqr",
+    "price_min": 3240,
+    "price_max": 3240,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-12T15:59:51Z",
+    "price_history": [
+      {
+        "price": 3240,
+        "at": "2026-08-12T15:59:51Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-08-12T15:59:51Z",
+    "details_retry_at": "2026-08-12T16:29:51Z"
   }
 }
