@@ -1325,26 +1325,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-07T19:29:58Z"
   },
-  "https://tehnoskarb.ua/montor-hp-v24i/m5177884": {
-    "name": "Монітор Hp v24i",
-    "price_min": 2700,
-    "price_max": 2700,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 2700,
-        "at": "2026-08-07T19:29:58Z"
-      }
-    ],
-    "details_failures": 21,
-    "details_last_attempt": "2026-08-12T17:06:09Z",
-    "details_retry_at": "2026-08-12T23:06:09Z"
-  },
   "https://tehnoskarb.ua/montor-asus-ve208/m5177805": {
     "name": "Монітор Asus ve208",
     "price_min": 750,
@@ -4217,5 +4197,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-12T05:56:16Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g5/m5187766": {
+    "name": "Монітор Samsung odyssey oled g5",
+    "price_min": 13730,
+    "price_max": 13730,
+    "city": "Кропивницький",
+    "addresses": [
+      "м. Кропивницький, вул. Соборна, 3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-12T18:26:26Z",
+    "price_history": [
+      {
+        "price": 13730,
+        "at": "2026-08-12T18:26:26Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-12T18:26:26Z"
   }
 }

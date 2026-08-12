@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-12T17:07:27Z",
+  "updated_at": "2026-08-12T18:26:38Z",
   "stats": {
     "total": 200,
-    "avg_price": 3175,
+    "avg_price": 3230,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2654,24 +2654,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp v24i",
-      "url": "https://tehnoskarb.ua/montor-hp-v24i/m5177884",
-      "price_min": 2700,
-      "price_max": 2700,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2700,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi optix g242",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g242/m5056620",
       "price_min": 2750,
@@ -3925,6 +3907,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey oled g5",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g5/m5187766",
+      "price_min": 13730,
+      "price_max": 13730,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. Соборна, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-12T18:26:26Z",
+      "price_history": [
+        {
+          "price": 13730,
+          "at": "2026-08-12T18:26:26Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Hp p34hc g4 curved",
       "url": "https://tehnoskarb.ua/montor-hp-p34hc-g4-curved/m5184076",
       "price_min": 14860,
@@ -4044,24 +4046,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Dell e198fpf",
-      "url": "https://tehnoskarb.ua/montor-dell-e198fpf/m5168466",
-      "price": 500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi optix mag241c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
-      "price": 2400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung syncmaster 931bf",
@@ -5850,6 +5834,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-12T17:06:09Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp v24i",
+      "url": "https://tehnoskarb.ua/montor-hp-v24i/m5177884",
+      "price": 2700,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-12T18:26:26Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey oled g5",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g5/m5187766",
+      "price": 13730,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-08-12T18:26:26Z"
     }
   ],
   "config": {
