@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-12T04:22:50Z",
+  "updated_at": "2026-08-12T05:56:26Z",
   "stats": {
-    "total": 209,
-    "avg_price": 3247,
+    "total": 210,
+    "avg_price": 3249,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3197,6 +3197,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung c27rg50fh",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
+      "price_min": 3500,
+      "price_max": 3500,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Кам`янецька, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-12T05:56:16Z",
+      "price_history": [
+        {
+          "price": 3500,
+          "at": "2026-08-12T05:56:16Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Benq gw2790",
       "url": "https://tehnoskarb.ua/montor-benq-gw2790/m5187586",
       "price_min": 3630,
@@ -4222,15 +4242,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Acer nitro xv272uw2bmiiprx",
-      "url": "https://tehnoskarb.ua/montor-acer-nitro-xv272uw2bmiiprx/m5175710",
-      "price": 7700,
-      "city": "Миколаїв",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi pro mp273a",
@@ -6027,6 +6038,15 @@
       "city": "Шостка",
       "category": "Монітори",
       "at": "2026-08-12T04:21:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung c27rg50fh",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
+      "price": 3500,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-12T05:56:16Z"
     }
   ],
   "config": {
