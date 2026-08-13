@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-13T17:28:49Z",
+  "updated_at": "2026-08-13T18:29:19Z",
   "stats": {
-    "total": 193,
-    "avg_price": 3293,
+    "total": 195,
+    "avg_price": 3298,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2990,6 +2990,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Aoc q27b3ma",
+      "url": "https://tehnoskarb.ua/montor-aoc-q27b3ma/m5187942",
+      "price_min": 3540,
+      "price_max": 3540,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Заболотного, 20А"
+      ],
+      "offers": 2,
+      "first_seen": "2026-08-13T18:29:06Z",
+      "price_history": [
+        {
+          "price": 3540,
+          "at": "2026-08-13T18:29:06Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Benq gw2790",
       "url": "https://tehnoskarb.ua/montor-benq-gw2790/m5187586",
       "price_min": 3630,
@@ -3086,6 +3106,26 @@
         {
           "price": 3930,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 24m2n3200s",
+      "url": "https://tehnoskarb.ua/montor-philips-24m2n3200s/m5187733",
+      "price_min": 3970,
+      "price_max": 3970,
+      "city": "Чернівці",
+      "addresses": [
+        "м. Чернівці, вул. Сергія Скальда, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-13T18:29:06Z",
+      "price_history": [
+        {
+          "price": 3970,
+          "at": "2026-08-13T18:29:06Z"
         }
       ],
       "category": "Монітори",
@@ -3915,24 +3955,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Aoc c24g2u/bk",
-      "url": "https://tehnoskarb.ua/montor-aoc-c24g2u-bk/m5148499",
-      "price": 4500,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Aoc c27g2ze",
-      "url": "https://tehnoskarb.ua/montor-aoc-c27g2ze/m5147959",
-      "price": 7880,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Acer g227hgl",
@@ -5722,6 +5744,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-13T17:28:33Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc q27b3ma",
+      "url": "https://tehnoskarb.ua/montor-aoc-q27b3ma/m5187942",
+      "price": 3540,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-13T18:29:06Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 24m2n3200s",
+      "url": "https://tehnoskarb.ua/montor-philips-24m2n3200s/m5187733",
+      "price": 3970,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-08-13T18:29:06Z"
     }
   ],
   "config": {
