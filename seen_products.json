@@ -503,27 +503,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-06T23:09:34Z"
   },
-  "https://tehnoskarb.ua/montor-philips-220v8l-62/m5186599": {
-    "name": "Монітор Philips 220v8l/62",
-    "price_min": 1500,
-    "price_max": 1500,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-06T23:09:34Z",
-    "price_history": [
-      {
-        "price": 1500,
-        "at": "2026-08-06T23:09:34Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-06T23:09:34Z"
-  },
   "https://tehnoskarb.ua/montor-msi-optix-g27c6/m5184075": {
     "name": "Монітор Msi optix g27c6",
     "price_min": 4600,
@@ -4181,27 +4160,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-12T05:56:16Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g5/m5187766": {
-    "name": "Монітор Samsung odyssey oled g5",
-    "price_min": 13730,
-    "price_max": 13730,
-    "city": "Кропивницький",
-    "addresses": [
-      "м. Кропивницький, вул. Соборна, 3"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-12T18:26:26Z",
-    "price_history": [
-      {
-        "price": 13730,
-        "at": "2026-08-12T18:26:26Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-12T18:26:26Z"
-  },
   "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591": {
     "name": "Монітор Gigabyte g27q",
     "price_min": 7520,
@@ -4222,5 +4180,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-12T19:39:06Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vp228/m5145192": {
+    "name": "Монітор Asus vp228",
+    "price_min": 1400,
+    "price_max": 1400,
+    "city": "Лозова",
+    "addresses": [
+      "м. Лозова, вул. Соборна, 7"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-13T04:25:33Z",
+    "price_history": [
+      {
+        "price": 1400,
+        "at": "2026-08-13T04:25:33Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-13T04:25:33Z"
+  },
+  "https://tehnoskarb.ua/montor-vinga-27s118-21b/m5113452": {
+    "name": "Монітор Vinga 27s118-21b",
+    "price_min": 3460,
+    "price_max": 3460,
+    "city": "Лубни",
+    "addresses": [
+      "м. Лубни, просп. Володимирський, 21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-13T04:25:33Z",
+    "price_history": [
+      {
+        "price": 3460,
+        "at": "2026-08-13T04:25:33Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-13T04:25:33Z"
   }
 }
