@@ -3336,7 +3336,7 @@
   },
   "https://tehnoskarb.ua/montor-acer-v193hq/m5019742": {
     "name": "Монітор Acer v193hq",
-    "price_min": 530,
+    "price_min": 440,
     "price_max": 855,
     "city": "Вишневе",
     "addresses": [
@@ -3345,7 +3345,7 @@
       "м. Київ, б-р Кольцова, 13",
       "м. Львів, вул. Широка, 70-В"
     ],
-    "offers_count": 6,
+    "offers_count": 7,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -3361,6 +3361,10 @@
       {
         "price": 530,
         "at": "2026-08-13T19:37:34Z"
+      },
+      {
+        "price": 440,
+        "at": "2026-08-13T20:46:53Z"
       }
     ],
     "details_failures": 0,
@@ -3973,9 +3977,9 @@
         "at": "2026-08-13T10:36:38Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-08-13T16:00:14Z",
-    "details_retry_at": "2026-08-13T20:00:14Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-08-13T20:46:53Z",
+    "details_retry_at": "2026-08-14T02:46:53Z"
   },
   "https://tehnoskarb.ua/montor-hp-elitedisplay-e222/m5185359": {
     "name": "Монітор Hp elitedisplay e222",
@@ -4123,5 +4127,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-13T19:37:34Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-f24t450fq/m5187580": {
+    "name": "Монітор Samsung f24t450fq",
+    "price_min": 3190,
+    "price_max": 3190,
+    "city": "Запоріжжя",
+    "addresses": [
+      "м. Запоріжжя, вул. Ентузіастів, 3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-13T20:46:53Z",
+    "price_history": [
+      {
+        "price": 3190,
+        "at": "2026-08-13T20:46:53Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-13T20:46:53Z"
   }
 }

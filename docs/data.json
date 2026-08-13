@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-13T19:38:48Z",
+  "updated_at": "2026-08-13T20:47:06Z",
   "stats": {
-    "total": 195,
-    "avg_price": 3292,
+    "total": 196,
+    "avg_price": 3291,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -666,6 +666,41 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Acer v193hq",
+      "url": "https://tehnoskarb.ua/montor-acer-v193hq/m5019742",
+      "price_min": 440,
+      "price_max": 855,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Святошинська, 27",
+        "м. Ужгород, вул. Заньковецької, 77, прим.38",
+        "м. Київ, б-р Кольцова, 13",
+        "м. Львів, вул. Широка, 70-В"
+      ],
+      "offers": 7,
+      "first_seen": "2026-08-07T19:29:58Z",
+      "price_history": [
+        {
+          "price": 530,
+          "at": "2026-08-07T19:29:58Z"
+        },
+        {
+          "price": 440,
+          "at": "2026-08-11T17:28:07Z"
+        },
+        {
+          "price": 530,
+          "at": "2026-08-13T19:37:34Z"
+        },
+        {
+          "price": 440,
+          "at": "2026-08-13T20:46:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg w1943ss",
       "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
       "price_min": 450,
@@ -855,37 +890,6 @@
         {
           "price": 530,
           "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer v193hq",
-      "url": "https://tehnoskarb.ua/montor-acer-v193hq/m5019742",
-      "price_min": 530,
-      "price_max": 855,
-      "city": "Вишневе",
-      "addresses": [
-        "м. Вишневе, вул. Святошинська, 27",
-        "м. Ужгород, вул. Заньковецької, 77, прим.38",
-        "м. Київ, б-р Кольцова, 13",
-        "м. Львів, вул. Широка, 70-В"
-      ],
-      "offers": 6,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 530,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 440,
-          "at": "2026-08-11T17:28:07Z"
-        },
-        {
-          "price": 530,
-          "at": "2026-08-13T19:37:34Z"
         }
       ],
       "category": "Монітори",
@@ -2817,6 +2821,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung f24t450fq",
+      "url": "https://tehnoskarb.ua/montor-samsung-f24t450fq/m5187580",
+      "price_min": 3190,
+      "price_max": 3190,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-13T20:46:53Z",
+      "price_history": [
+        {
+          "price": 3190,
+          "at": "2026-08-13T20:46:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s31c / ls24c310e",
       "url": "https://tehnoskarb.ua/montor-samsung-s31c-ls24c310e/m5183471",
       "price_min": 3200,
@@ -3960,24 +3984,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Eizo flexscan ev2430",
-      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
-      "price": 5076,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 22mk600m",
-      "url": "https://tehnoskarb.ua/montor-lg-22mk600m/m5145581",
-      "price": 2400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg w1942s",
@@ -5768,6 +5774,25 @@
       "city": "Вишневе",
       "category": "Монітори",
       "at": "2026-08-13T19:37:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung f24t450fq",
+      "url": "https://tehnoskarb.ua/montor-samsung-f24t450fq/m5187580",
+      "price": 3190,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-08-13T20:46:53Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Acer v193hq",
+      "url": "https://tehnoskarb.ua/montor-acer-v193hq/m5019742",
+      "price_old": 530,
+      "price_new": 440,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-08-13T20:46:53Z"
     }
   ],
   "config": {
