@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-13T13:18:10Z",
+  "updated_at": "2026-08-13T14:37:28Z",
   "stats": {
-    "total": 195,
-    "avg_price": 3270,
+    "total": 196,
+    "avg_price": 3273,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3091,6 +3091,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey g3 f24g33tfw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215",
+      "price_min": 3690,
+      "price_max": 3690,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Червоної Калини, 47"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-13T14:37:18Z",
+      "price_history": [
+        {
+          "price": 3690,
+          "at": "2026-08-13T14:37:18Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi g244f-e2",
       "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
       "price_min": 3700,
@@ -3956,15 +3976,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung f24t452fqr",
-      "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
-      "price": 3240,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vz249hg",
@@ -5763,6 +5774,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-13T11:49:24Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey g3 f24g33tfw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215",
+      "price": 3690,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-13T14:37:18Z"
     }
   ],
   "config": {
