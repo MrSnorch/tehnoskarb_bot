@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-13T07:45:52Z",
+  "updated_at": "2026-08-13T09:14:44Z",
   "stats": {
-    "total": 199,
-    "avg_price": 3222,
+    "total": 198,
+    "avg_price": 3231,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2029,26 +2029,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung b2430l",
-      "url": "https://tehnoskarb.ua/montor-samsung-b2430l/m5051260",
-      "price_min": 1450,
-      "price_max": 1450,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Княжий Затон, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1450,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Fujitsu b24-8 te pro",
       "url": "https://tehnoskarb.ua/montor-fujitsu-b24-8-te-pro/m5180436",
       "price_min": 1600,
@@ -3701,7 +3681,7 @@
         "м. Ужгород, вул. Мукачівська, 2",
         "м. Харків, вул. Отакара Яроша, 23"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -4032,15 +4012,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung c24f396fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c24f396fhi/m5160256",
-      "price": 2680,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Viewsonic va703b",
@@ -5839,6 +5810,15 @@
       "city": "Одеса",
       "category": "Монітори",
       "at": "2026-08-13T07:45:39Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung b2430l",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2430l/m5051260",
+      "price": 1450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-13T09:14:37Z"
     }
   ],
   "config": {
