@@ -356,27 +356,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-02T18:30:21Z"
   },
-  "https://tehnoskarb.ua/montor-philips-220v1sb/m5185755": {
-    "name": "Монітор Philips 220v1sb",
-    "price_min": 520,
-    "price_max": 520,
-    "city": "Тернопіль",
-    "addresses": [
-      "м. Тернопіль, б-р Шевченка, 14"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-03T06:44:10Z",
-    "price_history": [
-      {
-        "price": 520,
-        "at": "2026-08-03T06:44:10Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-03T06:44:10Z"
-  },
   "https://tehnoskarb.ua/montor-aoc-24b2xda/m5186492": {
     "name": "Монітор Aoc 24b2xda",
     "price_min": 2800,
@@ -1381,27 +1360,6 @@
     "price_history": [
       {
         "price": 7700,
-        "at": "2026-08-07T19:29:58Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
-  "https://tehnoskarb.ua/montor-msi-pro-mp273a/m5175277": {
-    "name": "Монітор Msi pro mp273a",
-    "price_min": 3070,
-    "price_max": 3070,
-    "city": "Одеса",
-    "addresses": [
-      "м. Одеса, вул. Космонавтів, 9"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 3070,
         "at": "2026-08-07T19:29:58Z"
       }
     ],
@@ -2472,7 +2430,7 @@
     "addresses": [
       "м. Івано-Франківськ, вул. Гетьмана Мазепи, 20/1"
     ],
-    "offers_count": 5,
+    "offers_count": 6,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -3450,27 +3408,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-07T19:29:58Z"
   },
-  "https://tehnoskarb.ua/montor-lg-l1742s/m5011804": {
-    "name": "Монітор Lg l1742s",
-    "price_min": 550,
-    "price_max": 550,
-    "city": "Кропивницький",
-    "addresses": [
-      "м. Кропивницький, вул. Незалежності, 9А"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 550,
-        "at": "2026-08-07T19:29:58Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-920n/m5011274": {
     "name": "Монітор Samsung 920n",
     "price_min": 300,
@@ -3932,27 +3869,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-11T19:37:36Z"
   },
-  "https://tehnoskarb.ua/montor-dell-p2z14ht/m5187319": {
-    "name": "Монітор Dell p2з14ht",
-    "price_min": 1060,
-    "price_max": 1060,
-    "city": "Львів",
-    "addresses": [
-      "м. Львів,  просп. Чорновола, 45"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-11T20:48:55Z",
-    "price_history": [
-      {
-        "price": 1060,
-        "at": "2026-08-11T20:48:55Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-11T20:48:55Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461": {
     "name": "Монітор Samsung c27rg50fh",
     "price_min": 3500,
@@ -4140,5 +4056,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-13T16:00:14Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339": {
+    "name": "Монітор Samsung ls24r350fhixci",
+    "price_min": 1510,
+    "price_max": 1510,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. А. Малишка, 15/1"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-13T17:28:33Z",
+    "price_history": [
+      {
+        "price": 1510,
+        "at": "2026-08-13T17:28:33Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-13T17:28:33Z"
   }
 }
