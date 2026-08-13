@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-13T05:59:45Z",
+  "updated_at": "2026-08-13T07:45:52Z",
   "stats": {
-    "total": 200,
-    "avg_price": 3201,
+    "total": 199,
+    "avg_price": 3222,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -1514,26 +1514,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp elitedisplay e222",
-      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-e222/m5185359",
-      "price_min": 910,
-      "price_max": 910,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Заболотного, 20А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-31T20:20:50Z",
-      "price_history": [
-        {
-          "price": 910,
-          "at": "2026-07-31T20:20:50Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer g227hgl",
       "url": "https://tehnoskarb.ua/montor-acer-g227hgl/m5147853",
       "price_min": 945,
@@ -1819,26 +1799,6 @@
       "price_max": 1200,
       "city": "",
       "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1200,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung fx2490hd",
-      "url": "https://tehnoskarb.ua/montor-samsung-fx2490hd/m5077826",
-      "price_min": 1200,
-      "price_max": 1200,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11"
-      ],
       "offers": 1,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
@@ -2819,6 +2779,26 @@
         {
           "price": 3000,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung essential s3 27\" s27d360gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-essential-s3-27-s27d360gai/m5187579",
+      "price_min": 3010,
+      "price_max": 3010,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, вул. Космонавтів, 9"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-13T07:45:39Z",
+      "price_history": [
+        {
+          "price": 3010,
+          "at": "2026-08-13T07:45:39Z"
         }
       ],
       "category": "Монітори",
@@ -4052,33 +4032,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi mag 242f",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-242f/m5162284",
-      "price": 3750,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Nec e222w-bk",
-      "url": "https://tehnoskarb.ua/montor-nec-e222w-bk/m5161167",
-      "price": 1330,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi pro mp252",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
-      "price": 2500,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung c24f396fhi",
@@ -5859,6 +5812,33 @@
       "city": "Лубни",
       "category": "Монітори",
       "at": "2026-08-13T04:25:33Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp elitedisplay e222",
+      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-e222/m5185359",
+      "price": 910,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-13T07:45:39Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung fx2490hd",
+      "url": "https://tehnoskarb.ua/montor-samsung-fx2490hd/m5077826",
+      "price": 1200,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-13T07:45:39Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung essential s3 27\" s27d360gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-essential-s3-27-s27d360gai/m5187579",
+      "price": 3010,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-08-13T07:45:39Z"
     }
   ],
   "config": {
