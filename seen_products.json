@@ -1154,27 +1154,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-07T19:29:58Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-s23b450t/m5178691": {
-    "name": "Монітор Samsung s23b450t",
-    "price_min": 840,
-    "price_max": 840,
-    "city": "Івано-Франківськ",
-    "addresses": [
-      "м. Івано-Франківськ, вул. Коновальця, 147/3"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 840,
-        "at": "2026-08-07T19:29:58Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
   "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523": {
     "name": "Монітор Lg 23ea53tp",
     "price_min": 900,
@@ -1199,14 +1178,14 @@
   "https://tehnoskarb.ua/montor-samsung-syncmaster-t220hd/m5178542": {
     "name": "Монітор Samsung syncmaster t220hd",
     "price_min": 1010,
-    "price_max": 1500,
+    "price_max": 1140,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Шептицького, 24",
       "м. Дрогобич, вул. Пилипа Орлика, 14",
       "м. Харків, Салтівське шосе 155/93"
     ],
-    "offers_count": 4,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -1532,26 +1511,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
-  "https://tehnoskarb.ua/montor-lg-flatron-w1930s/m5173068": {
-    "name": "Монітор Lg flatron w1930s",
-    "price_min": 550,
-    "price_max": 550,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 550,
-        "at": "2026-08-07T19:29:58Z"
-      }
-    ],
-    "details_failures": 23,
-    "details_last_attempt": "2026-08-13T05:58:30Z",
-    "details_retry_at": "2026-08-13T11:58:30Z"
   },
   "https://tehnoskarb.ua/montor-prestigio-p3191w/m5172125": {
     "name": "Монітор Prestigio p3191w",
@@ -2413,27 +2372,6 @@
     "price_history": [
       {
         "price": 2470,
-        "at": "2026-08-07T19:29:58Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339": {
-    "name": "Монітор Samsung ls24r350fhixci",
-    "price_min": 2450,
-    "price_max": 2450,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, б-р Вацлава Гавела, 53"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 2450,
         "at": "2026-08-07T19:29:58Z"
       }
     ],
@@ -3348,27 +3286,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-07T19:29:58Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-e1920/m5047217": {
-    "name": "Монітор Samsung e1920",
-    "price_min": 530,
-    "price_max": 530,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Олени Теліги , 17"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 530,
-        "at": "2026-08-07T19:29:58Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
   "https://tehnoskarb.ua/montor-lg-l1753s/m5045737": {
     "name": "Монітор Lg l1753s",
     "price_min": 300,
@@ -4180,5 +4097,25 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-13T07:45:39Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385": {
+    "name": "Монітор Samsung f24t452fqr",
+    "price_min": 3240,
+    "price_max": 3240,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-13T10:36:38Z",
+    "price_history": [
+      {
+        "price": 3240,
+        "at": "2026-08-13T10:36:38Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-08-13T10:36:38Z",
+    "details_retry_at": "2026-08-13T11:06:38Z"
   }
 }
