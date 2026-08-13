@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-13T10:36:54Z",
+  "updated_at": "2026-08-13T11:49:43Z",
   "stats": {
     "total": 195,
-    "avg_price": 3275,
+    "avg_price": 3270,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -908,6 +908,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung e1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
+      "price_min": 530,
+      "price_max": 530,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Олени Теліги , 17"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-13T11:49:24Z",
+      "price_history": [
+        {
+          "price": 530,
+          "at": "2026-08-13T11:49:24Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg w2042t",
       "url": "https://tehnoskarb.ua/montor-lg-w2042t/m5026868",
       "price_min": 550,
@@ -959,24 +979,6 @@
       "price_history": [
         {
           "price": 560,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Aoc e950swn / 185lm00013",
-      "url": "https://tehnoskarb.ua/montor-aoc-e950swn-185lm00013/m5158393",
-      "price_min": 570,
-      "price_max": 570,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 570,
           "at": "2026-08-07T19:29:58Z"
         }
       ],
@@ -1106,14 +1108,14 @@
       "name": "Монітор Lg w1942s",
       "url": "https://tehnoskarb.ua/montor-lg-w1942s/m5144273",
       "price_min": 650,
-      "price_max": 800,
+      "price_max": 760,
       "city": "Київ",
       "addresses": [
         "м. Київ, б-р М. Міхновського, 25",
         "м. Вишневе, вул. Святошинська, 27",
         "м. Хмельницький, вул. Кам`янецька, 11"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -1450,6 +1452,26 @@
         {
           "price": 900,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Hp elitedisplay e222",
+      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-e222/m5185359",
+      "price_min": 910,
+      "price_max": 910,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Заболотного, 20А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-13T11:49:24Z",
+      "price_history": [
+        {
+          "price": 910,
+          "at": "2026-08-13T11:49:24Z"
         }
       ],
       "category": "Монітори",
@@ -1984,24 +2006,6 @@
       "price_history": [
         {
           "price": 1600,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Aoc 22p1",
-      "url": "https://tehnoskarb.ua/montor-aoc-22p1/m5169396",
-      "price_min": 1670,
-      "price_max": 1670,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1670,
           "at": "2026-08-07T19:29:58Z"
         }
       ],
@@ -3954,42 +3958,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg flatron l1910s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1910s/m5156650",
-      "price": 250,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s22e390",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22e390/m5156677",
-      "price": 1000,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung professional s24c430",
-      "url": "https://tehnoskarb.ua/montor-samsung-professional-s24c430/m5154762",
-      "price": 2835,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls22f350fhixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls22f350fhixci/m5154566",
-      "price": 2540,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung f24t452fqr",
       "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
       "price": 3240,
@@ -5759,6 +5727,42 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-13T10:36:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc 22p1",
+      "url": "https://tehnoskarb.ua/montor-aoc-22p1/m5169396",
+      "price": 1670,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-13T11:49:24Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc e950swn / 185lm00013",
+      "url": "https://tehnoskarb.ua/montor-aoc-e950swn-185lm00013/m5158393",
+      "price": 570,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-13T11:49:24Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp elitedisplay e222",
+      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-e222/m5185359",
+      "price": 910,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-13T11:49:24Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung e1920",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
+      "price": 530,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-13T11:49:24Z"
     }
   ],
   "config": {
