@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-14T14:30:58Z",
+  "updated_at": "2026-08-14T15:55:33Z",
   "stats": {
     "total": 191,
-    "avg_price": 3347,
+    "avg_price": 3393,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -26,6 +26,7 @@
       "Конотоп",
       "Коростень",
       "Кривий Ріг",
+      "Кропивницький",
       "Лозова",
       "Лубни",
       "Луцьк",
@@ -3180,26 +3181,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp p27q g4",
-      "url": "https://tehnoskarb.ua/montor-hp-p27q-g4/m5179936",
-      "price_min": 4990,
-      "price_max": 4990,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Вишгородська, 56/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-11T11:20:50Z",
-      "price_history": [
-        {
-          "price": 4990,
-          "at": "2026-08-11T11:20:50Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Eizo flexscan ev2430",
       "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
       "price_min": 5076,
@@ -3764,6 +3745,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey oled g5",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g5/m5187766",
+      "price_min": 13730,
+      "price_max": 13730,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. Соборна, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-14T15:54:23Z",
+      "price_history": [
+        {
+          "price": 13730,
+          "at": "2026-08-14T15:54:23Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Hp p34hc g4 curved",
       "url": "https://tehnoskarb.ua/montor-hp-p34hc-g4-curved/m5184076",
       "price_min": 14860,
@@ -3883,24 +3884,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 226v4l",
-      "url": "https://tehnoskarb.ua/montor-philips-226v4l/m5137525",
-      "price": 1400,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 22m37a",
-      "url": "https://tehnoskarb.ua/montor-22-lg-22m37a/m5137076",
-      "price": 560,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vh222",
@@ -5692,6 +5675,24 @@
       "city": "Кременчук",
       "category": "Монітори",
       "at": "2026-08-14T09:09:31Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp p27q g4",
+      "url": "https://tehnoskarb.ua/montor-hp-p27q-g4/m5179936",
+      "price": 4990,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-14T15:54:23Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey oled g5",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g5/m5187766",
+      "price": 13730,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-08-14T15:54:23Z"
     }
   ],
   "config": {
