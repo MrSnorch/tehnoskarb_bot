@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-14T15:55:33Z",
+  "updated_at": "2026-08-14T16:55:45Z",
   "stats": {
-    "total": 191,
-    "avg_price": 3393,
+    "total": 190,
+    "avg_price": 3341,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -26,7 +26,6 @@
       "Конотоп",
       "Коростень",
       "Кривий Ріг",
-      "Кропивницький",
       "Лозова",
       "Лубни",
       "Луцьк",
@@ -2599,26 +2598,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix g241vc",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
-      "price_min": 3000,
-      "price_max": 3540,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Промислова, 50/52"
-      ],
-      "offers": 2,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 3000,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung essential s3 27\" s27d360gai",
       "url": "https://tehnoskarb.ua/montor-samsung-essential-s3-27-s27d360gai/m5187579",
       "price_min": 3010,
@@ -2933,6 +2912,30 @@
         {
           "price": 3500,
           "at": "2026-08-12T05:56:16Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi optix g241vc",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
+      "price_min": 3540,
+      "price_max": 3540,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-07T19:29:58Z",
+      "price_history": [
+        {
+          "price": 3000,
+          "at": "2026-08-07T19:29:58Z"
+        },
+        {
+          "price": 3540,
+          "at": "2026-08-14T16:55:34Z"
         }
       ],
       "category": "Монітори",
@@ -3745,26 +3748,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey oled g5",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g5/m5187766",
-      "price_min": 13730,
-      "price_max": 13730,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Соборна, 3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-14T15:54:23Z",
-      "price_history": [
-        {
-          "price": 13730,
-          "at": "2026-08-14T15:54:23Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Hp p34hc g4 curved",
       "url": "https://tehnoskarb.ua/montor-hp-p34hc-g4-curved/m5184076",
       "price_min": 14860,
@@ -3884,24 +3867,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vh222",
-      "url": "https://tehnoskarb.ua/montor-asus-vh222/m5136501",
-      "price": 1170,
-      "city": "Новояворівськ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Xiaomi gaming monitor g27i",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-gaming-monitor-g27i/m5135243",
-      "price": 3900,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lenovo r27qe",
@@ -5693,6 +5658,25 @@
       "city": "Кропивницький",
       "category": "Монітори",
       "at": "2026-08-14T15:54:23Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey oled g5",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g5/m5187766",
+      "price": 13730,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-08-14T16:55:34Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Msi optix g241vc",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
+      "price_old": 3000,
+      "price_new": 3540,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-08-14T16:55:34Z"
     }
   ],
   "config": {
