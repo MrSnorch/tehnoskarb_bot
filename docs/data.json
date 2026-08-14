@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-14T16:55:45Z",
+  "updated_at": "2026-08-14T17:54:57Z",
   "stats": {
-    "total": 190,
-    "avg_price": 3341,
+    "total": 193,
+    "avg_price": 3346,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -261,6 +261,26 @@
         {
           "price": 280,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg l1717s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
+      "price_min": 280,
+      "price_max": 280,
+      "city": "Херсон",
+      "addresses": [
+        "м. Херсон, вул. І. Кулика, 135"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-14T17:54:39Z",
+      "price_history": [
+        {
+          "price": 280,
+          "at": "2026-08-14T17:54:39Z"
         }
       ],
       "category": "Монітори",
@@ -3022,6 +3042,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey g3 f24g33tfw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215",
+      "price_min": 3690,
+      "price_max": 3690,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Червоної Калини, 47"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-14T17:54:39Z",
+      "price_history": [
+        {
+          "price": 3690,
+          "at": "2026-08-14T17:54:39Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi g244f-e2",
       "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
       "price_min": 3700,
@@ -3360,6 +3400,26 @@
         {
           "price": 6480,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Gigabyte gs27qca",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27qca/m5147008",
+      "price_min": 6950,
+      "price_max": 6950,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-14T17:54:39Z",
+      "price_history": [
+        {
+          "price": 6950,
+          "at": "2026-08-14T17:54:39Z"
         }
       ],
       "category": "Монітори",
@@ -3867,33 +3927,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lenovo r27qe",
-      "url": "https://tehnoskarb.ua/montor-lenovo-r27qe/m5134922",
-      "price": 5230,
-      "city": "Житомир",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
-      "price": 2490,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer ek251qgbi",
-      "url": "https://tehnoskarb.ua/montor-acer-ek251qgbi/m5133742",
-      "price": 2790,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung viewfinity s9 5k",
@@ -5677,6 +5710,33 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-08-14T16:55:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Gigabyte gs27qca",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27qca/m5147008",
+      "price": 6950,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-14T17:54:39Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey g3 f24g33tfw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215",
+      "price": 3690,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-14T17:54:39Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg l1717s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1717s/m5048252",
+      "price": 280,
+      "city": "Херсон",
+      "category": "Монітори",
+      "at": "2026-08-14T17:54:39Z"
     }
   ],
   "config": {
