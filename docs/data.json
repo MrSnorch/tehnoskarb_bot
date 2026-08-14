@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-14T05:56:38Z",
+  "updated_at": "2026-08-14T07:40:49Z",
   "stats": {
-    "total": 198,
-    "avg_price": 3270,
+    "total": 197,
+    "avg_price": 3282,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -1498,26 +1498,6 @@
       "price_history": [
         {
           "price": 950,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo li2241",
-      "url": "https://tehnoskarb.ua/montor-lenovo-li2241/m5180816",
-      "price_min": 980,
-      "price_max": 980,
-      "city": "Рівне",
-      "addresses": [
-        "м. Рівне, вул. Грушевського, 1"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 980,
           "at": "2026-08-07T19:29:58Z"
         }
       ],
@@ -4026,15 +4006,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Msi g244f-e2",
-      "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
-      "price": 3700,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Philips 243v7q",
       "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
       "price": 2810,
@@ -5833,6 +5804,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-14T05:56:29Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo li2241",
+      "url": "https://tehnoskarb.ua/montor-lenovo-li2241/m5180816",
+      "price": 980,
+      "city": "Рівне",
+      "category": "Монітори",
+      "at": "2026-08-14T07:40:41Z"
     }
   ],
   "config": {
