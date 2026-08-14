@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T17:54:57Z",
+  "updated_at": "2026-08-14T18:57:27Z",
   "stats": {
     "total": 193,
     "avg_price": 3346,
@@ -625,6 +625,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus vw198s",
+      "url": "https://tehnoskarb.ua/montor-asus-vw198s/m5180161",
+      "price_min": 440,
+      "price_max": 530,
+      "city": "Херсон",
+      "addresses": [
+        "м. Херсон, вул. І. Кулика, 135"
+      ],
+      "offers": 2,
+      "first_seen": "2026-08-07T19:29:58Z",
+      "price_history": [
+        {
+          "price": 530,
+          "at": "2026-08-07T19:29:58Z"
+        },
+        {
+          "price": 440,
+          "at": "2026-08-14T18:57:19Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Acer v193hq",
       "url": "https://tehnoskarb.ua/montor-acer-v193hq/m5019742",
       "price_min": 440,
@@ -802,26 +826,6 @@
       "city": "Калуш",
       "addresses": [
         "м. Калуш, вул. Богдана Хмельницького, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 530,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vw198s",
-      "url": "https://tehnoskarb.ua/montor-asus-vw198s/m5180161",
-      "price_min": 530,
-      "price_max": 530,
-      "city": "Херсон",
-      "addresses": [
-        "м. Херсон, вул. І. Кулика, 135"
       ],
       "offers": 1,
       "first_seen": "2026-08-07T19:29:58Z",
@@ -3929,15 +3933,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung viewfinity s9 5k",
-      "url": "https://tehnoskarb.ua/montor-samsung-viewfinity-s9-5k/m5133461",
-      "price": 35440,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s22d300",
       "url": "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194",
       "price": 1340,
@@ -5737,6 +5732,16 @@
       "city": "Херсон",
       "category": "Монітори",
       "at": "2026-08-14T17:54:39Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Asus vw198s",
+      "url": "https://tehnoskarb.ua/montor-asus-vw198s/m5180161",
+      "price_old": 530,
+      "price_new": 440,
+      "city": "Херсон",
+      "category": "Монітори",
+      "at": "2026-08-14T18:57:19Z"
     }
   ],
   "config": {
