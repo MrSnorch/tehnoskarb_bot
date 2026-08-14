@@ -3977,9 +3977,9 @@
         "at": "2026-08-13T10:36:38Z"
       }
     ],
-    "details_failures": 5,
-    "details_last_attempt": "2026-08-13T20:46:53Z",
-    "details_retry_at": "2026-08-14T02:46:53Z"
+    "details_failures": 6,
+    "details_last_attempt": "2026-08-14T04:22:11Z",
+    "details_retry_at": "2026-08-14T10:22:11Z"
   },
   "https://tehnoskarb.ua/montor-hp-elitedisplay-e222/m5185359": {
     "name": "Монітор Hp elitedisplay e222",
@@ -4148,5 +4148,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-13T20:46:53Z"
+  },
+  "https://tehnoskarb.ua/montor-philips-227e6l/m5188040": {
+    "name": "Монітор Philips 227e6l",
+    "price_min": 1000,
+    "price_max": 1000,
+    "city": "Львів",
+    "addresses": [
+      "м. Львів, вул. Княгині Ольги, 114"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-14T04:22:11Z",
+    "price_history": [
+      {
+        "price": 1000,
+        "at": "2026-08-14T04:22:11Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-14T04:22:11Z"
   }
 }
