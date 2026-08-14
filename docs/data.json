@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-14T04:22:23Z",
+  "updated_at": "2026-08-14T05:56:38Z",
   "stats": {
-    "total": 197,
-    "avg_price": 3279,
+    "total": 198,
+    "avg_price": 3270,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -1955,6 +1955,26 @@
         {
           "price": 1400,
           "at": "2026-08-13T04:25:33Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung b2430l",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2430l/m5051260",
+      "price_min": 1450,
+      "price_max": 1450,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Миру, 2/3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-14T05:56:29Z",
+      "price_history": [
+        {
+          "price": 1450,
+          "at": "2026-08-14T05:56:29Z"
         }
       ],
       "category": "Монітори",
@@ -4006,15 +4026,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung c27f390fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27f390fhi/m5143525",
-      "price": 3090,
-      "city": "Конотоп",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Msi g244f-e2",
       "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
       "price": 3700,
@@ -5813,6 +5824,15 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-08-14T04:22:11Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung b2430l",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2430l/m5051260",
+      "price": 1450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-14T05:56:29Z"
     }
   ],
   "config": {
