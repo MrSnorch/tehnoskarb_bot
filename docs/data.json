@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15T06:41:43Z",
+  "updated_at": "2026-08-15T07:32:36Z",
   "stats": {
-    "total": 195,
-    "avg_price": 3321,
+    "total": 193,
+    "avg_price": 3308,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2152,26 +2152,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Benq gw2283",
-      "url": "https://tehnoskarb.ua/montor-benq-gw2283/m5131752",
-      "price_min": 2205,
-      "price_max": 2205,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р М. Міхновського, 25"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2205,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Dell p2418hz",
       "url": "https://tehnoskarb.ua/montor-dell-p2418hz/m5186961",
       "price_min": 2250,
@@ -3450,26 +3430,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Gigabyte gs27qca",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27qca/m5147008",
-      "price_min": 6950,
-      "price_max": 6950,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-14T17:54:39Z",
-      "price_history": [
-        {
-          "price": 6950,
-          "at": "2026-08-14T17:54:39Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus tuf gaming vg279qm1a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279qm1a/m5062453",
       "price_min": 7000,
@@ -3971,24 +3931,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung odyssey g5 ls27cg550",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
-      "price": 5830,
-      "city": "Тернопіль",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus vz24ehe",
-      "url": "https://tehnoskarb.ua/montor-asus-vz24ehe/m5128511",
-      "price": 2550,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Відеомонітор Konvision kvm-1930w",
@@ -5782,6 +5724,24 @@
       "city": "Рівне",
       "category": "Монітори",
       "at": "2026-08-15T04:33:33Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq gw2283",
+      "url": "https://tehnoskarb.ua/montor-benq-gw2283/m5131752",
+      "price": 2205,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-15T07:32:26Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Gigabyte gs27qca",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27qca/m5147008",
+      "price": 6950,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-15T07:32:26Z"
     }
   ],
   "config": {
