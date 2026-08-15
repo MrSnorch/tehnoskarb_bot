@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15T09:52:04Z",
+  "updated_at": "2026-08-15T10:24:49Z",
   "stats": {
     "total": 193,
-    "avg_price": 3364,
+    "avg_price": 3366,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -2662,26 +2662,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung c27f390fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27f390fhi/m5143525",
-      "price_min": 3090,
-      "price_max": 3400,
-      "city": "Конотоп",
-      "addresses": [
-        "м. Конотоп, просп. Миру, 10"
-      ],
-      "offers": 2,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 3090,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vz27ehe",
       "url": "https://tehnoskarb.ua/montor-asus-vz27ehe/m5182672",
       "price_min": 3100,
@@ -2816,6 +2796,30 @@
         {
           "price": 3280,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung c27f390fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27f390fhi/m5143525",
+      "price_min": 3400,
+      "price_max": 3400,
+      "city": "Конотоп",
+      "addresses": [
+        "м. Конотоп, просп. Миру, 10"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-07T19:29:58Z",
+      "price_history": [
+        {
+          "price": 3090,
+          "at": "2026-08-07T19:29:58Z"
+        },
+        {
+          "price": 3400,
+          "at": "2026-08-15T10:24:42Z"
         }
       ],
       "category": "Монітори",
@@ -3931,15 +3935,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg w1943ss",
-      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
-      "price": 450,
-      "city": "Золочів",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg l1740p",
@@ -5742,6 +5737,16 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-15T09:28:06Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung c27f390fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27f390fhi/m5143525",
+      "price_old": 3090,
+      "price_new": 3400,
+      "city": "Конотоп",
+      "category": "Монітори",
+      "at": "2026-08-15T10:24:42Z"
     }
   ],
   "config": {
