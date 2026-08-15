@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15T17:46:57Z",
+  "updated_at": "2026-08-15T18:33:13Z",
   "stats": {
-    "total": 192,
-    "avg_price": 3453,
+    "total": 191,
+    "avg_price": 3466,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -1422,26 +1422,6 @@
         {
           "price": 950,
           "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer v227q",
-      "url": "https://tehnoskarb.ua/montor-acer-v227q/m5104169",
-      "price_min": 970,
-      "price_max": 970,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Червоної Калини, 60/10"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-15T16:27:22Z",
-      "price_history": [
-        {
-          "price": 970,
-          "at": "2026-08-15T16:27:22Z"
         }
       ],
       "category": "Монітори",
@@ -3917,15 +3897,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung 920nw",
-      "url": "https://tehnoskarb.ua/montor-samsung-920nw/m5105634",
-      "price": 620,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s24f350fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-s24f350fhi/m5102117",
       "price": 1890,
@@ -5727,6 +5698,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-15T17:21:55Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer v227q",
+      "url": "https://tehnoskarb.ua/montor-acer-v227q/m5104169",
+      "price": 970,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-15T18:33:06Z"
     }
   ],
   "config": {
