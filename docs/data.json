@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15T14:49:48Z",
+  "updated_at": "2026-08-15T15:23:09Z",
   "stats": {
-    "total": 190,
-    "avg_price": 3361,
+    "total": 191,
+    "avg_price": 3353,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -15,6 +15,7 @@
       "Винники",
       "Вишгород",
       "Вишневе",
+      "Володимир",
       "Вінниця",
       "Дрогобич",
       "Запоріжжя",
@@ -2067,6 +2068,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Prologix pl2425hf",
+      "url": "https://tehnoskarb.ua/montor-prologix-pl2425hf/m5187987",
+      "price_min": 1950,
+      "price_max": 1950,
+      "city": "Володимир",
+      "addresses": [
+        "м. Володимир, вул. Ковельська, 12"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-15T15:23:01Z",
+      "price_history": [
+        {
+          "price": 1950,
+          "at": "2026-08-15T15:23:01Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Hp p244",
       "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
       "price_min": 2030,
@@ -3876,15 +3897,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg e2040st",
-      "url": "https://tehnoskarb.ua/montor-lg-e2040st/m5112294",
-      "price": 500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Asus vp249hr",
       "url": "https://tehnoskarb.ua/montor-asus-vp249hr/m5111111",
       "price": 2400,
@@ -5686,6 +5698,15 @@
       "city": "Володимир",
       "category": "Монітори",
       "at": "2026-08-15T14:24:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Prologix pl2425hf",
+      "url": "https://tehnoskarb.ua/montor-prologix-pl2425hf/m5187987",
+      "price": 1950,
+      "city": "Володимир",
+      "category": "Монітори",
+      "at": "2026-08-15T15:23:01Z"
     }
   ],
   "config": {
