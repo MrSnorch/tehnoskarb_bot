@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15T07:32:36Z",
+  "updated_at": "2026-08-15T08:31:34Z",
   "stats": {
-    "total": 193,
-    "avg_price": 3308,
+    "total": 192,
+    "avg_price": 3321,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -1133,26 +1133,6 @@
         {
           "price": 690,
           "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg m228wdh",
-      "url": "https://tehnoskarb.ua/montor-lg-m228wdh/m5185460",
-      "price_min": 730,
-      "price_max": 730,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, вул. Коновальця, 147/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-02T18:30:21Z",
-      "price_history": [
-        {
-          "price": 730,
-          "at": "2026-08-02T18:30:21Z"
         }
       ],
       "category": "Монітори",
@@ -3933,15 +3913,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Відеомонітор Konvision kvm-1930w",
-      "url": "https://tehnoskarb.ua/vdeomontor-konvision-kvm-1930w/m5125378",
-      "price": 1999,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Benq gw2480",
       "url": "https://tehnoskarb.ua/montor-benq-gw2480/m5124510",
       "price": 1690,
@@ -5742,6 +5713,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-15T07:32:26Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg m228wdh",
+      "url": "https://tehnoskarb.ua/montor-lg-m228wdh/m5185460",
+      "price": 730,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-08-15T08:31:28Z"
     }
   ],
   "config": {
