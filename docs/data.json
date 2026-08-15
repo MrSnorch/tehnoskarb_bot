@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15T19:45:57Z",
+  "updated_at": "2026-08-15T20:24:42Z",
   "stats": {
-    "total": 195,
-    "avg_price": 3542,
+    "total": 194,
+    "avg_price": 3490,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -25,7 +25,6 @@
       "Конотоп",
       "Коростень",
       "Кривий Ріг",
-      "Кропивницький",
       "Лозова",
       "Лубни",
       "Луцьк",
@@ -3816,26 +3815,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey oled g5",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g5/m5187766",
-      "price_min": 13730,
-      "price_max": 13730,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Соборна, 3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-15T16:27:22Z",
-      "price_history": [
-        {
-          "price": 13730,
-          "at": "2026-08-15T16:27:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Hp p34hc g4 curved",
       "url": "https://tehnoskarb.ua/montor-hp-p34hc-g4-curved/m5184076",
       "price_min": 14860,
@@ -3975,15 +3954,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi mag 275qf",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
-      "price": 5190,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg flatron l1953s",
@@ -5787,6 +5757,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-15T19:22:10Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey oled g5",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g5/m5187766",
+      "price": 13730,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-08-15T20:24:35Z"
     }
   ],
   "config": {
