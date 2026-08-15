@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15T03:40:48Z",
+  "updated_at": "2026-08-15T04:34:39Z",
   "stats": {
-    "total": 194,
-    "avg_price": 3333,
+    "total": 195,
+    "avg_price": 3321,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -1462,6 +1462,26 @@
         {
           "price": 950,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lenovo li2241",
+      "url": "https://tehnoskarb.ua/montor-lenovo-li2241/m5180816",
+      "price_min": 980,
+      "price_max": 980,
+      "city": "Рівне",
+      "addresses": [
+        "м. Рівне, вул. Соборна, 63"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-15T04:33:33Z",
+      "price_history": [
+        {
+          "price": 980,
+          "at": "2026-08-15T04:33:33Z"
         }
       ],
       "category": "Монітори",
@@ -3953,15 +3973,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Benq gw2283",
-      "url": "https://tehnoskarb.ua/montor-benq-gw2283/m5131752",
-      "price": 2205,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung odyssey g5 ls27cg550",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
       "price": 5830,
@@ -5762,6 +5773,15 @@
       "city": "Тернопіль",
       "category": "Монітори",
       "at": "2026-08-14T19:50:35Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo li2241",
+      "url": "https://tehnoskarb.ua/montor-lenovo-li2241/m5180816",
+      "price": 980,
+      "city": "Рівне",
+      "category": "Монітори",
+      "at": "2026-08-15T04:33:33Z"
     }
   ],
   "config": {
