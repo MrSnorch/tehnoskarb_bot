@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-16T08:32:04Z",
+  "updated_at": "2026-08-16T09:29:40Z",
   "stats": {
-    "total": 193,
-    "avg_price": 3420,
+    "total": 194,
+    "avg_price": 3435,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3353,6 +3353,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus tuf gaming vg27vqm",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
+      "price_min": 6360,
+      "price_max": 6360,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Миру, 2/3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-16T09:29:30Z",
+      "price_history": [
+        {
+          "price": 6360,
+          "at": "2026-08-16T09:29:30Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 43sm5b",
       "url": "https://tehnoskarb.ua/montor-lg-43sm5b/m5182129",
       "price_min": 6480,
@@ -3934,15 +3954,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg e1942c",
-      "url": "https://tehnoskarb.ua/montor-lg-e1942c/m5076612",
-      "price": 690,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hp la2006x",
@@ -5746,6 +5757,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-16T08:31:53Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus tuf gaming vg27vqm",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
+      "price": 6360,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-16T09:29:30Z"
     }
   ],
   "config": {
