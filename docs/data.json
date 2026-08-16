@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-16T09:53:50Z",
+  "updated_at": "2026-08-16T10:24:59Z",
   "stats": {
-    "total": 194,
+    "total": 193,
     "avg_price": 3435,
     "min_price": 90,
     "max_price": 35440,
@@ -2051,7 +2051,7 @@
       "addresses": [
         "м. Київ, вул. Вишгородська, 33"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -2939,26 +2939,6 @@
         {
           "price": 3500,
           "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung c27rg50fh",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
-      "price_min": 3500,
-      "price_max": 3500,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-12T05:56:16Z",
-      "price_history": [
-        {
-          "price": 3500,
-          "at": "2026-08-12T05:56:16Z"
         }
       ],
       "category": "Монітори",
@@ -3954,15 +3934,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Hp la2006x",
-      "url": "https://tehnoskarb.ua/montor-hp-la2006x/m5075752",
-      "price": 770,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s24r650f",
@@ -5766,6 +5737,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-16T09:29:30Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung c27rg50fh",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
+      "price": 3500,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-16T10:24:52Z"
     }
   ],
   "config": {
