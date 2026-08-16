@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-16T06:42:53Z",
+  "updated_at": "2026-08-16T07:33:04Z",
   "stats": {
-    "total": 194,
-    "avg_price": 3435,
+    "total": 195,
+    "avg_price": 3453,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3413,6 +3413,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Gigabyte gs27qca",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27qca/m5147008",
+      "price_min": 6950,
+      "price_max": 6950,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-16T07:32:53Z",
+      "price_history": [
+        {
+          "price": 6950,
+          "at": "2026-08-16T07:32:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus tuf gaming vg279qm1a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279qm1a/m5062453",
       "price_min": 7000,
@@ -3954,15 +3974,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 196v3l",
-      "url": "https://tehnoskarb.ua/montor-philips-196v3l/m5081628",
-      "price": 590,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung fx2490hd",
@@ -5766,6 +5777,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-08-16T06:42:46Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Gigabyte gs27qca",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27qca/m5147008",
+      "price": 6950,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-16T07:32:53Z"
     }
   ],
   "config": {
