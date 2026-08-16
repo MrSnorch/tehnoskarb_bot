@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-16T14:49:47Z",
+  "updated_at": "2026-08-16T15:23:47Z",
   "stats": {
-    "total": 195,
-    "avg_price": 3450,
+    "total": 194,
+    "avg_price": 3463,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -1388,26 +1388,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp elitedisplay e222",
-      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-e222/m5185359",
-      "price_min": 910,
-      "price_max": 910,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Заболотного, 20А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-13T11:49:24Z",
-      "price_history": [
-        {
-          "price": 910,
-          "at": "2026-08-13T11:49:24Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer g227hgl",
       "url": "https://tehnoskarb.ua/montor-acer-g227hgl/m5147853",
       "price_min": 945,
@@ -2520,7 +2500,7 @@
       "addresses": [
         "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -3974,15 +3954,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung 730bf",
-      "url": "https://tehnoskarb.ua/montor-samsung-730bf/m5068988",
-      "price": 200,
-      "city": "Берегове",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi pro mp273",
@@ -5786,6 +5757,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-16T14:25:19Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp elitedisplay e222",
+      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-e222/m5185359",
+      "price": 910,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-16T15:23:41Z"
     }
   ],
   "config": {
