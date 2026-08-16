@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-16T13:33:02Z",
+  "updated_at": "2026-08-16T14:25:28Z",
   "stats": {
-    "total": 194,
-    "avg_price": 3435,
+    "total": 195,
+    "avg_price": 3450,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3353,6 +3353,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus rog strix xg259cs",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg259cs/m5183563",
+      "price_min": 6330,
+      "price_max": 6330,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Олекси Тихого, 40/16"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-16T14:25:19Z",
+      "price_history": [
+        {
+          "price": 6330,
+          "at": "2026-08-16T14:25:19Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus tuf gaming vg27vqm",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
       "price_min": 6360,
@@ -3954,15 +3974,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung b1930n",
-      "url": "https://tehnoskarb.ua/montor-samsung-b1930n/m5069561",
-      "price": 290,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung 730bf",
@@ -5766,6 +5777,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-08-16T12:42:54Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus rog strix xg259cs",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg259cs/m5183563",
+      "price": 6330,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-16T14:25:19Z"
     }
   ],
   "config": {
