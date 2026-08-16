@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-16T11:47:17Z",
+  "updated_at": "2026-08-16T12:43:04Z",
   "stats": {
-    "total": 193,
+    "total": 194,
     "avg_price": 3435,
     "min_price": 90,
     "max_price": 35440,
@@ -2945,6 +2945,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung c27rg50fh",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
+      "price_min": 3500,
+      "price_max": 3500,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Кам`янецька, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-16T12:42:54Z",
+      "price_history": [
+        {
+          "price": 3500,
+          "at": "2026-08-16T12:42:54Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi optix g241vc",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
       "price_min": 3540,
@@ -3934,15 +3954,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung s24r650f",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24r650f/m5072693",
-      "price": 2590,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung b1930n",
@@ -5746,6 +5757,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-08-16T10:24:52Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung c27rg50fh",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
+      "price": 3500,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-16T12:42:54Z"
     }
   ],
   "config": {
