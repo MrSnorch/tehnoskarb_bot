@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-16T05:31:25Z",
+  "updated_at": "2026-08-16T06:42:53Z",
   "stats": {
-    "total": 195,
-    "avg_price": 3476,
+    "total": 194,
+    "avg_price": 3435,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3715,26 +3715,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey g7 smart s27dg700e",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-smart-s27dg700e/m5187512",
-      "price_min": 11400,
-      "price_max": 11400,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Подільська, 38"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-15T16:27:22Z",
-      "price_history": [
-        {
-          "price": 11400,
-          "at": "2026-08-15T16:27:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung smart monitor m7",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-monitor-m7/m5188136",
       "price_min": 11560,
@@ -3974,15 +3954,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi pro mp251",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
-      "price": 3020,
-      "city": "Дрогобич",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Philips 196v3l",
@@ -5786,6 +5757,15 @@
       "city": "Івано-Франківськ",
       "category": "Монітори",
       "at": "2026-08-16T04:37:37Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey g7 smart s27dg700e",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-smart-s27dg700e/m5187512",
+      "price": 11400,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-16T06:42:46Z"
     }
   ],
   "config": {
