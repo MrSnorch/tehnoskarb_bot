@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-16T17:46:11Z",
+  "updated_at": "2026-08-16T18:33:32Z",
   "stats": {
-    "total": 195,
+    "total": 197,
     "avg_price": 3472,
     "min_price": 90,
     "max_price": 35440,
@@ -18,8 +18,10 @@
       "Володимир",
       "Дрогобич",
       "Запоріжжя",
+      "Звягель (Новоград-Волинський)",
       "Золочів",
       "Калуш",
+      "Кам`янське",
       "Киев",
       "Київ",
       "Конотоп",
@@ -2472,6 +2474,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lenovo thinkvision s24i-30",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-s24i-30/m5188563",
+      "price_min": 2650,
+      "price_max": 2650,
+      "city": "Звягель (Новоград-Волинський)",
+      "addresses": [
+        "м. Звягель (Новоград-Волинський), вул. Тараса Шевченка, 10"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-16T18:32:19Z",
+      "price_history": [
+        {
+          "price": 2650,
+          "at": "2026-08-16T18:32:19Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung c24f396fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c24f396fhi/m5160256",
       "price_min": 2680,
@@ -3145,6 +3167,26 @@
         {
           "price": 4000,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung s27ag300ni",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27ag300ni/m5074720",
+      "price_min": 4230,
+      "price_max": 4230,
+      "city": "Кам`янське",
+      "addresses": [
+        "м. Кам`янське, б-р Будівельників, 7"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-16T18:32:19Z",
+      "price_history": [
+        {
+          "price": 4230,
+          "at": "2026-08-16T18:32:19Z"
         }
       ],
       "category": "Монітори",
@@ -3974,24 +4016,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Msi pro mp243x",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp243x/m5061631",
-      "price": 3000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 223v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
-      "price": 660,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Dell s2421hn",
@@ -5786,6 +5810,24 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-08-16T17:21:12Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo thinkvision s24i-30",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-s24i-30/m5188563",
+      "price": 2650,
+      "city": "Звягель (Новоград-Волинський)",
+      "category": "Монітори",
+      "at": "2026-08-16T18:32:19Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s27ag300ni",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27ag300ni/m5074720",
+      "price": 4230,
+      "city": "Кам`янське",
+      "category": "Монітори",
+      "at": "2026-08-16T18:32:19Z"
     }
   ],
   "config": {
