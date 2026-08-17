@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-17T17:34:40Z",
+  "updated_at": "2026-08-17T18:42:25Z",
   "stats": {
-    "total": 191,
-    "avg_price": 3398,
+    "total": 194,
+    "avg_price": 3442,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -809,6 +809,24 @@
         {
           "price": 450,
           "at": "2026-08-17T09:44:00Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung syncmaster 172v",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-172v/m5185388",
+      "price_min": 450,
+      "price_max": 450,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-08-17T18:42:07Z",
+      "price_history": [
+        {
+          "price": 450,
+          "at": "2026-08-17T18:42:07Z"
         }
       ],
       "category": "Монітори",
@@ -1928,6 +1946,24 @@
         {
           "price": 1260,
           "at": "2026-07-26T18:32:07Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Iiyama prolite xb2380hs-b1",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-xb2380hs-b1/m5185379",
+      "price_min": 1300,
+      "price_max": 1300,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-08-17T18:42:07Z",
+      "price_history": [
+        {
+          "price": 1300,
+          "at": "2026-08-17T18:42:07Z"
         }
       ],
       "category": "Монітори",
@@ -4032,6 +4068,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung m7 smart ls43bm700",
+      "url": "https://tehnoskarb.ua/montor-samsung-m7-smart-ls43bm700/m5185372",
+      "price_min": 17000,
+      "price_max": 17000,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-08-17T18:42:07Z",
+      "price_history": [
+        {
+          "price": 17000,
+          "at": "2026-08-17T18:42:07Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Viewsonic td2760",
       "url": "https://tehnoskarb.ua/montor-viewsonic-td2760/m5187009",
       "price_min": 20070,
@@ -4155,33 +4209,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Msi pro mp243x",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp243x/m5061631",
-      "price": 3000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-11T10:07:04Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Hp p27q g4",
-      "url": "https://tehnoskarb.ua/montor-hp-p27q-g4/m5179936",
-      "price": 4990,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-11T11:20:50Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Benq g2420",
-      "url": "https://tehnoskarb.ua/montor-benq-g2420/m5165716",
-      "price": 1350,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-11T13:55:04Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Dell s2421hn",
@@ -6027,6 +6054,33 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-08-17T15:26:59Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung syncmaster 172v",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-172v/m5185388",
+      "price": 450,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-17T18:42:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung m7 smart ls43bm700",
+      "url": "https://tehnoskarb.ua/montor-samsung-m7-smart-ls43bm700/m5185372",
+      "price": 17000,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-17T18:42:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Iiyama prolite xb2380hs-b1",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-xb2380hs-b1/m5185379",
+      "price": 1300,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-17T18:42:07Z"
     }
   ],
   "config": {
