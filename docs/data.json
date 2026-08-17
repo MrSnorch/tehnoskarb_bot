@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-17T09:47:22Z",
+  "updated_at": "2026-08-17T10:34:11Z",
   "stats": {
-    "total": 197,
-    "avg_price": 3432,
+    "total": 196,
+    "avg_price": 3391,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -4006,26 +4006,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey g7 smart s27dg700e",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-smart-s27dg700e/m5187512",
-      "price_min": 11400,
-      "price_max": 11400,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Подільська, 38"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-17T06:59:35Z",
-      "price_history": [
-        {
-          "price": 11400,
-          "at": "2026-08-17T06:59:35Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung smart monitor m7",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-monitor-m7/m5188136",
       "price_min": 11560,
@@ -4273,15 +4253,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung essential s3 27\" s27d360gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-essential-s3-27-s27d360gai/m5187579",
-      "price": 3010,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-08-11T05:11:23Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung 32\" odyssey gaming g50d monitor",
@@ -6145,6 +6116,15 @@
       "city": "Вишневе",
       "category": "Монітори",
       "at": "2026-08-17T09:44:00Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey g7 smart s27dg700e",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-smart-s27dg700e/m5187512",
+      "price": 11400,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-17T10:34:04Z"
     }
   ],
   "config": {
