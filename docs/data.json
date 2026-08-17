@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-17T07:57:51Z",
+  "updated_at": "2026-08-17T08:52:18Z",
   "stats": {
-    "total": 200,
-    "avg_price": 3491,
+    "total": 199,
+    "avg_price": 3482,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3356,26 +3356,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey g5 ls27cg552",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg552/m5188080",
-      "price_min": 5220,
-      "price_max": 5220,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Вишгородська, 56/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-16T17:21:12Z",
-      "price_history": [
-        {
-          "price": 5220,
-          "at": "2026-08-16T17:21:12Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Iiyama g-master eagle g2770hsu-b1",
       "url": "https://tehnoskarb.ua/montor-iiyama-g-master-eagle-g2770hsu-b1/m5184508",
       "price_min": 5240,
@@ -4077,15 +4057,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung b2240w",
-      "url": "https://tehnoskarb.ua/montor-samsung-b2240w/m5057742",
-      "price": 680,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Msi optix g242",
@@ -5889,6 +5860,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-08-17T06:59:35Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey g5 ls27cg552",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg552/m5188080",
+      "price": 5220,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-17T08:52:08Z"
     }
   ],
   "config": {
