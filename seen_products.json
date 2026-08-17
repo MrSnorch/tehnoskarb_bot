@@ -1060,14 +1060,14 @@
   "https://tehnoskarb.ua/montor-samsung-syncmaster-t220hd/m5178542": {
     "name": "Монітор Samsung syncmaster t220hd",
     "price_min": 1010,
-    "price_max": 1140,
+    "price_max": 1500,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Шептицького, 24",
       "м. Дрогобич, вул. Пилипа Орлика, 14",
       "м. Харків, Салтівське шосе 155/93"
     ],
-    "offers_count": 3,
+    "offers_count": 4,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -4181,5 +4181,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-16T18:32:19Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-ultrawide-25um58/m5140685": {
+    "name": "Монітор Lg ultrawide 25um58",
+    "price_min": 2400,
+    "price_max": 2400,
+    "city": "Кривий Ріг",
+    "addresses": [
+      "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-17T04:44:27Z",
+    "price_history": [
+      {
+        "price": 2400,
+        "at": "2026-08-17T04:44:27Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-17T04:44:27Z"
+  },
+  "https://tehnoskarb.ua/montor-benq-e900hda/m4712776": {
+    "name": "Монітор Benq e900hda",
+    "price_min": 500,
+    "price_max": 500,
+    "city": "Бердичів",
+    "addresses": [
+      "м. Бердичів, вул. Європейська, 128"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-17T04:44:27Z",
+    "price_history": [
+      {
+        "price": 500,
+        "at": "2026-08-17T04:44:27Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-17T04:44:27Z"
   }
 }
