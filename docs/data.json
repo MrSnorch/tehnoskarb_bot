@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-17T05:36:49Z",
+  "updated_at": "2026-08-17T06:59:46Z",
   "stats": {
-    "total": 199,
-    "avg_price": 3451,
+    "total": 200,
+    "avg_price": 3491,
     "min_price": 90,
     "max_price": 35440,
     "cities": [
@@ -3818,6 +3818,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey g7 smart s27dg700e",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-smart-s27dg700e/m5187512",
+      "price_min": 11400,
+      "price_max": 11400,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Подільська, 38"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-17T06:59:35Z",
+      "price_history": [
+        {
+          "price": 11400,
+          "at": "2026-08-17T06:59:35Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung smart monitor m7",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-monitor-m7/m5188136",
       "price_min": 11560,
@@ -4057,15 +4077,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 192e2sb2",
-      "url": "https://tehnoskarb.ua/montor-philips-192e2sb2/m5058006",
-      "price": 500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-07T19:29:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung b2240w",
@@ -5869,6 +5880,15 @@
       "city": "Бердичів",
       "category": "Монітори",
       "at": "2026-08-17T04:44:27Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey g7 smart s27dg700e",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-smart-s27dg700e/m5187512",
+      "price": 11400,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-17T06:59:35Z"
     }
   ],
   "config": {
