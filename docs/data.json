@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-18T16:35:08Z",
+  "updated_at": "2026-08-18T17:28:55Z",
   "stats": {
-    "total": 197,
-    "avg_price": 3419,
+    "total": 198,
+    "avg_price": 3421,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -12,6 +12,7 @@
       "Берегове",
       "Бориспіль",
       "Бровари",
+      "Броди",
       "Буча",
       "Винники",
       "Вишневе",
@@ -3353,6 +3354,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi g2712",
+      "url": "https://tehnoskarb.ua/montor-msi-g2712/m5188795",
+      "price_min": 3820,
+      "price_max": 3820,
+      "city": "Броди",
+      "addresses": [
+        "м. Броди, вул. Гончарська, 1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-18T17:28:45Z",
+      "price_history": [
+        {
+          "price": 3820,
+          "at": "2026-08-18T17:28:45Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Philips 24m2n3200s",
       "url": "https://tehnoskarb.ua/montor-philips-24m2n3200s/m5187733",
       "price_min": 3970,
@@ -4270,15 +4291,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Xiaomi gaming monitor g27i",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-gaming-monitor-g27i/m5135243",
-      "price": 3900,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-12T10:34:42Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Msi mag 242c",
@@ -6143,6 +6155,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-18T14:35:22Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi g2712",
+      "url": "https://tehnoskarb.ua/montor-msi-g2712/m5188795",
+      "price": 3820,
+      "city": "Броди",
+      "category": "Монітори",
+      "at": "2026-08-18T17:28:45Z"
     }
   ],
   "config": {
