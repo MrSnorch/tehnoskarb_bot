@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-18T13:43:40Z",
+  "updated_at": "2026-08-18T14:35:33Z",
   "stats": {
     "total": 197,
-    "avg_price": 3417,
+    "avg_price": 3419,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -14,7 +14,6 @@
       "Бровари",
       "Буча",
       "Винники",
-      "Вишгород",
       "Вишневе",
       "Володимир",
       "Дрогобич",
@@ -1666,26 +1665,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 227e4lsb",
-      "url": "https://tehnoskarb.ua/montor-philips-227e4lsb/m5182381",
-      "price_min": 1030,
-      "price_max": 1030,
-      "city": "Вишгород",
-      "addresses": [
-        "м. Вишгород, просп. Мазепи, 5"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1030,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 22mp65d",
       "url": "https://tehnoskarb.ua/montor-lg-22mp65d/m5183724",
       "price_min": 1080,
@@ -2144,6 +2123,26 @@
         {
           "price": 1500,
           "at": "2026-08-13T16:00:14Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung ls24r350fhixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
+      "price_min": 1510,
+      "price_max": 1510,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. А. Малишка, 15/1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-18T14:35:22Z",
+      "price_history": [
+        {
+          "price": 1510,
+          "at": "2026-08-18T14:35:22Z"
         }
       ],
       "category": "Монітори",
@@ -4272,24 +4271,6 @@
   ],
   "events": [
     {
-      "type": "new",
-      "name": "Монітор Msi mag 242c",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-242c/m5187597",
-      "price": 2100,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-12T09:13:56Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Iiyama pl2201",
-      "url": "https://tehnoskarb.ua/montor-iiyama-pl2201/m5157287",
-      "price": 1620,
-      "city": "Бориспіль",
-      "category": "Монітори",
-      "at": "2026-08-12T10:34:42Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Xiaomi gaming monitor g27i",
       "url": "https://tehnoskarb.ua/montor-xiaomi-gaming-monitor-g27i/m5135243",
@@ -6144,6 +6125,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-18T12:50:52Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 227e4lsb",
+      "url": "https://tehnoskarb.ua/montor-philips-227e4lsb/m5182381",
+      "price": 1030,
+      "city": "Вишгород",
+      "category": "Монітори",
+      "at": "2026-08-18T14:35:22Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung ls24r350fhixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
+      "price": 1510,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-18T14:35:22Z"
     }
   ],
   "config": {
