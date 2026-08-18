@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-18T08:39:29Z",
+  "updated_at": "2026-08-18T09:35:55Z",
   "stats": {
-    "total": 199,
-    "avg_price": 3392,
+    "total": 198,
+    "avg_price": 3407,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -576,31 +576,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung syncmaster 913n",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
-      "price_min": 360,
-      "price_max": 380,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Воскресенський, 34/2",
-        "м. Рівне, вул. Грушевського, 1"
-      ],
-      "offers": 2,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 380,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 360,
-          "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vw202s",
       "url": "https://tehnoskarb.ua/montor-asus-vw202s/m5007997",
       "price_min": 360,
@@ -615,6 +590,35 @@
         {
           "price": 360,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung syncmaster 913n",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
+      "price_min": 380,
+      "price_max": 380,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Воскресенський, 34/2",
+        "м. Рівне, вул. Грушевського, 1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-07T19:29:58Z",
+      "price_history": [
+        {
+          "price": 380,
+          "at": "2026-08-07T19:29:58Z"
+        },
+        {
+          "price": 360,
+          "at": "2026-08-17T09:44:00Z"
+        },
+        {
+          "price": 380,
+          "at": "2026-08-18T09:35:45Z"
         }
       ],
       "category": "Монітори",
@@ -639,26 +643,6 @@
         {
           "price": 400,
           "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 204b",
-      "url": "https://tehnoskarb.ua/montor-samsung-204b/m5148830",
-      "price_min": 400,
-      "price_max": 400,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 400,
-          "at": "2026-08-07T19:29:58Z"
         }
       ],
       "category": "Монітори",
@@ -4304,24 +4288,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Samsung c27rg50fh",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
-      "price": 3500,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-08-12T04:21:34Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Msi mag 242c",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-242c/m5187597",
-      "price": 2100,
-      "city": "Шостка",
-      "category": "Монітори",
-      "at": "2026-08-12T04:21:34Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Samsung c27rg50fh",
       "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
@@ -6174,6 +6140,25 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-18T08:39:17Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 204b",
+      "url": "https://tehnoskarb.ua/montor-samsung-204b/m5148830",
+      "price": 400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-18T09:35:45Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung syncmaster 913n",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
+      "price_old": 360,
+      "price_new": 380,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-18T09:35:45Z"
     }
   ],
   "config": {
