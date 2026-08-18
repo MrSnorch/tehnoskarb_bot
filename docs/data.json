@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T10:32:12Z",
+  "updated_at": "2026-08-18T11:27:03Z",
   "stats": {
     "total": 198,
     "avg_price": 3407,
@@ -2480,27 +2480,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s24c330g",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24c330g/m5039521",
-      "price_min": 2280,
-      "price_max": 2310,
-      "city": "Конотоп",
-      "addresses": [
-        "м. Конотоп, просп. Миру, 10",
-        "м. Чернівці, просп. Незалежності, 82"
-      ],
-      "offers": 2,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2280,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung ls22f350fhixci",
       "url": "https://tehnoskarb.ua/montor-samsung-ls22f350fhixci/m5154566",
       "price_min": 2290,
@@ -2537,6 +2516,31 @@
         {
           "price": 2300,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung s24c330g",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24c330g/m5039521",
+      "price_min": 2310,
+      "price_max": 2310,
+      "city": "Конотоп",
+      "addresses": [
+        "м. Конотоп, просп. Миру, 10",
+        "м. Чернівці, просп. Незалежності, 82"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-07T19:29:58Z",
+      "price_history": [
+        {
+          "price": 2280,
+          "at": "2026-08-07T19:29:58Z"
+        },
+        {
+          "price": 2310,
+          "at": "2026-08-18T11:26:54Z"
         }
       ],
       "category": "Монітори",
@@ -4287,15 +4291,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung c27rg50fh",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
-      "price": 3500,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-08-12T05:56:16Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lg 22mp55a-p",
@@ -6159,6 +6154,16 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-18T09:35:45Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung s24c330g",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24c330g/m5039521",
+      "price_old": 2280,
+      "price_new": 2310,
+      "city": "Конотоп",
+      "category": "Монітори",
+      "at": "2026-08-18T11:26:54Z"
     }
   ],
   "config": {
