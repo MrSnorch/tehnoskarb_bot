@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-18T18:46:13Z",
+  "updated_at": "2026-08-18T19:29:23Z",
   "stats": {
-    "total": 202,
-    "avg_price": 3468,
+    "total": 200,
+    "avg_price": 3451,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -892,30 +892,6 @@
       "price_history": [
         {
           "price": 520,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 470,
-          "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung sm t190 ls19twh",
-      "url": "https://tehnoskarb.ua/montor-samsung-sm-t190-ls19twh/m5141108",
-      "price_min": 470,
-      "price_max": 470,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, вул. Василя Стуса, 17А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 500,
           "at": "2026-08-07T19:29:58Z"
         },
         {
@@ -4006,26 +3982,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp u32 4k hdr",
-      "url": "https://tehnoskarb.ua/montor-hp-u32-4k-hdr/m5188826",
-      "price_min": 9800,
-      "price_max": 9800,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, просп. Незалежності, 82"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-18T18:45:51Z",
-      "price_history": [
-        {
-          "price": 9800,
-          "at": "2026-08-18T18:45:51Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus tuf gaming vg27aql3a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql3a/m5107130",
       "price_min": 10780,
@@ -4371,24 +4327,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lenovo r27qe",
-      "url": "https://tehnoskarb.ua/montor-lenovo-r27qe/m5134922",
-      "price": 5230,
-      "city": "Житомир",
-      "category": "Монітори",
-      "at": "2026-08-12T13:14:52Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung odyssey g3 f24g33tfw",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215",
-      "price": 3690,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-12T14:36:11Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Asus proart pa279crv",
@@ -6243,6 +6181,24 @@
       "city": "Одеса",
       "category": "Монітори",
       "at": "2026-08-18T18:45:51Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung sm t190 ls19twh",
+      "url": "https://tehnoskarb.ua/montor-samsung-sm-t190-ls19twh/m5141108",
+      "price": 470,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-08-18T19:29:13Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp u32 4k hdr",
+      "url": "https://tehnoskarb.ua/montor-hp-u32-4k-hdr/m5188826",
+      "price": 9800,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-08-18T19:29:13Z"
     }
   ],
   "config": {
