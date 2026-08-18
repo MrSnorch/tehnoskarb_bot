@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-18T11:52:34Z",
+  "updated_at": "2026-08-18T12:50:59Z",
   "stats": {
-    "total": 198,
-    "avg_price": 3407,
+    "total": 197,
+    "avg_price": 3417,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2150,26 +2150,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung ls24r350fhixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
-      "price_min": 1510,
-      "price_max": 1510,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. А. Малишка, 15/1"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-13T17:28:33Z",
-      "price_history": [
-        {
-          "price": 1510,
-          "at": "2026-08-13T17:28:33Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Fujitsu b24-8 te pro",
       "url": "https://tehnoskarb.ua/montor-fujitsu-b24-8-te-pro/m5180436",
       "price_min": 1600,
@@ -4292,15 +4272,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Lg 22mp55a-p",
-      "url": "https://tehnoskarb.ua/montor-lg-22mp55a-p/m5049803",
-      "price": 1010,
-      "city": "Фастів",
-      "category": "Монітори",
-      "at": "2026-08-12T07:40:03Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Msi mag 242c",
       "url": "https://tehnoskarb.ua/montor-msi-mag-242c/m5187597",
@@ -6164,6 +6135,15 @@
       "city": "Конотоп",
       "category": "Монітори",
       "at": "2026-08-18T11:26:54Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung ls24r350fhixci",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
+      "price": 1510,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-18T12:50:52Z"
     }
   ],
   "config": {
