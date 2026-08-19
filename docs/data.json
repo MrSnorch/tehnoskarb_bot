@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19T08:40:15Z",
+  "updated_at": "2026-08-19T09:36:28Z",
   "stats": {
-    "total": 199,
-    "avg_price": 3434,
+    "total": 198,
+    "avg_price": 3449,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -1074,30 +1074,6 @@
         },
         {
           "price": 540,
-          "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vh228",
-      "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
-      "price_min": 550,
-      "price_max": 550,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-15T19:22:10Z",
-      "price_history": [
-        {
-          "price": 610,
-          "at": "2026-08-15T19:22:10Z"
-        },
-        {
-          "price": 550,
           "at": "2026-08-17T09:44:00Z"
         }
       ],
@@ -4309,15 +4285,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus vp228",
-      "url": "https://tehnoskarb.ua/montor-asus-vp228/m5145192",
-      "price": 1400,
-      "city": "Лозова",
-      "category": "Монітори",
-      "at": "2026-08-13T04:25:33Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Vinga 27s118-21b",
       "url": "https://tehnoskarb.ua/montor-vinga-27s118-21b/m5113452",
       "price": 3460,
@@ -6179,6 +6146,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-19T08:40:03Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vh228",
+      "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
+      "price": 550,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-19T09:36:17Z"
     }
   ],
   "config": {

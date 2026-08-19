@@ -3881,31 +3881,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-15T19:22:10Z"
   },
-  "https://tehnoskarb.ua/montor-asus-vh228/m5056142": {
-    "name": "Монітор Asus vh228",
-    "price_min": 550,
-    "price_max": 550,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, б-р Чоколовський, 21"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-15T19:22:10Z",
-    "price_history": [
-      {
-        "price": 610,
-        "at": "2026-08-15T19:22:10Z"
-      },
-      {
-        "price": 550,
-        "at": "2026-08-17T09:44:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-15T19:22:10Z"
-  },
   "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186": {
     "name": "Монітор Asus tuf gaming vg27vqm",
     "price_min": 6360,
@@ -4469,8 +4444,8 @@
         "at": "2026-08-19T08:40:03Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-08-19T08:40:03Z",
-    "details_retry_at": "2026-08-19T09:10:03Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-08-19T09:36:17Z",
+    "details_retry_at": "2026-08-19T10:36:17Z"
   }
 }
