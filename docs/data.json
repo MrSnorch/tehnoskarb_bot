@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19T05:33:40Z",
+  "updated_at": "2026-08-19T06:48:22Z",
   "stats": {
-    "total": 201,
-    "avg_price": 3437,
+    "total": 200,
+    "avg_price": 3453,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -531,26 +531,6 @@
         {
           "price": 350,
           "at": "2026-08-06T23:09:34Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор  19\"  TFT-LCD Asus vh192d",
-      "url": "https://tehnoskarb.ua/montor-19-tft-lcd-asus-vh192d/m5182559",
-      "price_min": 350,
-      "price_max": 350,
-      "city": "Рівне",
-      "addresses": [
-        "м. Рівне, вул. Київська, 77"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 350,
-          "at": "2026-08-07T19:29:58Z"
         }
       ],
       "category": "Монітори",
@@ -1248,7 +1228,7 @@
         "м. Ужгород, вул. Грушевського, 67",
         "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
       ],
-      "offers": 3,
+      "offers": 4,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -2499,26 +2479,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 24e2n1110/00",
-      "url": "https://tehnoskarb.ua/montor-philips-24e2n1110-00/m5188791",
-      "price_min": 2290,
-      "price_max": 2290,
-      "city": "Вишневе",
-      "addresses": [
-        "м. Вишневе, вул. Остапа Вишні, 4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-18T18:45:51Z",
-      "price_history": [
-        {
-          "price": 2290,
-          "at": "2026-08-18T18:45:51Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s24d300",
       "url": "https://tehnoskarb.ua/montor-samsung-s24d300/m5149081",
       "price_min": 2300,
@@ -2598,6 +2558,30 @@
         {
           "price": 2400,
           "at": "2026-08-17T04:44:27Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 24e2n1110/00",
+      "url": "https://tehnoskarb.ua/montor-philips-24e2n1110-00/m5188791",
+      "price_min": 2400,
+      "price_max": 2400,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Остапа Вишні, 4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-18T18:45:51Z",
+      "price_history": [
+        {
+          "price": 2290,
+          "at": "2026-08-18T18:45:51Z"
+        },
+        {
+          "price": 2400,
+          "at": "2026-08-19T06:48:13Z"
         }
       ],
       "category": "Монітори",
@@ -4346,24 +4330,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung essential s3 27\" s27d360gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-essential-s3-27-s27d360gai/m5187579",
-      "price": 3010,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-08-12T19:39:06Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Gigabyte g27q",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591",
-      "price": 7520,
-      "city": "Кривий Ріг",
-      "category": "Монітори",
-      "at": "2026-08-12T19:39:06Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Philips 243v7q",
@@ -6218,6 +6184,25 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-19T05:32:28Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор  19\"  TFT-LCD Asus vh192d",
+      "url": "https://tehnoskarb.ua/montor-19-tft-lcd-asus-vh192d/m5182559",
+      "price": 350,
+      "city": "Рівне",
+      "category": "Монітори",
+      "at": "2026-08-19T06:48:13Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Philips 24e2n1110/00",
+      "url": "https://tehnoskarb.ua/montor-philips-24e2n1110-00/m5188791",
+      "price_old": 2290,
+      "price_new": 2400,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-08-19T06:48:13Z"
     }
   ],
   "config": {
