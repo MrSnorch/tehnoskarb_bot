@@ -1436,27 +1436,6 @@
     "details_last_attempt": "2026-08-18T22:52:23Z",
     "details_retry_at": "2026-08-19T04:52:23Z"
   },
-  "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279": {
-    "name": "Монітор Msi optix mag241c",
-    "price_min": 2400,
-    "price_max": 2400,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, б-р Чоколовський, 21"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 2400,
-        "at": "2026-08-07T19:29:58Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064": {
     "name": "Монітор Samsung syncmaster 931bf",
     "price_min": 470,
@@ -2008,27 +1987,6 @@
       {
         "price": 3400,
         "at": "2026-08-15T10:24:42Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
-  "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000": {
-    "name": "Монітор Msi g244f-e2",
-    "price_min": 3700,
-    "price_max": 3700,
-    "city": "Львів",
-    "addresses": [
-      "м. Львів, вул. О.Фредра, 6"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 3700,
-        "at": "2026-08-07T19:29:58Z"
       }
     ],
     "details_failures": 0,
@@ -2601,12 +2559,12 @@
   "https://tehnoskarb.ua/montor-philips-196v3l/m5081628": {
     "name": "Монітор Philips 196v3l",
     "price_min": 530,
-    "price_max": 700,
+    "price_max": 750,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Гната Юри, 11"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -4494,5 +4452,89 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-18T18:45:51Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-32mn500m/m5188865": {
+    "name": "Монітор Lg 32mn500m",
+    "price_min": 3910,
+    "price_max": 4110,
+    "city": "Вінниця",
+    "addresses": [
+      "м. Вінниця, вул. Миколи Оводова, 41"
+    ],
+    "offers_count": 2,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-19T04:38:42Z",
+    "price_history": [
+      {
+        "price": 3910,
+        "at": "2026-08-19T04:38:42Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-19T04:38:42Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q5r/m5183089": {
+    "name": "Монітор Asus tuf gaming vg249q5r",
+    "price_min": 3460,
+    "price_max": 3460,
+    "city": "Луцьк",
+    "addresses": [
+      "м. Луцьк, просп. Соборності, 4"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-19T04:38:42Z",
+    "price_history": [
+      {
+        "price": 3460,
+        "at": "2026-08-19T04:38:42Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-19T04:38:42Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-gh17ps/m5161142": {
+    "name": "Монітор Samsung gh17ps",
+    "price_min": 450,
+    "price_max": 450,
+    "city": "Запоріжжя",
+    "addresses": [
+      "м. Запоріжжя, вул. Ентузіастів, 3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-19T04:38:42Z",
+    "price_history": [
+      {
+        "price": 450,
+        "at": "2026-08-19T04:38:42Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-19T04:38:42Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-s24d300h/m5087613": {
+    "name": "Монітор Samsung s24d300h",
+    "price_min": 1610,
+    "price_max": 1610,
+    "city": "Рівне",
+    "addresses": [
+      "м. Рівне, вул. Грушевського, 1"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-19T04:38:42Z",
+    "price_history": [
+      {
+        "price": 1610,
+        "at": "2026-08-19T04:38:42Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-19T04:38:42Z"
   }
 }
