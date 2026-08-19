@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19T04:39:06Z",
+  "updated_at": "2026-08-19T05:33:40Z",
   "stats": {
-    "total": 202,
-    "avg_price": 3434,
+    "total": 201,
+    "avg_price": 3437,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2812,28 +2812,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор портативний Zsus pm14tt-2k",
-      "url": "https://tehnoskarb.ua/montor-portativnijj-zsus-pm14tt-2k/m5176376",
-      "price_min": 2790,
-      "price_max": 2790,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 3100,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 2790,
-          "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc 24b2xda",
       "url": "https://tehnoskarb.ua/montor-aoc-24b2xda/m5186492",
       "price_min": 2800,
@@ -4368,15 +4346,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung odyssey oled g5",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g5/m5187766",
-      "price": 13730,
-      "city": "Кропивницький",
-      "category": "Монітори",
-      "at": "2026-08-12T18:26:26Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung essential s3 27\" s27d360gai",
@@ -6240,6 +6209,15 @@
       "city": "Рівне",
       "category": "Монітори",
       "at": "2026-08-19T04:38:42Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор портативний Zsus pm14tt-2k",
+      "url": "https://tehnoskarb.ua/montor-portativnijj-zsus-pm14tt-2k/m5176376",
+      "price": 2790,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-19T05:32:28Z"
     }
   ],
   "config": {
