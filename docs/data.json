@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19T17:53:51Z",
+  "updated_at": "2026-08-19T18:38:21Z",
   "stats": {
-    "total": 195,
-    "avg_price": 3582,
+    "total": 194,
+    "avg_price": 3580,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -17,7 +17,6 @@
       "Винники",
       "Вишневе",
       "Володимир",
-      "Вінниця",
       "Дрогобич",
       "Запоріжжя",
       "Звягель (Новоград-Волинський)",
@@ -1857,7 +1856,7 @@
       "addresses": [
         "м. Одеса, вул. Академіка Філатова, 86"
       ],
-      "offers": 1,
+      "offers": 3,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -3251,26 +3250,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg 32mn500m",
-      "url": "https://tehnoskarb.ua/montor-lg-32mn500m/m5188865",
-      "price_min": 3910,
-      "price_max": 4110,
-      "city": "Вінниця",
-      "addresses": [
-        "м. Вінниця, вул. Миколи Оводова, 41"
-      ],
-      "offers": 2,
-      "first_seen": "2026-08-19T04:38:42Z",
-      "price_history": [
-        {
-          "price": 3910,
-          "at": "2026-08-19T04:38:42Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Philips 24m2n3200s",
       "url": "https://tehnoskarb.ua/montor-philips-24m2n3200s/m5187733",
       "price_min": 3970,
@@ -4227,15 +4206,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung odyssey g3 f24g33tfw",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215",
-      "price": 3690,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-13T16:00:14Z"
-    },
     {
       "type": "new",
       "name": "Монітор Philips 220v8l/62",
@@ -6101,6 +6071,15 @@
       "city": "Ковель",
       "category": "Монітори",
       "at": "2026-08-19T17:28:20Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 32mn500m",
+      "url": "https://tehnoskarb.ua/montor-lg-32mn500m/m5188865",
+      "price": 3910,
+      "city": "Вінниця",
+      "category": "Монітори",
+      "at": "2026-08-19T18:38:13Z"
     }
   ],
   "config": {
