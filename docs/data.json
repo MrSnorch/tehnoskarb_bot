@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19T07:40:20Z",
+  "updated_at": "2026-08-19T08:40:15Z",
   "stats": {
-    "total": 198,
-    "avg_price": 3449,
+    "total": 199,
+    "avg_price": 3434,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -1121,6 +1121,24 @@
         {
           "price": 560,
           "at": "2026-08-17T09:44:00Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Aoc e950swn / 185lm00013",
+      "url": "https://tehnoskarb.ua/montor-aoc-e950swn-185lm00013/m5158393",
+      "price_min": 570,
+      "price_max": 570,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-08-19T08:40:03Z",
+      "price_history": [
+        {
+          "price": 570,
+          "at": "2026-08-19T08:40:03Z"
         }
       ],
       "category": "Монітори",
@@ -4290,15 +4308,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Samsung odyssey oled g5",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g5/m5187766",
-      "price": 13730,
-      "city": "Кропивницький",
-      "category": "Монітори",
-      "at": "2026-08-13T04:25:33Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Asus vp228",
       "url": "https://tehnoskarb.ua/montor-asus-vp228/m5145192",
@@ -6161,6 +6170,15 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-08-19T07:40:11Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc e950swn / 185lm00013",
+      "url": "https://tehnoskarb.ua/montor-aoc-e950swn-185lm00013/m5158393",
+      "price": 570,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-19T08:40:03Z"
     }
   ],
   "config": {
