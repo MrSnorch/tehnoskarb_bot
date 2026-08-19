@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19T06:48:22Z",
+  "updated_at": "2026-08-19T07:40:20Z",
   "stats": {
-    "total": 200,
-    "avg_price": 3453,
+    "total": 198,
+    "avg_price": 3449,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2632,26 +2632,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus be24aqlb",
-      "url": "https://tehnoskarb.ua/montor-asus-be24aqlb/m5145079",
-      "price_min": 2500,
-      "price_max": 2500,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Промислова, 50/52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-16T17:21:12Z",
-      "price_history": [
-        {
-          "price": 2500,
-          "at": "2026-08-16T17:21:12Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vp229hf",
       "url": "https://tehnoskarb.ua/montor-asus-vp229hf/m5180111",
       "price_min": 2540,
@@ -3586,27 +3566,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi mag 275qf",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
-      "price_min": 5190,
-      "price_max": 5190,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11",
-        "м. Вінниця, просп. Коцюбинського, 29"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 5190,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Iiyama g-master eagle g2770hsu-b1",
       "url": "https://tehnoskarb.ua/montor-iiyama-g-master-eagle-g2770hsu-b1/m5184508",
       "price_min": 5240,
@@ -4330,25 +4289,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Philips 243v7q",
-      "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
-      "price_old": 2810,
-      "price_new": 2800,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-12T20:49:20Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Philips 220v8l/62",
-      "url": "https://tehnoskarb.ua/montor-philips-220v8l-62/m5186599",
-      "price": 1500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-13T04:25:33Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung odyssey oled g5",
@@ -6203,6 +6143,24 @@
       "city": "Вишневе",
       "category": "Монітори",
       "at": "2026-08-19T06:48:13Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi mag 275qf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
+      "price": 5190,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-19T07:40:11Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus be24aqlb",
+      "url": "https://tehnoskarb.ua/montor-asus-be24aqlb/m5145079",
+      "price": 2500,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-08-19T07:40:11Z"
     }
   ],
   "config": {
