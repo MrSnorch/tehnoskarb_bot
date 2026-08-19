@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-19T16:33:55Z",
+  "updated_at": "2026-08-19T17:28:29Z",
   "stats": {
-    "total": 194,
-    "avg_price": 3592,
+    "total": 195,
+    "avg_price": 3582,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -26,6 +26,7 @@
       "Кам`янське",
       "Киев",
       "Київ",
+      "Ковель",
       "Конотоп",
       "Коростень",
       "Кременчук",
@@ -559,13 +560,13 @@
       "name": "Монітор Samsung syncmaster 913n",
       "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
       "price_min": 380,
-      "price_max": 380,
+      "price_max": 570,
       "city": "Київ",
       "addresses": [
         "м. Київ, просп. Воскресенський, 34/2",
         "м. Рівне, вул. Грушевського, 1"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -2038,6 +2039,26 @@
         {
           "price": 1500,
           "at": "2026-08-13T16:00:14Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung bx2231",
+      "url": "https://tehnoskarb.ua/montor-samsung-bx2231/m5064341",
+      "price_min": 1500,
+      "price_max": 1500,
+      "city": "Ковель",
+      "addresses": [
+        "м. Ковель, вул. Сагайдачного, 6А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-19T17:28:20Z",
+      "price_history": [
+        {
+          "price": 1500,
+          "at": "2026-08-19T17:28:20Z"
         }
       ],
       "category": "Монітори",
@@ -4207,15 +4228,6 @@
   ],
   "events": [
     {
-      "type": "new",
-      "name": "Монітор Samsung odyssey g3 f24g33tfw",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215",
-      "price": 3690,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-13T14:37:18Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Samsung odyssey g3 f24g33tfw",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g3-f24g33tfw/m5115215",
@@ -6080,6 +6092,15 @@
       "city": "Лозова",
       "category": "Монітори",
       "at": "2026-08-19T15:33:16Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung bx2231",
+      "url": "https://tehnoskarb.ua/montor-samsung-bx2231/m5064341",
+      "price": 1500,
+      "city": "Ковель",
+      "category": "Монітори",
+      "at": "2026-08-19T17:28:20Z"
     }
   ],
   "config": {

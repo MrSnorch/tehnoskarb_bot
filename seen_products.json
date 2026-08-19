@@ -1050,13 +1050,13 @@
   "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175": {
     "name": "Монітор Samsung syncmaster 913n",
     "price_min": 380,
-    "price_max": 380,
+    "price_max": 570,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Воскресенський, 34/2",
       "м. Рівне, вул. Грушевського, 1"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -4367,5 +4367,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-19T14:36:10Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-bx2231/m5064341": {
+    "name": "Монітор Samsung bx2231",
+    "price_min": 1500,
+    "price_max": 1500,
+    "city": "Ковель",
+    "addresses": [
+      "м. Ковель, вул. Сагайдачного, 6А"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-19T17:28:20Z",
+    "price_history": [
+      {
+        "price": 1500,
+        "at": "2026-08-19T17:28:20Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-19T17:28:20Z"
   }
 }
