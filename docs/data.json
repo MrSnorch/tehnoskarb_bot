@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-20T15:36:08Z",
+  "updated_at": "2026-08-20T16:37:40Z",
   "stats": {
-    "total": 194,
-    "avg_price": 3566,
+    "total": 195,
+    "avg_price": 3555,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2021,6 +2021,26 @@
         {
           "price": 1450,
           "at": "2026-08-14T05:56:29Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vc239he",
+      "url": "https://tehnoskarb.ua/montor-asus-vc239he/m5189138",
+      "price_min": 1450,
+      "price_max": 1450,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-20T16:37:28Z",
+      "price_history": [
+        {
+          "price": 1450,
+          "at": "2026-08-20T16:37:28Z"
         }
       ],
       "category": "Монітори",
@@ -4231,15 +4251,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Acer al 1916",
-      "url": "https://tehnoskarb.ua/montor-acer-al-1916/m5139854",
-      "price": 400,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-08-14T09:09:31Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Lg l1753s",
       "url": "https://tehnoskarb.ua/montor-lg-l1753s/m5045737",
       "price": 300,
@@ -6109,6 +6120,15 @@
       "city": "Калуш",
       "category": "Монітори",
       "at": "2026-08-20T15:36:00Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vc239he",
+      "url": "https://tehnoskarb.ua/montor-asus-vc239he/m5189138",
+      "price": 1450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-20T16:37:28Z"
     }
   ],
   "config": {
