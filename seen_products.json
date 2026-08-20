@@ -2430,7 +2430,7 @@
     "addresses": [
       "м. Київ, вул. Гната Юри, 11"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -2694,27 +2694,6 @@
     "details_last_attempt": "2026-08-20T07:42:38Z",
     "details_retry_at": "2026-08-20T13:42:38Z"
   },
-  "https://tehnoskarb.ua/montor-msi-optix-g242/m5056620": {
-    "name": "Монітор Msi optix g242",
-    "price_min": 2750,
-    "price_max": 2750,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Гната Юри, 11"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 2750,
-        "at": "2026-08-07T19:29:58Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230": {
     "name": "Монітор Samsung e2220n",
     "price_min": 540,
@@ -2792,14 +2771,14 @@
   },
   "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193": {
     "name": "Монітор Samsung odyssey g5 c34g55tw",
-    "price_min": 8980,
+    "price_min": 9670,
     "price_max": 9670,
     "city": "Ужгород",
     "addresses": [
       "м. Ужгород, вул. Мукачівська, 2",
       "м. Харків, вул. Отакара Яроша, 23"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -2815,6 +2794,10 @@
       {
         "price": 8980,
         "at": "2026-08-20T11:28:36Z"
+      },
+      {
+        "price": 9670,
+        "at": "2026-08-20T12:55:17Z"
       }
     ],
     "details_failures": 0,
@@ -2888,31 +2871,6 @@
       {
         "price": 2310,
         "at": "2026-08-18T11:26:54Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
-  "https://tehnoskarb.ua/montor-lg-w2042t/m5026868": {
-    "name": "Монітор Lg w2042t",
-    "price_min": 495,
-    "price_max": 495,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Гната Юри, 11"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 550,
-        "at": "2026-08-07T19:29:58Z"
-      },
-      {
-        "price": 495,
-        "at": "2026-08-17T09:44:00Z"
       }
     ],
     "details_failures": 0,
