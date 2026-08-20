@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-20T12:55:28Z",
+  "updated_at": "2026-08-20T13:50:45Z",
   "stats": {
     "total": 195,
-    "avg_price": 3554,
+    "avg_price": 3551,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -3804,36 +3804,16 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung 32\" odyssey gaming g50d monitor",
-      "url": "https://tehnoskarb.ua/montor-samsung-32-odyssey-gaming-g50d-monitor/m5187527",
-      "price_min": 9000,
-      "price_max": 9000,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Білоруська, 8"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-11T05:11:23Z",
-      "price_history": [
-        {
-          "price": 9000,
-          "at": "2026-08-11T05:11:23Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung odyssey g5 c34g55tw",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
-      "price_min": 9670,
+      "price_min": 8980,
       "price_max": 9670,
       "city": "Ужгород",
       "addresses": [
         "м. Ужгород, вул. Мукачівська, 2",
         "м. Харків, вул. Отакара Яроша, 23"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -3851,6 +3831,30 @@
         {
           "price": 9670,
           "at": "2026-08-20T12:55:17Z"
+        },
+        {
+          "price": 8980,
+          "at": "2026-08-20T13:49:29Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 32\" odyssey gaming g50d monitor",
+      "url": "https://tehnoskarb.ua/montor-samsung-32-odyssey-gaming-g50d-monitor/m5187527",
+      "price_min": 9000,
+      "price_max": 9000,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Білоруська, 8"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-11T05:11:23Z",
+      "price_history": [
+        {
+          "price": 9000,
+          "at": "2026-08-11T05:11:23Z"
         }
       ],
       "category": "Монітори",
@@ -4246,15 +4250,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Philips i90s",
-      "url": "https://tehnoskarb.ua/nastlnijj-montor-philips-i90s/m5182311",
-      "price": 400,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-08-14T09:09:31Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Aoc c24g2u/bk",
@@ -6125,6 +6120,16 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-08-20T12:55:17Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung odyssey g5 c34g55tw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
+      "price_old": 9670,
+      "price_new": 8980,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-08-20T13:49:29Z"
     }
   ],
   "config": {
