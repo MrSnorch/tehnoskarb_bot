@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-20T14:38:13Z",
+  "updated_at": "2026-08-20T15:36:08Z",
   "stats": {
-    "total": 195,
-    "avg_price": 3551,
+    "total": 194,
+    "avg_price": 3566,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -21,7 +21,6 @@
       "Запоріжжя",
       "Звягель (Новоград-Волинський)",
       "Золочів",
-      "Калуш",
       "Кам`янське",
       "Киев",
       "Київ",
@@ -989,26 +988,6 @@
         {
           "price": 500,
           "at": "2026-08-17T04:44:27Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg flatron l1953s-bf",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1953s-bf/m5181110",
-      "price_min": 530,
-      "price_max": 530,
-      "city": "Калуш",
-      "addresses": [
-        "м. Калуш, вул. Богдана Хмельницького, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 530,
-          "at": "2026-08-07T19:29:58Z"
         }
       ],
       "category": "Монітори",
@@ -4252,15 +4231,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Aoc c24g2u/bk",
-      "url": "https://tehnoskarb.ua/montor-aoc-c24g2u-bk/m5148499",
-      "price": 4500,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-08-14T09:09:31Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Acer al 1916",
       "url": "https://tehnoskarb.ua/montor-acer-al-1916/m5139854",
       "price": 400,
@@ -6130,6 +6100,15 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-08-20T13:49:29Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg flatron l1953s-bf",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1953s-bf/m5181110",
+      "price": 530,
+      "city": "Калуш",
+      "category": "Монітори",
+      "at": "2026-08-20T15:36:00Z"
     }
   ],
   "config": {
