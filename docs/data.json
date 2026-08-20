@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-20T03:48:37Z",
+  "updated_at": "2026-08-20T04:39:22Z",
   "stats": {
-    "total": 194,
-    "avg_price": 3580,
+    "total": 197,
+    "avg_price": 3551,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -731,6 +731,26 @@
         {
           "price": 440,
           "at": "2026-08-13T20:46:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung ls19a10",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls19a10/m5188980",
+      "price_min": 440,
+      "price_max": 440,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Княжий Затон, 2/30"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-20T04:39:05Z",
+      "price_history": [
+        {
+          "price": 440,
+          "at": "2026-08-20T04:39:05Z"
         }
       ],
       "category": "Монітори",
@@ -1594,6 +1614,26 @@
         {
           "price": 1010,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 227e4lsb",
+      "url": "https://tehnoskarb.ua/montor-philips-227e4lsb/m5182381",
+      "price_min": 1030,
+      "price_max": 1030,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Святошинська, 27"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-20T04:39:05Z",
+      "price_history": [
+        {
+          "price": 1030,
+          "at": "2026-08-20T04:39:05Z"
         }
       ],
       "category": "Монітори",
@@ -3170,6 +3210,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi mag 242f",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-242f/m5162284",
+      "price_min": 3650,
+      "price_max": 3650,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Гната Юри, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-20T04:39:05Z",
+      "price_history": [
+        {
+          "price": 3650,
+          "at": "2026-08-20T04:39:05Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vz279hg",
       "url": "https://tehnoskarb.ua/montor-asus-vz279hg/m5182521",
       "price_min": 3690,
@@ -4206,33 +4266,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 220v8l/62",
-      "url": "https://tehnoskarb.ua/montor-philips-220v8l-62/m5186599",
-      "price": 1500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-13T16:00:14Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Philips 220v1sb",
-      "url": "https://tehnoskarb.ua/montor-philips-220v1sb/m5185755",
-      "price": 520,
-      "city": "Тернопіль",
-      "category": "Монітори",
-      "at": "2026-08-13T17:28:33Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Msi pro mp273a",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp273a/m5175277",
-      "price": 3070,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-08-13T17:28:33Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lg l1742s",
@@ -6080,6 +6113,33 @@
       "city": "Вінниця",
       "category": "Монітори",
       "at": "2026-08-19T18:38:13Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung ls19a10",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls19a10/m5188980",
+      "price": 440,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-20T04:39:05Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 227e4lsb",
+      "url": "https://tehnoskarb.ua/montor-philips-227e4lsb/m5182381",
+      "price": 1030,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-08-20T04:39:05Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi mag 242f",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-242f/m5162284",
+      "price": 3650,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-20T04:39:05Z"
     }
   ],
   "config": {
