@@ -2792,14 +2792,14 @@
   },
   "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193": {
     "name": "Монітор Samsung odyssey g5 c34g55tw",
-    "price_min": 8980,
+    "price_min": 9670,
     "price_max": 9670,
     "city": "Ужгород",
     "addresses": [
       "м. Ужгород, вул. Мукачівська, 2",
       "м. Харків, вул. Отакара Яроша, 23"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -2807,6 +2807,10 @@
       {
         "price": 8980,
         "at": "2026-08-07T19:29:58Z"
+      },
+      {
+        "price": 9670,
+        "at": "2026-08-20T10:33:10Z"
       }
     ],
     "details_failures": 0,
@@ -4421,5 +4425,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-20T07:42:38Z"
+  },
+  "https://tehnoskarb.ua/montor-qube-b24f75-ips/m5159122": {
+    "name": "Монітор Qube b24f75 ips",
+    "price_min": 2540,
+    "price_max": 2540,
+    "city": "Вишневе",
+    "addresses": [
+      "м. Вишневе, вул. Святошинська, 27"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-20T10:33:10Z",
+    "price_history": [
+      {
+        "price": 2540,
+        "at": "2026-08-20T10:33:10Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-20T10:33:10Z"
   }
 }
