@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-20T10:33:23Z",
+  "updated_at": "2026-08-20T11:28:44Z",
   "stats": {
     "total": 197,
-    "avg_price": 3535,
+    "avg_price": 3531,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -3848,6 +3848,35 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey g5 c34g55tw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
+      "price_min": 8980,
+      "price_max": 9670,
+      "city": "Ужгород",
+      "addresses": [
+        "м. Ужгород, вул. Мукачівська, 2",
+        "м. Харків, вул. Отакара Яроша, 23"
+      ],
+      "offers": 2,
+      "first_seen": "2026-08-07T19:29:58Z",
+      "price_history": [
+        {
+          "price": 8980,
+          "at": "2026-08-07T19:29:58Z"
+        },
+        {
+          "price": 9670,
+          "at": "2026-08-20T10:33:10Z"
+        },
+        {
+          "price": 8980,
+          "at": "2026-08-20T11:28:36Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung 32\" odyssey gaming g50d monitor",
       "url": "https://tehnoskarb.ua/montor-samsung-32-odyssey-gaming-g50d-monitor/m5187527",
       "price_min": 9000,
@@ -3862,31 +3891,6 @@
         {
           "price": 9000,
           "at": "2026-08-11T05:11:23Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung odyssey g5 c34g55tw",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
-      "price_min": 9670,
-      "price_max": 9670,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Мукачівська, 2",
-        "м. Харків, вул. Отакара Яроша, 23"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 8980,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 9670,
-          "at": "2026-08-20T10:33:10Z"
         }
       ],
       "category": "Монітори",
@@ -4282,16 +4286,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Acer v193hq",
-      "url": "https://tehnoskarb.ua/montor-acer-v193hq/m5019742",
-      "price_old": 530,
-      "price_new": 440,
-      "city": "Вишневе",
-      "category": "Монітори",
-      "at": "2026-08-13T20:46:53Z"
-    },
     {
       "type": "new",
       "name": "Монітор Philips 227e6l",
@@ -6160,6 +6154,16 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-08-20T10:33:10Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung odyssey g5 c34g55tw",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
+      "price_old": 9670,
+      "price_new": 8980,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-08-20T11:28:36Z"
     }
   ],
   "config": {
