@@ -1152,27 +1152,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-07T19:29:58Z"
   },
-  "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091": {
-    "name": "Монітор Lenovo thinkvision t27i-30",
-    "price_min": 5250,
-    "price_max": 5250,
-    "city": "Харків",
-    "addresses": [
-      "м. Харків, просп. Петра Григоренка, 7"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 5250,
-        "at": "2026-08-07T19:29:58Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
   "https://tehnoskarb.ua/montor-prestigio-p1910/m5174147": {
     "name": "Монітор Prestigio p1910",
     "price_min": 330,
@@ -1682,31 +1661,6 @@
     "details_failures": 49,
     "details_last_attempt": "2026-08-20T07:42:38Z",
     "details_retry_at": "2026-08-20T13:42:38Z"
-  },
-  "https://tehnoskarb.ua/montor-asus-vz249hg/m5154430": {
-    "name": "Монітор Asus vz249hg",
-    "price_min": 2100,
-    "price_max": 2100,
-    "city": "Вишневе",
-    "addresses": [
-      "м. Вишневе, вул. Святошинська, 27"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 2330,
-        "at": "2026-08-07T19:29:58Z"
-      },
-      {
-        "price": 2100,
-        "at": "2026-08-17T09:44:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
   },
   "https://tehnoskarb.ua/montor-xiaomi-monitor-a24i/m5154283": {
     "name": "Монітор Xiaomi monitor a24i",
@@ -2356,13 +2310,13 @@
   },
   "https://tehnoskarb.ua/montor-samsung-920nw/m5105634": {
     "name": "Монітор Samsung 920nw",
-    "price_min": 620,
+    "price_min": 400,
     "price_max": 620,
     "city": "Київ",
     "addresses": [
       "м. Київ, б-р Вацлава Гавела, 53"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -2370,6 +2324,10 @@
       {
         "price": 620,
         "at": "2026-08-07T19:29:58Z"
+      },
+      {
+        "price": 400,
+        "at": "2026-08-20T09:36:46Z"
       }
     ],
     "details_failures": 0,
@@ -3526,13 +3484,13 @@
   },
   "https://tehnoskarb.ua/montor-samsung-e1920/m5047217": {
     "name": "Монітор Samsung e1920",
-    "price_min": 480,
+    "price_min": 400,
     "price_max": 480,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Олени Теліги , 17"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-13T11:49:24Z",
@@ -3544,6 +3502,10 @@
       {
         "price": 480,
         "at": "2026-08-17T09:44:00Z"
+      },
+      {
+        "price": 400,
+        "at": "2026-08-20T09:36:46Z"
       }
     ],
     "details_failures": 0,
