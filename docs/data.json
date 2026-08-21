@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-21T16:38:07Z",
+  "updated_at": "2026-08-21T17:30:52Z",
   "stats": {
-    "total": 191,
-    "avg_price": 3192,
+    "total": 190,
+    "avg_price": 3207,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -546,26 +546,6 @@
       "price_history": [
         {
           "price": 350,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vw202s",
-      "url": "https://tehnoskarb.ua/montor-asus-vw202s/m5007997",
-      "price_min": 360,
-      "price_max": 360,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 360,
           "at": "2026-08-07T19:29:58Z"
         }
       ],
@@ -4164,15 +4144,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Asus rog strix xg259cs",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg259cs/m5183563",
-      "price": 6330,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-15T13:32:08Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Aoc g2590fx",
       "url": "https://tehnoskarb.ua/montor-aoc-g2590fx/m5184862",
       "price": 2760,
@@ -6039,6 +6010,15 @@
       "city": "Конотоп",
       "category": "Монітори",
       "at": "2026-08-21T15:35:39Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vw202s",
+      "url": "https://tehnoskarb.ua/montor-asus-vw202s/m5007997",
+      "price": 360,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-21T17:30:46Z"
     }
   ],
   "config": {
