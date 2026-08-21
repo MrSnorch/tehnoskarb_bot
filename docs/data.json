@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-21T14:37:26Z",
+  "updated_at": "2026-08-21T15:35:45Z",
   "stats": {
-    "total": 192,
-    "avg_price": 3187,
+    "total": 191,
+    "avg_price": 3192,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2433,31 +2433,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s24c330g",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24c330g/m5039521",
-      "price_min": 2310,
-      "price_max": 2310,
-      "city": "Конотоп",
-      "addresses": [
-        "м. Конотоп, просп. Миру, 10",
-        "м. Чернівці, просп. Незалежності, 82"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2280,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 2310,
-          "at": "2026-08-18T11:26:54Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vp249hr",
       "url": "https://tehnoskarb.ua/montor-asus-vp249hr/m5111111",
       "price_min": 2400,
@@ -4187,16 +4162,6 @@
     }
   ],
   "events": [
-    {
-      "type": "rise",
-      "name": "Монітор Samsung c27f390fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27f390fhi/m5143525",
-      "price_old": 3090,
-      "price_new": 3400,
-      "city": "Конотоп",
-      "category": "Монітори",
-      "at": "2026-08-15T10:24:42Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Asus rog strix xg259cs",
@@ -6065,6 +6030,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-21T14:37:15Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s24c330g",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24c330g/m5039521",
+      "price": 2310,
+      "city": "Конотоп",
+      "category": "Монітори",
+      "at": "2026-08-21T15:35:39Z"
     }
   ],
   "config": {
