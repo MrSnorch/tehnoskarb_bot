@@ -2688,13 +2688,13 @@
   "https://tehnoskarb.ua/montor-asus-vs197/m5042579": {
     "name": "Монітор Asus vs197",
     "price_min": 585,
-    "price_max": 585,
+    "price_max": 670,
     "city": "Полтава",
     "addresses": [
       "г. Полтава, ул. Европейская, 22",
       "г. Вишневое, ул. Святошинская, 27"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -4323,8 +4323,29 @@
         "at": "2026-08-21T18:39:14Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-08-21T19:27:09Z",
-    "details_retry_at": "2026-08-21T20:27:09Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-08-21T20:28:05Z",
+    "details_retry_at": "2026-08-21T22:28:05Z"
+  },
+  "https://tehnoskarb.ua/montor-acer-k202hql/m5188757": {
+    "name": "Монітор Acer k202hql",
+    "price_min": 550,
+    "price_max": 550,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Заболотного, 20А"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-21T20:28:05Z",
+    "price_history": [
+      {
+        "price": 550,
+        "at": "2026-08-21T20:28:05Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-21T20:28:05Z"
   }
 }

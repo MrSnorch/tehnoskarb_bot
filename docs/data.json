@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-21T19:49:23Z",
+  "updated_at": "2026-08-21T20:28:16Z",
   "stats": {
-    "total": 191,
-    "avg_price": 3193,
+    "total": 192,
+    "avg_price": 3179,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -1041,6 +1041,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Acer k202hql",
+      "url": "https://tehnoskarb.ua/montor-acer-k202hql/m5188757",
+      "price_min": 550,
+      "price_max": 550,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Заболотного, 20А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-21T20:28:05Z",
+      "price_history": [
+        {
+          "price": 550,
+          "at": "2026-08-21T20:28:05Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg w2043s",
       "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
       "price_min": 560,
@@ -1150,13 +1170,13 @@
       "name": "Монітор Asus vs197",
       "url": "https://tehnoskarb.ua/montor-asus-vs197/m5042579",
       "price_min": 585,
-      "price_max": 585,
+      "price_max": 670,
       "city": "Полтава",
       "addresses": [
         "г. Полтава, ул. Европейская, 22",
         "г. Вишневое, ул. Святошинская, 27"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -4166,15 +4186,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus proart pa27jcv",
-      "url": "https://tehnoskarb.ua/montor-asus-proart-pa27jcv/m5188307",
-      "price": 25250,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-08-15T19:22:10Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Acer v227q",
       "url": "https://tehnoskarb.ua/montor-acer-v227q/m5104169",
       "price": 970,
@@ -6042,6 +6053,15 @@
       "city": "Луцьк",
       "category": "Монітори",
       "at": "2026-08-21T19:27:09Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer k202hql",
+      "url": "https://tehnoskarb.ua/montor-acer-k202hql/m5188757",
+      "price": 550,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-21T20:28:05Z"
     }
   ],
   "config": {
