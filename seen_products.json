@@ -358,13 +358,13 @@
   },
   "https://tehnoskarb.ua/montor-dell-p2418hz/m5186961": {
     "name": "Монітор Dell p2418hz",
-    "price_min": 2250,
+    "price_min": 1520,
     "price_max": 2250,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Княжий Затон, 11"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T14:32:16Z",
@@ -372,6 +372,10 @@
       {
         "price": 2250,
         "at": "2026-08-07T14:32:16Z"
+      },
+      {
+        "price": 1520,
+        "at": "2026-08-21T18:39:14Z"
       }
     ],
     "details_failures": 0,
@@ -4302,5 +4306,109 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-21T14:37:15Z"
+  },
+  "https://tehnoskarb.ua/nastlnijj-montor-philips-i90s/m5182311": {
+    "name": "Монітор Philips i90s",
+    "price_min": 400,
+    "price_max": 400,
+    "city": "Луцьк",
+    "addresses": [
+      "м. Луцьк, просп. Соборності, 38"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-21T18:39:14Z",
+    "price_history": [
+      {
+        "price": 400,
+        "at": "2026-08-21T18:39:14Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-21T18:39:14Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-thinkvision-t24d-10/m5158787": {
+    "name": "Монітор Lenovo thinkvision t24d-10",
+    "price_min": 1200,
+    "price_max": 1200,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-21T18:39:14Z",
+    "price_history": [
+      {
+        "price": 1200,
+        "at": "2026-08-21T18:39:14Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-08-21T18:39:14Z",
+    "details_retry_at": "2026-08-21T19:09:14Z"
+  },
+  "https://tehnoskarb.ua/montor-acer-al-1916/m5139854": {
+    "name": "Монітор Acer al 1916",
+    "price_min": 400,
+    "price_max": 400,
+    "city": "Луцьк",
+    "addresses": [
+      "м. Луцьк, просп. Соборності, 38"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-21T18:39:14Z",
+    "price_history": [
+      {
+        "price": 400,
+        "at": "2026-08-21T18:39:14Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-21T18:39:14Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-l1753s/m5045737": {
+    "name": "Монітор Lg l1753s",
+    "price_min": 300,
+    "price_max": 300,
+    "city": "Луцьк",
+    "addresses": [
+      "м. Луцьк, просп. Соборності, 38"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-21T18:39:14Z",
+    "price_history": [
+      {
+        "price": 300,
+        "at": "2026-08-21T18:39:14Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-21T18:39:14Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-e2260s/m5042471": {
+    "name": "Монітор Lg e2260s",
+    "price_min": 1100,
+    "price_max": 1100,
+    "city": "Луцьк",
+    "addresses": [
+      "м. Луцьк, просп. Соборності, 38"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-21T18:39:14Z",
+    "price_history": [
+      {
+        "price": 1100,
+        "at": "2026-08-21T18:39:14Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-21T18:39:14Z"
   }
 }
