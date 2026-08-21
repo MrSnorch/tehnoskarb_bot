@@ -4224,27 +4224,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-20T16:37:28Z"
   },
-  "https://tehnoskarb.ua/montor-lg-27mr400-b/m5188846": {
-    "name": "Монітор Lg 27mr400-b",
-    "price_min": 3750,
-    "price_max": 3750,
-    "city": "Чернівці",
-    "addresses": [
-      "м. Чернівці, вул. Університетська, 14"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-20T17:31:27Z",
-    "price_history": [
-      {
-        "price": 3750,
-        "at": "2026-08-20T17:31:27Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-20T17:31:27Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-940n/m4997158": {
     "name": "Монітор Samsung 940n",
     "price_min": 180,
@@ -4349,5 +4328,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-21T04:39:59Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-c27r500/m5077605": {
+    "name": "Монітор Samsung c27r500",
+    "price_min": 3000,
+    "price_max": 3000,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. О. Архипенка, 1/12"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-21T14:37:15Z",
+    "price_history": [
+      {
+        "price": 3000,
+        "at": "2026-08-21T14:37:15Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-21T14:37:15Z"
   }
 }
