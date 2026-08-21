@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-21T07:44:53Z",
+  "updated_at": "2026-08-21T08:42:54Z",
   "stats": {
-    "total": 201,
-    "avg_price": 3511,
+    "total": 200,
+    "avg_price": 3523,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -26,7 +26,6 @@
       "Київ",
       "Ковель",
       "Конотоп",
-      "Коростень",
       "Кременчук",
       "Кривий Ріг",
       "Лозова",
@@ -1715,26 +1714,6 @@
         {
           "price": 1100,
           "at": "2026-08-17T20:29:26Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s19f355",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19f355/m5180825",
-      "price_min": 1110,
-      "price_max": 1110,
-      "city": "Коростень",
-      "addresses": [
-        "м. Коростень, вул. Грушевського, 31"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1110,
-          "at": "2026-08-07T19:29:58Z"
         }
       ],
       "category": "Монітори",
@@ -4370,16 +4349,6 @@
   ],
   "events": [
     {
-      "type": "rise",
-      "name": "Монітор Msi optix g241vc",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
-      "price_old": 3000,
-      "price_new": 3540,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-08-14T16:55:34Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Gigabyte gs27qca",
       "url": "https://tehnoskarb.ua/montor-gigabyte-gs27qca/m5147008",
@@ -6249,6 +6218,15 @@
       "city": "Херсон",
       "category": "Монітори",
       "at": "2026-08-21T04:39:59Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s19f355",
+      "url": "https://tehnoskarb.ua/montor-samsung-s19f355/m5180825",
+      "price": 1110,
+      "city": "Коростень",
+      "category": "Монітори",
+      "at": "2026-08-21T08:42:46Z"
     }
   ],
   "config": {
