@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-22T11:47:53Z",
+  "updated_at": "2026-08-22T12:43:02Z",
   "stats": {
-    "total": 196,
-    "avg_price": 3206,
+    "total": 195,
+    "avg_price": 3221,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -401,30 +401,6 @@
         {
           "price": 280,
           "at": "2026-08-14T17:54:39Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips hnv9170t/170v9fb",
-      "url": "https://tehnoskarb.ua/montor-philips-hnv9170t-170v9fb/m5170843",
-      "price_min": 290,
-      "price_max": 290,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Воскресенський, 34/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 320,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 290,
-          "at": "2026-08-17T09:44:00Z"
         }
       ],
       "category": "Монітори",
@@ -4259,15 +4235,6 @@
   ],
   "events": [
     {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg27vqm",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
-      "price": 6360,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-16T09:29:30Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Samsung c27rg50fh",
       "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
@@ -6136,6 +6103,15 @@
       "city": "Вишневе",
       "category": "Монітори",
       "at": "2026-08-22T11:22:30Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips hnv9170t/170v9fb",
+      "url": "https://tehnoskarb.ua/montor-philips-hnv9170t-170v9fb/m5170843",
+      "price": 290,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-22T12:42:55Z"
     }
   ],
   "config": {
