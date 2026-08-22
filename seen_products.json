@@ -3817,31 +3817,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-18T17:28:45Z"
   },
-  "https://tehnoskarb.ua/montor-philips-24e2n1110-00/m5188791": {
-    "name": "Монітор Philips 24e2n1110/00",
-    "price_min": 2400,
-    "price_max": 2400,
-    "city": "Вишневе",
-    "addresses": [
-      "м. Вишневе, вул. Остапа Вишні, 4"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-18T18:45:51Z",
-    "price_history": [
-      {
-        "price": 2290,
-        "at": "2026-08-18T18:45:51Z"
-      },
-      {
-        "price": 2400,
-        "at": "2026-08-19T06:48:13Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-18T18:45:51Z"
-  },
   "https://tehnoskarb.ua/montor-gigabyte-g25f2/m5181848": {
     "name": "Монітор Gigabyte g25f2",
     "price_min": 3900,
@@ -4347,5 +4322,109 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-21T20:28:05Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-flatron-l1953s-bf/m5181110": {
+    "name": "Монітор Lg flatron l1953s-bf",
+    "price_min": 530,
+    "price_max": 530,
+    "city": "Львів",
+    "addresses": [
+      "м. Львів, вул. Промислова, 50/52"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-22T04:34:44Z",
+    "price_history": [
+      {
+        "price": 530,
+        "at": "2026-08-22T04:34:44Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-22T04:34:44Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091": {
+    "name": "Монітор Lenovo thinkvision t27i-30",
+    "price_min": 5250,
+    "price_max": 5250,
+    "city": "Харків",
+    "addresses": [
+      "м. Харків, вул. Дудинської, 1-А"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-22T04:34:44Z",
+    "price_history": [
+      {
+        "price": 5250,
+        "at": "2026-08-22T04:34:44Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-22T04:34:44Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-27-10/m5171317": {
+    "name": "Монітор Lenovo 27-10",
+    "price_min": 4870,
+    "price_max": 4870,
+    "city": "Львів",
+    "addresses": [
+      "м. Львів, вул. Промислова, 50/52"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-22T04:34:44Z",
+    "price_history": [
+      {
+        "price": 4870,
+        "at": "2026-08-22T04:34:44Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-22T04:34:44Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-204b/m5148830": {
+    "name": "Монітор Samsung 204b",
+    "price_min": 400,
+    "price_max": 400,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-22T04:34:44Z",
+    "price_history": [
+      {
+        "price": 400,
+        "at": "2026-08-22T04:34:44Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-08-22T04:34:44Z",
+    "details_retry_at": "2026-08-22T05:04:44Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-optix-g2412f/m5103531": {
+    "name": "Монітор Msi optix g2412f",
+    "price_min": 10001,
+    "price_max": 10001,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, б-р Чоколовський, 21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-22T04:34:44Z",
+    "price_history": [
+      {
+        "price": 10001,
+        "at": "2026-08-22T04:34:44Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-22T04:34:44Z"
   }
 }
