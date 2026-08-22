@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-22T18:33:51Z",
+  "updated_at": "2026-08-22T19:24:04Z",
   "stats": {
-    "total": 192,
-    "avg_price": 3231,
+    "total": 191,
+    "avg_price": 3238,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2241,30 +2241,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp p244",
-      "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
-      "price_min": 1830,
-      "price_max": 1830,
-      "city": "Полтава",
-      "addresses": [
-        "м. Полтава, вул. Європейська, 22"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2030,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 1830,
-          "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Dell p2314hc",
       "url": "https://tehnoskarb.ua/montor-dell-p2314hc/m5188760",
       "price_min": 1850,
@@ -4176,15 +4152,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung odyssey g5 ls27cg552",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg552/m5188080",
-      "price": 5220,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-16T17:21:12Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Asus be24aqlb",
       "url": "https://tehnoskarb.ua/montor-asus-be24aqlb/m5145079",
       "price": 2500,
@@ -6052,6 +6019,15 @@
       "city": "Ірпінь",
       "category": "Монітори",
       "at": "2026-08-22T17:22:25Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp p244",
+      "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
+      "price": 1830,
+      "city": "Полтава",
+      "category": "Монітори",
+      "at": "2026-08-22T19:23:58Z"
     }
   ],
   "config": {
