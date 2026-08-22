@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-22T10:50:37Z",
+  "updated_at": "2026-08-22T11:22:43Z",
   "stats": {
-    "total": 195,
-    "avg_price": 3210,
+    "total": 196,
+    "avg_price": 3206,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2553,6 +2553,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Philips 24e2n1110/00",
+      "url": "https://tehnoskarb.ua/montor-philips-24e2n1110-00/m5188791",
+      "price_min": 2400,
+      "price_max": 2400,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, вул. Остапа Вишні, 4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-22T11:22:30Z",
+      "price_history": [
+        {
+          "price": 2400,
+          "at": "2026-08-22T11:22:30Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung c24f396fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c24f396fhi/m5160256",
       "price_min": 2410,
@@ -4238,15 +4258,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Gigabyte gs27qca",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-gs27qca/m5147008",
-      "price": 6950,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-16T08:31:53Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus tuf gaming vg27vqm",
@@ -6116,6 +6127,15 @@
       "city": "Одеса",
       "category": "Монітори",
       "at": "2026-08-22T09:28:40Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 24e2n1110/00",
+      "url": "https://tehnoskarb.ua/montor-philips-24e2n1110-00/m5188791",
+      "price": 2400,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-08-22T11:22:30Z"
     }
   ],
   "config": {
