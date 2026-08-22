@@ -1,12 +1,13 @@
 {
-  "updated_at": "2026-08-22T16:52:24Z",
+  "updated_at": "2026-08-22T17:22:34Z",
   "stats": {
-    "total": 191,
-    "avg_price": 3242,
+    "total": 192,
+    "avg_price": 3231,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
       "Івано-Франківськ",
+      "Ірпінь",
       "Бердичів",
       "Берегове",
       "Бориспіль",
@@ -1806,6 +1807,26 @@
         {
           "price": 1200,
           "at": "2026-08-21T18:39:14Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell u2312hmt",
+      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
+      "price_min": 1200,
+      "price_max": 1200,
+      "city": "Ірпінь",
+      "addresses": [
+        "м. Ірпінь, вул. Центральна, 6-Г/4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-22T17:22:25Z",
+      "price_history": [
+        {
+          "price": 1200,
+          "at": "2026-08-22T17:22:25Z"
         }
       ],
       "category": "Монітори",
@@ -4154,15 +4175,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Samsung s24d360gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24d360gai/m5124115",
-      "price": 2540,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-08-16T17:21:12Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Samsung odyssey g5 ls27cg552",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg552/m5188080",
@@ -6031,6 +6043,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-22T16:26:51Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell u2312hmt",
+      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
+      "price": 1200,
+      "city": "Ірпінь",
+      "category": "Монітори",
+      "at": "2026-08-22T17:22:25Z"
     }
   ],
   "config": {
