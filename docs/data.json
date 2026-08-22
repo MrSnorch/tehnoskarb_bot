@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-22T08:32:45Z",
+  "updated_at": "2026-08-22T09:28:51Z",
   "stats": {
-    "total": 196,
-    "avg_price": 3209,
+    "total": 195,
+    "avg_price": 3210,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2874,26 +2874,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung essential s3 27\" s27d360gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-essential-s3-27-s27d360gai/m5187579",
-      "price_min": 3010,
-      "price_max": 3010,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Космонавтів, 9"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-13T07:45:39Z",
-      "price_history": [
-        {
-          "price": 3010,
-          "at": "2026-08-13T07:45:39Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi pro mp251",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
       "price_min": 3020,
@@ -4258,15 +4238,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Asus tuf gaming vg27vqm",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
-      "price": 6360,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-16T08:31:53Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Gigabyte gs27qca",
@@ -6136,6 +6107,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-22T04:34:44Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung essential s3 27\" s27d360gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-essential-s3-27-s27d360gai/m5187579",
+      "price": 3010,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-08-22T09:28:40Z"
     }
   ],
   "config": {
