@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-23T10:51:32Z",
+  "updated_at": "2026-08-23T11:22:53Z",
   "stats": {
-    "total": 191,
-    "avg_price": 3265,
+    "total": 188,
+    "avg_price": 3308,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -297,26 +297,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung 740n",
-      "url": "https://tehnoskarb.ua/montor-samsung-740n/m4996661",
-      "price_min": 260,
-      "price_max": 260,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, вул. Василя Стуса, 17А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 260,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung 920n",
       "url": "https://tehnoskarb.ua/montor-samsung-920n/m5011274",
       "price_min": 270,
@@ -400,26 +380,6 @@
         {
           "price": 280,
           "at": "2026-08-14T17:54:39Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 192el2",
-      "url": "https://tehnoskarb.ua/montor-philips-192el2/m5079374",
-      "price_min": 290,
-      "price_max": 290,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, просп. Свободи, 40/4"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-10T17:25:57Z",
-      "price_history": [
-        {
-          "price": 290,
-          "at": "2026-08-10T17:25:57Z"
         }
       ],
       "category": "Монітори",
@@ -1914,24 +1874,6 @@
         {
           "price": 1260,
           "at": "2026-07-26T18:32:07Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Iiyama prolite xb2380hs-b1",
-      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-xb2380hs-b1/m5185379",
-      "price_min": 1300,
-      "price_max": 1300,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-17T18:42:07Z",
-      "price_history": [
-        {
-          "price": 1300,
-          "at": "2026-08-17T18:42:07Z"
         }
       ],
       "category": "Монітори",
@@ -4151,33 +4093,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung s27ag300ni",
-      "url": "https://tehnoskarb.ua/montor-samsung-s27ag300ni/m5074720",
-      "price": 4230,
-      "city": "Кам`янське",
-      "category": "Монітори",
-      "at": "2026-08-16T18:32:19Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg ultrawide 25um58",
-      "url": "https://tehnoskarb.ua/montor-lg-ultrawide-25um58/m5140685",
-      "price": 2400,
-      "city": "Кривий Ріг",
-      "category": "Монітори",
-      "at": "2026-08-17T04:44:27Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Benq e900hda",
-      "url": "https://tehnoskarb.ua/montor-benq-e900hda/m4712776",
-      "price": 500,
-      "city": "Бердичів",
-      "category": "Монітори",
-      "at": "2026-08-17T04:44:27Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung odyssey g7 smart s27dg700e",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-smart-s27dg700e/m5187512",
       "price": 11400,
@@ -6027,6 +5942,33 @@
       "city": "Винники",
       "category": "Монітори",
       "at": "2026-08-23T09:29:54Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 740n",
+      "url": "https://tehnoskarb.ua/montor-samsung-740n/m4996661",
+      "price": 260,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-08-23T11:22:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 192el2",
+      "url": "https://tehnoskarb.ua/montor-philips-192el2/m5079374",
+      "price": 290,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-08-23T11:22:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Iiyama prolite xb2380hs-b1",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-xb2380hs-b1/m5185379",
+      "price": 1300,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-23T11:22:41Z"
     }
   ],
   "config": {
