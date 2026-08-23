@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-23T11:46:49Z",
+  "updated_at": "2026-08-23T12:43:59Z",
   "stats": {
-    "total": 188,
-    "avg_price": 3308,
+    "total": 187,
+    "avg_price": 3302,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -3236,30 +3236,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi pro mp273",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp273/m5065045",
-      "price_min": 4310,
-      "price_max": 4310,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Воскресенський, 34/2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 4790,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 4310,
-          "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc 24p2q",
       "url": "https://tehnoskarb.ua/montor-aoc-24p2q/m5173255",
       "price_min": 4360,
@@ -4091,15 +4067,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung odyssey g7 smart s27dg700e",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-smart-s27dg700e/m5187512",
-      "price": 11400,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-08-17T06:59:35Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung odyssey g5 ls27cg552",
@@ -5969,6 +5936,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-23T11:22:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp273",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp273/m5065045",
+      "price": 4310,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-23T12:43:53Z"
     }
   ],
   "config": {
