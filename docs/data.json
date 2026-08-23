@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-23T17:47:13Z",
+  "updated_at": "2026-08-23T18:32:38Z",
   "stats": {
-    "total": 190,
-    "avg_price": 3281,
+    "total": 191,
+    "avg_price": 3267,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -32,6 +32,7 @@
       "Миколаїв",
       "Новояворівськ",
       "Одеса",
+      "Павлоград",
       "Первомайськ",
       "Полтава",
       "Рівне",
@@ -1225,6 +1226,26 @@
         {
           "price": 620,
           "at": "2026-08-17T09:44:00Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Hp v197",
+      "url": "https://tehnoskarb.ua/montor-hp-v197/m5075431",
+      "price_min": 620,
+      "price_max": 620,
+      "city": "Павлоград",
+      "addresses": [
+        "м. Павлоград, вул. Центральна, 44/50"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-23T18:32:30Z",
+      "price_history": [
+        {
+          "price": 620,
+          "at": "2026-08-23T18:32:30Z"
         }
       ],
       "category": "Монітори",
@@ -4129,16 +4150,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Samsung s19f355hn",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19f355hn/m5178343",
-      "price_old": 1350,
-      "price_new": 1215,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Msi mag301cr2",
       "url": "https://tehnoskarb.ua/montor-msi-mag301cr2/m5178275",
       "price_old": 10850,
@@ -6005,6 +6016,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-23T17:21:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp v197",
+      "url": "https://tehnoskarb.ua/montor-hp-v197/m5075431",
+      "price": 620,
+      "city": "Павлоград",
+      "category": "Монітори",
+      "at": "2026-08-23T18:32:30Z"
     }
   ],
   "config": {
