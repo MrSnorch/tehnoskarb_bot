@@ -2216,7 +2216,7 @@
     "addresses": [
       "м. Київ, вул. Гната Юри, 11"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -4226,5 +4226,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-23T05:02:15Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-optix-g242/m5056620": {
+    "name": "Монітор Msi optix g242",
+    "price_min": 2750,
+    "price_max": 2750,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-23T17:21:50Z",
+    "price_history": [
+      {
+        "price": 2750,
+        "at": "2026-08-23T17:21:50Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-23T17:21:50Z"
+  },
+  "https://tehnoskarb.ua/montor-aoc-24b1h/m5054008": {
+    "name": "Монітор Aoc 24b1h",
+    "price_min": 2550,
+    "price_max": 2550,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Зодчих, 46"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-23T17:21:50Z",
+    "price_history": [
+      {
+        "price": 2550,
+        "at": "2026-08-23T17:21:50Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-23T17:21:50Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-w2042t/m5026868": {
+    "name": "Монітор Lg w2042t",
+    "price_min": 495,
+    "price_max": 495,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-23T17:21:50Z",
+    "price_history": [
+      {
+        "price": 495,
+        "at": "2026-08-23T17:21:50Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-23T17:21:50Z"
   }
 }

@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-23T16:54:16Z",
+  "updated_at": "2026-08-23T17:22:05Z",
   "stats": {
-    "total": 187,
-    "avg_price": 3302,
+    "total": 190,
+    "avg_price": 3281,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -885,6 +885,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg w2042t",
+      "url": "https://tehnoskarb.ua/montor-lg-w2042t/m5026868",
+      "price_min": 495,
+      "price_max": 495,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-23T17:21:50Z",
+      "price_history": [
+        {
+          "price": 495,
+          "at": "2026-08-23T17:21:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 22m37a",
       "url": "https://tehnoskarb.ua/montor-22-lg-22m37a/m5137076",
       "price_min": 500,
@@ -953,7 +973,7 @@
       "addresses": [
         "м. Київ, вул. Гната Юри, 11"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -2534,6 +2554,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Aoc 24b1h",
+      "url": "https://tehnoskarb.ua/montor-aoc-24b1h/m5054008",
+      "price_min": 2550,
+      "price_max": 2550,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Зодчих, 46"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-23T17:21:50Z",
+      "price_history": [
+        {
+          "price": 2550,
+          "at": "2026-08-23T17:21:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Qube b24f75-ips",
       "url": "https://tehnoskarb.ua/rk-montor-qube-b24f75-ips/m5182535",
       "price_min": 2600,
@@ -2608,6 +2648,26 @@
         {
           "price": 2700,
           "at": "2026-08-21T04:39:59Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi optix g242",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g242/m5056620",
+      "price_min": 2750,
+      "price_max": 2750,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-23T17:21:50Z",
+      "price_history": [
+        {
+          "price": 2750,
+          "at": "2026-08-23T17:21:50Z"
         }
       ],
       "category": "Монітори",
@@ -4067,33 +4127,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung odyssey g5 ls27cg552",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg552/m5188080",
-      "price": 5220,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-17T08:52:08Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg l1952t-bf",
-      "url": "https://tehnoskarb.ua/montor-lg-l1952t-bf/m5180598",
-      "price": 290,
-      "city": "Полтава",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung s19a300",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19a300/m5174337",
-      "price": 1100,
-      "city": "Полтава",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung s19f355hn",
@@ -5945,6 +5978,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-23T12:43:53Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi optix g242",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g242/m5056620",
+      "price": 2750,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-23T17:21:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc 24b1h",
+      "url": "https://tehnoskarb.ua/montor-aoc-24b1h/m5054008",
+      "price": 2550,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-23T17:21:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg w2042t",
+      "url": "https://tehnoskarb.ua/montor-lg-w2042t/m5026868",
+      "price": 495,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-23T17:21:50Z"
     }
   ],
   "config": {
