@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-23T08:32:47Z",
+  "updated_at": "2026-08-23T09:30:03Z",
   "stats": {
-    "total": 192,
-    "avg_price": 3253,
+    "total": 191,
+    "avg_price": 3265,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -14,7 +14,6 @@
       "Бровари",
       "Броди",
       "Буча",
-      "Винники",
       "Вишневе",
       "Володимир",
       "Дрогобич",
@@ -1386,26 +1385,6 @@
         {
           "price": 800,
           "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg w2243st",
-      "url": "https://tehnoskarb.ua/montor-lg-w2243st/m5064589",
-      "price_min": 800,
-      "price_max": 800,
-      "city": "Винники",
-      "addresses": [
-        "м. Винники, вул. Крушельницької, 3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-11T18:27:25Z",
-      "price_history": [
-        {
-          "price": 800,
-          "at": "2026-08-11T18:27:25Z"
         }
       ],
       "category": "Монітори",
@@ -4172,15 +4151,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lenovo thinkvision s24i-30",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-s24i-30/m5188563",
-      "price": 2650,
-      "city": "Звягель (Новоград-Волинський)",
-      "category": "Монітори",
-      "at": "2026-08-16T18:32:19Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s27ag300ni",
       "url": "https://tehnoskarb.ua/montor-samsung-s27ag300ni/m5074720",
       "price": 4230,
@@ -6048,6 +6018,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-23T05:02:15Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg w2243st",
+      "url": "https://tehnoskarb.ua/montor-lg-w2243st/m5064589",
+      "price": 800,
+      "city": "Винники",
+      "category": "Монітори",
+      "at": "2026-08-23T09:29:54Z"
     }
   ],
   "config": {
