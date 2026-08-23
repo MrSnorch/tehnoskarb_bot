@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-23T04:09:22Z",
+  "updated_at": "2026-08-23T05:02:26Z",
   "stats": {
-    "total": 191,
-    "avg_price": 3238,
+    "total": 192,
+    "avg_price": 3253,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -3551,6 +3551,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lenovo legion r27qe gen 2",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r27qe-gen-2/m5160896",
+      "price_min": 5950,
+      "price_max": 5950,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-23T05:02:15Z",
+      "price_history": [
+        {
+          "price": 5950,
+          "at": "2026-08-23T05:02:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus rog strix xg259cs",
       "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg259cs/m5183563",
       "price_min": 6330,
@@ -4150,15 +4170,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus be24aqlb",
-      "url": "https://tehnoskarb.ua/montor-asus-be24aqlb/m5145079",
-      "price": 2500,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-08-16T17:21:12Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lenovo thinkvision s24i-30",
@@ -6028,6 +6039,15 @@
       "city": "Полтава",
       "category": "Монітори",
       "at": "2026-08-22T19:23:58Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo legion r27qe gen 2",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r27qe-gen-2/m5160896",
+      "price": 5950,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-23T05:02:15Z"
     }
   ],
   "config": {
