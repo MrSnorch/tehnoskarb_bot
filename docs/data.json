@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-24T10:10:57Z",
+  "updated_at": "2026-08-24T11:02:27Z",
   "stats": {
-    "total": 186,
-    "avg_price": 3261,
+    "total": 185,
+    "avg_price": 3246,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -3445,26 +3445,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lenovo legion r27qe gen 2",
-      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r27qe-gen-2/m5160896",
-      "price_min": 5950,
-      "price_max": 5950,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-23T05:02:15Z",
-      "price_history": [
-        {
-          "price": 5950,
-          "at": "2026-08-23T05:02:15Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus rog strix xg259cs",
       "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg259cs/m5183563",
       "price_min": 6330,
@@ -4040,16 +4020,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор портативний Zsus pm14tt-2k",
-      "url": "https://tehnoskarb.ua/montor-portativnijj-zsus-pm14tt-2k/m5176376",
-      "price_old": 3100,
-      "price_new": 2790,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор 2E 2e-h2420b",
@@ -5912,6 +5882,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-24T09:23:15Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo legion r27qe gen 2",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r27qe-gen-2/m5160896",
+      "price": 5950,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-24T11:02:18Z"
     }
   ],
   "config": {
