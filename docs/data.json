@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-24T17:32:58Z",
+  "updated_at": "2026-08-24T18:43:10Z",
   "stats": {
-    "total": 185,
-    "avg_price": 3238,
+    "total": 187,
+    "avg_price": 3254,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -26,6 +26,7 @@
       "Ковель",
       "Конотоп",
       "Кривий Ріг",
+      "Кропивницький",
       "Лозова",
       "Луцьк",
       "Львів",
@@ -1242,6 +1243,26 @@
         {
           "price": 620,
           "at": "2026-08-23T18:32:30Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg e2242",
+      "url": "https://tehnoskarb.ua/montor-lg-e2242/m5144072",
+      "price_min": 630,
+      "price_max": 630,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. Соборна, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-24T18:42:57Z",
+      "price_history": [
+        {
+          "price": 630,
+          "at": "2026-08-24T18:42:57Z"
         }
       ],
       "category": "Монітори",
@@ -3626,6 +3647,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus rog strix xg27acs",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs/m5148467",
+      "price_min": 8790,
+      "price_max": 8790,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Гришка 6а"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-24T18:42:57Z",
+      "price_history": [
+        {
+          "price": 8790,
+          "at": "2026-08-24T18:42:57Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung odyssey g5 c34g55tw",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
       "price_min": 8980,
@@ -4012,26 +4053,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Hp p244",
-      "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
-      "price_old": 2030,
-      "price_new": 1830,
-      "city": "Полтава",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Prestigio p3191w",
-      "url": "https://tehnoskarb.ua/montor-prestigio-p3191w/m5172125",
-      "price_old": 240,
-      "price_new": 220,
-      "city": "Херсон",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung ls20b3u",
@@ -5879,6 +5900,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-24T17:32:48Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus rog strix xg27acs",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs/m5148467",
+      "price": 8790,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-24T18:42:57Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg e2242",
+      "url": "https://tehnoskarb.ua/montor-lg-e2242/m5144072",
+      "price": 630,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-08-24T18:42:57Z"
     }
   ],
   "config": {
