@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-08-24T15:42:23Z",
+  "updated_at": "2026-08-24T16:39:47Z",
   "stats": {
-    "total": 183,
-    "avg_price": 3267,
+    "total": 184,
+    "avg_price": 3250,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
       "Івано-Франківськ",
       "Ірпінь",
       "Бердичів",
+      "Берегове",
       "Бориспіль",
       "Бровари",
       "Броди",
@@ -88,6 +89,26 @@
         {
           "price": 180,
           "at": "2026-08-20T17:31:27Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 730bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-730bf/m5068988",
+      "price_min": 180,
+      "price_max": 180,
+      "city": "Берегове",
+      "addresses": [
+        "м. Берегове, площа Кошута, 2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-24T16:39:38Z",
+      "price_history": [
+        {
+          "price": 180,
+          "at": "2026-08-24T16:39:38Z"
         }
       ],
       "category": "Монітори",
@@ -2663,7 +2684,7 @@
         "м. Харків, Салтівське шосе 155/93",
         "м. Івано-Франківськ, вул. Василя Стуса, 17А"
       ],
-      "offers": 4,
+      "offers": 3,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -3971,16 +3992,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Prestigio p1910",
-      "url": "https://tehnoskarb.ua/montor-prestigio-p1910/m5174147",
-      "price_old": 370,
-      "price_new": 330,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Aoc 24p2q",
@@ -5840,6 +5851,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-24T13:53:16Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 730bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-730bf/m5068988",
+      "price": 180,
+      "city": "Берегове",
+      "category": "Монітори",
+      "at": "2026-08-24T16:39:38Z"
     }
   ],
   "config": {
