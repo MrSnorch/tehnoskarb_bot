@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-24T16:39:47Z",
+  "updated_at": "2026-08-24T17:32:58Z",
   "stats": {
-    "total": 184,
-    "avg_price": 3250,
+    "total": 185,
+    "avg_price": 3238,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -1625,6 +1625,26 @@
         {
           "price": 1030,
           "at": "2026-08-20T04:39:05Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung b2430l",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2430l/m5051260",
+      "price_min": 1040,
+      "price_max": 1040,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Білоруська, 8"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-24T17:32:48Z",
+      "price_history": [
+        {
+          "price": 1040,
+          "at": "2026-08-24T17:32:48Z"
         }
       ],
       "category": "Монітори",
@@ -3994,16 +4014,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Aoc 24p2q",
-      "url": "https://tehnoskarb.ua/montor-aoc-24p2q/m5173255",
-      "price_old": 4840,
-      "price_new": 4360,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Hp p244",
       "url": "https://tehnoskarb.ua/montor-hp-p244/m5173198",
       "price_old": 2030,
@@ -5860,6 +5870,15 @@
       "city": "Берегове",
       "category": "Монітори",
       "at": "2026-08-24T16:39:38Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung b2430l",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2430l/m5051260",
+      "price": 1040,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-24T17:32:48Z"
     }
   ],
   "config": {
