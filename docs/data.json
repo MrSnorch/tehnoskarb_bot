@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-24T12:54:37Z",
+  "updated_at": "2026-08-24T13:53:22Z",
   "stats": {
-    "total": 184,
-    "avg_price": 3263,
+    "total": 183,
+    "avg_price": 3267,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2466,30 +2466,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung professional s24c430",
-      "url": "https://tehnoskarb.ua/montor-samsung-professional-s24c430/m5154762",
-      "price_min": 2550,
-      "price_max": 2550,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2835,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 2550,
-          "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vz24ehe",
       "url": "https://tehnoskarb.ua/montor-asus-vz24ehe/m5128511",
       "price_min": 2550,
@@ -3995,16 +3971,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Acer nitro xv272uw2bmiiprx",
-      "url": "https://tehnoskarb.ua/montor-acer-nitro-xv272uw2bmiiprx/m5175710",
-      "price_old": 7700,
-      "price_new": 6930,
-      "city": "Миколаїв",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Prestigio p1910",
@@ -5865,6 +5831,15 @@
       "city": "Берегове",
       "category": "Монітори",
       "at": "2026-08-24T12:54:30Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung professional s24c430",
+      "url": "https://tehnoskarb.ua/montor-samsung-professional-s24c430/m5154762",
+      "price": 2550,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-24T13:53:16Z"
     }
   ],
   "config": {
