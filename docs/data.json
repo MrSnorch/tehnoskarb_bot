@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-24T08:11:10Z",
+  "updated_at": "2026-08-24T09:24:24Z",
   "stats": {
-    "total": 188,
-    "avg_price": 3248,
+    "total": 186,
+    "avg_price": 3261,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -1999,26 +1999,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung b2430l",
-      "url": "https://tehnoskarb.ua/montor-samsung-b2430l/m5051260",
-      "price_min": 1450,
-      "price_max": 1450,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Миру, 2/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-14T05:56:29Z",
-      "price_history": [
-        {
-          "price": 1450,
-          "at": "2026-08-14T05:56:29Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vc239he",
       "url": "https://tehnoskarb.ua/montor-asus-vc239he/m5189138",
       "price_min": 1450,
@@ -2609,26 +2589,6 @@
         {
           "price": 2650,
           "at": "2026-08-16T18:32:19Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Viewsonic va2432-mhd",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va2432-mhd/m5181265",
-      "price_min": 2700,
-      "price_max": 2700,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Лук`яненка, 21, корпус 7 (м. Мінська)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 2700,
-          "at": "2026-08-07T19:29:58Z"
         }
       ],
       "category": "Монітори",
@@ -4080,26 +4040,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Asus vu249cfe-b",
-      "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
-      "price_old": 6480,
-      "price_new": 5830,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Asus vw223b",
-      "url": "https://tehnoskarb.ua/montor-asus-vw223b/m5176386",
-      "price_old": 900,
-      "price_new": 810,
-      "city": "Тернопіль",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор портативний Zsus pm14tt-2k",
@@ -5954,6 +5894,24 @@
       "city": "Одеса",
       "category": "Монітори",
       "at": "2026-08-24T04:50:15Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Viewsonic va2432-mhd",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va2432-mhd/m5181265",
+      "price": 2700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-24T09:23:15Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung b2430l",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2430l/m5051260",
+      "price": 1450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-24T09:23:15Z"
     }
   ],
   "config": {
