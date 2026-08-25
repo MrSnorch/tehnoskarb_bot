@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-25T17:57:56Z",
+  "updated_at": "2026-08-25T18:48:49Z",
   "stats": {
-    "total": 187,
-    "avg_price": 3254,
+    "total": 189,
+    "avg_price": 3270,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -25,6 +25,7 @@
       "Київ",
       "Ковель",
       "Конотоп",
+      "Кременчук",
       "Кривий Ріг",
       "Кропивницький",
       "Лозова",
@@ -3181,6 +3182,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus vz279hg-w",
+      "url": "https://tehnoskarb.ua/montor-asus-vz279hg-w/m5189839",
+      "price_min": 3690,
+      "price_max": 3690,
+      "city": "Бориспіль",
+      "addresses": [
+        "м. Бориспіль, вул. Київський шлях, 47"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-25T18:48:35Z",
+      "price_history": [
+        {
+          "price": 3690,
+          "at": "2026-08-25T18:48:35Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi g2712",
       "url": "https://tehnoskarb.ua/montor-msi-g2712/m5188795",
       "price_min": 3820,
@@ -3488,6 +3509,26 @@
         {
           "price": 5830,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi mag 275qf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
+      "price_min": 6000,
+      "price_max": 6000,
+      "city": "Кременчук",
+      "addresses": [
+        "м. Кременчук, вул. Покровська, 15/34"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-25T18:48:35Z",
+      "price_history": [
+        {
+          "price": 6000,
+          "at": "2026-08-25T18:48:35Z"
         }
       ],
       "category": "Монітори",
@@ -4069,26 +4110,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Samsung professional s24c430",
-      "url": "https://tehnoskarb.ua/montor-samsung-professional-s24c430/m5154762",
-      "price_old": 2835,
-      "price_new": 2550,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Samsung ls22f350fhixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls22f350fhixci/m5154566",
-      "price_old": 2540,
-      "price_new": 2290,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung f24t452fqr",
@@ -5926,6 +5947,24 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-08-25T17:56:42Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vz279hg-w",
+      "url": "https://tehnoskarb.ua/montor-asus-vz279hg-w/m5189839",
+      "price": 3690,
+      "city": "Бориспіль",
+      "category": "Монітори",
+      "at": "2026-08-25T18:48:35Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi mag 275qf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
+      "price": 6000,
+      "city": "Кременчук",
+      "category": "Монітори",
+      "at": "2026-08-25T18:48:35Z"
     }
   ],
   "config": {
