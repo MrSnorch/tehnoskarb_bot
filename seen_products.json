@@ -1310,13 +1310,13 @@
   "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904": {
     "name": "Монітор Msi mag 244c",
     "price_min": 2990,
-    "price_max": 3790,
+    "price_max": 3300,
     "city": "Харків",
     "addresses": [
       "м. Харків, Салтівське шосе 155/93",
       "м. Івано-Франківськ, вул. Василя Стуса, 17А"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -2693,27 +2693,6 @@
       {
         "price": 280,
         "at": "2026-08-17T09:44:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-943n/m4997404": {
-    "name": "Монітор Samsung 943n",
-    "price_min": 240,
-    "price_max": 240,
-    "city": "Полтава",
-    "addresses": [
-      "м. Полтава, вул. Івана Мазепи, 26"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 240,
-        "at": "2026-08-07T19:29:58Z"
       }
     ],
     "details_failures": 0,
@@ -4158,8 +4137,8 @@
   },
   "https://tehnoskarb.ua/montor-lg-e2242/m5144072": {
     "name": "Монітор Lg e2242",
-    "price_min": 630,
-    "price_max": 630,
+    "price_min": 750,
+    "price_max": 750,
     "city": "Кропивницький",
     "addresses": [
       "м. Кропивницький, вул. Соборна, 3"
@@ -4172,6 +4151,10 @@
       {
         "price": 630,
         "at": "2026-08-24T18:42:57Z"
+      },
+      {
+        "price": 750,
+        "at": "2026-08-25T14:20:24Z"
       }
     ],
     "details_failures": 0,

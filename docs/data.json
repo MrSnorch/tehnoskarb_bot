@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-25T13:03:10Z",
+  "updated_at": "2026-08-25T14:20:33Z",
   "stats": {
-    "total": 187,
-    "avg_price": 3253,
+    "total": 186,
+    "avg_price": 3270,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -178,26 +178,6 @@
         {
           "price": 225,
           "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 943n",
-      "url": "https://tehnoskarb.ua/montor-samsung-943n/m4997404",
-      "price_min": 240,
-      "price_max": 240,
-      "city": "Полтава",
-      "addresses": [
-        "м. Полтава, вул. Івана Мазепи, 26"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 240,
-          "at": "2026-08-07T19:29:58Z"
         }
       ],
       "category": "Монітори",
@@ -1273,26 +1253,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg e2242",
-      "url": "https://tehnoskarb.ua/montor-lg-e2242/m5144072",
-      "price_min": 630,
-      "price_max": 630,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Соборна, 3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-24T18:42:57Z",
-      "price_history": [
-        {
-          "price": 630,
-          "at": "2026-08-24T18:42:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer b223w",
       "url": "https://tehnoskarb.ua/montor-acer-b223w/m5110337",
       "price_min": 650,
@@ -1389,6 +1349,30 @@
         {
           "price": 750,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg e2242",
+      "url": "https://tehnoskarb.ua/montor-lg-e2242/m5144072",
+      "price_min": 750,
+      "price_max": 750,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. Соборна, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-24T18:42:57Z",
+      "price_history": [
+        {
+          "price": 630,
+          "at": "2026-08-24T18:42:57Z"
+        },
+        {
+          "price": 750,
+          "at": "2026-08-25T14:20:24Z"
         }
       ],
       "category": "Монітори",
@@ -2697,13 +2681,13 @@
       "name": "Монітор Msi mag 244c",
       "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
       "price_min": 2990,
-      "price_max": 3790,
+      "price_max": 3300,
       "city": "Харків",
       "addresses": [
         "м. Харків, Салтівське шосе 155/93",
         "м. Івано-Франківськ, вул. Василя Стуса, 17А"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -4061,26 +4045,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Lg 27gn950-b",
-      "url": "https://tehnoskarb.ua/montor-lg-27gn950-b/m5165373",
-      "price_old": 13330,
-      "price_new": 12000,
-      "city": "Херсон",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Lg 19m38a",
-      "url": "https://tehnoskarb.ua/montor-lg-19m38a/m5165371",
-      "price_old": 690,
-      "price_new": 620,
-      "city": "Черкаси",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung c24f396fhi",
@@ -5922,6 +5886,25 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-25T13:02:58Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 943n",
+      "url": "https://tehnoskarb.ua/montor-samsung-943n/m4997404",
+      "price": 240,
+      "city": "Полтава",
+      "category": "Монітори",
+      "at": "2026-08-25T14:20:24Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Lg e2242",
+      "url": "https://tehnoskarb.ua/montor-lg-e2242/m5144072",
+      "price_old": 630,
+      "price_new": 750,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-08-25T14:20:24Z"
     }
   ],
   "config": {
