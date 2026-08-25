@@ -2888,8 +2888,8 @@
   },
   "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591": {
     "name": "Монітор Gigabyte g27q",
-    "price_min": 7520,
-    "price_max": 7520,
+    "price_min": 3600,
+    "price_max": 3600,
     "city": "Кривий Ріг",
     "addresses": [
       "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
@@ -2902,6 +2902,10 @@
       {
         "price": 7520,
         "at": "2026-08-12T19:39:06Z"
+      },
+      {
+        "price": 3600,
+        "at": "2026-08-25T17:05:51Z"
       }
     ],
     "details_failures": 0,
@@ -3838,9 +3842,9 @@
         "at": "2026-08-21T18:39:14Z"
       }
     ],
-    "details_failures": 17,
-    "details_last_attempt": "2026-08-25T10:35:11Z",
-    "details_retry_at": "2026-08-25T16:35:11Z"
+    "details_failures": 18,
+    "details_last_attempt": "2026-08-25T17:05:51Z",
+    "details_retry_at": "2026-08-25T23:05:51Z"
   },
   "https://tehnoskarb.ua/montor-acer-k202hql/m5188757": {
     "name": "Монітор Acer k202hql",
@@ -4201,5 +4205,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-25T04:40:57Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-24gs60f-b/m5147280": {
+    "name": "Монітор Lg 24gs60f-b",
+    "price_min": 3470,
+    "price_max": 3470,
+    "city": "Бровари",
+    "addresses": [
+      "м. Бровари, вул. Героїв України, 11"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-25T17:05:51Z",
+    "price_history": [
+      {
+        "price": 3470,
+        "at": "2026-08-25T17:05:51Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-25T17:05:51Z"
   }
 }

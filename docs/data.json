@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-25T16:08:44Z",
+  "updated_at": "2026-08-25T17:06:05Z",
   "stats": {
-    "total": 186,
-    "avg_price": 3270,
+    "total": 187,
+    "avg_price": 3250,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2947,6 +2947,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 24gs60f-b",
+      "url": "https://tehnoskarb.ua/montor-lg-24gs60f-b/m5147280",
+      "price_min": 3470,
+      "price_max": 3470,
+      "city": "Бровари",
+      "addresses": [
+        "м. Бровари, вул. Героїв України, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-25T17:05:51Z",
+      "price_history": [
+        {
+          "price": 3470,
+          "at": "2026-08-25T17:05:51Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung c27f396fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c27f396fhi/m5145006",
       "price_min": 3480,
@@ -3051,6 +3071,30 @@
         {
           "price": 3590,
           "at": "2026-08-17T09:44:00Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Gigabyte g27q",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591",
+      "price_min": 3600,
+      "price_max": 3600,
+      "city": "Кривий Ріг",
+      "addresses": [
+        "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-12T19:39:06Z",
+      "price_history": [
+        {
+          "price": 7520,
+          "at": "2026-08-12T19:39:06Z"
+        },
+        {
+          "price": 3600,
+          "at": "2026-08-25T17:05:51Z"
         }
       ],
       "category": "Монітори",
@@ -3559,26 +3603,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Gigabyte g27q",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591",
-      "price_min": 7520,
-      "price_max": 7520,
-      "city": "Кривий Ріг",
-      "addresses": [
-        "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-12T19:39:06Z",
-      "price_history": [
-        {
-          "price": 7520,
-          "at": "2026-08-12T19:39:06Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung odyssey g5 s27ag502",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-s27ag502/m5149547",
       "price_min": 7590,
@@ -4045,26 +4069,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Samsung c24f396fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c24f396fhi/m5160256",
-      "price_old": 2680,
-      "price_new": 2410,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Viewsonic va703b",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
-      "price_old": 280,
-      "price_new": 250,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Acer v223hq",
@@ -5905,6 +5909,25 @@
       "city": "Кропивницький",
       "category": "Монітори",
       "at": "2026-08-25T14:20:24Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Gigabyte g27q",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591",
+      "price_old": 7520,
+      "price_new": 3600,
+      "city": "Кривий Ріг",
+      "category": "Монітори",
+      "at": "2026-08-25T17:05:51Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 24gs60f-b",
+      "url": "https://tehnoskarb.ua/montor-lg-24gs60f-b/m5147280",
+      "price": 3470,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-08-25T17:05:51Z"
     }
   ],
   "config": {
