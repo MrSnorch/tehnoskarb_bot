@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-25T11:58:03Z",
+  "updated_at": "2026-08-25T13:03:10Z",
   "stats": {
-    "total": 189,
-    "avg_price": 3249,
+    "total": 187,
+    "avg_price": 3253,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2626,26 +2626,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix g242",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g242/m5056620",
-      "price_min": 2750,
-      "price_max": 2750,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-23T17:21:50Z",
-      "price_history": [
-        {
-          "price": 2750,
-          "at": "2026-08-23T17:21:50Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc 24b2xda",
       "url": "https://tehnoskarb.ua/montor-aoc-24b2xda/m5186492",
       "price_min": 2800,
@@ -2733,26 +2713,6 @@
         {
           "price": 2990,
           "at": "2026-08-09T17:33:28Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung c27r500",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27r500/m5077605",
-      "price_min": 3000,
-      "price_max": 3000,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. О. Архипенка, 1/12"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-21T14:37:15Z",
-      "price_history": [
-        {
-          "price": 3000,
-          "at": "2026-08-21T14:37:15Z"
         }
       ],
       "category": "Монітори",
@@ -4101,26 +4061,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Samsung syncmaster 931bf",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
-      "price_old": 520,
-      "price_new": 470,
-      "city": "Бровари",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Lg l1942s",
-      "url": "https://tehnoskarb.ua/montor-lg-l1942s/m5165584",
-      "price_old": 250,
-      "price_new": 225,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Lg 27gn950-b",
@@ -5964,6 +5904,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-25T07:46:10Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung c27r500",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27r500/m5077605",
+      "price": 3000,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-25T13:02:58Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix g242",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g242/m5056620",
+      "price": 2750,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-25T13:02:58Z"
     }
   ],
   "config": {
