@@ -3925,9 +3925,9 @@
         "at": "2026-08-22T04:34:44Z"
       }
     ],
-    "details_failures": 16,
-    "details_last_attempt": "2026-08-25T13:02:58Z",
-    "details_retry_at": "2026-08-25T19:02:58Z"
+    "details_failures": 17,
+    "details_last_attempt": "2026-08-25T19:33:32Z",
+    "details_retry_at": "2026-08-26T01:33:32Z"
   },
   "https://tehnoskarb.ua/montor-msi-optix-g2412f/m5103531": {
     "name": "Монітор Msi optix g2412f",
@@ -4268,5 +4268,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-25T18:48:35Z"
+  },
+  "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523": {
+    "name": "Монітор Lg 23ea53tp",
+    "price_min": 900,
+    "price_max": 900,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Лятошинського, 14"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-25T19:33:32Z",
+    "price_history": [
+      {
+        "price": 900,
+        "at": "2026-08-25T19:33:32Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-25T19:33:32Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-27gp850-b/m5148923": {
+    "name": "Монітор Lg 27gp850-b",
+    "price_min": 6600,
+    "price_max": 6600,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Лятошинського, 14"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-25T19:33:32Z",
+    "price_history": [
+      {
+        "price": 6600,
+        "at": "2026-08-25T19:33:32Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-25T19:33:32Z"
   }
 }

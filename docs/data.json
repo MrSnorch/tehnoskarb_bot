@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-25T18:48:49Z",
+  "updated_at": "2026-08-25T19:33:47Z",
   "stats": {
-    "total": 189,
-    "avg_price": 3270,
+    "total": 191,
+    "avg_price": 3275,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -1515,6 +1515,26 @@
         {
           "price": 900,
           "at": "2026-08-14T19:50:35Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg 23ea53tp",
+      "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
+      "price_min": 900,
+      "price_max": 900,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лятошинського, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-25T19:33:32Z",
+      "price_history": [
+        {
+          "price": 900,
+          "at": "2026-08-25T19:33:32Z"
         }
       ],
       "category": "Монітори",
@@ -3600,6 +3620,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 27gp850-b",
+      "url": "https://tehnoskarb.ua/montor-lg-27gp850-b/m5148923",
+      "price_min": 6600,
+      "price_max": 6600,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лятошинського, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-25T19:33:32Z",
+      "price_history": [
+        {
+          "price": 6600,
+          "at": "2026-08-25T19:33:32Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Aoc c27g2ze",
       "url": "https://tehnoskarb.ua/montor-aoc-c27g2ze/m5147959",
       "price_min": 7090,
@@ -4110,26 +4150,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Samsung f24t452fqr",
-      "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
-      "price_old": 3240,
-      "price_new": 3200,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Asus vz249hg",
-      "url": "https://tehnoskarb.ua/montor-asus-vz249hg/m5154430",
-      "price_old": 2330,
-      "price_new": 2100,
-      "city": "Вишневе",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Hp nk570a",
@@ -5965,6 +5985,24 @@
       "city": "Кременчук",
       "category": "Монітори",
       "at": "2026-08-25T18:48:35Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 23ea53tp",
+      "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
+      "price": 900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-25T19:33:32Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 27gp850-b",
+      "url": "https://tehnoskarb.ua/montor-lg-27gp850-b/m5148923",
+      "price": 6600,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-25T19:33:32Z"
     }
   ],
   "config": {
