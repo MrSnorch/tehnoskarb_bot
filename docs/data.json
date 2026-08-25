@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-25T17:06:05Z",
+  "updated_at": "2026-08-25T17:57:56Z",
   "stats": {
     "total": 187,
-    "avg_price": 3250,
+    "avg_price": 3254,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2188,26 +2188,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Aoc 22b1h",
-      "url": "https://tehnoskarb.ua/montor-aoc-22b1h/m5185788",
-      "price_min": 1800,
-      "price_max": 1800,
-      "city": "Запоріжжя",
-      "addresses": [
-        "м. Запоріжжя, вул. Ентузіастів, 3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-09T05:07:31Z",
-      "price_history": [
-        {
-          "price": 1800,
-          "at": "2026-08-09T05:07:31Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Dell p2314hc",
       "url": "https://tehnoskarb.ua/montor-dell-p2314hc/m5188760",
       "price_min": 1850,
@@ -2360,6 +2340,26 @@
         {
           "price": 2300,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell se2416h",
+      "url": "https://tehnoskarb.ua/montor-dell-se2416h/m5050200",
+      "price_min": 2380,
+      "price_max": 2380,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Кам`янецька, 11"
+      ],
+      "offers": 14,
+      "first_seen": "2026-08-25T17:56:42Z",
+      "price_history": [
+        {
+          "price": 2380,
+          "at": "2026-08-25T17:56:42Z"
         }
       ],
       "category": "Монітори",
@@ -4069,26 +4069,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Acer v223hq",
-      "url": "https://tehnoskarb.ua/montor-acer-v223hq/m5158994",
-      "price_old": 810,
-      "price_new": 730,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Lg flatron l1910s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1910s/m5156650",
-      "price_old": 250,
-      "price_new": 225,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung professional s24c430",
@@ -5928,6 +5908,24 @@
       "city": "Бровари",
       "category": "Монітори",
       "at": "2026-08-25T17:05:51Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc 22b1h",
+      "url": "https://tehnoskarb.ua/montor-aoc-22b1h/m5185788",
+      "price": 1800,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-08-25T17:56:42Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell se2416h",
+      "url": "https://tehnoskarb.ua/montor-dell-se2416h/m5050200",
+      "price": 2380,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-08-25T17:56:42Z"
     }
   ],
   "config": {
