@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-26T05:36:28Z",
+  "updated_at": "2026-08-26T06:53:39Z",
   "stats": {
-    "total": 199,
+    "total": 198,
     "avg_price": 3606,
     "min_price": 90,
     "max_price": 31900,
@@ -3144,30 +3144,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Gigabyte g27q",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591",
-      "price_min": 3600,
-      "price_max": 3600,
-      "city": "Кривий Ріг",
-      "addresses": [
-        "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-12T19:39:06Z",
-      "price_history": [
-        {
-          "price": 7520,
-          "at": "2026-08-12T19:39:06Z"
-        },
-        {
-          "price": 3600,
-          "at": "2026-08-25T17:05:51Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Benq gw2790",
       "url": "https://tehnoskarb.ua/montor-benq-gw2790/m5187586",
       "price_min": 3630,
@@ -4304,16 +4280,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Lg w1943ss",
-      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
-      "price_old": 450,
-      "price_new": 405,
-      "city": "Золочів",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Lg e2040st",
@@ -6149,6 +6115,15 @@
       "city": "Запоріжжя",
       "category": "Монітори",
       "at": "2026-08-26T04:41:53Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Gigabyte g27q",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591",
+      "price": 3600,
+      "city": "Кривий Ріг",
+      "category": "Монітори",
+      "at": "2026-08-26T06:53:15Z"
     }
   ],
   "config": {
