@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-26T13:58:43Z",
+  "updated_at": "2026-08-26T14:52:25Z",
   "stats": {
-    "total": 195,
+    "total": 196,
     "avg_price": 3570,
     "min_price": 90,
     "max_price": 31900,
@@ -3091,6 +3091,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Gigabyte g27q",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591",
+      "price_min": 3600,
+      "price_max": 3600,
+      "city": "Кривий Ріг",
+      "addresses": [
+        "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-26T14:52:15Z",
+      "price_history": [
+        {
+          "price": 3600,
+          "at": "2026-08-26T14:52:15Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Benq gw2790",
       "url": "https://tehnoskarb.ua/montor-benq-gw2790/m5187586",
       "price_min": 3630,
@@ -4211,16 +4231,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Samsung b1930n",
-      "url": "https://tehnoskarb.ua/montor-samsung-b1930n/m5069561",
-      "price_old": 290,
-      "price_new": 260,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung 730bf",
@@ -6050,6 +6060,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-26T11:31:57Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Gigabyte g27q",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591",
+      "price": 3600,
+      "city": "Кривий Ріг",
+      "category": "Монітори",
+      "at": "2026-08-26T14:52:15Z"
     }
   ],
   "config": {
