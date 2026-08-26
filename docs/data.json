@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-26T10:37:12Z",
+  "updated_at": "2026-08-26T11:32:04Z",
   "stats": {
-    "total": 196,
-    "avg_price": 3554,
+    "total": 195,
+    "avg_price": 3570,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -1030,28 +1030,6 @@
         {
           "price": 550,
           "at": "2026-08-21T20:28:05Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg w2043s",
-      "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
-      "price_min": 560,
-      "price_max": 560,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 620,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 560,
-          "at": "2026-08-17T09:44:00Z"
         }
       ],
       "category": "Монітори",
@@ -2729,13 +2707,13 @@
       "name": "Монітор Msi mag 244c",
       "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
       "price_min": 2990,
-      "price_max": 3300,
+      "price_max": 2990,
       "city": "Харків",
       "addresses": [
         "м. Харків, Салтівське шосе 155/93",
         "м. Івано-Франківськ, вул. Василя Стуса, 17А"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -4233,16 +4211,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Lg e1942c",
-      "url": "https://tehnoskarb.ua/montor-lg-e1942c/m5076612",
-      "price_old": 690,
-      "price_new": 620,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung b1930n",
@@ -6073,6 +6041,15 @@
       "city": "Івано-Франківськ",
       "category": "Монітори",
       "at": "2026-08-26T10:37:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg w2043s",
+      "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
+      "price": 560,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-26T11:31:57Z"
     }
   ],
   "config": {
