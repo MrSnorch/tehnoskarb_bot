@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-26T18:15:17Z",
+  "updated_at": "2026-08-26T20:39:12Z",
   "stats": {
-    "total": 201,
-    "avg_price": 3491,
+    "total": 203,
+    "avg_price": 3466,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -42,6 +42,7 @@
       "Самбір",
       "Суми",
       "Тернопіль",
+      "Трускавець",
       "Ужгород",
       "Харків",
       "Херсон",
@@ -898,6 +899,26 @@
         {
           "price": 470,
           "at": "2026-08-17T09:44:00Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg m208",
+      "url": "https://tehnoskarb.ua/montor-lg-m208/m5175706",
+      "price_min": 490,
+      "price_max": 490,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, вул. Дудинської, 1-А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-26T20:37:35Z",
+      "price_history": [
+        {
+          "price": 490,
+          "at": "2026-08-26T20:37:35Z"
         }
       ],
       "category": "Монітори",
@@ -2119,6 +2140,26 @@
         {
           "price": 1450,
           "at": "2026-08-20T16:37:28Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Aoc e2460",
+      "url": "https://tehnoskarb.ua/montor-aoc-e2460/m5190058",
+      "price_min": 1460,
+      "price_max": 1460,
+      "city": "Трускавець",
+      "addresses": [
+        "м. Трускавець, вул. Стебницька, 62"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-26T20:37:35Z",
+      "price_history": [
+        {
+          "price": 1460,
+          "at": "2026-08-26T20:37:35Z"
         }
       ],
       "category": "Монітори",
@@ -4332,26 +4373,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Samsung e2220n",
-      "url": "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230",
-      "price_old": 600,
-      "price_new": 540,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Asus vh228",
-      "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
-      "price_old": 610,
-      "price_new": 550,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Lg w2043s",
       "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
       "price_old": 620,
@@ -6163,6 +6184,24 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-08-26T18:14:54Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc e2460",
+      "url": "https://tehnoskarb.ua/montor-aoc-e2460/m5190058",
+      "price": 1460,
+      "city": "Трускавець",
+      "category": "Монітори",
+      "at": "2026-08-26T20:37:35Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg m208",
+      "url": "https://tehnoskarb.ua/montor-lg-m208/m5175706",
+      "price": 490,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-08-26T20:37:35Z"
     }
   ],
   "config": {
