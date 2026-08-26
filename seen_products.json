@@ -1668,13 +1668,13 @@
   },
   "https://tehnoskarb.ua/montor-philips-226v4l/m5137525": {
     "name": "Монітор Philips 226v4l",
-    "price_min": 1400,
+    "price_min": 1000,
     "price_max": 1400,
     "city": "Запоріжжя",
     "addresses": [
       "м. Запоріжжя, вул. Ентузіастів, 3"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -1682,6 +1682,10 @@
       {
         "price": 1400,
         "at": "2026-08-07T19:29:58Z"
+      },
+      {
+        "price": 1000,
+        "at": "2026-08-26T04:41:53Z"
       }
     ],
     "details_failures": 0,
@@ -3635,8 +3639,8 @@
   },
   "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279": {
     "name": "Монітор Msi optix mag241c",
-    "price_min": 2400,
-    "price_max": 2400,
+    "price_min": 1500,
+    "price_max": 1500,
     "city": "Київ",
     "addresses": [
       "м. Київ, б-р Чоколовський, 21"
@@ -3649,6 +3653,10 @@
       {
         "price": 2400,
         "at": "2026-08-20T07:42:38Z"
+      },
+      {
+        "price": 1500,
+        "at": "2026-08-26T04:41:53Z"
       }
     ],
     "details_failures": 0,
@@ -4310,5 +4318,166 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-25T19:33:32Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-proart-pa27jcv/m5188307": {
+    "name": "Монітор Asus proart pa27jcv",
+    "price_min": 25250,
+    "price_max": 25250,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-26T04:41:53Z",
+    "price_history": [
+      {
+        "price": 25250,
+        "at": "2026-08-26T04:41:53Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-08-26T04:41:53Z",
+    "details_retry_at": "2026-08-26T05:11:53Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vt229h/m5187011": {
+    "name": "Монітор Asus vt229h",
+    "price_min": 10970,
+    "price_max": 10970,
+    "city": "",
+    "addresses": [],
+    "offers_count": 3,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-26T04:41:53Z",
+    "price_history": [
+      {
+        "price": 10970,
+        "at": "2026-08-26T04:41:53Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-08-26T04:41:53Z",
+    "details_retry_at": "2026-08-26T05:11:53Z"
+  },
+  "https://tehnoskarb.ua/montor-iiyama-t2752msc-b1/m5187007": {
+    "name": "Монітор Iiyama t2752msc-b1",
+    "price_min": 15120,
+    "price_max": 15120,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-26T04:41:53Z",
+    "price_history": [
+      {
+        "price": 15120,
+        "at": "2026-08-26T04:41:53Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-08-26T04:41:53Z",
+    "details_retry_at": "2026-08-26T05:11:53Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vy229hf/m5183709": {
+    "name": "Монітор Asus vy229hf",
+    "price_min": 3500,
+    "price_max": 3500,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-26T04:41:53Z",
+    "price_history": [
+      {
+        "price": 3500,
+        "at": "2026-08-26T04:41:53Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-08-26T04:41:53Z",
+    "details_retry_at": "2026-08-26T05:11:53Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-proart-pa27ucge/m5183347": {
+    "name": "Монітор Asus proart pa27ucge",
+    "price_min": 24000,
+    "price_max": 30000,
+    "city": "",
+    "addresses": [],
+    "offers_count": 3,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-26T04:41:53Z",
+    "price_history": [
+      {
+        "price": 24000,
+        "at": "2026-08-26T04:41:53Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-08-26T04:41:53Z",
+    "details_retry_at": "2026-08-26T05:11:53Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql5a/m5183356": {
+    "name": "Монітор Asus tuf gaming vg27aql5a",
+    "price_min": 8000,
+    "price_max": 8000,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-26T04:41:53Z",
+    "price_history": [
+      {
+        "price": 8000,
+        "at": "2026-08-26T04:41:53Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-08-26T04:41:53Z",
+    "details_retry_at": "2026-08-26T05:11:53Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vz27ehf-w/m5183362": {
+    "name": "Монітор Asus vz27ehf-w",
+    "price_min": 4000,
+    "price_max": 4000,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-26T04:41:53Z",
+    "price_history": [
+      {
+        "price": 4000,
+        "at": "2026-08-26T04:41:53Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-08-26T04:41:53Z",
+    "details_retry_at": "2026-08-26T05:11:53Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-s24f320gai/m5144447": {
+    "name": "Монітор Samsung s24f320gai",
+    "price_min": 2500,
+    "price_max": 2500,
+    "city": "Новояворівськ",
+    "addresses": [
+      "м. Новояворівськ, вул. Степана Бандери, 10"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-08-26T04:41:53Z",
+    "price_history": [
+      {
+        "price": 2500,
+        "at": "2026-08-26T04:41:53Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-08-26T04:41:53Z"
   }
 }
