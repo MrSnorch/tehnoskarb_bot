@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-26T16:19:35Z",
+  "updated_at": "2026-08-26T18:15:17Z",
   "stats": {
-    "total": 197,
-    "avg_price": 3555,
+    "total": 201,
+    "avg_price": 3491,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -16,6 +16,7 @@
       "Буча",
       "Вишневе",
       "Володимир",
+      "Вінниця",
       "Дрогобич",
       "Запоріжжя",
       "Звягель (Новоград-Волинський)",
@@ -110,6 +111,46 @@
         {
           "price": 180,
           "at": "2026-08-24T16:39:38Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips i90s",
+      "url": "https://tehnoskarb.ua/nastlnijj-montor-philips-i90s/m5182311",
+      "price_min": 200,
+      "price_max": 200,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-26T18:14:54Z",
+      "price_history": [
+        {
+          "price": 200,
+          "at": "2026-08-26T18:14:54Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg l1753s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1753s/m5045737",
+      "price_min": 200,
+      "price_max": 200,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-26T18:14:54Z",
+      "price_history": [
+        {
+          "price": 200,
+          "at": "2026-08-26T18:14:54Z"
         }
       ],
       "category": "Монітори",
@@ -609,6 +650,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Acer al 1916",
+      "url": "https://tehnoskarb.ua/montor-acer-al-1916/m5139854",
+      "price_min": 400,
+      "price_max": 400,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-26T18:14:54Z",
+      "price_history": [
+        {
+          "price": 400,
+          "at": "2026-08-26T18:14:54Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg w1943ss",
       "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
       "price_min": 405,
@@ -1048,6 +1109,26 @@
         {
           "price": 560,
           "at": "2026-08-26T16:19:24Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg flatron e2240s",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2240s/m5152011",
+      "price_min": 560,
+      "price_max": 560,
+      "city": "Вінниця",
+      "addresses": [
+        "м. Вінниця, вул. Героїв Нацгвардії, 44"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-26T18:14:54Z",
+      "price_history": [
+        {
+          "price": 560,
+          "at": "2026-08-26T18:14:54Z"
         }
       ],
       "category": "Монітори",
@@ -4251,46 +4332,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Msi pro mp273",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp273/m5065045",
-      "price_old": 4790,
-      "price_new": 4310,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Samsung ex1920",
-      "url": "https://tehnoskarb.ua/montor-samsung-ex1920/m5063504",
-      "price_old": 950,
-      "price_new": 855,
-      "city": "Золочів",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Asus tuf gaming vg279qm1a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279qm1a/m5062453",
-      "price_old": 7000,
-      "price_new": 6360,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Philips 223v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
-      "price_old": 660,
-      "price_new": 590,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Samsung e2220n",
       "url": "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230",
       "price_old": 600,
@@ -6086,6 +6127,42 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-08-26T16:19:24Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips i90s",
+      "url": "https://tehnoskarb.ua/nastlnijj-montor-philips-i90s/m5182311",
+      "price": 200,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-08-26T18:14:54Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg flatron e2240s",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2240s/m5152011",
+      "price": 560,
+      "city": "Вінниця",
+      "category": "Монітори",
+      "at": "2026-08-26T18:14:54Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer al 1916",
+      "url": "https://tehnoskarb.ua/montor-acer-al-1916/m5139854",
+      "price": 400,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-08-26T18:14:54Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg l1753s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1753s/m5045737",
+      "price": 200,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-08-26T18:14:54Z"
     }
   ],
   "config": {
