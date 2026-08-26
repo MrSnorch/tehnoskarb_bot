@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-26T09:44:39Z",
+  "updated_at": "2026-08-26T10:37:12Z",
   "stats": {
-    "total": 197,
-    "avg_price": 3539,
+    "total": 196,
+    "avg_price": 3554,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -837,26 +837,6 @@
         {
           "price": 470,
           "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung sm t190 ls19twh",
-      "url": "https://tehnoskarb.ua/montor-samsung-sm-t190-ls19twh/m5141108",
-      "price_min": 470,
-      "price_max": 470,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, вул. Василя Стуса, 17А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-19T11:27:13Z",
-      "price_history": [
-        {
-          "price": 470,
-          "at": "2026-08-19T11:27:13Z"
         }
       ],
       "category": "Монітори",
@@ -4255,16 +4235,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Acer v226hql",
-      "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
-      "price_old": 950,
-      "price_new": 855,
-      "city": "Самбір",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Lg e1942c",
       "url": "https://tehnoskarb.ua/montor-lg-e1942c/m5076612",
       "price_old": 690,
@@ -6094,6 +6064,15 @@
       "city": "Харків",
       "category": "Монітори",
       "at": "2026-08-26T09:44:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung sm t190 ls19twh",
+      "url": "https://tehnoskarb.ua/montor-samsung-sm-t190-ls19twh/m5141108",
+      "price": 470,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-08-26T10:37:05Z"
     }
   ],
   "config": {
