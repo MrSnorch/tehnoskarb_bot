@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-26T08:47:17Z",
+  "updated_at": "2026-08-26T09:44:39Z",
   "stats": {
-    "total": 196,
-    "avg_price": 3550,
+    "total": 197,
+    "avg_price": 3539,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2236,6 +2236,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Aoc 22b1h",
+      "url": "https://tehnoskarb.ua/montor-aoc-22b1h/m5185788",
+      "price_min": 1800,
+      "price_max": 1800,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-26T09:44:08Z",
+      "price_history": [
+        {
+          "price": 1800,
+          "at": "2026-08-26T09:44:08Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell p2314hc",
       "url": "https://tehnoskarb.ua/montor-dell-p2314hc/m5188760",
       "price_min": 1850,
@@ -3420,6 +3440,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lenovo thinkvision t27i-30",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091",
+      "price_min": 4750,
+      "price_max": 4750,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, вул. Дудинської, 1-А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-22T04:34:44Z",
+      "price_history": [
+        {
+          "price": 5250,
+          "at": "2026-08-22T04:34:44Z"
+        },
+        {
+          "price": 4750,
+          "at": "2026-08-26T09:44:08Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell p2422hewo",
       "url": "https://tehnoskarb.ua/montor-dell-p2422hewo/m5187602",
       "price_min": 4780,
@@ -3474,26 +3518,6 @@
         {
           "price": 5240,
           "at": "2026-07-24T18:58:31Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo thinkvision t27i-30",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091",
-      "price_min": 5250,
-      "price_max": 5250,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, вул. Дудинської, 1-А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-22T04:34:44Z",
-      "price_history": [
-        {
-          "price": 5250,
-          "at": "2026-08-22T04:34:44Z"
         }
       ],
       "category": "Монітори",
@@ -4229,26 +4253,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Samsung s19a100n",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19a100n/m5098815",
-      "price_old": 280,
-      "price_new": 250,
-      "city": "Херсон",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Philips 196v3l",
-      "url": "https://tehnoskarb.ua/montor-philips-196v3l/m5081628",
-      "price_old": 590,
-      "price_new": 530,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Acer v226hql",
@@ -6071,6 +6075,25 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-26T08:47:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc 22b1h",
+      "url": "https://tehnoskarb.ua/montor-aoc-22b1h/m5185788",
+      "price": 1800,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-08-26T09:44:08Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Lenovo thinkvision t27i-30",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091",
+      "price_old": 5250,
+      "price_new": 4750,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-08-26T09:44:08Z"
     }
   ],
   "config": {
