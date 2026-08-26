@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-26T14:52:25Z",
+  "updated_at": "2026-08-26T16:19:35Z",
   "stats": {
-    "total": 196,
-    "avg_price": 3570,
+    "total": 197,
+    "avg_price": 3555,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -1030,6 +1030,24 @@
         {
           "price": 550,
           "at": "2026-08-21T20:28:05Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg w2043s",
+      "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
+      "price_min": 560,
+      "price_max": 560,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-08-26T16:19:24Z",
+      "price_history": [
+        {
+          "price": 560,
+          "at": "2026-08-26T16:19:24Z"
         }
       ],
       "category": "Монітори",
@@ -4233,16 +4251,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Samsung 730bf",
-      "url": "https://tehnoskarb.ua/montor-samsung-730bf/m5068988",
-      "price_old": 200,
-      "price_new": 180,
-      "city": "Берегове",
-      "category": "Монітори",
-      "at": "2026-08-17T09:44:00Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Msi pro mp273",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp273/m5065045",
       "price_old": 4790,
@@ -6069,6 +6077,15 @@
       "city": "Кривий Ріг",
       "category": "Монітори",
       "at": "2026-08-26T14:52:15Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg w2043s",
+      "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
+      "price": 560,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-08-26T16:19:24Z"
     }
   ],
   "config": {
