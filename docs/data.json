@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-29T14:14:14Z",
+  "updated_at": "2026-08-29T17:49:25Z",
   "stats": {
     "total": 201,
-    "avg_price": 3333,
+    "avg_price": 3325,
     "min_price": 90,
     "max_price": 27900,
     "cities": [
@@ -20,7 +20,6 @@
       "Володимир",
       "Дрогобич",
       "Запоріжжя",
-      "Звягель (Новоград-Волинський)",
       "Золочів",
       "Кам`янське",
       "Киев",
@@ -824,7 +823,7 @@
       "name": "Монітор Acer v193hq",
       "url": "https://tehnoskarb.ua/montor-acer-v193hq/m5019742",
       "price_min": 440,
-      "price_max": 600,
+      "price_max": 770,
       "city": "Вишневе",
       "addresses": [
         "м. Вишневе, вул. Святошинська, 27",
@@ -832,7 +831,7 @@
         "м. Київ, б-р Кольцова, 13",
         "м. Львів, вул. Широка, 70-В"
       ],
-      "offers": 5,
+      "offers": 6,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -1683,6 +1682,26 @@
         {
           "price": 930,
           "at": "2026-08-27T10:59:42Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Acer g227hgl",
+      "url": "https://tehnoskarb.ua/montor-acer-g227hgl/m5147853",
+      "price_min": 945,
+      "price_max": 945,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Вишгородська, 56/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-29T17:48:05Z",
+      "price_history": [
+        {
+          "price": 945,
+          "at": "2026-08-29T17:48:05Z"
         }
       ],
       "category": "Монітори",
@@ -2739,26 +2758,6 @@
         {
           "price": 2600,
           "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo thinkvision s24i-30",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-s24i-30/m5188563",
-      "price_min": 2650,
-      "price_max": 2650,
-      "city": "Звягель (Новоград-Волинський)",
-      "addresses": [
-        "м. Звягель (Новоград-Волинський), вул. Тараса Шевченка, 10"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-16T18:32:19Z",
-      "price_history": [
-        {
-          "price": 2650,
-          "at": "2026-08-16T18:32:19Z"
         }
       ],
       "category": "Монітори",
@@ -4316,24 +4315,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Hp u32 4k hdr",
-      "url": "https://tehnoskarb.ua/montor-hp-u32-4k-hdr/m5188826",
-      "price": 9800,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-08-18T19:29:13Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Msi optix mag241c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
-      "price": 2400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-19T04:38:42Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Msi g244f-e2",
@@ -6135,6 +6116,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-29T14:13:59Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo thinkvision s24i-30",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-s24i-30/m5188563",
+      "price": 2650,
+      "city": "Звягель (Новоград-Волинський)",
+      "category": "Монітори",
+      "at": "2026-08-29T17:48:05Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer g227hgl",
+      "url": "https://tehnoskarb.ua/montor-acer-g227hgl/m5147853",
+      "price": 945,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-29T17:48:05Z"
     }
   ],
   "config": {
