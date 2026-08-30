@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-30T01:31:38Z",
+  "updated_at": "2026-08-30T08:03:10Z",
   "stats": {
-    "total": 201,
-    "avg_price": 3325,
+    "total": 200,
+    "avg_price": 3326,
     "min_price": 90,
     "max_price": 27900,
     "cities": [
@@ -2941,26 +2941,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s24dg300ei",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24dg300ei/m5141030",
-      "price_min": 3120,
-      "price_max": 3120,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-25T04:40:57Z",
-      "price_history": [
-        {
-          "price": 3120,
-          "at": "2026-08-25T04:40:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор 2E 2e-h2420b",
       "url": "https://tehnoskarb.ua/montor-2e-2e-h2420b/m5176124",
       "price_min": 3150,
@@ -4315,15 +4295,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Msi g244f-e2",
-      "url": "https://tehnoskarb.ua/montor-msi-g244f-e2/m5143000",
-      "price": 3700,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-08-19T04:38:42Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg 32mn500m",
@@ -6134,6 +6105,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-29T17:48:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s24dg300ei",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24dg300ei/m5141030",
+      "price": 3120,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-08-30T08:01:57Z"
     }
   ],
   "config": {
