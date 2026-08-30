@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-30T13:55:14Z",
+  "updated_at": "2026-08-30T17:59:49Z",
   "stats": {
-    "total": 198,
-    "avg_price": 3284,
+    "total": 196,
+    "avg_price": 3283,
     "min_price": 90,
     "max_price": 27900,
     "cities": [
@@ -22,7 +22,6 @@
       "Запоріжжя",
       "Золочів",
       "Кам`янське",
-      "Киев",
       "Київ",
       "Ковель",
       "Конотоп",
@@ -553,30 +552,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp nk570a",
-      "url": "https://tehnoskarb.ua/montor-hp-nk570a/m5151542",
-      "price_min": 400,
-      "price_max": 400,
-      "city": "Киев",
-      "addresses": [
-        "г. Киев, ул. Малышко, 2Д (м. Дарница)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 410,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 400,
-          "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung 920nw",
       "url": "https://tehnoskarb.ua/montor-samsung-920nw/m5105634",
       "price_min": 400,
@@ -757,12 +732,12 @@
       "name": "Монітор Asus vw193d",
       "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
       "price_min": 420,
-      "price_max": 420,
+      "price_max": 510,
       "city": "Київ",
       "addresses": [
         "м. Київ,  вул. Бучми, 2"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-08-28T17:38:31Z",
       "price_history": [
         {
@@ -1755,14 +1730,14 @@
       "name": "Монітор Samsung syncmaster t220hd",
       "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-t220hd/m5178542",
       "price_min": 1010,
-      "price_max": 1500,
+      "price_max": 1140,
       "city": "Київ",
       "addresses": [
         "м. Київ, вул. Шептицького, 24",
         "м. Дрогобич, вул. Пилипа Орлика, 14",
         "м. Харків, Салтівське шосе 155/93"
       ],
-      "offers": 4,
+      "offers": 3,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -2050,7 +2025,7 @@
       "addresses": [
         "м. Одеса, вул. Академіка Філатова, 86"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -3654,31 +3629,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus tuf gaming vg279qm1a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279qm1a/m5062453",
-      "price_min": 6360,
-      "price_max": 6360,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Мукачівська, 2",
-        "м. Київ, вул. Олени Теліги , 17"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 7000,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 6360,
-          "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 43sm5b",
       "url": "https://tehnoskarb.ua/montor-lg-43sm5b/m5182129",
       "price_min": 6480,
@@ -4255,24 +4205,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор портативний Zsus pm14tt-2k",
-      "url": "https://tehnoskarb.ua/montor-portativnijj-zsus-pm14tt-2k/m5176376",
-      "price": 2790,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-19T05:32:28Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор  19\"  TFT-LCD Asus vh192d",
-      "url": "https://tehnoskarb.ua/montor-19-tft-lcd-asus-vh192d/m5182559",
-      "price": 350,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-08-19T06:48:13Z"
-    },
     {
       "type": "rise",
       "name": "Монітор Philips 24e2n1110/00",
@@ -6074,6 +6006,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-30T13:54:59Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp nk570a",
+      "url": "https://tehnoskarb.ua/montor-hp-nk570a/m5151542",
+      "price": 400,
+      "city": "Киев",
+      "category": "Монітори",
+      "at": "2026-08-30T17:58:33Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus tuf gaming vg279qm1a",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279qm1a/m5062453",
+      "price": 6360,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-08-30T17:58:33Z"
     }
   ],
   "config": {
