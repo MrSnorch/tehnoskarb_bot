@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T16:19:39Z",
+  "updated_at": "2026-08-31T21:33:28Z",
   "stats": {
     "total": 196,
     "avg_price": 3283,
@@ -523,6 +523,34 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung syncmaster 931bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
+      "price_min": 350,
+      "price_max": 495,
+      "city": "Бровари",
+      "addresses": [
+        "м. Бровари, б-р Незалежності, 11"
+      ],
+      "offers": 3,
+      "first_seen": "2026-08-07T19:29:58Z",
+      "price_history": [
+        {
+          "price": 520,
+          "at": "2026-08-07T19:29:58Z"
+        },
+        {
+          "price": 470,
+          "at": "2026-08-17T09:44:00Z"
+        },
+        {
+          "price": 350,
+          "at": "2026-08-31T21:33:21Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung syncmaster 913n",
       "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
       "price_min": 380,
@@ -988,30 +1016,6 @@
         {
           "price": 460,
           "at": "2026-08-31T08:18:54Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung syncmaster 931bf",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
-      "price_min": 470,
-      "price_max": 495,
-      "city": "Бровари",
-      "addresses": [
-        "м. Бровари, б-р Незалежності, 11"
-      ],
-      "offers": 2,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 520,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 470,
-          "at": "2026-08-17T09:44:00Z"
         }
       ],
       "category": "Монітори",
@@ -4207,15 +4211,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Samsung s24f350fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24f350fhi/m5102117",
-      "price": 1700,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-19T11:27:13Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Philips i90s",
       "url": "https://tehnoskarb.ua/nastlnijj-montor-philips-i90s/m5182311",
       "price": 400,
@@ -6024,6 +6019,16 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-08-31T16:18:13Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung syncmaster 931bf",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
+      "price_old": 470,
+      "price_new": 350,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-08-31T21:33:21Z"
     }
   ],
   "config": {
