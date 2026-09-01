@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-01T16:50:21Z",
+  "updated_at": "2026-09-01T19:47:34Z",
   "stats": {
-    "total": 192,
-    "avg_price": 3243,
+    "total": 193,
+    "avg_price": 3241,
     "min_price": 90,
     "max_price": 27900,
     "cities": [
@@ -372,30 +372,6 @@
         {
           "price": 280,
           "at": "2026-07-28T21:39:15Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung t220",
-      "url": "https://tehnoskarb.ua/montor-samsung-t220/m4997755",
-      "price_min": 280,
-      "price_max": 280,
-      "city": "Вишневе",
-      "addresses": [
-        "м. Вишневе, вул. Святошинська, 27"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 310,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 280,
-          "at": "2026-08-17T09:44:00Z"
         }
       ],
       "category": "Монітори",
@@ -1203,6 +1179,26 @@
         {
           "price": 530,
           "at": "2026-08-22T04:34:44Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Benq g2225hd",
+      "url": "https://tehnoskarb.ua/tft-lcd-montor-benq-g2225hd/m5190948",
+      "price_min": 530,
+      "price_max": 530,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Кам`янецька, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-01T19:46:12Z",
+      "price_history": [
+        {
+          "price": 530,
+          "at": "2026-09-01T19:46:12Z"
         }
       ],
       "category": "Монітори",
@@ -2674,6 +2670,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 27ms550-b",
+      "url": "https://tehnoskarb.ua/montor-lg-27ms550-b/m5190985",
+      "price_min": 2630,
+      "price_max": 2630,
+      "city": "Берегове",
+      "addresses": [
+        "м. Берегове, площа Кошута, 2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-01T19:46:12Z",
+      "price_history": [
+        {
+          "price": 2630,
+          "at": "2026-09-01T19:46:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi pro mp252 e2",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp252-e2/m5110168",
       "price_min": 2700,
@@ -4045,7 +4061,7 @@
       "addresses": [
         "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-08-29T08:45:03Z",
       "price_history": [
         {
@@ -4118,34 +4134,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 227e4lsb",
-      "url": "https://tehnoskarb.ua/montor-philips-227e4lsb/m5182381",
-      "price": 1030,
-      "city": "Вишневе",
-      "category": "Монітори",
-      "at": "2026-08-20T04:39:05Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi mag 242f",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-242f/m5162284",
-      "price": 3650,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-20T04:39:05Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Asus tuf gaming vg27vqm",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
-      "price_old": 6360,
-      "price_new": 5800,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-20T06:50:19Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Lg 27gp850-b",
@@ -5936,6 +5924,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-01T16:50:00Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung t220",
+      "url": "https://tehnoskarb.ua/montor-samsung-t220/m4997755",
+      "price": 280,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-09-01T19:46:12Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 27ms550-b",
+      "url": "https://tehnoskarb.ua/montor-lg-27ms550-b/m5190985",
+      "price": 2630,
+      "city": "Берегове",
+      "category": "Монітори",
+      "at": "2026-09-01T19:46:12Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Benq g2225hd",
+      "url": "https://tehnoskarb.ua/tft-lcd-montor-benq-g2225hd/m5190948",
+      "price": 530,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-09-01T19:46:12Z"
     }
   ],
   "config": {
