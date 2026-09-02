@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-02T09:27:18Z",
+  "updated_at": "2026-09-02T13:49:29Z",
   "stats": {
     "total": 197,
-    "avg_price": 3342,
+    "avg_price": 3331,
     "min_price": 90,
     "max_price": 29340,
     "cities": [
@@ -2100,6 +2100,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Aoc e2460shu",
+      "url": "https://tehnoskarb.ua/montor-aoc-e2460shu/m5190736",
+      "price_min": 1330,
+      "price_max": 1330,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Зодчих, 46"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-02T13:48:12Z",
+      "price_history": [
+        {
+          "price": 1330,
+          "at": "2026-09-02T13:48:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 22mp68vq",
       "url": "https://tehnoskarb.ua/montor-lg-22mp68vq/m5023042",
       "price_min": 1340,
@@ -2865,13 +2885,13 @@
       "name": "Монітор Msi mag 244c",
       "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
       "price_min": 2990,
-      "price_max": 2990,
+      "price_max": 3590,
       "city": "Харків",
       "addresses": [
         "м. Харків, Салтівське шосе 155/93",
         "м. Івано-Франківськ, вул. Василя Стуса, 17А"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -3181,26 +3201,6 @@
         {
           "price": 3590,
           "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Gigabyte g27q",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591",
-      "price_min": 3600,
-      "price_max": 3600,
-      "city": "Кривий Ріг",
-      "addresses": [
-        "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-31T16:18:13Z",
-      "price_history": [
-        {
-          "price": 3600,
-          "at": "2026-08-31T16:18:13Z"
         }
       ],
       "category": "Монітори",
@@ -4218,24 +4218,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg 27mr400-b",
-      "url": "https://tehnoskarb.ua/montor-lg-27mr400-b/m5188846",
-      "price": 3750,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-08-20T17:31:27Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 940n",
-      "url": "https://tehnoskarb.ua/montor-samsung-940n/m4997158",
-      "price": 180,
-      "city": "Первомайськ",
-      "category": "Монітори",
-      "at": "2026-08-20T17:31:27Z"
-    },
     {
       "type": "new",
       "name": "Монітор Aoc q2790pqu",
@@ -6029,6 +6011,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-02T09:26:54Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Gigabyte g27q",
+      "url": "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591",
+      "price": 3600,
+      "city": "Кривий Ріг",
+      "category": "Монітори",
+      "at": "2026-09-02T13:48:12Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc e2460shu",
+      "url": "https://tehnoskarb.ua/montor-aoc-e2460shu/m5190736",
+      "price": 1330,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-02T13:48:12Z"
     }
   ],
   "config": {
