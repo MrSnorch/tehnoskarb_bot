@@ -1558,27 +1558,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-07T19:29:58Z"
   },
-  "https://tehnoskarb.ua/montor-benq-gw2480/m5124510": {
-    "name": "Монітор Benq gw2480",
-    "price_min": 1690,
-    "price_max": 1690,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, просп. Берестейський, 136"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 1690,
-        "at": "2026-08-07T19:29:58Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
   "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297": {
     "name": "Монітор Lg w1943ss",
     "price_min": 405,
@@ -3342,12 +3321,12 @@
   "https://tehnoskarb.ua/montor-lg-e2242/m5144072": {
     "name": "Монітор Lg e2242",
     "price_min": 750,
-    "price_max": 750,
+    "price_max": 800,
     "city": "Кропивницький",
     "addresses": [
       "м. Кропивницький, вул. Соборна, 3"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-24T18:42:57Z",
@@ -3456,7 +3435,7 @@
     "addresses": [
       "м. Київ, вул. Заболотного, 20А"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-26T04:41:53Z",
@@ -4089,9 +4068,9 @@
         "at": "2026-09-01T06:37:38Z"
       }
     ],
-    "details_failures": 6,
-    "details_last_attempt": "2026-09-02T09:26:54Z",
-    "details_retry_at": "2026-09-02T15:26:54Z"
+    "details_failures": 7,
+    "details_last_attempt": "2026-09-02T17:42:39Z",
+    "details_retry_at": "2026-09-02T23:42:39Z"
   },
   "https://tehnoskarb.ua/montor-lg-19m38a/m5165371": {
     "name": "Монітор Lg 19m38a",
@@ -4235,9 +4214,9 @@
         "at": "2026-09-02T04:57:14Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-09-02T13:48:12Z",
-    "details_retry_at": "2026-09-02T15:48:12Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-09-02T17:42:39Z",
+    "details_retry_at": "2026-09-02T21:42:39Z"
   },
   "https://tehnoskarb.ua/montor-acer-ek220q/m5113750": {
     "name": "Монітор Acer ek220q",
@@ -4385,5 +4364,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-09-02T13:48:12Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vs229/m5139525": {
+    "name": "Монітор Asus vs229",
+    "price_min": 850,
+    "price_max": 850,
+    "city": "Конотоп",
+    "addresses": [
+      "м. Конотоп, просп. Миру, 10"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-02T17:42:39Z",
+    "price_history": [
+      {
+        "price": 850,
+        "at": "2026-09-02T17:42:39Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-02T17:42:39Z"
+  },
+  "https://tehnoskarb.ua/montor-dell-p2319h/m5043678": {
+    "name": "Монітор Dell p2319h",
+    "price_min": 2230,
+    "price_max": 2230,
+    "city": "Боярка",
+    "addresses": [
+      "м. Боярка, вул. Ярослава Мудрого, 50/61"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-02T17:42:39Z",
+    "price_history": [
+      {
+        "price": 2230,
+        "at": "2026-09-02T17:42:39Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-02T17:42:39Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-943nw/m4992408": {
+    "name": "Монітор Samsung 943nw",
+    "price_min": 670,
+    "price_max": 670,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. О. Архипенка, 1/12"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-02T17:42:39Z",
+    "price_history": [
+      {
+        "price": 670,
+        "at": "2026-09-02T17:42:39Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-02T17:42:39Z"
   }
 }
