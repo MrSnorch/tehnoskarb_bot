@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-04T13:16:22Z",
+  "updated_at": "2026-09-04T16:58:59Z",
   "stats": {
-    "total": 198,
-    "avg_price": 3070,
+    "total": 200,
+    "avg_price": 3054,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -2161,6 +2161,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 22mp68vq",
+      "url": "https://tehnoskarb.ua/montor-lg-22mp68vq/m5023042",
+      "price_min": 1340,
+      "price_max": 1340,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Олекси Тихого, 40/16"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-04T16:57:41Z",
+      "price_history": [
+        {
+          "price": 1340,
+          "at": "2026-09-04T16:57:41Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell se2218hv",
       "url": "https://tehnoskarb.ua/montor-dell-se2218hv/m5188726",
       "price_min": 1390,
@@ -2355,6 +2375,26 @@
         {
           "price": 1600,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Benq gl2450-t",
+      "url": "https://tehnoskarb.ua/montor-benq-gl2450-t/m5191795",
+      "price_min": 1600,
+      "price_max": 1600,
+      "city": "Бровари",
+      "addresses": [
+        "м. Бровари, вул. Героїв України, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-04T16:57:41Z",
+      "price_history": [
+        {
+          "price": 1600,
+          "at": "2026-09-04T16:57:41Z"
         }
       ],
       "category": "Монітори",
@@ -2637,7 +2677,7 @@
       "addresses": [
         "м. Хмельницький, вул. Кам`янецька, 11"
       ],
-      "offers": 13,
+      "offers": 12,
       "first_seen": "2026-08-25T17:56:42Z",
       "price_history": [
         {
@@ -4227,24 +4267,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lg 23ea53tp",
-      "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
-      "price": 900,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-08-24T04:50:15Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus tuf gaming vg27vqm",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm/m5152186",
-      "price": 5800,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-24T04:50:15Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Lg 27gp850-b",
@@ -6041,6 +6063,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-04T13:15:51Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Benq gl2450-t",
+      "url": "https://tehnoskarb.ua/montor-benq-gl2450-t/m5191795",
+      "price": 1600,
+      "city": "Бровари",
+      "category": "Монітори",
+      "at": "2026-09-04T16:57:41Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 22mp68vq",
+      "url": "https://tehnoskarb.ua/montor-lg-22mp68vq/m5023042",
+      "price": 1340,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-04T16:57:41Z"
     }
   ],
   "config": {
