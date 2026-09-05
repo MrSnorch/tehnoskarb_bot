@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-05T19:18:48Z",
+  "updated_at": "2026-09-05T21:34:27Z",
   "stats": {
-    "total": 206,
-    "avg_price": 3075,
+    "total": 207,
+    "avg_price": 3063,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -1132,6 +1132,26 @@
         {
           "price": 500,
           "at": "2026-09-01T06:37:38Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 220bw",
+      "url": "https://tehnoskarb.ua/montor-philips-220bw/m5192010",
+      "price_min": 500,
+      "price_max": 500,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Чоколовський, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-05T21:33:12Z",
+      "price_history": [
+        {
+          "price": 500,
+          "at": "2026-09-05T21:33:12Z"
         }
       ],
       "category": "Монітори",
@@ -4392,16 +4412,6 @@
   ],
   "events": [
     {
-      "type": "drop",
-      "name": "Монітор Gigabyte g27q",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-g27q/m5180591",
-      "price_old": 7520,
-      "price_new": 3600,
-      "city": "Кривий Ріг",
-      "category": "Монітори",
-      "at": "2026-08-25T17:05:51Z"
-    },
-    {
       "type": "new",
       "name": "Монітор Lg 24gs60f-b",
       "url": "https://tehnoskarb.ua/montor-lg-24gs60f-b/m5147280",
@@ -6204,6 +6214,15 @@
       "city": "Черкаси",
       "category": "Монітори",
       "at": "2026-09-05T19:18:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 220bw",
+      "url": "https://tehnoskarb.ua/montor-philips-220bw/m5192010",
+      "price": 500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-05T21:33:12Z"
     }
   ],
   "config": {
