@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-05T17:15:50Z",
+  "updated_at": "2026-09-05T19:18:48Z",
   "stats": {
-    "total": 207,
-    "avg_price": 3071,
+    "total": 206,
+    "avg_price": 3075,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -45,7 +45,6 @@
       "Харків",
       "Херсон",
       "Хмельницький",
-      "Черкаси",
       "Чернівці",
       "Чернігів",
       "Шостка"
@@ -2728,26 +2727,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 24e1n1100a/00",
-      "url": "https://tehnoskarb.ua/montor-philips-24e1n1100a-00/m5191187",
-      "price_min": 2320,
-      "price_max": 2320,
-      "city": "Черкаси",
-      "addresses": [
-        "м. Черкаси, б-р Шевченко, 396/29"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-02T20:44:04Z",
-      "price_history": [
-        {
-          "price": 2320,
-          "at": "2026-09-02T20:44:04Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vz229",
       "url": "https://tehnoskarb.ua/montor-asus-vz229/m5149410",
       "price_min": 2340,
@@ -4412,16 +4391,6 @@
     }
   ],
   "events": [
-    {
-      "type": "rise",
-      "name": "Монітор Lg e2242",
-      "url": "https://tehnoskarb.ua/montor-lg-e2242/m5144072",
-      "price_old": 630,
-      "price_new": 750,
-      "city": "Кропивницький",
-      "category": "Монітори",
-      "at": "2026-08-25T14:20:24Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Gigabyte g27q",
@@ -6226,6 +6195,15 @@
       "city": "Конотоп",
       "category": "Монітори",
       "at": "2026-09-05T17:15:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 24e1n1100a/00",
+      "url": "https://tehnoskarb.ua/montor-philips-24e1n1100a-00/m5191187",
+      "price": 2320,
+      "city": "Черкаси",
+      "category": "Монітори",
+      "at": "2026-09-05T19:18:34Z"
     }
   ],
   "config": {
