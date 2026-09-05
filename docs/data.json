@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-05T08:11:54Z",
+  "updated_at": "2026-09-05T11:57:00Z",
   "stats": {
-    "total": 209,
-    "avg_price": 3081,
+    "total": 208,
+    "avg_price": 3092,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -35,7 +35,6 @@
       "Миколаїв",
       "Новояворівськ",
       "Одеса",
-      "Павлоград",
       "Первомайськ",
       "Полтава",
       "Рівне",
@@ -1390,26 +1389,6 @@
         {
           "price": 620,
           "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Hp v197",
-      "url": "https://tehnoskarb.ua/montor-hp-v197/m5075431",
-      "price_min": 620,
-      "price_max": 620,
-      "city": "Павлоград",
-      "addresses": [
-        "м. Павлоград, вул. Центральна, 44/50"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-23T18:32:30Z",
-      "price_history": [
-        {
-          "price": 620,
-          "at": "2026-08-23T18:32:30Z"
         }
       ],
       "category": "Монітори",
@@ -4451,15 +4430,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung s24c450",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24c450/m5189787",
-      "price": 1710,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-25T04:40:57Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s24dg300ei",
       "url": "https://tehnoskarb.ua/montor-samsung-s24dg300ei/m5141030",
       "price": 3120,
@@ -6264,6 +6234,15 @@
       "city": "Харків",
       "category": "Монітори",
       "at": "2026-09-05T08:10:26Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp v197",
+      "url": "https://tehnoskarb.ua/montor-hp-v197/m5075431",
+      "price": 620,
+      "city": "Павлоград",
+      "category": "Монітори",
+      "at": "2026-09-05T11:56:45Z"
     }
   ],
   "config": {

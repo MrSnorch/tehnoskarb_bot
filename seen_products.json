@@ -2904,27 +2904,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-23T17:21:50Z"
   },
-  "https://tehnoskarb.ua/montor-hp-v197/m5075431": {
-    "name": "Монітор Hp v197",
-    "price_min": 620,
-    "price_max": 620,
-    "city": "Павлоград",
-    "addresses": [
-      "м. Павлоград, вул. Центральна, 44/50"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-23T18:32:30Z",
-    "price_history": [
-      {
-        "price": 620,
-        "at": "2026-08-23T18:32:30Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-23T18:32:30Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-730bf/m5068988": {
     "name": "Монітор Samsung 730bf",
     "price_min": 180,
@@ -3634,9 +3613,9 @@
         "at": "2026-09-01T06:37:38Z"
       }
     ],
-    "details_failures": 14,
-    "details_last_attempt": "2026-09-05T03:35:33Z",
-    "details_retry_at": "2026-09-05T09:35:33Z"
+    "details_failures": 15,
+    "details_last_attempt": "2026-09-05T11:56:45Z",
+    "details_retry_at": "2026-09-05T17:56:45Z"
   },
   "https://tehnoskarb.ua/montor-lg-19m38a/m5165371": {
     "name": "Монітор Lg 19m38a",
@@ -3989,9 +3968,9 @@
         "at": "2026-09-02T20:44:04Z"
       }
     ],
-    "details_failures": 10,
-    "details_last_attempt": "2026-09-05T03:35:33Z",
-    "details_retry_at": "2026-09-05T09:35:33Z"
+    "details_failures": 11,
+    "details_last_attempt": "2026-09-05T11:56:45Z",
+    "details_retry_at": "2026-09-05T17:56:45Z"
   },
   "https://tehnoskarb.ua/montor-samsung-b2030n/m5016638": {
     "name": "Монітор Samsung b2030n",
@@ -4625,8 +4604,8 @@
         "at": "2026-09-05T08:10:26Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-09-05T08:10:26Z",
-    "details_retry_at": "2026-09-05T08:40:26Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-09-05T11:56:45Z",
+    "details_retry_at": "2026-09-05T12:56:45Z"
   }
 }
