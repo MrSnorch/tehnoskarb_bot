@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-05T11:57:00Z",
+  "updated_at": "2026-09-05T15:00:55Z",
   "stats": {
-    "total": 208,
-    "avg_price": 3092,
+    "total": 207,
+    "avg_price": 3091,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -1517,30 +1517,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg e2242",
-      "url": "https://tehnoskarb.ua/montor-lg-e2242/m5144072",
-      "price_min": 750,
-      "price_max": 800,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Соборна, 3"
-      ],
-      "offers": 2,
-      "first_seen": "2026-08-24T18:42:57Z",
-      "price_history": [
-        {
-          "price": 630,
-          "at": "2026-08-24T18:42:57Z"
-        },
-        {
-          "price": 750,
-          "at": "2026-08-25T14:20:24Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung b2030n",
       "url": "https://tehnoskarb.ua/montor-samsung-b2030n/m5016638",
       "price_min": 750,
@@ -1573,6 +1549,34 @@
         {
           "price": 800,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg e2242",
+      "url": "https://tehnoskarb.ua/montor-lg-e2242/m5144072",
+      "price_min": 800,
+      "price_max": 800,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, вул. Соборна, 3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-08-24T18:42:57Z",
+      "price_history": [
+        {
+          "price": 630,
+          "at": "2026-08-24T18:42:57Z"
+        },
+        {
+          "price": 750,
+          "at": "2026-08-25T14:20:24Z"
+        },
+        {
+          "price": 800,
+          "at": "2026-09-05T14:59:38Z"
         }
       ],
       "category": "Монітори",
@@ -3378,26 +3382,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Aoc q27b3ma",
-      "url": "https://tehnoskarb.ua/montor-aoc-q27b3ma/m5187942",
-      "price_min": 3540,
-      "price_max": 3540,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Заболотного, 20А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-13T18:29:06Z",
-      "price_history": [
-        {
-          "price": 3540,
-          "at": "2026-08-13T18:29:06Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi g2412",
       "url": "https://tehnoskarb.ua/montor-msi-g2412/m5024355",
       "price_min": 3590,
@@ -3580,26 +3564,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Aoc q2790pqu",
-      "url": "https://tehnoskarb.ua/montor-aoc-q2790pqu/m5188901",
-      "price_min": 4200,
-      "price_max": 4200,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, вул. Отакара Яроша, 23"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-21T04:39:59Z",
-      "price_history": [
-        {
-          "price": 4200,
-          "at": "2026-08-21T04:39:59Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi g2422c",
       "url": "https://tehnoskarb.ua/montor-msi-g2422c/m5090907",
       "price_min": 4200,
@@ -3658,6 +3622,26 @@
         {
           "price": 4360,
           "at": "2026-08-17T09:44:00Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 276e8",
+      "url": "https://tehnoskarb.ua/montor-philips-276e8/m5191513",
+      "price_min": 4400,
+      "price_max": 4400,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лятошинського, 18"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-05T14:59:38Z",
+      "price_history": [
+        {
+          "price": 4400,
+          "at": "2026-09-05T14:59:38Z"
         }
       ],
       "category": "Монітори",
@@ -4428,44 +4412,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung s24dg300ei",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24dg300ei/m5141030",
-      "price": 3120,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-25T04:40:57Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Viewsonic va2231wa",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va2231wa/m4997828",
-      "price_old": 720,
-      "price_new": 500,
-      "city": "Херсон",
-      "category": "Монітори",
-      "at": "2026-08-25T04:40:57Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
-      "price_old": 2240,
-      "price_new": 3330,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-25T07:46:10Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung c27r500",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27r500/m5077605",
-      "price": 3000,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-25T13:02:58Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Msi optix g242",
@@ -6243,6 +6189,43 @@
       "city": "Павлоград",
       "category": "Монітори",
       "at": "2026-09-05T11:56:45Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc q27b3ma",
+      "url": "https://tehnoskarb.ua/montor-aoc-q27b3ma/m5187942",
+      "price": 3540,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-05T14:59:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc q2790pqu",
+      "url": "https://tehnoskarb.ua/montor-aoc-q2790pqu/m5188901",
+      "price": 4200,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-09-05T14:59:38Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 276e8",
+      "url": "https://tehnoskarb.ua/montor-philips-276e8/m5191513",
+      "price": 4400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-05T14:59:38Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Lg e2242",
+      "url": "https://tehnoskarb.ua/montor-lg-e2242/m5144072",
+      "price_old": 750,
+      "price_new": 800,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-09-05T14:59:38Z"
     }
   ],
   "config": {
