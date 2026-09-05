@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-05T15:00:55Z",
+  "updated_at": "2026-09-05T17:15:50Z",
   "stats": {
     "total": 207,
-    "avg_price": 3091,
+    "avg_price": 3071,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -330,6 +330,26 @@
         {
           "price": 270,
           "at": "2026-08-17T09:44:00Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips mwe1192t",
+      "url": "https://tehnoskarb.ua/pk-montor-philips-mwe1192t/m5192030",
+      "price_min": 270,
+      "price_max": 270,
+      "city": "Конотоп",
+      "addresses": [
+        "м. Конотоп, просп. Миру, 10"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-05T17:15:38Z",
+      "price_history": [
+        {
+          "price": 270,
+          "at": "2026-09-05T17:15:38Z"
         }
       ],
       "category": "Монітори",
@@ -753,12 +773,12 @@
       "name": "Монітор Asus vw193d",
       "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
       "price_min": 420,
-      "price_max": 510,
+      "price_max": 420,
       "city": "Київ",
       "addresses": [
         "м. Київ,  вул. Бучми, 2"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-08-28T17:38:31Z",
       "price_history": [
         {
@@ -3628,26 +3648,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Philips 276e8",
-      "url": "https://tehnoskarb.ua/montor-philips-276e8/m5191513",
-      "price_min": 4400,
-      "price_max": 4400,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Лятошинського, 18"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-05T14:59:38Z",
-      "price_history": [
-        {
-          "price": 4400,
-          "at": "2026-09-05T14:59:38Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung odyssey g5 c27g55tqb",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c27g55tqb/m5180698",
       "price_min": 4490,
@@ -4412,24 +4412,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Msi optix g242",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g242/m5056620",
-      "price": 2750,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-25T13:02:58Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 943n",
-      "url": "https://tehnoskarb.ua/montor-samsung-943n/m4997404",
-      "price": 240,
-      "city": "Полтава",
-      "category": "Монітори",
-      "at": "2026-08-25T14:20:24Z"
-    },
     {
       "type": "rise",
       "name": "Монітор Lg e2242",
@@ -6226,6 +6208,24 @@
       "city": "Кропивницький",
       "category": "Монітори",
       "at": "2026-09-05T14:59:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 276e8",
+      "url": "https://tehnoskarb.ua/montor-philips-276e8/m5191513",
+      "price": 4400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-05T17:15:38Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips mwe1192t",
+      "url": "https://tehnoskarb.ua/pk-montor-philips-mwe1192t/m5192030",
+      "price": 270,
+      "city": "Конотоп",
+      "category": "Монітори",
+      "at": "2026-09-05T17:15:38Z"
     }
   ],
   "config": {
