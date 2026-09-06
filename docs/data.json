@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-06T12:18:46Z",
+  "updated_at": "2026-09-06T15:39:50Z",
   "stats": {
-    "total": 207,
-    "avg_price": 3021,
+    "total": 206,
+    "avg_price": 3047,
     "min_price": 90,
     "max_price": 31900,
     "cities": [
@@ -426,26 +426,6 @@
         {
           "price": 300,
           "at": "2026-08-09T15:33:54Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung b1930n",
-      "url": "https://tehnoskarb.ua/nastlnijj-montor-samsung-b1930n/m5184201",
-      "price_min": 320,
-      "price_max": 320,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Степана Бандери, 89"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-23T06:31:36Z",
-      "price_history": [
-        {
-          "price": 320,
-          "at": "2026-07-23T06:31:36Z"
         }
       ],
       "category": "Монітори",
@@ -3116,26 +3096,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus vz27ehe",
-      "url": "https://tehnoskarb.ua/montor-asus-vz27ehe/m5182672",
-      "price_min": 3100,
-      "price_max": 3100,
-      "city": "Бориспіль",
-      "addresses": [
-        "м. Бориспіль, вул. Київський шлях, 47"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 3100,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lenovo l24i-4a",
       "url": "https://tehnoskarb.ua/montor-lenovo-l24i-4a/m5118837",
       "price_min": 3100,
@@ -3875,6 +3835,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey g5 c32g55tq",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c32g55tq/m5144554",
+      "price_min": 5700,
+      "price_max": 5700,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Мишуги, 3-в"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-06T15:39:37Z",
+      "price_history": [
+        {
+          "price": 5700,
+          "at": "2026-09-06T15:39:37Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung odyssey g5 ls27cg550",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
       "price_min": 5830,
@@ -4426,34 +4406,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg27aql5a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql5a/m5183356",
-      "price": 8000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-26T04:41:53Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus vz27ehf-w",
-      "url": "https://tehnoskarb.ua/montor-asus-vz27ehf-w/m5183362",
-      "price": 4000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-26T04:41:53Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Msi optix mag241c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
-      "price_old": 2400,
-      "price_new": 1500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-26T04:41:53Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s24f320gai",
@@ -6242,6 +6194,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-06T12:17:13Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung b1930n",
+      "url": "https://tehnoskarb.ua/nastlnijj-montor-samsung-b1930n/m5184201",
+      "price": 320,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-09-06T15:39:37Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vz27ehe",
+      "url": "https://tehnoskarb.ua/montor-asus-vz27ehe/m5182672",
+      "price": 3100,
+      "city": "Бориспіль",
+      "category": "Монітори",
+      "at": "2026-09-06T15:39:37Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey g5 c32g55tq",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c32g55tq/m5144554",
+      "price": 5700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-06T15:39:37Z"
     }
   ],
   "config": {
