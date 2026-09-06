@@ -1137,8 +1137,8 @@
   },
   "https://tehnoskarb.ua/montor-aoc-c27g2ze/m5147959": {
     "name": "Монітор Aoc c27g2ze",
-    "price_min": 7090,
-    "price_max": 7090,
+    "price_min": 6400,
+    "price_max": 6400,
     "city": "Рівне",
     "addresses": [
       "м. Рівне, вул. Соборна, 63"
@@ -1155,6 +1155,10 @@
       {
         "price": 7090,
         "at": "2026-08-17T09:44:00Z"
+      },
+      {
+        "price": 6400,
+        "at": "2026-09-06T08:27:42Z"
       }
     ],
     "details_failures": 0,
@@ -1418,7 +1422,7 @@
       "м. Запоріжжя, вул. Ентузіастів, 3",
       "м. Черкаси, б-р Шевченко, 396/29"
     ],
-    "offers_count": 4,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -2224,27 +2228,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-15T09:28:06Z"
   },
-  "https://tehnoskarb.ua/montor-prologix-pl2425hf/m5187987": {
-    "name": "Монітор Prologix pl2425hf",
-    "price_min": 1950,
-    "price_max": 1950,
-    "city": "Володимир",
-    "addresses": [
-      "м. Володимир, вул. Ковельська, 12"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-15T15:23:01Z",
-    "price_history": [
-      {
-        "price": 1950,
-        "at": "2026-08-15T15:23:01Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-15T15:23:01Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-s27ag300ni/m5074720": {
     "name": "Монітор Samsung s27ag300ni",
     "price_min": 4230,
@@ -2371,8 +2354,8 @@
   },
   "https://tehnoskarb.ua/montor-aoc-c24g2u-bk/m5148499": {
     "name": "Монітор Aoc c24g2u/bk",
-    "price_min": 4500,
-    "price_max": 4500,
+    "price_min": 4100,
+    "price_max": 4100,
     "city": "Луцьк",
     "addresses": [
       "м. Луцьк, просп. Соборності, 38"
@@ -2385,6 +2368,10 @@
       {
         "price": 4500,
         "at": "2026-08-18T04:37:38Z"
+      },
+      {
+        "price": 4100,
+        "at": "2026-09-06T08:27:42Z"
       }
     ],
     "details_failures": 0,
@@ -2920,7 +2907,7 @@
     "addresses": [
       "м. Хмельницький, вул. Кам`янецька, 11"
     ],
-    "offers_count": 12,
+    "offers_count": 13,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-25T17:56:42Z",
@@ -4590,5 +4577,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-09-05T21:33:12Z"
+  },
+  "https://tehnoskarb.ua/montor-acer-x163w/m5191929": {
+    "name": "Монітор Acer x163w",
+    "price_min": 420,
+    "price_max": 420,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Червоної Калини, 26"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-06T08:27:42Z",
+    "price_history": [
+      {
+        "price": 420,
+        "at": "2026-09-06T08:27:42Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-06T08:27:42Z"
+  },
+  "https://tehnoskarb.ua/montor-hp-elitedisplay-e233/m5191922": {
+    "name": "Монітор Hp elitedisplay e233",
+    "price_min": 2250,
+    "price_max": 2250,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Червоної Калини, 26"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-06T08:27:42Z",
+    "price_history": [
+      {
+        "price": 2250,
+        "at": "2026-09-06T08:27:42Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-06T08:27:42Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-e2260s/m5042471": {
+    "name": "Монітор Lg e2260s",
+    "price_min": 800,
+    "price_max": 800,
+    "city": "Хмельницький",
+    "addresses": [
+      "м. Хмельницький, вул. Кам`янецька, 11"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-06T08:27:42Z",
+    "price_history": [
+      {
+        "price": 800,
+        "at": "2026-09-06T08:27:42Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-06T08:27:42Z"
   }
 }
