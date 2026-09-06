@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-06T18:06:55Z",
+  "updated_at": "2026-09-06T20:42:17Z",
   "stats": {
-    "total": 204,
-    "avg_price": 3054,
+    "total": 206,
+    "avg_price": 3062,
     "min_price": 180,
     "max_price": 31900,
     "cities": [
@@ -21,6 +21,7 @@
       "Вінниця",
       "Запоріжжя",
       "Золочів",
+      "Калуш",
       "Кам`янське",
       "Київ",
       "Ковель",
@@ -34,6 +35,7 @@
       "Миколаїв",
       "Новояворівськ",
       "Одеса",
+      "Павлоград",
       "Первомайськ",
       "Полтава",
       "Рівне",
@@ -1477,13 +1479,35 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Hp l2245w",
+      "url": "https://tehnoskarb.ua/montor-hp-l2245w/m5144339",
+      "price_min": 700,
+      "price_max": 700,
+      "city": "Калуш",
+      "addresses": [
+        "м. Калуш, вул. Богдана Хмельницького, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-06T20:40:58Z",
+      "price_history": [
+        {
+          "price": 700,
+          "at": "2026-09-06T20:40:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Acer v223hq",
       "url": "https://tehnoskarb.ua/montor-acer-v223hq/m5158994",
       "price_min": 730,
-      "price_max": 730,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
+      "price_max": 770,
+      "city": "Павлоград",
+      "addresses": [
+        "м. Павлоград, вул. Центральна, 44/50"
+      ],
+      "offers": 2,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -2777,12 +2801,12 @@
       "name": "Монітор Lg ultrawide 25um58",
       "url": "https://tehnoskarb.ua/montor-lg-ultrawide-25um58/m5140685",
       "price_min": 2400,
-      "price_max": 2400,
+      "price_max": 4230,
       "city": "Кривий Ріг",
       "addresses": [
         "м. Кривий Ріг, просп. 200-річчя Кривого Рогу, 12а"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-08-17T04:44:27Z",
       "price_history": [
         {
@@ -3925,6 +3949,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Uperfect для ноутбука з двома дисплеями",
+      "url": "https://tehnoskarb.ua/portativnijj-montor-uperfect-dlja-noutbuka-z-dvoma-displejami/m5192096",
+      "price_min": 7000,
+      "price_max": 7000,
+      "city": "Харків",
+      "addresses": [
+        "м. Харків, вул. Отакара Яроша, 23"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-06T20:40:58Z",
+      "price_history": [
+        {
+          "price": 7000,
+          "at": "2026-09-06T20:40:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung u32j590u",
       "url": "https://tehnoskarb.ua/montor-samsung-u32j590u/m5167067",
       "price_min": 7130,
@@ -4368,24 +4412,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
-      "price": 3330,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-26T08:47:07Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Aoc 22b1h",
-      "url": "https://tehnoskarb.ua/montor-aoc-22b1h/m5185788",
-      "price": 1800,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-08-26T09:44:08Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Lenovo thinkvision t27i-30",
@@ -6182,6 +6208,24 @@
       "city": "Винники",
       "category": "Монітори",
       "at": "2026-09-06T18:06:40Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Uperfect для ноутбука з двома дисплеями",
+      "url": "https://tehnoskarb.ua/portativnijj-montor-uperfect-dlja-noutbuka-z-dvoma-displejami/m5192096",
+      "price": 7000,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-09-06T20:40:58Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp l2245w",
+      "url": "https://tehnoskarb.ua/montor-hp-l2245w/m5144339",
+      "price": 700,
+      "city": "Калуш",
+      "category": "Монітори",
+      "at": "2026-09-06T20:40:58Z"
     }
   ],
   "config": {
