@@ -321,7 +321,7 @@
     "addresses": [
       "м. Одеса, вул. Академіка Філатова, 86"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -1375,27 +1375,6 @@
       {
         "price": 405,
         "at": "2026-08-17T09:44:00Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
-  "https://tehnoskarb.ua/montor-lg-l1740p/m5117554": {
-    "name": "Монітор Lg l1740p",
-    "price_min": 90,
-    "price_max": 90,
-    "city": "Одеса",
-    "addresses": [
-      "м. Одеса, вул. Корольова, 80"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 90,
-        "at": "2026-08-07T19:29:58Z"
       }
     ],
     "details_failures": 0,
@@ -3595,26 +3574,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-09-02T04:57:14Z"
   },
-  "https://tehnoskarb.ua/montor-aoc-25g3zm-bk/m5188738": {
-    "name": "Монітор Aoc 25g3zm/bk",
-    "price_min": 3750,
-    "price_max": 3750,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-02T04:57:14Z",
-    "price_history": [
-      {
-        "price": 3750,
-        "at": "2026-09-02T04:57:14Z"
-      }
-    ],
-    "details_failures": 16,
-    "details_last_attempt": "2026-09-06T12:17:13Z",
-    "details_retry_at": "2026-09-06T18:17:13Z"
-  },
   "https://tehnoskarb.ua/montor-acer-ek220q/m5113750": {
     "name": "Монітор Acer ek220q",
     "price_min": 2420,
@@ -3630,27 +3589,6 @@
     "price_history": [
       {
         "price": 2420,
-        "at": "2026-09-02T04:57:14Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-09-02T04:57:14Z"
-  },
-  "https://tehnoskarb.ua/montor-philips-243v5q/m5110293": {
-    "name": "Монітор Philips 243v5q",
-    "price_min": 1390,
-    "price_max": 1390,
-    "city": "Рівне",
-    "addresses": [
-      "м. Рівне, вул. Чорновола, 12-А"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-02T04:57:14Z",
-    "price_history": [
-      {
-        "price": 1390,
         "at": "2026-09-02T04:57:14Z"
       }
     ],
@@ -4585,5 +4523,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-09-06T15:39:37Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-w2243s/m4992369": {
+    "name": "Монітор Lg w2243s",
+    "price_min": 650,
+    "price_max": 650,
+    "city": "Винники",
+    "addresses": [
+      "м. Винники, вул. Крушельницької, 3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-06T18:06:40Z",
+    "price_history": [
+      {
+        "price": 650,
+        "at": "2026-09-06T18:06:40Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-06T18:06:40Z"
   }
 }
