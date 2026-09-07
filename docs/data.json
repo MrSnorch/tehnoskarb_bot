@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-07T17:37:01Z",
+  "updated_at": "2026-09-07T21:17:53Z",
   "stats": {
-    "total": 209,
-    "avg_price": 3073,
+    "total": 210,
+    "avg_price": 3090,
     "min_price": 180,
     "max_price": 31900,
     "cities": [
@@ -3590,6 +3590,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lenovo legion r24e",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
+      "price_min": 3900,
+      "price_max": 3900,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р М. Міхновського, 25"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-07T21:16:30Z",
+      "price_history": [
+        {
+          "price": 3900,
+          "at": "2026-09-07T21:16:30Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Philips 24m2n3200s",
       "url": "https://tehnoskarb.ua/montor-philips-24m2n3200s/m5187733",
       "price_min": 3970,
@@ -4041,26 +4061,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Uperfect для ноутбука з двома дисплеями",
-      "url": "https://tehnoskarb.ua/portativnijj-montor-uperfect-dlja-noutbuka-z-dvoma-displejami/m5192096",
-      "price_min": 7000,
-      "price_max": 7000,
-      "city": "Харків",
-      "addresses": [
-        "м. Харків, вул. Отакара Яроша, 23"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-06T20:40:58Z",
-      "price_history": [
-        {
-          "price": 7000,
-          "at": "2026-09-06T20:40:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung u32j590u",
       "url": "https://tehnoskarb.ua/montor-samsung-u32j590u/m5167067",
       "price_min": 7130,
@@ -4219,6 +4219,26 @@
         {
           "price": 9000,
           "at": "2026-09-03T19:23:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi mag301cr2",
+      "url": "https://tehnoskarb.ua/montor-msi-mag301cr2/m5178275",
+      "price_min": 9765,
+      "price_max": 9765,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Малишка, 2-Д (м. Дарниця)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-07T21:16:30Z",
+      "price_history": [
+        {
+          "price": 9765,
+          "at": "2026-09-07T21:16:30Z"
         }
       ],
       "category": "Монітори",
@@ -4508,33 +4528,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung s22e200b",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22e200b/m5183701",
-      "price": 1400,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-27T20:58:47Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Gigabyte g25f2",
-      "url": "https://tehnoskarb.ua/montor-gigabyte-g25f2/m5181848",
-      "price": 3900,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-08-27T20:58:47Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Msi optix mag241c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
-      "price": 1500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-27T20:58:47Z"
-    },
     {
       "type": "new",
       "name": "Монітор Viewsonic va1903",
@@ -6329,6 +6322,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-07T17:36:39Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Uperfect для ноутбука з двома дисплеями",
+      "url": "https://tehnoskarb.ua/portativnijj-montor-uperfect-dlja-noutbuka-z-dvoma-displejami/m5192096",
+      "price": 7000,
+      "city": "Харків",
+      "category": "Монітори",
+      "at": "2026-09-07T21:16:30Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi mag301cr2",
+      "url": "https://tehnoskarb.ua/montor-msi-mag301cr2/m5178275",
+      "price": 9765,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-07T21:16:30Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo legion r24e",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
+      "price": 3900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-07T21:16:30Z"
     }
   ],
   "config": {
