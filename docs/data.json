@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-07T00:55:26Z",
+  "updated_at": "2026-09-07T05:50:19Z",
   "stats": {
-    "total": 206,
-    "avg_price": 3062,
+    "total": 207,
+    "avg_price": 3068,
     "min_price": 180,
     "max_price": 31900,
     "cities": [
@@ -2290,26 +2290,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus vc239he",
-      "url": "https://tehnoskarb.ua/montor-asus-vc239he/m5189138",
-      "price_min": 1450,
-      "price_max": 1450,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-20T16:37:28Z",
-      "price_history": [
-        {
-          "price": 1450,
-          "at": "2026-08-20T16:37:28Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Aoc e2460",
       "url": "https://tehnoskarb.ua/montor-aoc-e2460/m5190058",
       "price_min": 1460,
@@ -2748,6 +2728,26 @@
         {
           "price": 2300,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi optix g242",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g242/m5056620",
+      "price_min": 2300,
+      "price_max": 2300,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Кам`янецька, 11"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-07T05:48:58Z",
+      "price_history": [
+        {
+          "price": 2300,
+          "at": "2026-09-07T05:48:58Z"
         }
       ],
       "category": "Монітори",
@@ -3362,6 +3362,26 @@
         {
           "price": 3500,
           "at": "2026-09-03T16:01:47Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lenovo r27s",
+      "url": "https://tehnoskarb.ua/montor-lenovo-r27s/m5192084",
+      "price_min": 3500,
+      "price_max": 3500,
+      "city": "Луцьк",
+      "addresses": [
+        "м. Луцьк, вул. Лесі Українки, 24"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-07T05:48:58Z",
+      "price_history": [
+        {
+          "price": 3500,
+          "at": "2026-09-07T05:48:58Z"
         }
       ],
       "category": "Монітори",
@@ -4412,34 +4432,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Lenovo thinkvision t27i-30",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091",
-      "price_old": 5250,
-      "price_new": 4750,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-08-26T09:44:08Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung sm t190 ls19twh",
-      "url": "https://tehnoskarb.ua/montor-samsung-sm-t190-ls19twh/m5141108",
-      "price": 470,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-08-26T10:37:05Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg w2043s",
-      "url": "https://tehnoskarb.ua/montor-lg-w2043s/m5055096",
-      "price": 560,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-26T11:31:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Gigabyte g27q",
@@ -6226,6 +6218,33 @@
       "city": "Калуш",
       "category": "Монітори",
       "at": "2026-09-06T20:40:58Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vc239he",
+      "url": "https://tehnoskarb.ua/montor-asus-vc239he/m5189138",
+      "price": 1450,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-07T05:48:58Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo r27s",
+      "url": "https://tehnoskarb.ua/montor-lenovo-r27s/m5192084",
+      "price": 3500,
+      "city": "Луцьк",
+      "category": "Монітори",
+      "at": "2026-09-07T05:48:58Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi optix g242",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g242/m5056620",
+      "price": 2300,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-09-07T05:48:58Z"
     }
   ],
   "config": {
