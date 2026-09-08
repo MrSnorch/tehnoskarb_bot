@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-08T20:08:42Z",
+  "updated_at": "2026-09-08T22:54:10Z",
   "stats": {
-    "total": 200,
-    "avg_price": 3279,
+    "total": 198,
+    "avg_price": 3295,
     "min_price": 180,
     "max_price": 31900,
     "cities": [
@@ -2297,24 +2297,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell u2412m",
-      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
-      "price_min": 1690,
-      "price_max": 1690,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-09-03T19:23:50Z",
-      "price_history": [
-        {
-          "price": 1690,
-          "at": "2026-09-03T19:23:50Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s24c450",
       "url": "https://tehnoskarb.ua/montor-samsung-s24c450/m5189787",
       "price_min": 1710,
@@ -2369,26 +2351,6 @@
         {
           "price": 1800,
           "at": "2026-09-05T08:10:26Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Dell p2314hc",
-      "url": "https://tehnoskarb.ua/montor-dell-p2314hc/m5188760",
-      "price_min": 1850,
-      "price_max": 1850,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Заболотного, 20А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-04T19:23:51Z",
-      "price_history": [
-        {
-          "price": 1850,
-          "at": "2026-09-04T19:23:51Z"
         }
       ],
       "category": "Монітори",
@@ -4323,24 +4285,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus proart pa27ucge",
-      "url": "https://tehnoskarb.ua/montor-asus-proart-pa27ucge/m5183347",
-      "price": 24000,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-29T08:45:03Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Viewsonic va703b",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va703b/m5159289",
-      "price": 250,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-29T08:45:03Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg 27gp850-b",
       "url": "https://tehnoskarb.ua/montor-lg-27gp850-b/m5148923",
       "price": 6600,
@@ -6144,6 +6088,24 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-09-08T20:07:31Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell u2412m",
+      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
+      "price": 1690,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-09-08T22:54:01Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell p2314hc",
+      "url": "https://tehnoskarb.ua/montor-dell-p2314hc/m5188760",
+      "price": 1850,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-08T22:54:01Z"
     }
   ],
   "config": {
