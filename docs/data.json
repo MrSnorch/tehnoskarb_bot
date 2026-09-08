@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-08T17:21:23Z",
+  "updated_at": "2026-09-08T20:08:42Z",
   "stats": {
-    "total": 201,
-    "avg_price": 3131,
+    "total": 200,
+    "avg_price": 3279,
     "min_price": 180,
     "max_price": 31900,
     "cities": [
@@ -560,24 +560,6 @@
         {
           "price": 400,
           "at": "2026-08-20T09:36:46Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 204b",
-      "url": "https://tehnoskarb.ua/montor-samsung-204b/m5148830",
-      "price_min": 400,
-      "price_max": 400,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-22T04:34:44Z",
-      "price_history": [
-        {
-          "price": 400,
-          "at": "2026-08-22T04:34:44Z"
         }
       ],
       "category": "Монітори",
@@ -1231,26 +1213,6 @@
         {
           "price": 580,
           "at": "2026-07-20T19:13:22Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Fujitsu l22t-2",
-      "url": "https://tehnoskarb.ua/montor-fujitsu-l22t-2/m5169037",
-      "price_min": 580,
-      "price_max": 580,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 580,
-          "at": "2026-08-07T19:29:58Z"
         }
       ],
       "category": "Монітори",
@@ -4254,6 +4216,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus proart pa27jcv",
+      "url": "https://tehnoskarb.ua/montor-asus-proart-pa27jcv/m5188307",
+      "price_min": 23830,
+      "price_max": 25250,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
+      ],
+      "offers": 2,
+      "first_seen": "2026-08-29T08:45:03Z",
+      "price_history": [
+        {
+          "price": 25250,
+          "at": "2026-08-29T08:45:03Z"
+        },
+        {
+          "price": 23830,
+          "at": "2026-09-08T20:07:31Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus proart pa27ucge",
       "url": "https://tehnoskarb.ua/montor-asus-proart-pa27ucge/m5183347",
       "price_min": 24000,
@@ -4274,20 +4260,20 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus proart pa27jcv",
-      "url": "https://tehnoskarb.ua/montor-asus-proart-pa27jcv/m5188307",
-      "price_min": 25250,
-      "price_max": 25250,
-      "city": "Київ",
+      "name": "Монітор Asus rog strix xg27acdng",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acdng/m5180106",
+      "price_min": 28900,
+      "price_max": 28900,
+      "city": "Ужгород",
       "addresses": [
-        "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
+        "м. Ужгород, вул. Мукачівська, 2"
       ],
       "offers": 1,
-      "first_seen": "2026-08-29T08:45:03Z",
+      "first_seen": "2026-09-08T20:07:31Z",
       "price_history": [
         {
-          "price": 25250,
-          "at": "2026-08-29T08:45:03Z"
+          "price": 28900,
+          "at": "2026-09-08T20:07:31Z"
         }
       ],
       "category": "Монітори",
@@ -4335,42 +4321,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung s22d390qs",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22d390qs/m5190013",
-      "price": 1500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-29T01:32:35Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Hp p34hc g4 curved",
-      "url": "https://tehnoskarb.ua/montor-hp-p34hc-g4-curved/m5184076",
-      "price": 14860,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-08-29T01:32:35Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Dell p2418hz",
-      "url": "https://tehnoskarb.ua/montor-dell-p2418hz/m5186961",
-      "price": 2250,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-29T08:45:03Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus proart pa27jcv",
-      "url": "https://tehnoskarb.ua/montor-asus-proart-pa27jcv/m5188307",
-      "price": 25250,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-08-29T08:45:03Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus proart pa27ucge",
@@ -6157,6 +6107,43 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-08T17:21:12Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Fujitsu l22t-2",
+      "url": "https://tehnoskarb.ua/montor-fujitsu-l22t-2/m5169037",
+      "price": 580,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-08T20:07:31Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 204b",
+      "url": "https://tehnoskarb.ua/montor-samsung-204b/m5148830",
+      "price": 400,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-09-08T20:07:31Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Asus proart pa27jcv",
+      "url": "https://tehnoskarb.ua/montor-asus-proart-pa27jcv/m5188307",
+      "price_old": 25250,
+      "price_new": 23830,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-08T20:07:31Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus rog strix xg27acdng",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acdng/m5180106",
+      "price": 28900,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-09-08T20:07:31Z"
     }
   ],
   "config": {
