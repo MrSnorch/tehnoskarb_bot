@@ -2582,7 +2582,7 @@
     "addresses": [
       "м. Хмельницький, вул. Кам`янецька, 11"
     ],
-    "offers_count": 13,
+    "offers_count": 12,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-25T17:56:42Z",
@@ -2594,27 +2594,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-25T17:56:42Z"
-  },
-  "https://tehnoskarb.ua/montor-asus-vz279hg-w/m5189839": {
-    "name": "Монітор Asus vz279hg-w",
-    "price_min": 3690,
-    "price_max": 3690,
-    "city": "Бориспіль",
-    "addresses": [
-      "м. Бориспіль, вул. Київський шлях, 47"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-25T18:48:35Z",
-    "price_history": [
-      {
-        "price": 3690,
-        "at": "2026-08-25T18:48:35Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-25T18:48:35Z"
   },
   "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212": {
     "name": "Монітор Msi mag 275qf",
@@ -2805,27 +2784,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-08-26T18:14:54Z"
-  },
-  "https://tehnoskarb.ua/montor-aoc-e2460/m5190058": {
-    "name": "Монітор Aoc e2460",
-    "price_min": 1460,
-    "price_max": 1460,
-    "city": "Трускавець",
-    "addresses": [
-      "м. Трускавець, вул. Стебницька, 62"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-26T20:37:35Z",
-    "price_history": [
-      {
-        "price": 1460,
-        "at": "2026-08-26T20:37:35Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-26T20:37:35Z"
   },
   "https://tehnoskarb.ua/montor-acer-g225hq/m5190064": {
     "name": "Монітор Acer g225hq",
@@ -3866,27 +3824,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-09-04T16:57:41Z"
   },
-  "https://tehnoskarb.ua/montor-lg-22mp68vq/m5023042": {
-    "name": "Монітор Lg 22mp68vq",
-    "price_min": 1340,
-    "price_max": 1340,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Олекси Тихого, 40/16"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-04T16:57:41Z",
-    "price_history": [
-      {
-        "price": 1340,
-        "at": "2026-09-04T16:57:41Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-09-04T16:57:41Z"
-  },
   "https://tehnoskarb.ua/montor-acer-sa230/m5191906": {
     "name": "Монітор Acer sa230",
     "price_min": 1800,
@@ -4536,5 +4473,67 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-09-09T06:28:17Z"
+  },
+  "https://tehnoskarb.ua/montor-dell-p2314hc/m5188760": {
+    "name": "Монітор Dell p2314hc",
+    "price_min": 1850,
+    "price_max": 1850,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Заболотного, 20А"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-09T11:46:05Z",
+    "price_history": [
+      {
+        "price": 1850,
+        "at": "2026-09-09T11:46:05Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-09T11:46:05Z"
+  },
+  "https://tehnoskarb.ua/montor-fujitsu-l22t-2/m5169037": {
+    "name": "Монітор Fujitsu l22t-2",
+    "price_min": 580,
+    "price_max": 580,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, б-р Чоколовський, 21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-09T11:46:05Z",
+    "price_history": [
+      {
+        "price": 580,
+        "at": "2026-09-09T11:46:05Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-09T11:46:05Z"
+  },
+  "https://tehnoskarb.ua/montor-hp-n223/m5108257": {
+    "name": "Монітор Hp n223",
+    "price_min": 740,
+    "price_max": 740,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-09T11:46:05Z",
+    "price_history": [
+      {
+        "price": 740,
+        "at": "2026-09-09T11:46:05Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-09-09T11:46:05Z",
+    "details_retry_at": "2026-09-09T12:16:05Z"
   }
 }
