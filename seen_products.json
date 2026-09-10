@@ -2931,7 +2931,7 @@
   },
   "https://tehnoskarb.ua/montor-asus-proart-pa27jcv/m5188307": {
     "name": "Монітор Asus proart pa27jcv",
-    "price_min": 23830,
+    "price_min": 25250,
     "price_max": 25250,
     "city": "Київ",
     "addresses": [
@@ -2949,6 +2949,10 @@
       {
         "price": 23830,
         "at": "2026-09-08T20:07:31Z"
+      },
+      {
+        "price": 25250,
+        "at": "2026-09-10T13:23:44Z"
       }
     ],
     "details_failures": 0,
@@ -3485,31 +3489,6 @@
       {
         "price": 3100,
         "at": "2026-09-03T06:16:40Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-09-03T11:33:34Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193": {
-    "name": "Монітор Samsung odyssey g5 c34g55tw",
-    "price_min": 8200,
-    "price_max": 8200,
-    "city": "Харків",
-    "addresses": [
-      "м. Харків, вул. Отакара Яроша, 23"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-03T11:33:34Z",
-    "price_history": [
-      {
-        "price": 8980,
-        "at": "2026-09-03T11:33:34Z"
-      },
-      {
-        "price": 8200,
-        "at": "2026-09-05T08:10:26Z"
       }
     ],
     "details_failures": 0,
@@ -4357,9 +4336,9 @@
         "at": "2026-09-09T11:46:05Z"
       }
     ],
-    "details_failures": 5,
-    "details_last_attempt": "2026-09-10T03:44:57Z",
-    "details_retry_at": "2026-09-10T09:44:57Z"
+    "details_failures": 6,
+    "details_last_attempt": "2026-09-10T13:23:44Z",
+    "details_retry_at": "2026-09-10T19:23:44Z"
   },
   "https://tehnoskarb.ua/montor-aoc-e2460/m5190058": {
     "name": "Монітор Aoc e2460",
@@ -4630,5 +4609,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-09-10T08:46:07Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vs229/m5139525": {
+    "name": "Монітор Asus vs229",
+    "price_min": 850,
+    "price_max": 850,
+    "city": "Конотоп",
+    "addresses": [
+      "м. Конотоп, просп. Миру, 10"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-10T13:23:44Z",
+    "price_history": [
+      {
+        "price": 850,
+        "at": "2026-09-10T13:23:44Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-10T13:23:44Z"
   }
 }
