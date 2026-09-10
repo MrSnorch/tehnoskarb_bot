@@ -2559,7 +2559,7 @@
     "addresses": [
       "м. Київ, вул. Заболотного, 20А"
     ],
-    "offers_count": 2,
+    "offers_count": 4,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-26T04:41:53Z",
@@ -2575,10 +2575,10 @@
   "https://tehnoskarb.ua/montor-iiyama-t2752msc-b1/m5187007": {
     "name": "Монітор Iiyama t2752msc-b1",
     "price_min": 15120,
-    "price_max": 15120,
+    "price_max": 16020,
     "city": "",
     "addresses": [],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-26T04:41:53Z",
@@ -4336,9 +4336,9 @@
         "at": "2026-09-09T11:46:05Z"
       }
     ],
-    "details_failures": 6,
-    "details_last_attempt": "2026-09-10T13:23:44Z",
-    "details_retry_at": "2026-09-10T19:23:44Z"
+    "details_failures": 7,
+    "details_last_attempt": "2026-09-10T19:57:25Z",
+    "details_retry_at": "2026-09-11T01:57:25Z"
   },
   "https://tehnoskarb.ua/montor-aoc-e2460/m5190058": {
     "name": "Монітор Aoc e2460",
@@ -4630,5 +4630,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-09-10T13:23:44Z"
+  },
+  "https://tehnoskarb.ua/montor-benq-v2400-eco/m5192773": {
+    "name": "Монітор Benq v2400 eco",
+    "price_min": 930,
+    "price_max": 930,
+    "city": "Броди",
+    "addresses": [
+      "м. Броди, вул. Гончарська, 1"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-10T19:57:25Z",
+    "price_history": [
+      {
+        "price": 930,
+        "at": "2026-09-10T19:57:25Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-10T19:57:25Z"
+  },
+  "https://tehnoskarb.ua/montor-viewsonic-td2760/m5187009": {
+    "name": "Монітор Viewsonic td2760",
+    "price_min": 20070,
+    "price_max": 20070,
+    "city": "Ужгород",
+    "addresses": [
+      "м. Ужгород, вул. Мукачівська, 2"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-10T19:57:25Z",
+    "price_history": [
+      {
+        "price": 20070,
+        "at": "2026-09-10T19:57:25Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-10T19:57:25Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-23mp55/m5136844": {
+    "name": "Монітор Lg 23mp55",
+    "price_min": 1550,
+    "price_max": 1550,
+    "city": "Львів",
+    "addresses": [
+      "м. Львів, вул. Промислова, 50/52"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-10T19:57:25Z",
+    "price_history": [
+      {
+        "price": 1550,
+        "at": "2026-09-10T19:57:25Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-10T19:57:25Z"
   }
 }
