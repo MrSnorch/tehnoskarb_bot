@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-11T05:01:52Z",
+  "updated_at": "2026-09-11T09:56:51Z",
   "stats": {
-    "total": 220,
-    "avg_price": 3431,
+    "total": 218,
+    "avg_price": 3436,
     "min_price": 180,
     "max_price": 29340,
     "cities": [
@@ -2758,26 +2758,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s24c330g",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24c330g/m5039521",
-      "price_min": 2280,
-      "price_max": 2280,
-      "city": "Конотоп",
-      "addresses": [
-        "м. Конотоп, просп. Миру, 10"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-04T19:23:51Z",
-      "price_history": [
-        {
-          "price": 2280,
-          "at": "2026-09-04T19:23:51Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s24d300",
       "url": "https://tehnoskarb.ua/montor-samsung-s24d300/m5149081",
       "price_min": 2300,
@@ -3465,26 +3445,6 @@
         {
           "price": 3500,
           "at": "2026-09-03T16:01:47Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo r27s",
-      "url": "https://tehnoskarb.ua/montor-lenovo-r27s/m5192084",
-      "price_min": 3500,
-      "price_max": 3500,
-      "city": "Луцьк",
-      "addresses": [
-        "м. Луцьк, вул. Лесі Українки, 24"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-07T05:48:58Z",
-      "price_history": [
-        {
-          "price": 3500,
-          "at": "2026-09-07T05:48:58Z"
         }
       ],
       "category": "Монітори",
@@ -4740,24 +4700,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Benq gw2480",
-      "url": "https://tehnoskarb.ua/montor-benq-gw2480/m5124510",
-      "price": 1690,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-02T17:42:39Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus vs229",
-      "url": "https://tehnoskarb.ua/montor-asus-vs229/m5139525",
-      "price": 850,
-      "city": "Конотоп",
-      "category": "Монітори",
-      "at": "2026-09-02T17:42:39Z"
-    },
     {
       "type": "new",
       "name": "Монітор Dell p2319h",
@@ -6570,6 +6512,24 @@
       "city": "Володимир",
       "category": "Монітори",
       "at": "2026-09-11T05:01:10Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s24c330g",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24c330g/m5039521",
+      "price": 2280,
+      "city": "Конотоп",
+      "category": "Монітори",
+      "at": "2026-09-11T09:55:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo r27s",
+      "url": "https://tehnoskarb.ua/montor-lenovo-r27s/m5192084",
+      "price": 3500,
+      "city": "Луцьк",
+      "category": "Монітори",
+      "at": "2026-09-11T09:55:38Z"
     }
   ],
   "config": {
