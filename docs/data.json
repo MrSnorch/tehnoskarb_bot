@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-12T19:35:39Z",
+  "updated_at": "2026-09-12T22:00:32Z",
   "stats": {
-    "total": 220,
-    "avg_price": 3441,
+    "total": 221,
+    "avg_price": 3431,
     "min_price": 180,
     "max_price": 29340,
     "cities": [
@@ -2245,6 +2245,26 @@
         {
           "price": 1250,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung b2330h",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2330h/m5092207",
+      "price_min": 1300,
+      "price_max": 1300,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Данила Щербаківського, 63"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-12T22:00:08Z",
+      "price_history": [
+        {
+          "price": 1300,
+          "at": "2026-09-12T22:00:08Z"
         }
       ],
       "category": "Монітори",
@@ -4755,15 +4775,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Iiyama g-master eagle g2770hsu-b1",
-      "url": "https://tehnoskarb.ua/montor-iiyama-g-master-eagle-g2770hsu-b1/m5184508",
-      "price": 5240,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-09-03T11:33:34Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Asus rog swift pg27aqn",
       "url": "https://tehnoskarb.ua/montor-asus-rog-swift-pg27aqn/m5185468",
       "price": 27900,
@@ -6587,6 +6598,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-12T14:17:37Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung b2330h",
+      "url": "https://tehnoskarb.ua/montor-samsung-b2330h/m5092207",
+      "price": 1300,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-12T22:00:08Z"
     }
   ],
   "config": {
