@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-12T06:16:15Z",
+  "updated_at": "2026-09-12T11:08:39Z",
   "stats": {
     "total": 222,
-    "avg_price": 3382,
+    "avg_price": 3385,
     "min_price": 180,
     "max_price": 29340,
     "cities": [
@@ -1834,26 +1834,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus ve247",
-      "url": "https://tehnoskarb.ua/montor-asus-ve247/m5192981",
-      "price_min": 900,
-      "price_max": 1500,
-      "city": "Шептицький",
-      "addresses": [
-        "м. Шептицький, просп. Шевченка, 10"
-      ],
-      "offers": 2,
-      "first_seen": "2026-09-12T06:15:36Z",
-      "price_history": [
-        {
-          "price": 900,
-          "at": "2026-09-12T06:15:36Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Dell p2213f",
       "url": "https://tehnoskarb.ua/montor-dell-p2213f/m5049088",
       "price_min": 920,
@@ -2488,6 +2468,30 @@
         {
           "price": 1500,
           "at": "2026-09-02T09:26:54Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus ve247",
+      "url": "https://tehnoskarb.ua/montor-asus-ve247/m5192981",
+      "price_min": 1500,
+      "price_max": 1500,
+      "city": "Шептицький",
+      "addresses": [
+        "м. Шептицький, просп. Шевченка, 10"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-12T06:15:36Z",
+      "price_history": [
+        {
+          "price": 900,
+          "at": "2026-09-12T06:15:36Z"
+        },
+        {
+          "price": 1500,
+          "at": "2026-09-12T11:07:35Z"
         }
       ],
       "category": "Монітори",
@@ -4794,15 +4798,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Lg l1742s",
-      "url": "https://tehnoskarb.ua/montor-lg-l1742s/m5011804",
-      "price": 510,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-09-02T20:44:04Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung odyssey g5 c27g55tqb",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c27g55tqb/m5180698",
       "price": 5200,
@@ -6625,6 +6620,16 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-12T06:15:36Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Asus ve247",
+      "url": "https://tehnoskarb.ua/montor-asus-ve247/m5192981",
+      "price_old": 900,
+      "price_new": 1500,
+      "city": "Шептицький",
+      "category": "Монітори",
+      "at": "2026-09-12T11:07:35Z"
     }
   ],
   "config": {
