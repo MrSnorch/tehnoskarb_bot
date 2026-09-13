@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-13T00:19:31Z",
+  "updated_at": "2026-09-13T04:32:19Z",
   "stats": {
-    "total": 221,
-    "avg_price": 3431,
+    "total": 222,
+    "avg_price": 3473,
     "min_price": 180,
     "max_price": 29340,
     "cities": [
@@ -4562,6 +4562,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung viewfinity s6 s34c652vau",
+      "url": "https://tehnoskarb.ua/montor-samsung-viewfinity-s6-s34c652vau/m5192930",
+      "price_min": 12630,
+      "price_max": 12630,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-09-13T04:31:55Z",
+      "price_history": [
+        {
+          "price": 12630,
+          "at": "2026-09-13T04:31:55Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Hp p34hc g4 curved",
       "url": "https://tehnoskarb.ua/montor-hp-p34hc-g4-curved/m5184076",
       "price_min": 14860,
@@ -4773,15 +4791,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Asus rog swift pg27aqn",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-swift-pg27aqn/m5185468",
-      "price": 27900,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-09-03T11:33:34Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Viewsonic td2760",
@@ -6607,6 +6616,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-12T22:00:08Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung viewfinity s6 s34c652vau",
+      "url": "https://tehnoskarb.ua/montor-samsung-viewfinity-s6-s34c652vau/m5192930",
+      "price": 12630,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-09-13T04:31:55Z"
     }
   ],
   "config": {
