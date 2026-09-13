@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-13T04:32:19Z",
+  "updated_at": "2026-09-13T10:04:20Z",
   "stats": {
-    "total": 222,
-    "avg_price": 3473,
+    "total": 223,
+    "avg_price": 3462,
     "min_price": 180,
     "max_price": 29340,
     "cities": [
@@ -1865,6 +1865,26 @@
         {
           "price": 930,
           "at": "2026-09-10T19:57:25Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 226v3lsb/00",
+      "url": "https://tehnoskarb.ua/montor-philips-226v3lsb-00/m5059619",
+      "price_min": 930,
+      "price_max": 930,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Січових Стрільців, 76"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-13T10:03:17Z",
+      "price_history": [
+        {
+          "price": 930,
+          "at": "2026-09-13T10:03:17Z"
         }
       ],
       "category": "Монітори",
@@ -4793,15 +4813,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Viewsonic td2760",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-td2760/m5187009",
-      "price": 20070,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-09-03T11:33:34Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Asus rog strix xg27acg",
       "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acg/m5180107",
       "price": 10800,
@@ -6625,6 +6636,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-09-13T04:31:55Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 226v3lsb/00",
+      "url": "https://tehnoskarb.ua/montor-philips-226v3lsb-00/m5059619",
+      "price": 930,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-13T10:03:17Z"
     }
   ],
   "config": {
