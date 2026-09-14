@@ -4203,9 +4203,9 @@
         "at": "2026-09-09T11:46:05Z"
       }
     ],
-    "details_failures": 16,
-    "details_last_attempt": "2026-09-13T20:41:03Z",
-    "details_retry_at": "2026-09-14T02:41:03Z"
+    "details_failures": 17,
+    "details_last_attempt": "2026-09-14T06:02:31Z",
+    "details_retry_at": "2026-09-14T12:02:31Z"
   },
   "https://tehnoskarb.ua/montor-aoc-e2460/m5190058": {
     "name": "Монітор Aoc e2460",
@@ -4520,9 +4520,9 @@
         "at": "2026-09-10T22:26:11Z"
       }
     ],
-    "details_failures": 12,
-    "details_last_attempt": "2026-09-13T20:41:03Z",
-    "details_retry_at": "2026-09-14T02:41:03Z"
+    "details_failures": 13,
+    "details_last_attempt": "2026-09-14T06:02:31Z",
+    "details_retry_at": "2026-09-14T12:02:31Z"
   },
   "https://tehnoskarb.ua/montor-asus-touch-vt169he/m5180108": {
     "name": "Монітор Asus touch vt169he",
@@ -4540,9 +4540,9 @@
         "at": "2026-09-10T22:26:11Z"
       }
     ],
-    "details_failures": 12,
-    "details_last_attempt": "2026-09-13T20:41:03Z",
-    "details_retry_at": "2026-09-14T02:41:03Z"
+    "details_failures": 13,
+    "details_last_attempt": "2026-09-14T06:02:31Z",
+    "details_retry_at": "2026-09-14T12:02:31Z"
   },
   "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106": {
     "name": "Монітор Asus vu249cfe-b",
@@ -4560,9 +4560,9 @@
         "at": "2026-09-10T22:26:11Z"
       }
     ],
-    "details_failures": 12,
-    "details_last_attempt": "2026-09-13T20:41:03Z",
-    "details_retry_at": "2026-09-14T02:41:03Z"
+    "details_failures": 13,
+    "details_last_attempt": "2026-09-14T06:02:31Z",
+    "details_retry_at": "2026-09-14T12:02:31Z"
   },
   "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql3a/m5107130": {
     "name": "Монітор Asus tuf gaming vg27aql3a",
@@ -4580,9 +4580,9 @@
         "at": "2026-09-10T22:26:11Z"
       }
     ],
-    "details_failures": 12,
-    "details_last_attempt": "2026-09-13T20:41:03Z",
-    "details_retry_at": "2026-09-14T02:41:03Z"
+    "details_failures": 13,
+    "details_last_attempt": "2026-09-14T06:02:31Z",
+    "details_retry_at": "2026-09-14T12:02:31Z"
   },
   "https://tehnoskarb.ua/montor-asus-proart-pa329cv/m5093621": {
     "name": "Монітор Asus proart pa329cv",
@@ -4600,9 +4600,9 @@
         "at": "2026-09-10T22:26:11Z"
       }
     ],
-    "details_failures": 12,
-    "details_last_attempt": "2026-09-13T20:41:03Z",
-    "details_retry_at": "2026-09-14T02:41:03Z"
+    "details_failures": 13,
+    "details_last_attempt": "2026-09-14T06:02:31Z",
+    "details_retry_at": "2026-09-14T12:02:31Z"
   },
   "https://tehnoskarb.ua/montor-lg-19en33/m5182644": {
     "name": "Монітор Lg 19en33",
@@ -4855,9 +4855,9 @@
         "at": "2026-09-13T04:31:55Z"
       }
     ],
-    "details_failures": 5,
-    "details_last_attempt": "2026-09-13T22:59:26Z",
-    "details_retry_at": "2026-09-14T04:59:26Z"
+    "details_failures": 6,
+    "details_last_attempt": "2026-09-14T06:02:31Z",
+    "details_retry_at": "2026-09-14T12:02:31Z"
   },
   "https://tehnoskarb.ua/montor-philips-226v3lsb-00/m5059619": {
     "name": "Монітор Philips 226v3lsb/00",
@@ -4921,5 +4921,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-09-13T17:58:54Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-22mp57d/m5193197": {
+    "name": "Монітор Lg 22mp57d",
+    "price_min": 880,
+    "price_max": 880,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Княжий Затон, 2/30"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-14T06:02:31Z",
+    "price_history": [
+      {
+        "price": 880,
+        "at": "2026-09-14T06:02:31Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-14T06:02:31Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-ips235t/m5193221": {
+    "name": "Монітор Lg ips235t",
+    "price_min": 1180,
+    "price_max": 1180,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Княжий Затон, 2/30"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-14T06:02:31Z",
+    "price_history": [
+      {
+        "price": 1180,
+        "at": "2026-09-14T06:02:31Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-14T06:02:31Z"
   }
 }

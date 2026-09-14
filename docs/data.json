@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-14T00:57:52Z",
+  "updated_at": "2026-09-14T06:03:03Z",
   "stats": {
-    "total": 219,
-    "avg_price": 3496,
+    "total": 221,
+    "avg_price": 3473,
     "min_price": 180,
     "max_price": 29340,
     "cities": [
@@ -1729,6 +1729,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 22mp57d",
+      "url": "https://tehnoskarb.ua/montor-lg-22mp57d/m5193197",
+      "price_min": 880,
+      "price_max": 880,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Княжий Затон, 2/30"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-14T06:02:31Z",
+      "price_history": [
+        {
+          "price": 880,
+          "at": "2026-09-14T06:02:31Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Philips 203v5lsb26/10",
       "url": "https://tehnoskarb.ua/montor-philips-203v5lsb26-10/m5138395",
       "price_min": 900,
@@ -2165,6 +2185,26 @@
         {
           "price": 1170,
           "at": "2026-08-07T19:29:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg ips235t",
+      "url": "https://tehnoskarb.ua/montor-lg-ips235t/m5193221",
+      "price_min": 1180,
+      "price_max": 1180,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Княжий Затон, 2/30"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-14T06:02:31Z",
+      "price_history": [
+        {
+          "price": 1180,
+          "at": "2026-09-14T06:02:31Z"
         }
       ],
       "category": "Монітори",
@@ -4738,25 +4778,6 @@
   ],
   "events": [
     {
-      "type": "sold",
-      "name": "Монітор Lg 27ms550-b",
-      "url": "https://tehnoskarb.ua/montor-lg-27ms550-b/m5190985",
-      "price": 2630,
-      "city": "Берегове",
-      "category": "Монітори",
-      "at": "2026-09-03T11:33:34Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Eizo flexscan ev2430",
-      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
-      "price_old": 4000,
-      "price_new": 5076,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-03T11:33:34Z"
-    },
-    {
       "type": "rise",
       "name": "Монітор Philips 223v5l",
       "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
@@ -6572,6 +6593,24 @@
       "city": "Броди",
       "category": "Монітори",
       "at": "2026-09-13T17:58:54Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 22mp57d",
+      "url": "https://tehnoskarb.ua/montor-lg-22mp57d/m5193197",
+      "price": 880,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-14T06:02:31Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg ips235t",
+      "url": "https://tehnoskarb.ua/montor-lg-ips235t/m5193221",
+      "price": 1180,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-14T06:02:31Z"
     }
   ],
   "config": {
