@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-14T13:13:01Z",
+  "updated_at": "2026-09-14T18:51:19Z",
   "stats": {
-    "total": 216,
-    "avg_price": 3439,
+    "total": 215,
+    "avg_price": 3421,
     "min_price": 180,
     "max_price": 29340,
     "cities": [
@@ -792,7 +792,7 @@
         "м. Київ, б-р Кольцова, 13",
         "м. Львів, вул. Широка, 70-В"
       ],
-      "offers": 4,
+      "offers": 3,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -2435,26 +2435,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus vc239he",
-      "url": "https://tehnoskarb.ua/montor-asus-vc239he/m5189138",
-      "price_min": 1570,
-      "price_max": 1570,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Берестейський, 104 (м. Святошин)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-12T06:15:36Z",
-      "price_history": [
-        {
-          "price": 1570,
-          "at": "2026-09-12T06:15:36Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Fujitsu b24-8 te pro",
       "url": "https://tehnoskarb.ua/montor-fujitsu-b24-8-te-pro/m5180436",
       "price_min": 1600,
@@ -2529,6 +2509,26 @@
         {
           "price": 1800,
           "at": "2026-09-05T08:10:26Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung syncmaster 2343bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-2343bw/m5193060",
+      "price_min": 1800,
+      "price_max": 1800,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лятошинського, 18"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-14T18:51:05Z",
+      "price_history": [
+        {
+          "price": 1800,
+          "at": "2026-09-14T18:51:05Z"
         }
       ],
       "category": "Монітори",
@@ -4136,26 +4136,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung smart m7 m70d uhd ls32dm703ui",
-      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7-m70d-uhd-ls32dm703ui/m5158036",
-      "price_min": 7470,
-      "price_max": 7470,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Симиренка, 5"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-12T14:17:37Z",
-      "price_history": [
-        {
-          "price": 7470,
-          "at": "2026-09-12T14:17:37Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi mag 275cqrf-qd e2",
       "url": "https://tehnoskarb.ua/montor-msi-mag-275cqrf-qd-e2/m5191088",
       "price_min": 7500,
@@ -4683,33 +4663,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Asus tuf gaming vg27aqa1a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqa1a/m5058821",
-      "price": 5900,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-03T19:23:50Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s27dg300ei",
-      "url": "https://tehnoskarb.ua/montor-samsung-s27dg300ei/m5191767",
-      "price": 3900,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-03T19:23:50Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung 32\" odyssey gaming g50d monitor",
-      "url": "https://tehnoskarb.ua/montor-samsung-32-odyssey-gaming-g50d-monitor/m5187527",
-      "price": 9000,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-03T19:23:50Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung odyssey g5 ls27cg550",
@@ -6517,6 +6470,33 @@
       "city": "Бровари",
       "category": "Монітори",
       "at": "2026-09-14T13:11:42Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vc239he",
+      "url": "https://tehnoskarb.ua/montor-asus-vc239he/m5189138",
+      "price": 1570,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-14T18:51:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung smart m7 m70d uhd ls32dm703ui",
+      "url": "https://tehnoskarb.ua/montor-samsung-smart-m7-m70d-uhd-ls32dm703ui/m5158036",
+      "price": 7470,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-14T18:51:05Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung syncmaster 2343bw",
+      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-2343bw/m5193060",
+      "price": 1800,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-14T18:51:05Z"
     }
   ],
   "config": {
