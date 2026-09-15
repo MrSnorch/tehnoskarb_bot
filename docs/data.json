@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-15T16:48:07Z",
+  "updated_at": "2026-09-15T20:10:43Z",
   "stats": {
-    "total": 211,
-    "avg_price": 3424,
+    "total": 208,
+    "avg_price": 3434,
     "min_price": 180,
     "max_price": 29340,
     "cities": [
@@ -285,26 +285,6 @@
         {
           "price": 270,
           "at": "2026-09-05T17:15:38Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 720т stnc",
-      "url": "https://tehnoskarb.ua/montor-17-samsung-720t-stnc/m5185103",
-      "price_min": 280,
-      "price_max": 280,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, вул. Університетська, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-28T21:39:15Z",
-      "price_history": [
-        {
-          "price": 280,
-          "at": "2026-07-28T21:39:15Z"
         }
       ],
       "category": "Монітори",
@@ -3494,26 +3474,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s27dg300ei",
-      "url": "https://tehnoskarb.ua/montor-samsung-s27dg300ei/m5191767",
-      "price_min": 3900,
-      "price_max": 3900,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р Чоколовський, 21"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-03T19:23:50Z",
-      "price_history": [
-        {
-          "price": 3900,
-          "at": "2026-09-03T19:23:50Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lenovo legion h24238fr0",
       "url": "https://tehnoskarb.ua/montor-lenovo-legion-h24238fr0/m5192256",
       "price_min": 3900,
@@ -3566,26 +3526,6 @@
         {
           "price": 3900,
           "at": "2026-09-14T13:11:42Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 24m2n3200s",
-      "url": "https://tehnoskarb.ua/montor-philips-24m2n3200s/m5187733",
-      "price_min": 3970,
-      "price_max": 3970,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, вул. Сергія Скальда, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-13T18:29:06Z",
-      "price_history": [
-        {
-          "price": 3970,
-          "at": "2026-08-13T18:29:06Z"
         }
       ],
       "category": "Монітори",
@@ -4600,33 +4540,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Benq gl2450-t",
-      "url": "https://tehnoskarb.ua/montor-benq-gl2450-t/m5191795",
-      "price": 1600,
-      "city": "Бровари",
-      "category": "Монітори",
-      "at": "2026-09-04T16:57:41Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 22mp68vq",
-      "url": "https://tehnoskarb.ua/montor-lg-22mp68vq/m5023042",
-      "price": 1340,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-04T16:57:41Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Acer sa230",
-      "url": "https://tehnoskarb.ua/montor-acer-sa230/m5191906",
-      "price": 1800,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-04T19:23:51Z"
-    },
     {
       "type": "new",
       "name": "Монітор Dell p2314hc",
@@ -6436,6 +6349,33 @@
       "city": "Первомайськ",
       "category": "Монітори",
       "at": "2026-09-15T16:46:56Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 720т stnc",
+      "url": "https://tehnoskarb.ua/montor-17-samsung-720t-stnc/m5185103",
+      "price": 280,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-09-15T20:10:32Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips 24m2n3200s",
+      "url": "https://tehnoskarb.ua/montor-philips-24m2n3200s/m5187733",
+      "price": 3970,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-09-15T20:10:32Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s27dg300ei",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27dg300ei/m5191767",
+      "price": 3900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-15T20:10:32Z"
     }
   ],
   "config": {
