@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-15T11:40:54Z",
+  "updated_at": "2026-09-15T16:48:07Z",
   "stats": {
-    "total": 215,
-    "avg_price": 3438,
+    "total": 211,
+    "avg_price": 3424,
     "min_price": 180,
     "max_price": 29340,
     "cities": [
@@ -2304,26 +2304,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Dell se2218hv",
-      "url": "https://tehnoskarb.ua/montor-dell-se2218hv/m5188726",
-      "price_min": 1390,
-      "price_max": 1390,
-      "city": "Первомайськ",
-      "addresses": [
-        "м. Первомайськ, вул. Коротченка, 3/68"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-18T04:37:38Z",
-      "price_history": [
-        {
-          "price": 1390,
-          "at": "2026-08-18T04:37:38Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vp228",
       "url": "https://tehnoskarb.ua/montor-asus-vp228/m5145192",
       "price_min": 1400,
@@ -3200,26 +3180,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s31c / ls24c310e",
-      "url": "https://tehnoskarb.ua/montor-samsung-s31c-ls24c310e/m5183471",
-      "price_min": 3200,
-      "price_max": 3200,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, вул. Галицька, 112-Д"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-19T04:49:06Z",
-      "price_history": [
-        {
-          "price": 3200,
-          "at": "2026-07-19T04:49:06Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung f24t452fqr",
       "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
       "price_min": 3200,
@@ -3815,26 +3775,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix g27c6",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g27c6/m5184075",
-      "price_min": 4600,
-      "price_max": 4600,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, вул. Коновальця, 147/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-06T23:09:34Z",
-      "price_history": [
-        {
-          "price": 4600,
-          "at": "2026-08-06T23:09:34Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lenovo thinkvision t27i-30",
       "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t27i-30/m5175091",
       "price_min": 4750,
@@ -4163,26 +4103,6 @@
         {
           "price": 7500,
           "at": "2026-09-04T13:15:51Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung odyssey g5 s27ag502",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-s27ag502/m5149547",
-      "price_min": 7590,
-      "price_max": 7590,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, вул. Коновальця, 147/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-09T17:33:28Z",
-      "price_history": [
-        {
-          "price": 7590,
-          "at": "2026-08-09T17:33:28Z"
         }
       ],
       "category": "Монітори",
@@ -4680,43 +4600,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lg 22mp68vq",
-      "url": "https://tehnoskarb.ua/montor-lg-22mp68vq/m5023042",
-      "price": 1340,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-04T13:15:51Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi mag 275cqrf-qd e2",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-275cqrf-qd-e2/m5191088",
-      "price": 7500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-04T13:15:51Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Samsung odyssey g5 c27g55tqb",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c27g55tqb/m5180698",
-      "price_old": 5200,
-      "price_new": 4490,
-      "city": "Буча",
-      "category": "Монітори",
-      "at": "2026-09-04T13:15:51Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор 2E 2e-h2420b",
-      "url": "https://tehnoskarb.ua/montor-2e-2e-h2420b/m5176124",
-      "price": 3170,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-04T13:15:51Z"
-    },
     {
       "type": "new",
       "name": "Монітор Benq gl2450-t",
@@ -6517,6 +6400,42 @@
       "city": "Івано-Франківськ",
       "category": "Монітори",
       "at": "2026-09-15T11:40:39Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s31c / ls24c310e",
+      "url": "https://tehnoskarb.ua/montor-samsung-s31c-ls24c310e/m5183471",
+      "price": 3200,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-09-15T16:46:56Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix g27c6",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g27c6/m5184075",
+      "price": 4600,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-09-15T16:46:56Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey g5 s27ag502",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-s27ag502/m5149547",
+      "price": 7590,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-09-15T16:46:56Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Dell se2218hv",
+      "url": "https://tehnoskarb.ua/montor-dell-se2218hv/m5188726",
+      "price": 1390,
+      "city": "Первомайськ",
+      "category": "Монітори",
+      "at": "2026-09-15T16:46:56Z"
     }
   ],
   "config": {
