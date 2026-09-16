@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-16T01:33:14Z",
+  "updated_at": "2026-09-16T07:25:08Z",
   "stats": {
     "total": 208,
-    "avg_price": 3434,
+    "avg_price": 3432,
     "min_price": 180,
     "max_price": 29340,
     "cities": [
@@ -3847,6 +3847,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey g5 ls27cg550",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
+      "price_min": 5300,
+      "price_max": 5300,
+      "city": "Тернопіль",
+      "addresses": [
+        "м. Тернопіль, б-р Шевченка, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-03T19:23:50Z",
+      "price_history": [
+        {
+          "price": 5830,
+          "at": "2026-09-03T19:23:50Z"
+        },
+        {
+          "price": 5300,
+          "at": "2026-09-16T07:23:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung lc27g55tq",
       "url": "https://tehnoskarb.ua/montor-samsung-lc27g55tq/m5191209",
       "price_min": 5400,
@@ -3861,26 +3885,6 @@
         {
           "price": 5400,
           "at": "2026-09-02T20:44:04Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung odyssey g5 ls27cg550",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
-      "price_min": 5830,
-      "price_max": 5830,
-      "city": "Тернопіль",
-      "addresses": [
-        "м. Тернопіль, б-р Шевченка, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-03T19:23:50Z",
-      "price_history": [
-        {
-          "price": 5830,
-          "at": "2026-09-03T19:23:50Z"
         }
       ],
       "category": "Монітори",
@@ -4540,15 +4544,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Dell p2314hc",
-      "url": "https://tehnoskarb.ua/montor-dell-p2314hc/m5188760",
-      "price": 1850,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-04T19:23:51Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus tuf gaming vg27aql5a",
@@ -6376,6 +6371,16 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-15T20:10:32Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung odyssey g5 ls27cg550",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
+      "price_old": 5830,
+      "price_new": 5300,
+      "city": "Тернопіль",
+      "category": "Монітори",
+      "at": "2026-09-16T07:23:58Z"
     }
   ],
   "config": {
