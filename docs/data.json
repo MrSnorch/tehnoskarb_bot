@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-17T18:52:46Z",
+  "updated_at": "2026-09-17T21:57:25Z",
   "stats": {
-    "total": 209,
-    "avg_price": 3362,
+    "total": 210,
+    "avg_price": 3358,
     "min_price": 180,
     "max_price": 29340,
     "cities": [
@@ -2824,6 +2824,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 24gl600f",
+      "url": "https://tehnoskarb.ua/montor-lg-24gl600f/m5193944",
+      "price_min": 2390,
+      "price_max": 2390,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Миру, 2/3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-17T21:57:02Z",
+      "price_history": [
+        {
+          "price": 2390,
+          "at": "2026-09-17T21:57:02Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Acer ek220q",
       "url": "https://tehnoskarb.ua/montor-acer-ek220q/m5113750",
       "price_min": 2420,
@@ -4543,15 +4563,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Uperfect для ноутбука з двома дисплеями",
-      "url": "https://tehnoskarb.ua/portativnijj-montor-uperfect-dlja-noutbuka-z-dvoma-displejami/m5192096",
-      "price": 7000,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-09-06T20:40:58Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hp l2245w",
@@ -6381,6 +6392,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-17T18:51:28Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 24gl600f",
+      "url": "https://tehnoskarb.ua/montor-lg-24gl600f/m5193944",
+      "price": 2390,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-17T21:57:02Z"
     }
   ],
   "config": {
