@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-19T01:26:52Z",
+  "updated_at": "2026-09-19T06:29:29Z",
   "stats": {
-    "total": 224,
-    "avg_price": 3645,
+    "total": 223,
+    "avg_price": 3608,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -223,13 +223,13 @@
       "name": "Монітор Samsung s19a100n",
       "url": "https://tehnoskarb.ua/montor-samsung-s19a100n/m5098815",
       "price_min": 250,
-      "price_max": 310,
+      "price_max": 420,
       "city": "Херсон",
       "addresses": [
         "м. Херсон, вул. І. Кулика, 135",
         "м. Тернопіль, вул. Мазепи, 5"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -4542,26 +4542,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Hp omen 27qs",
-      "url": "https://tehnoskarb.ua/montor-hp-omen-27qs/m5182774",
-      "price_min": 11800,
-      "price_max": 11800,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Спаська, 5"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 11800,
-          "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung viewfinity s6 s34c652vau",
       "url": "https://tehnoskarb.ua/montor-samsung-viewfinity-s6-s34c652vau/m5192930",
       "price_min": 12630,
@@ -4817,16 +4797,6 @@
     }
   ],
   "events": [
-    {
-      "type": "rise",
-      "name": "Монітор Samsung s19a100n",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19a100n/m5098815",
-      "price_old": 250,
-      "price_new": 310,
-      "city": "Херсон",
-      "category": "Монітори",
-      "at": "2026-09-08T13:23:29Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Aoc 215lm00041",
@@ -6647,6 +6617,15 @@
       "city": "Харків",
       "category": "Монітори",
       "at": "2026-09-18T20:36:26Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Hp omen 27qs",
+      "url": "https://tehnoskarb.ua/montor-hp-omen-27qs/m5182774",
+      "price": 11800,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-19T06:27:45Z"
     }
   ],
   "config": {
