@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-19T17:50:33Z",
+  "updated_at": "2026-09-19T20:39:02Z",
   "stats": {
-    "total": 212,
-    "avg_price": 3573,
+    "total": 211,
+    "avg_price": 3577,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -3032,26 +3032,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Xiaomi g24i eu",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-g24i-eu/m5191254",
-      "price_min": 2850,
-      "price_max": 2850,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Миру, 2/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-03T16:01:47Z",
-      "price_history": [
-        {
-          "price": 2850,
-          "at": "2026-09-03T16:01:47Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer g246hyl",
       "url": "https://tehnoskarb.ua/montor-acer-g246hyl/m5192328",
       "price_min": 2900,
@@ -4603,15 +4583,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Aoc e2460",
-      "url": "https://tehnoskarb.ua/montor-aoc-e2460/m5190058",
-      "price": 1460,
-      "city": "Трускавець",
-      "category": "Монітори",
-      "at": "2026-09-09T16:10:27Z"
-    },
     {
       "type": "rise",
       "name": "Монітор Msi pro mp252",
@@ -6430,6 +6401,15 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-09-19T17:50:03Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Xiaomi g24i eu",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-g24i-eu/m5191254",
+      "price": 2850,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-19T20:38:56Z"
     }
   ],
   "config": {
