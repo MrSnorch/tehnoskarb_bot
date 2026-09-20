@@ -83,27 +83,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-07T05:17:40Z"
   },
-  "https://tehnoskarb.ua/montor-asus-vz279hg/m5182521": {
-    "name": "Монітор Asus vz279hg",
-    "price_min": 3690,
-    "price_max": 3690,
-    "city": "Буча",
-    "addresses": [
-      "м. Буча, вул. Героїв Майдану, 10"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 3690,
-        "at": "2026-08-07T19:29:58Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
   "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2224pd/m5182252": {
     "name": "Монітор Lenovo thinkvision t2224pd",
     "price_min": 1250,
@@ -2192,7 +2171,7 @@
     "addresses": [
       "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
     ],
-    "offers_count": 4,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-29T08:45:03Z",
@@ -4888,5 +4867,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-09-20T05:14:22Z"
+  },
+  "https://tehnoskarb.ua/montor-xiaomi-g24i-eu/m5191254": {
+    "name": "Монітор Xiaomi g24i eu",
+    "price_min": 2850,
+    "price_max": 2850,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, просп. Миру, 2/3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-20T09:59:15Z",
+    "price_history": [
+      {
+        "price": 2850,
+        "at": "2026-09-20T09:59:15Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-20T09:59:15Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-s22d390qs/m5190013": {
+    "name": "Монітор Samsung s22d390qs",
+    "price_min": 1500,
+    "price_max": 1500,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Гришка 6а"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-20T09:59:15Z",
+    "price_history": [
+      {
+        "price": 1500,
+        "at": "2026-09-20T09:59:15Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-20T09:59:15Z"
   }
 }
