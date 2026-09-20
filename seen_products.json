@@ -3141,13 +3141,13 @@
   },
   "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acdng/m5180106": {
     "name": "Монітор Asus rog strix xg27acdng",
-    "price_min": 26020,
+    "price_min": 28900,
     "price_max": 28900,
     "city": "Ужгород",
     "addresses": [
       "м. Ужгород, вул. Мукачівська, 2"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-09-08T20:07:31Z",
@@ -3159,6 +3159,10 @@
       {
         "price": 26020,
         "at": "2026-09-12T06:15:36Z"
+      },
+      {
+        "price": 28900,
+        "at": "2026-09-20T17:35:15Z"
       }
     ],
     "details_failures": 0,
@@ -4884,5 +4888,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-09-20T14:07:18Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-22mp58vq-p/m5068568": {
+    "name": "Монітор Lg 22mp58vq-p",
+    "price_min": 1420,
+    "price_max": 1420,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Заболотного, 20А"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-20T17:35:15Z",
+    "price_history": [
+      {
+        "price": 1420,
+        "at": "2026-09-20T17:35:15Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-20T17:35:15Z"
   }
 }
