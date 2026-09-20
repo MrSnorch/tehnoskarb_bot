@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-20T17:35:26Z",
+  "updated_at": "2026-09-20T20:31:59Z",
   "stats": {
     "total": 218,
-    "avg_price": 3527,
+    "avg_price": 3515,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -657,6 +657,26 @@
         {
           "price": 400,
           "at": "2026-08-20T09:36:46Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Benq g925hda",
+      "url": "https://tehnoskarb.ua/montor-benq-g925hda/m5058394",
+      "price_min": 400,
+      "price_max": 400,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Лятошинського, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-20T20:30:42Z",
+      "price_history": [
+        {
+          "price": 400,
+          "at": "2026-09-20T20:30:42Z"
         }
       ],
       "category": "Монітори",
@@ -3152,26 +3172,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Xiaomi g24i eu",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-g24i-eu/m5191254",
-      "price_min": 2850,
-      "price_max": 2850,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Миру, 2/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-20T09:59:15Z",
-      "price_history": [
-        {
-          "price": 2850,
-          "at": "2026-09-20T09:59:15Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer g246hyl",
       "url": "https://tehnoskarb.ua/montor-acer-g246hyl/m5192328",
       "price_min": 2900,
@@ -4723,24 +4723,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Aoc c27g2ze",
-      "url": "https://tehnoskarb.ua/montor-aoc-c27g2ze/m5147959",
-      "price": 6400,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-09-10T08:46:07Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Msi mag 275qf",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
-      "price": 6000,
-      "city": "Кременчук",
-      "category": "Монітори",
-      "at": "2026-09-10T08:46:07Z"
-    },
     {
       "type": "new",
       "name": "Монітор Acer p226hqv",
@@ -6548,6 +6530,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-20T17:35:15Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Xiaomi g24i eu",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-g24i-eu/m5191254",
+      "price": 2850,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-20T20:30:42Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Benq g925hda",
+      "url": "https://tehnoskarb.ua/montor-benq-g925hda/m5058394",
+      "price": 400,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-20T20:30:42Z"
     }
   ],
   "config": {
