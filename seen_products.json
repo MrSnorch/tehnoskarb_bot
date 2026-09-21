@@ -3514,7 +3514,7 @@
     "addresses": [
       "м. Ужгород, вул. Мукачівська, 2"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-09-10T19:57:25Z",
@@ -4805,27 +4805,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-09-20T09:59:15Z"
   },
-  "https://tehnoskarb.ua/montor-aoc-q2790pqu/m5188901": {
-    "name": "Монітор Aoc q2790pqu",
-    "price_min": 4200,
-    "price_max": 4200,
-    "city": "Харків",
-    "addresses": [
-      "м. Харків, вул. Отакара Яроша, 23"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-20T14:07:18Z",
-    "price_history": [
-      {
-        "price": 4200,
-        "at": "2026-09-20T14:07:18Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-09-20T14:07:18Z"
-  },
   "https://tehnoskarb.ua/montor-lg-22mp58vq-p/m5068568": {
     "name": "Монітор Lg 22mp58vq-p",
     "price_min": 1420,
@@ -4930,5 +4909,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-09-21T06:52:04Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vw193/m4987871": {
+    "name": "Монітор Asus vw193",
+    "price_min": 500,
+    "price_max": 500,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, вул. Щербаківського, 45"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-21T19:07:33Z",
+    "price_history": [
+      {
+        "price": 500,
+        "at": "2026-09-21T19:07:33Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-21T19:07:33Z"
   }
 }
