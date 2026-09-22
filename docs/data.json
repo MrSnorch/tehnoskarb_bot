@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-22T01:29:24Z",
+  "updated_at": "2026-09-22T06:45:02Z",
   "stats": {
     "total": 219,
-    "avg_price": 3615,
+    "avg_price": 3661,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2600,26 +2600,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Waveshare 13.3inch hdmi lcd сенсорний",
-      "url": "https://tehnoskarb.ua/montor-waveshare-13-3inch-hdmi-lcd-sensornijj/m5193714",
-      "price_min": 1800,
-      "price_max": 1800,
-      "city": "Полтава",
-      "addresses": [
-        "м. Полтава, вул. Небесної Сотні, 61"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-18T17:46:58Z",
-      "price_history": [
-        {
-          "price": 1800,
-          "at": "2026-09-18T17:46:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg e2441t",
       "url": "https://tehnoskarb.ua/montor-lg-e2441t/m5096602",
       "price_min": 1820,
@@ -4442,6 +4422,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Hp omen 27qs",
+      "url": "https://tehnoskarb.ua/montor-hp-omen-27qs/m5182774",
+      "price_min": 11800,
+      "price_max": 11800,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р М. Міхновського, 25"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-22T06:43:41Z",
+      "price_history": [
+        {
+          "price": 11800,
+          "at": "2026-09-22T06:43:41Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell s2722qc",
       "url": "https://tehnoskarb.ua/montor-dell-s2722qc/m5185518",
       "price_min": 12500,
@@ -4743,25 +4743,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung odyssey g5 c34g55tw",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c34g55tw/m5048193",
-      "price": 8200,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-09-10T13:23:44Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Asus proart pa27jcv",
-      "url": "https://tehnoskarb.ua/montor-asus-proart-pa27jcv/m5188307",
-      "price_old": 23830,
-      "price_new": 25250,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-10T13:23:44Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vs229",
@@ -6565,6 +6546,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-21T19:07:33Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Waveshare 13.3inch hdmi lcd сенсорний",
+      "url": "https://tehnoskarb.ua/montor-waveshare-13-3inch-hdmi-lcd-sensornijj/m5193714",
+      "price": 1800,
+      "city": "Полтава",
+      "category": "Монітори",
+      "at": "2026-09-22T06:43:41Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp omen 27qs",
+      "url": "https://tehnoskarb.ua/montor-hp-omen-27qs/m5182774",
+      "price": 11800,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-22T06:43:41Z"
     }
   ],
   "config": {
