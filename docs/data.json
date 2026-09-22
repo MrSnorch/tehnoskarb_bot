@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-22T06:45:02Z",
+  "updated_at": "2026-09-22T12:27:07Z",
   "stats": {
-    "total": 219,
-    "avg_price": 3661,
+    "total": 216,
+    "avg_price": 3689,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1139,26 +1139,6 @@
         {
           "price": 500,
           "at": "2026-09-05T21:33:12Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus vw193",
-      "url": "https://tehnoskarb.ua/montor-asus-vw193/m4987871",
-      "price_min": 500,
-      "price_max": 500,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Щербаківського, 45"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-21T19:07:33Z",
-      "price_history": [
-        {
-          "price": 500,
-          "at": "2026-09-21T19:07:33Z"
         }
       ],
       "category": "Монітори",
@@ -2640,26 +2620,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Acer ek221qe3bi",
-      "url": "https://tehnoskarb.ua/montor-acer-ek221qe3bi/m5192609",
-      "price_min": 1930,
-      "price_max": 1930,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Білоруська, 8"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-13T17:58:54Z",
-      "price_history": [
-        {
-          "price": 1930,
-          "at": "2026-09-13T17:58:54Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s22f350fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-s22f350fhi/m5139689",
       "price_min": 2000,
@@ -2942,26 +2902,6 @@
         {
           "price": 2380,
           "at": "2026-08-25T17:56:42Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg 24gl600f",
-      "url": "https://tehnoskarb.ua/montor-lg-24gl600f/m5193944",
-      "price_min": 2390,
-      "price_max": 2390,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Миру, 2/3"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-17T21:57:02Z",
-      "price_history": [
-        {
-          "price": 2390,
-          "at": "2026-09-17T21:57:02Z"
         }
       ],
       "category": "Монітори",
@@ -4743,33 +4683,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vs229",
-      "url": "https://tehnoskarb.ua/montor-asus-vs229/m5139525",
-      "price": 850,
-      "city": "Конотоп",
-      "category": "Монітори",
-      "at": "2026-09-10T13:23:44Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Benq v2400 eco",
-      "url": "https://tehnoskarb.ua/montor-benq-v2400-eco/m5192773",
-      "price": 930,
-      "city": "Броди",
-      "category": "Монітори",
-      "at": "2026-09-10T19:57:25Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Viewsonic td2760",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-td2760/m5187009",
-      "price": 20070,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-09-10T19:57:25Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg 23mp55",
@@ -6564,6 +6477,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-22T06:43:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer ek221qe3bi",
+      "url": "https://tehnoskarb.ua/montor-acer-ek221qe3bi/m5192609",
+      "price": 1930,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-22T12:26:56Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 24gl600f",
+      "url": "https://tehnoskarb.ua/montor-lg-24gl600f/m5193944",
+      "price": 2390,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-22T12:26:56Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vw193",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193/m4987871",
+      "price": 500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-22T12:26:56Z"
     }
   ],
   "config": {
