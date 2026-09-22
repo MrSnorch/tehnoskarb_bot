@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-22T17:15:18Z",
+  "updated_at": "2026-09-22T20:24:52Z",
   "stats": {
-    "total": 218,
-    "avg_price": 3680,
+    "total": 220,
+    "avg_price": 3669,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2988,6 +2988,46 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Qube b24f120hs",
+      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
+      "price_min": 2500,
+      "price_max": 2500,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р М. Міхновського, 25"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-22T20:24:38Z",
+      "price_history": [
+        {
+          "price": 2500,
+          "at": "2026-09-22T20:24:38Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi pro mp251",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
+      "price_min": 2500,
+      "price_max": 2500,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Проскурівська, 109"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-22T20:24:38Z",
+      "price_history": [
+        {
+          "price": 2500,
+          "at": "2026-09-22T20:24:38Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Aoc 24b1h",
       "url": "https://tehnoskarb.ua/montor-aoc-24b1h/m5054008",
       "price_min": 2550,
@@ -4723,24 +4763,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vu249cfe-b",
-      "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
-      "price": 5830,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-09-10T22:26:11Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg27aql3a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql3a/m5107130",
-      "price": 10780,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-09-10T22:26:11Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus proart pa329cv",
@@ -6544,6 +6566,24 @@
       "city": "Бердичів",
       "category": "Монітори",
       "at": "2026-09-22T17:13:55Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Qube b24f120hs",
+      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
+      "price": 2500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-22T20:24:38Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp251",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
+      "price": 2500,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-09-22T20:24:38Z"
     }
   ],
   "config": {
