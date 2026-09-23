@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-23T13:27:58Z",
+  "updated_at": "2026-09-23T17:55:34Z",
   "stats": {
     "total": 216,
-    "avg_price": 3640,
+    "avg_price": 3508,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -15,11 +15,11 @@
       "Бровари",
       "Броди",
       "Буча",
-      "Біла Церква",
       "Винники",
       "Вишневе",
       "Володимир",
       "Вінниця",
+      "Дрогобич",
       "Запоріжжя",
       "Золочів",
       "Кам`янське",
@@ -1677,6 +1677,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Hanns.g hl225d",
+      "url": "https://tehnoskarb.ua/montor-hanns-g-hl225d/m5194921",
+      "price_min": 830,
+      "price_max": 830,
+      "city": "Дрогобич",
+      "addresses": [
+        "м. Дрогобич, вул. Пилипа Орлика, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-23T17:55:23Z",
+      "price_history": [
+        {
+          "price": 830,
+          "at": "2026-09-23T17:55:23Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Acer v226hql",
       "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
       "price_min": 850,
@@ -2747,12 +2767,12 @@
       "name": "Монітор Philips 243v7q",
       "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
       "price_min": 2240,
-      "price_max": 2810,
+      "price_max": 2860,
       "city": "Харків",
       "addresses": [
         "м. Харків, вул. Отакара Яроша, 23"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-09-20T05:14:22Z",
       "price_history": [
         {
@@ -4644,26 +4664,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey gaming g80sd ls32dg800sixua",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-g80sd-ls32dg800sixua/m5119690",
-      "price_min": 29340,
-      "price_max": 29340,
-      "city": "Біла Церква",
-      "addresses": [
-        "м. Біла Церква, вул. О.Гончара, 1А/42А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-01T22:27:19Z",
-      "price_history": [
-        {
-          "price": 29340,
-          "at": "2026-09-01T22:27:19Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus zenscreen fold oled mq17qh",
       "url": "https://tehnoskarb.ua/montor-asus-zenscreen-fold-oled-mq17qh/m5194054",
       "price_min": 48130,
@@ -4685,25 +4685,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lenovo thinkvision t24d-10",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t24d-10/m5158787",
-      "price": 2500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-11T05:01:10Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Philips 226v4l",
-      "url": "https://tehnoskarb.ua/montor-philips-226v4l/m5137525",
-      "price_old": 1000,
-      "price_new": 980,
-      "city": "Запоріжжя",
-      "category": "Монітори",
-      "at": "2026-09-11T05:01:10Z"
-    },
     {
       "type": "new",
       "name": "Монітор Aoc c24g1",
@@ -6506,6 +6487,24 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-23T13:26:40Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey gaming g80sd ls32dg800sixua",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-g80sd-ls32dg800sixua/m5119690",
+      "price": 29340,
+      "city": "Біла Церква",
+      "category": "Монітори",
+      "at": "2026-09-23T17:55:23Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hanns.g hl225d",
+      "url": "https://tehnoskarb.ua/montor-hanns-g-hl225d/m5194921",
+      "price": 830,
+      "city": "Дрогобич",
+      "category": "Монітори",
+      "at": "2026-09-23T17:55:23Z"
     }
   ],
   "config": {
