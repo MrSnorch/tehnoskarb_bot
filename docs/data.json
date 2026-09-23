@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-23T07:31:12Z",
+  "updated_at": "2026-09-23T13:27:58Z",
   "stats": {
-    "total": 219,
-    "avg_price": 3685,
+    "total": 216,
+    "avg_price": 3640,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2968,26 +2968,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Qube b24f120hs",
-      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
-      "price_min": 2500,
-      "price_max": 2500,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р М. Міхновського, 25"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-22T20:24:38Z",
-      "price_history": [
-        {
-          "price": 2500,
-          "at": "2026-09-22T20:24:38Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi pro mp251",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
       "price_min": 2500,
@@ -4024,26 +4004,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi mag 255pxf",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-255pxf/m5120001",
-      "price_min": 5600,
-      "price_max": 5600,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Княжий Затон, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-17T18:51:28Z",
-      "price_history": [
-        {
-          "price": 5600,
-          "at": "2026-09-17T18:51:28Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vu249cfe-b",
       "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
       "price_min": 5830,
@@ -4462,24 +4422,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung viewfinity s6 s34c652vau",
-      "url": "https://tehnoskarb.ua/montor-samsung-viewfinity-s6-s34c652vau/m5192930",
-      "price_min": 12630,
-      "price_max": 12630,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-09-13T04:31:55Z",
-      "price_history": [
-        {
-          "price": 12630,
-          "at": "2026-09-13T04:31:55Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Iiyama t2752msc-b1",
       "url": "https://tehnoskarb.ua/montor-iiyama-t2752msc-b1/m5187007",
       "price_min": 15120,
@@ -4743,33 +4685,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg 19en33",
-      "url": "https://tehnoskarb.ua/montor-lg-19en33/m5182644",
-      "price": 350,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-11T05:01:10Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор 2E h2420b",
-      "url": "https://tehnoskarb.ua/montor-2e-h2420b/m5180684",
-      "price": 2500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-11T05:01:10Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung c27rg50fh",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
-      "price": 6200,
-      "city": "Кривий Ріг",
-      "category": "Монітори",
-      "at": "2026-09-11T05:01:10Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lenovo thinkvision t24d-10",
@@ -6564,6 +6479,33 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-09-23T07:31:04Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung viewfinity s6 s34c652vau",
+      "url": "https://tehnoskarb.ua/montor-samsung-viewfinity-s6-s34c652vau/m5192930",
+      "price": 12630,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-09-23T13:26:40Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi mag 255pxf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-255pxf/m5120001",
+      "price": 5600,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-23T13:26:40Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Qube b24f120hs",
+      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
+      "price": 2500,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-23T13:26:40Z"
     }
   ],
   "config": {
