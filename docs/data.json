@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-23T01:42:02Z",
+  "updated_at": "2026-09-23T07:31:12Z",
   "stats": {
-    "total": 220,
-    "avg_price": 3669,
+    "total": 219,
+    "avg_price": 3685,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -92,26 +92,6 @@
         {
           "price": 180,
           "at": "2026-08-24T16:39:38Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips i90s",
-      "url": "https://tehnoskarb.ua/nastlnijj-montor-philips-i90s/m5182311",
-      "price_min": 200,
-      "price_max": 200,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Промислова, 50/52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-26T18:14:54Z",
-      "price_history": [
-        {
-          "price": 200,
-          "at": "2026-08-26T18:14:54Z"
         }
       ],
       "category": "Монітори",
@@ -4765,15 +4745,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus proart pa329cv",
-      "url": "https://tehnoskarb.ua/montor-asus-proart-pa329cv/m5093621",
-      "price": 25000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-09-10T22:26:11Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg 19en33",
       "url": "https://tehnoskarb.ua/montor-lg-19en33/m5182644",
       "price": 350,
@@ -6584,6 +6555,15 @@
       "city": "Хмельницький",
       "category": "Монітори",
       "at": "2026-09-22T20:24:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Philips i90s",
+      "url": "https://tehnoskarb.ua/nastlnijj-montor-philips-i90s/m5182311",
+      "price": 200,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-09-23T07:31:04Z"
     }
   ],
   "config": {
