@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-24T14:21:11Z",
+  "updated_at": "2026-09-24T18:35:38Z",
   "stats": {
-    "total": 220,
-    "avg_price": 3498,
+    "total": 219,
+    "avg_price": 3527,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -315,26 +315,6 @@
         {
           "price": 270,
           "at": "2026-08-17T09:44:00Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 720т stnc",
-      "url": "https://tehnoskarb.ua/montor-17-samsung-720t-stnc/m5185103",
-      "price_min": 280,
-      "price_max": 280,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, вул. Героїв майдану, 48"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-16T21:01:38Z",
-      "price_history": [
-        {
-          "price": 280,
-          "at": "2026-09-16T21:01:38Z"
         }
       ],
       "category": "Монітори",
@@ -3594,26 +3574,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lenovo legion h24238fr0",
-      "url": "https://tehnoskarb.ua/montor-lenovo-legion-h24238fr0/m5192256",
-      "price_min": 3900,
-      "price_max": 3900,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Грушевського, 67"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-07T17:36:39Z",
-      "price_history": [
-        {
-          "price": 3900,
-          "at": "2026-09-07T17:36:39Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lenovo legion r24e",
       "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
       "price_min": 3900,
@@ -4239,6 +4199,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey g5 s27fg532ei",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-s27fg532ei/m5195218",
+      "price_min": 7030,
+      "price_max": 7030,
+      "city": "Рівне",
+      "addresses": [
+        "м. Рівне, вул. Чорновола, 12-А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-24T18:35:25Z",
+      "price_history": [
+        {
+          "price": 7030,
+          "at": "2026-09-24T18:35:25Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung u32j590u",
       "url": "https://tehnoskarb.ua/montor-samsung-u32j590u/m5167067",
       "price_min": 7130,
@@ -4782,33 +4762,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lenovo l2250pwd",
-      "url": "https://tehnoskarb.ua/montor-lenovo-l2250pwd/m5181236",
-      "price": 1200,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-09-13T14:34:46Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Dell u2312hmt",
-      "url": "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146",
-      "price": 1200,
-      "city": "Ірпінь",
-      "category": "Монітори",
-      "at": "2026-09-13T14:34:46Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Hp l2245w",
-      "url": "https://tehnoskarb.ua/montor-hp-l2245w/m5144339",
-      "price": 700,
-      "city": "Калуш",
-      "category": "Монітори",
-      "at": "2026-09-13T14:34:46Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Acer ek221qe3bi",
@@ -6602,6 +6555,33 @@
       "city": "Харків",
       "category": "Монітори",
       "at": "2026-09-24T14:19:33Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo legion h24238fr0",
+      "url": "https://tehnoskarb.ua/montor-lenovo-legion-h24238fr0/m5192256",
+      "price": 3900,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-09-24T18:35:25Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 720т stnc",
+      "url": "https://tehnoskarb.ua/montor-17-samsung-720t-stnc/m5185103",
+      "price": 280,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-09-24T18:35:25Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey g5 s27fg532ei",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-s27fg532ei/m5195218",
+      "price": 7030,
+      "city": "Рівне",
+      "category": "Монітори",
+      "at": "2026-09-24T18:35:25Z"
     }
   ],
   "config": {
