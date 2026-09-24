@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-24T03:50:11Z",
+  "updated_at": "2026-09-24T09:06:52Z",
   "stats": {
-    "total": 220,
-    "avg_price": 3475,
+    "total": 223,
+    "avg_price": 3447,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -20,6 +20,7 @@
       "Володимир",
       "Вінниця",
       "Дрогобич",
+      "Житомир",
       "Запоріжжя",
       "Золочів",
       "Кам`янське",
@@ -432,6 +433,26 @@
         {
           "price": 330,
           "at": "2026-08-17T09:44:00Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 740n",
+      "url": "https://tehnoskarb.ua/montor-samsung-740n/m4996661",
+      "price_min": 340,
+      "price_max": 340,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, б-р Вацлава Гавела, 53"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-24T09:06:33Z",
+      "price_history": [
+        {
+          "price": 340,
+          "at": "2026-09-24T09:06:33Z"
         }
       ],
       "category": "Монітори",
@@ -1275,6 +1296,26 @@
         {
           "price": 550,
           "at": "2026-09-08T17:21:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Proview ep2230w",
+      "url": "https://tehnoskarb.ua/montor-proview-ep2230w/m5195166",
+      "price_min": 550,
+      "price_max": 550,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. Гарматна, 44/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-24T09:06:33Z",
+      "price_history": [
+        {
+          "price": 550,
+          "at": "2026-09-24T09:06:33Z"
         }
       ],
       "category": "Монітори",
@@ -3367,6 +3408,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s27c330gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27c330gai/m5195054",
+      "price_min": 3310,
+      "price_max": 3310,
+      "city": "Житомир",
+      "addresses": [
+        "м. Житомир, вул. Небесної Сотні, 15"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-24T09:06:33Z",
+      "price_history": [
+        {
+          "price": 3310,
+          "at": "2026-09-24T09:06:33Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
       "price_min": 3330,
@@ -4765,33 +4826,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Acer al1760s",
-      "url": "https://tehnoskarb.ua/montor-acer-al1760s/m5193001",
-      "price": 350,
-      "city": "Кременчук",
-      "category": "Монітори",
-      "at": "2026-09-12T06:15:36Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus ve247",
-      "url": "https://tehnoskarb.ua/montor-asus-ve247/m5192981",
-      "price": 900,
-      "city": "Шептицький",
-      "category": "Монітори",
-      "at": "2026-09-12T06:15:36Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Viewsonic va2265s",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va2265s/m5192980",
-      "price": 1020,
-      "city": "Шептицький",
-      "category": "Монітори",
-      "at": "2026-09-12T06:15:36Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus vc239he",
@@ -6584,6 +6618,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-09-23T21:16:56Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Proview ep2230w",
+      "url": "https://tehnoskarb.ua/montor-proview-ep2230w/m5195166",
+      "price": 550,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-24T09:06:33Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s27c330gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27c330gai/m5195054",
+      "price": 3310,
+      "city": "Житомир",
+      "category": "Монітори",
+      "at": "2026-09-24T09:06:33Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung 740n",
+      "url": "https://tehnoskarb.ua/montor-samsung-740n/m4996661",
+      "price": 340,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-09-24T09:06:33Z"
     }
   ],
   "config": {
