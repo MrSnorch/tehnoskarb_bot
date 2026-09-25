@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-25T00:43:53Z",
+  "updated_at": "2026-09-25T05:58:37Z",
   "stats": {
-    "total": 218,
-    "avg_price": 3531,
+    "total": 219,
+    "avg_price": 3725,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -3052,12 +3052,12 @@
       "name": "Монітор Samsung c24f390fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
       "price_min": 2680,
-      "price_max": 2680,
+      "price_max": 3150,
       "city": "Чорноморськ",
       "addresses": [
         "м. Чорноморськ, просп. Миру, 16/59-Н"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-09-09T19:22:24Z",
       "price_history": [
         {
@@ -4522,12 +4522,12 @@
       "name": "Монітор Asus proart pa279crv",
       "url": "https://tehnoskarb.ua/montor-asus-proart-pa279crv/m5183698",
       "price_min": 16000,
-      "price_max": 16000,
+      "price_max": 16320,
       "city": "Ужгород",
       "addresses": [
         "м. Ужгород, вул. Мукачівська, 2"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-09-18T05:01:34Z",
       "price_history": [
         {
@@ -4721,6 +4721,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus rog swift oled pg27ucdm",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-swift-oled-pg27ucdm/m5195259",
+      "price_min": 46000,
+      "price_max": 46000,
+      "city": "Ужгород",
+      "addresses": [
+        "м. Ужгород, вул. Мукачівська, 2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-25T05:57:20Z",
+      "price_history": [
+        {
+          "price": 46000,
+          "at": "2026-09-25T05:57:20Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus zenscreen fold oled mq17qh",
       "url": "https://tehnoskarb.ua/montor-asus-zenscreen-fold-oled-mq17qh/m5194054",
       "price_min": 48130,
@@ -4742,15 +4762,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Lg 23mp55",
-      "url": "https://tehnoskarb.ua/montor-lg-23mp55/m5136844",
-      "price": 1550,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-09-13T14:34:46Z"
-    },
     {
       "type": "rise",
       "name": "Монітор Samsung c24f390fhi",
@@ -6562,6 +6573,15 @@
       "city": "Берегове",
       "category": "Монітори",
       "at": "2026-09-24T22:05:55Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus rog swift oled pg27ucdm",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-swift-oled-pg27ucdm/m5195259",
+      "price": 46000,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-09-25T05:57:20Z"
     }
   ],
   "config": {
