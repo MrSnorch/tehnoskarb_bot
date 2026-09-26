@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-09-26T07:16:03Z",
+  "updated_at": "2026-09-26T12:21:48Z",
   "stats": {
-    "total": 214,
-    "avg_price": 3771,
+    "total": 213,
+    "avg_price": 3797,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
       "Івано-Франківськ",
       "Ірпінь",
-      "Бердичів",
       "Берегове",
       "Боярка",
       "Бровари",
@@ -994,26 +993,6 @@
         {
           "price": 500,
           "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Benq e900hda",
-      "url": "https://tehnoskarb.ua/montor-benq-e900hda/m4712776",
-      "price_min": 500,
-      "price_max": 500,
-      "city": "Бердичів",
-      "addresses": [
-        "м. Бердичів, вул. Європейська, 128"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-17T04:44:27Z",
-      "price_history": [
-        {
-          "price": 500,
-          "at": "2026-08-17T04:44:27Z"
         }
       ],
       "category": "Монітори",
@@ -3007,26 +2986,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg 27ms550-b",
-      "url": "https://tehnoskarb.ua/montor-lg-27ms550-b/m5190985",
-      "price_min": 2630,
-      "price_max": 2630,
-      "city": "Берегове",
-      "addresses": [
-        "м. Берегове, площа Кошута, 2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-25T11:40:38Z",
-      "price_history": [
-        {
-          "price": 2630,
-          "at": "2026-09-25T11:40:38Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung c24f390fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
       "price_min": 2680,
@@ -3765,6 +3724,26 @@
         {
           "price": 4900,
           "at": "2026-09-15T05:56:36Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi optix g27cq4",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g27cq4/m5191851",
+      "price_min": 4900,
+      "price_max": 4900,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, вул. Владислава Бувалкіна, 47"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-26T12:21:34Z",
+      "price_history": [
+        {
+          "price": 4900,
+          "at": "2026-09-26T12:21:34Z"
         }
       ],
       "category": "Монітори",
@@ -4654,34 +4633,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg24vqr",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg24vqr/m5193463",
-      "price": 4900,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-09-15T05:56:36Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Asus proart pa27jcv",
-      "url": "https://tehnoskarb.ua/montor-asus-proart-pa27jcv/m5188307",
-      "price_old": 25250,
-      "price_new": 24700,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-15T05:56:36Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Dell se2222h",
-      "url": "https://tehnoskarb.ua/montor-dell-se2222h/m5132196",
-      "price": 2780,
-      "city": "Ірпінь",
-      "category": "Монітори",
-      "at": "2026-09-15T05:56:36Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung s24d300",
@@ -6472,6 +6423,33 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-09-26T07:14:45Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq e900hda",
+      "url": "https://tehnoskarb.ua/montor-benq-e900hda/m4712776",
+      "price": 500,
+      "city": "Бердичів",
+      "category": "Монітори",
+      "at": "2026-09-26T12:21:34Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 27ms550-b",
+      "url": "https://tehnoskarb.ua/montor-lg-27ms550-b/m5190985",
+      "price": 2630,
+      "city": "Берегове",
+      "category": "Монітори",
+      "at": "2026-09-26T12:21:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi optix g27cq4",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g27cq4/m5191851",
+      "price": 4900,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-09-26T12:21:34Z"
     }
   ],
   "config": {
