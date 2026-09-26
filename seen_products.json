@@ -2963,27 +2963,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-09-09T11:46:05Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-ls22c300/m5192618": {
-    "name": "Монітор Samsung ls22c300",
-    "price_min": 1100,
-    "price_max": 1100,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Білоруська, 8"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-09T19:22:24Z",
-    "price_history": [
-      {
-        "price": 1100,
-        "at": "2026-09-09T19:22:24Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-09-09T19:22:24Z"
-  },
   "https://tehnoskarb.ua/montor-benq-gw2470/m5156904": {
     "name": "Монітор Benq gw2470",
     "price_min": 2100,
@@ -4524,27 +4503,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-09-24T09:06:33Z"
   },
-  "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg259qmrl5a/m5195061": {
-    "name": "Монітор Asus tuf gaming vg259qmrl5a",
-    "price_min": 6780,
-    "price_max": 6780,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Братства тарасівців, 2А"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-24T14:19:33Z",
-    "price_history": [
-      {
-        "price": 6780,
-        "at": "2026-09-24T14:19:33Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-09-24T14:19:33Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-odyssey-g4/m5179696": {
     "name": "Монітор Samsung odyssey g4",
     "price_min": 4920,
@@ -4813,8 +4771,29 @@
         "at": "2026-09-26T16:36:56Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-09-26T16:36:56Z",
-    "details_retry_at": "2026-09-26T17:06:56Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-09-26T19:35:42Z",
+    "details_retry_at": "2026-09-26T20:35:42Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496": {
+    "name": "Монітор Samsung curved cr50",
+    "price_min": 5460,
+    "price_max": 5460,
+    "city": "Херсон",
+    "addresses": [
+      "м. Херсон, просп. 200 років Херсона, 15"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-26T19:35:42Z",
+    "price_history": [
+      {
+        "price": 5460,
+        "at": "2026-09-26T19:35:42Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-09-26T19:35:42Z"
   }
 }
