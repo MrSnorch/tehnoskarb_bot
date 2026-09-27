@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-27T17:11:23Z",
+  "updated_at": "2026-09-27T20:20:32Z",
   "stats": {
-    "total": 216,
-    "avg_price": 3942,
+    "total": 217,
+    "avg_price": 3954,
     "min_price": 121,
     "max_price": 48130,
     "cities": [
@@ -3985,6 +3985,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi mag 275qf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
+      "price_min": 6500,
+      "price_max": 6500,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, вул. Промислова, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-27T20:19:27Z",
+      "price_history": [
+        {
+          "price": 6500,
+          "at": "2026-09-27T20:19:27Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi modern md272qxpw",
       "url": "https://tehnoskarb.ua/montor-msi-modern-md272qxpw/m5192622",
       "price_min": 6890,
@@ -4698,15 +4718,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Benq g925hda",
-      "url": "https://tehnoskarb.ua/montor-benq-g925hda/m5058394",
-      "price": 310,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-16T17:31:57Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Aoc 24b1h",
@@ -6512,6 +6523,15 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-09-27T17:11:05Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi mag 275qf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
+      "price": 6500,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-09-27T20:19:27Z"
     }
   ],
   "config": {
