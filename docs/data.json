@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-29T20:11:55Z",
+  "updated_at": "2026-09-29T23:55:39Z",
   "stats": {
-    "total": 220,
-    "avg_price": 3904,
+    "total": 219,
+    "avg_price": 3905,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -3403,26 +3403,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Benq gw2790",
-      "url": "https://tehnoskarb.ua/montor-benq-gw2790/m5187586",
-      "price_min": 3630,
-      "price_max": 3630,
-      "city": "Чернігів",
-      "addresses": [
-        "м. Чернігів, просп. Миру, 194"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-11T17:28:07Z",
-      "price_history": [
-        {
-          "price": 3630,
-          "at": "2026-08-11T17:28:07Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi g2712",
       "url": "https://tehnoskarb.ua/montor-msi-g2712/m5188795",
       "price_min": 3820,
@@ -4771,15 +4751,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung c24f396fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c24f396fhi/m5160256",
-      "price": 2410,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-09-18T05:01:34Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg e2441t",
@@ -6583,6 +6554,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-09-29T20:11:09Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq gw2790",
+      "url": "https://tehnoskarb.ua/montor-benq-gw2790/m5187586",
+      "price": 3630,
+      "city": "Чернігів",
+      "category": "Монітори",
+      "at": "2026-09-29T23:54:07Z"
     }
   ],
   "config": {
