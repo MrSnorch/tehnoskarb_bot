@@ -187,14 +187,14 @@
   },
   "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175": {
     "name": "Монітор Samsung syncmaster 913n",
-    "price_min": 380,
+    "price_min": 570,
     "price_max": 570,
     "city": "Київ",
     "addresses": [
       "м. Київ, просп. Воскресенський, 34/2",
       "м. Рівне, вул. Грушевського, 1"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -218,6 +218,10 @@
       {
         "price": 380,
         "at": "2026-09-16T21:01:38Z"
+      },
+      {
+        "price": 570,
+        "at": "2026-09-30T16:47:27Z"
       }
     ],
     "details_failures": 0,
@@ -1281,13 +1285,13 @@
   },
   "https://tehnoskarb.ua/montor-samsung-s27ag300ni/m5074720": {
     "name": "Монітор Samsung s27ag300ni",
-    "price_min": 4230,
+    "price_min": 4500,
     "price_max": 4500,
     "city": "Кам`янське",
     "addresses": [
       "м. Кам`янське, б-р Будівельників, 7"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-16T18:32:19Z",
@@ -1295,6 +1299,10 @@
       {
         "price": 4230,
         "at": "2026-08-16T18:32:19Z"
+      },
+      {
+        "price": 4500,
+        "at": "2026-09-30T16:47:27Z"
       }
     ],
     "details_failures": 0,
@@ -2915,27 +2923,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-09-10T08:46:07Z"
   },
-  "https://tehnoskarb.ua/montor-msi-modern-md272qxpw/m5192622": {
-    "name": "Монітор Msi modern md272qxpw",
-    "price_min": 6890,
-    "price_max": 6890,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, вул. Січових Стрільців, 76"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-10T08:46:07Z",
-    "price_history": [
-      {
-        "price": 6890,
-        "at": "2026-09-10T08:46:07Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-09-10T08:46:07Z"
-  },
   "https://tehnoskarb.ua/montor-asus-vs229/m5139525": {
     "name": "Монітор Asus vs229",
     "price_min": 850,
@@ -3846,13 +3833,13 @@
   },
   "https://tehnoskarb.ua/montor-philips-243v7q/m5141771": {
     "name": "Монітор Philips 243v7q",
-    "price_min": 2240,
+    "price_min": 2810,
     "price_max": 2860,
     "city": "Харків",
     "addresses": [
       "м. Харків, вул. Отакара Яроша, 23"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-09-20T05:14:22Z",
@@ -3860,6 +3847,10 @@
       {
         "price": 2240,
         "at": "2026-09-20T05:14:22Z"
+      },
+      {
+        "price": 2810,
+        "at": "2026-09-30T16:47:27Z"
       }
     ],
     "details_failures": 0,
@@ -4746,9 +4737,9 @@
         "at": "2026-09-29T20:11:09Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-09-30T10:59:14Z",
-    "details_retry_at": "2026-09-30T14:59:14Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-09-30T16:47:27Z",
+    "details_retry_at": "2026-09-30T22:47:27Z"
   },
   "https://tehnoskarb.ua/tft-lcd-montor-asus-vw222u/m5195918": {
     "name": "Монітор Asus vw222u",
@@ -4766,9 +4757,9 @@
         "at": "2026-09-29T20:11:09Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-09-30T10:59:14Z",
-    "details_retry_at": "2026-09-30T14:59:14Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-09-30T16:47:27Z",
+    "details_retry_at": "2026-09-30T22:47:27Z"
   },
   "https://tehnoskarb.ua/montor-samsung-s22c450b/m5195860": {
     "name": "Монітор Samsung s22c450b",
@@ -4786,9 +4777,9 @@
         "at": "2026-09-29T20:11:09Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-09-30T10:59:14Z",
-    "details_retry_at": "2026-09-30T14:59:14Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-09-30T16:47:27Z",
+    "details_retry_at": "2026-09-30T22:47:27Z"
   },
   "https://tehnoskarb.ua/montor-dell-s2240l/m5195654": {
     "name": "Монітор Dell s2240l",
@@ -4806,9 +4797,9 @@
         "at": "2026-09-29T20:11:09Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-09-30T10:59:14Z",
-    "details_retry_at": "2026-09-30T14:59:14Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-09-30T16:47:27Z",
+    "details_retry_at": "2026-09-30T22:47:27Z"
   },
   "https://tehnoskarb.ua/montor-samsung-ls24hubcbq/m5195341": {
     "name": "Монітор Samsung ls24hubcbq",
@@ -4826,9 +4817,9 @@
         "at": "2026-09-29T20:11:09Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-09-30T10:59:14Z",
-    "details_retry_at": "2026-09-30T14:59:14Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-09-30T16:47:27Z",
+    "details_retry_at": "2026-09-30T22:47:27Z"
   },
   "https://tehnoskarb.ua/montor-asus-vw192c/m5155711": {
     "name": "Монітор Asus vw192c",
@@ -4846,9 +4837,9 @@
         "at": "2026-09-29T20:11:09Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-09-30T10:59:14Z",
-    "details_retry_at": "2026-09-30T14:59:14Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-09-30T16:47:27Z",
+    "details_retry_at": "2026-09-30T22:47:27Z"
   },
   "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql3a/m5107130": {
     "name": "Монітор Asus tuf gaming vg27aql3a",
@@ -4866,9 +4857,9 @@
         "at": "2026-09-29T20:11:09Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-09-30T10:59:14Z",
-    "details_retry_at": "2026-09-30T14:59:14Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-09-30T16:47:27Z",
+    "details_retry_at": "2026-09-30T22:47:27Z"
   },
   "https://tehnoskarb.ua/montor-19-tft-lcd-asus-vs197/m4755201": {
     "name": "Монітор  19\"  TFT-LCD Asus vs197",
@@ -4886,9 +4877,9 @@
         "at": "2026-09-29T20:11:09Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-09-30T10:59:14Z",
-    "details_retry_at": "2026-09-30T14:59:14Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-09-30T16:47:27Z",
+    "details_retry_at": "2026-09-30T22:47:27Z"
   },
   "https://tehnoskarb.ua/montor-qube-overlord-g24f144/m5148668": {
     "name": "Монітор Qube overlord g24f144",
@@ -4906,8 +4897,28 @@
         "at": "2026-09-30T04:41:19Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-09-30T10:59:14Z",
-    "details_retry_at": "2026-09-30T11:59:14Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-09-30T16:47:27Z",
+    "details_retry_at": "2026-09-30T18:47:27Z"
+  },
+  "https://tehnoskarb.ua/montor-aoc-24g2spae-bk/m5195795": {
+    "name": "Монітор Aoc 24g2spae/bk",
+    "price_min": 7900,
+    "price_max": 7900,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-09-30T16:47:27Z",
+    "price_history": [
+      {
+        "price": 7900,
+        "at": "2026-09-30T16:47:27Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-09-30T16:47:27Z",
+    "details_retry_at": "2026-09-30T17:17:27Z"
   }
 }
