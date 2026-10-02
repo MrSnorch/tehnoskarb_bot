@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-01T23:47:27Z",
+  "updated_at": "2026-10-02T04:44:24Z",
   "stats": {
-    "total": 219,
-    "avg_price": 3984,
+    "total": 221,
+    "avg_price": 3971,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1869,6 +1869,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Nec ea244wmi",
+      "url": "https://tehnoskarb.ua/montor-nec-ea244wmi/m5196313",
+      "price_min": 880,
+      "price_max": 880,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-02T04:43:51Z",
+      "price_history": [
+        {
+          "price": 880,
+          "at": "2026-10-02T04:43:51Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s19a300",
       "url": "https://tehnoskarb.ua/montor-samsung-s19a300/m5174337",
       "price_min": 890,
@@ -2107,6 +2125,42 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Philips 226v4l",
+      "url": "https://tehnoskarb.ua/montor-philips-226v4l/m5137525",
+      "price_min": 980,
+      "price_max": 1400,
+      "city": "Запоріжжя",
+      "addresses": [
+        "м. Запоріжжя, вул. Ентузіастів, 3"
+      ],
+      "offers": 6,
+      "first_seen": "2026-08-07T19:29:58Z",
+      "price_history": [
+        {
+          "price": 1400,
+          "at": "2026-08-07T19:29:58Z"
+        },
+        {
+          "price": 1000,
+          "at": "2026-08-26T04:41:53Z"
+        },
+        {
+          "price": 980,
+          "at": "2026-09-11T05:01:10Z"
+        },
+        {
+          "price": 1000,
+          "at": "2026-09-29T15:32:49Z"
+        },
+        {
+          "price": 980,
+          "at": "2026-10-02T04:43:51Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Fujitsu Siemens scaleoview l24w",
       "url": "https://tehnoskarb.ua/montor-fujitsu-siemens-scaleoview-l24w/m5195997",
       "price_min": 980,
@@ -2143,38 +2197,6 @@
         {
           "price": 990,
           "at": "2026-10-01T19:43:41Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 226v4l",
-      "url": "https://tehnoskarb.ua/montor-philips-226v4l/m5137525",
-      "price_min": 1000,
-      "price_max": 1400,
-      "city": "Запоріжжя",
-      "addresses": [
-        "м. Запоріжжя, вул. Ентузіастів, 3"
-      ],
-      "offers": 2,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1400,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 1000,
-          "at": "2026-08-26T04:41:53Z"
-        },
-        {
-          "price": 980,
-          "at": "2026-09-11T05:01:10Z"
-        },
-        {
-          "price": 1000,
-          "at": "2026-09-29T15:32:49Z"
         }
       ],
       "category": "Монітори",
@@ -2607,7 +2629,7 @@
       "addresses": [
         "м. Київ, вул. Лятошинського, 14"
       ],
-      "offers": 3,
+      "offers": 4,
       "first_seen": "2026-09-02T04:57:14Z",
       "price_history": [
         {
@@ -3825,6 +3847,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus tuf gaming vg249q + кріплення",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q-+-krplennja/m5194709",
+      "price_min": 4200,
+      "price_max": 4200,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-02T04:43:51Z",
+      "price_history": [
+        {
+          "price": 4200,
+          "at": "2026-10-02T04:43:51Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg ultrawide 25um58",
       "url": "https://tehnoskarb.ua/montor-lg-ultrawide-25um58/m5140685",
       "price_min": 4230,
@@ -4898,33 +4938,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung s22d390qs",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22d390qs/m5190013",
-      "price": 1500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-20T09:59:15Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Aoc 24p2q",
-      "url": "https://tehnoskarb.ua/montor-aoc-24p2q/m5173255",
-      "price": 4360,
-      "city": "Львів",
-      "category": "Монітори",
-      "at": "2026-09-20T14:07:18Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Dell p2214hb",
-      "url": "https://tehnoskarb.ua/montor-dell-p2214hb/m5194027",
-      "price": 1510,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-09-20T14:07:18Z"
-    },
     {
       "type": "new",
       "name": "Монітор Aoc q2790pqu",
@@ -6751,6 +6764,34 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-10-01T19:43:41Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Nec ea244wmi",
+      "url": "https://tehnoskarb.ua/montor-nec-ea244wmi/m5196313",
+      "price": 880,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-02T04:43:51Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus tuf gaming vg249q + кріплення",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q-+-krplennja/m5194709",
+      "price": 4200,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-02T04:43:51Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Philips 226v4l",
+      "url": "https://tehnoskarb.ua/montor-philips-226v4l/m5137525",
+      "price_old": 1000,
+      "price_new": 980,
+      "city": "Запоріжжя",
+      "category": "Монітори",
+      "at": "2026-10-02T04:43:51Z"
     }
   ],
   "config": {
