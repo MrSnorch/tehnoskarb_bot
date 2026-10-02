@@ -1668,12 +1668,12 @@
   "https://tehnoskarb.ua/montor-lg-w2042t/m5026868": {
     "name": "Монітор Lg w2042t",
     "price_min": 460,
-    "price_max": 495,
+    "price_max": 460,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Старовокзальна, 18 (м. Вокзальна)"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-23T17:21:50Z",
@@ -2231,7 +2231,7 @@
     "addresses": [
       "м. Київ, вул. Лятошинського, 14"
     ],
-    "offers_count": 4,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-09-02T04:57:14Z",
@@ -3319,26 +3319,6 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-09-16T21:01:38Z"
-  },
-  "https://tehnoskarb.ua/montor-lg-22mp65d/m5183724": {
-    "name": "Монітор Lg 22mp65d",
-    "price_min": 1080,
-    "price_max": 1080,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-16T21:01:38Z",
-    "price_history": [
-      {
-        "price": 1080,
-        "at": "2026-09-16T21:01:38Z"
-      }
-    ],
-    "details_failures": 46,
-    "details_last_attempt": "2026-10-02T10:56:31Z",
-    "details_retry_at": "2026-10-02T16:56:31Z"
   },
   "https://tehnoskarb.ua/montor-samsung-ls22c200b/m5181924": {
     "name": "Монітор Samsung ls22c200b",
@@ -5028,9 +5008,9 @@
         "at": "2026-10-01T19:43:41Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-02T10:56:31Z",
-    "details_retry_at": "2026-10-02T14:56:31Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-02T16:34:30Z",
+    "details_retry_at": "2026-10-02T22:34:30Z"
   },
   "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q-+-krplennja/m5194709": {
     "name": "Монітор Asus tuf gaming vg249q + кріплення",
@@ -5048,8 +5028,28 @@
         "at": "2026-10-02T04:43:51Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-10-02T10:56:31Z",
-    "details_retry_at": "2026-10-02T11:56:31Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-10-02T16:34:30Z",
+    "details_retry_at": "2026-10-02T18:34:30Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-essential-s3-s27f320gaux-s32gf/m5196167": {
+    "name": "Монітор Samsung essential s3 s27f320gaux s32gf",
+    "price_min": 3600,
+    "price_max": 3600,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-02T16:34:30Z",
+    "price_history": [
+      {
+        "price": 3600,
+        "at": "2026-10-02T16:34:30Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-02T16:34:30Z",
+    "details_retry_at": "2026-10-02T17:04:30Z"
   }
 }
