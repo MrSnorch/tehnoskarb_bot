@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-03T11:56:20Z",
+  "updated_at": "2026-10-03T16:01:43Z",
   "stats": {
-    "total": 228,
-    "avg_price": 3983,
+    "total": 227,
+    "avg_price": 4042,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -548,26 +548,6 @@
         {
           "price": 390,
           "at": "2026-10-01T14:23:59Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Viewsonic va1916w",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-va1916w/m5190155",
-      "price_min": 390,
-      "price_max": 390,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Мукачівська, 2"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-27T20:58:47Z",
-      "price_history": [
-        {
-          "price": 390,
-          "at": "2026-08-27T20:58:47Z"
         }
       ],
       "category": "Монітори",
@@ -2013,7 +1993,7 @@
         "м. Дрогобич, вул. Пилипа Орлика, 14",
         "м. Харків, Салтівське шосе 155/93"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -4273,26 +4253,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi mag 275qf",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
-      "price_min": 6500,
-      "price_max": 6500,
-      "city": "Львів",
-      "addresses": [
-        "м. Львів, вул. Промислова, 50/52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-27T20:19:27Z",
-      "price_history": [
-        {
-          "price": 6500,
-          "at": "2026-09-27T20:19:27Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Msi mag 275cqrf-qd e2",
       "url": "https://tehnoskarb.ua/montor-msi-mag-275cqrf-qd-e2/m5191088",
       "price_min": 6680,
@@ -4819,6 +4779,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung odyssey g7 c32g75tq",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-c32g75tq/m5122348",
+      "price_min": 16180,
+      "price_max": 16180,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-03T15:58:12Z",
+      "price_history": [
+        {
+          "price": 16180,
+          "at": "2026-10-03T15:58:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus rog strix xg27ucg",
       "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27ucg/m5194286",
       "price_min": 16990,
@@ -5076,33 +5054,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Philips 193v5lsb2",
-      "url": "https://tehnoskarb.ua/montor-philips-193v5lsb2/m4993360",
-      "price": 630,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-23T21:16:56Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Proview ep2230w",
-      "url": "https://tehnoskarb.ua/montor-proview-ep2230w/m5195166",
-      "price": 550,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-24T09:06:33Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s27c330gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-s27c330gai/m5195054",
-      "price": 3310,
-      "city": "Житомир",
-      "category": "Монітори",
-      "at": "2026-09-24T09:06:33Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung 740n",
@@ -6938,6 +6889,33 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-03T11:55:30Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Viewsonic va1916w",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va1916w/m5190155",
+      "price": 390,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-10-03T15:58:12Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi mag 275qf",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-275qf/m5093212",
+      "price": 6500,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-10-03T15:58:12Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung odyssey g7 c32g75tq",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-c32g75tq/m5122348",
+      "price": 16180,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-03T15:58:12Z"
     }
   ],
   "config": {
