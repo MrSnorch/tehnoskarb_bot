@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-03T19:10:31Z",
+  "updated_at": "2026-10-03T22:24:12Z",
   "stats": {
-    "total": 228,
-    "avg_price": 4015,
+    "total": 231,
+    "avg_price": 4069,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -3831,6 +3831,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Fujitsu b24-9 ts",
+      "url": "https://tehnoskarb.ua/montor-fujitsu-b24-9-ts/m5196437",
+      "price_min": 4000,
+      "price_max": 4000,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-03T22:20:36Z",
+      "price_history": [
+        {
+          "price": 4000,
+          "at": "2026-10-03T22:20:36Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung c27f396fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-c27f396fhi/m5145006",
       "price_min": 4060,
@@ -4559,6 +4577,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 27gn950-b",
+      "url": "https://tehnoskarb.ua/montor-lg-27gn950-b/m5165373",
+      "price_min": 9000,
+      "price_max": 9000,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-03T22:20:36Z",
+      "price_history": [
+        {
+          "price": 9000,
+          "at": "2026-10-03T22:20:36Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Benq benq zowie xl2546k",
       "url": "https://tehnoskarb.ua/montor-benq-benq-zowie-xl2546k/m5180042",
       "price_min": 10000,
@@ -4663,6 +4699,24 @@
         {
           "price": 10970,
           "at": "2026-08-26T04:41:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell s2722qc",
+      "url": "https://tehnoskarb.ua/montor-dell-s2722qc/m5185518",
+      "price_min": 11500,
+      "price_max": 11500,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-03T22:20:36Z",
+      "price_history": [
+        {
+          "price": 11500,
+          "at": "2026-10-03T22:20:36Z"
         }
       ],
       "category": "Монітори",
@@ -5066,33 +5120,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Msi g244f",
-      "url": "https://tehnoskarb.ua/montor-msi-g244f/m5052588",
-      "price": 3600,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-24T14:19:33Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg l194wts",
-      "url": "https://tehnoskarb.ua/montor-lg-l194wts/m5043373",
-      "price": 300,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-24T14:19:33Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg 24mp58vq-p",
-      "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
-      "price": 1530,
-      "city": "Бердичів",
-      "category": "Монітори",
-      "at": "2026-09-24T14:19:33Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus tuf gaming vg259qmrl5a",
@@ -6928,6 +6955,33 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-03T19:09:48Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Fujitsu b24-9 ts",
+      "url": "https://tehnoskarb.ua/montor-fujitsu-b24-9-ts/m5196437",
+      "price": 4000,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-03T22:20:36Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell s2722qc",
+      "url": "https://tehnoskarb.ua/montor-dell-s2722qc/m5185518",
+      "price": 11500,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-03T22:20:36Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 27gn950-b",
+      "url": "https://tehnoskarb.ua/montor-lg-27gn950-b/m5165373",
+      "price": 9000,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-03T22:20:36Z"
     }
   ],
   "config": {
