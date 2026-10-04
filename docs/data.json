@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-04T18:09:34Z",
+  "updated_at": "2026-10-04T21:49:09Z",
   "stats": {
-    "total": 223,
-    "avg_price": 4230,
+    "total": 226,
+    "avg_price": 4340,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1061,6 +1061,24 @@
         {
           "price": 520,
           "at": "2026-10-01T19:43:41Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg e1951s",
+      "url": "https://tehnoskarb.ua/montor-lg-e1951s/m5196866",
+      "price_min": 530,
+      "price_max": 530,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-04T21:48:34Z",
+      "price_history": [
+        {
+          "price": 530,
+          "at": "2026-10-04T21:48:34Z"
         }
       ],
       "category": "Монітори",
@@ -2422,6 +2440,24 @@
         {
           "price": 1330,
           "at": "2026-09-19T17:50:03Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg 22m35a",
+      "url": "https://tehnoskarb.ua/montor-lg-22m35a/m5104211",
+      "price_min": 1330,
+      "price_max": 1330,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-04T21:48:34Z",
+      "price_history": [
+        {
+          "price": 1330,
+          "at": "2026-10-04T21:48:34Z"
         }
       ],
       "category": "Монітори",
@@ -4894,6 +4930,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus rog swift pg32ucdp",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-swift-pg32ucdp/m5196662",
+      "price_min": 35700,
+      "price_max": 35700,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-04T21:48:34Z",
+      "price_history": [
+        {
+          "price": 35700,
+          "at": "2026-10-04T21:48:34Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus rog swift oled pg27ucdm",
       "url": "https://tehnoskarb.ua/montor-asus-rog-swift-oled-pg27ucdm/m5195259",
       "price_min": 46000,
@@ -4935,33 +4989,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Msi mag 244c",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-244c/m5158904",
-      "price": 3100,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-09-25T16:51:07Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg 22m37a",
-      "url": "https://tehnoskarb.ua/montor-22-lg-22m37a/m5137076",
-      "price": 500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-09-25T20:18:57Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung smart monitor m7",
-      "url": "https://tehnoskarb.ua/montor-samsung-smart-monitor-m7/m5188136",
-      "price": 11560,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-25T20:18:57Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus rog strix xg259cs",
@@ -6795,6 +6822,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-10-04T18:05:12Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg e1951s",
+      "url": "https://tehnoskarb.ua/montor-lg-e1951s/m5196866",
+      "price": 530,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-04T21:48:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus rog swift pg32ucdp",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-swift-pg32ucdp/m5196662",
+      "price": 35700,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-04T21:48:34Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 22m35a",
+      "url": "https://tehnoskarb.ua/montor-lg-22m35a/m5104211",
+      "price": 1330,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-04T21:48:34Z"
     }
   ],
   "config": {
