@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-08T14:33:16Z",
+  "updated_at": "2026-10-08T20:07:55Z",
   "stats": {
-    "total": 235,
-    "avg_price": 4389,
+    "total": 236,
+    "avg_price": 4455,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1970,7 +1970,7 @@
       "addresses": [
         "м. Запоріжжя, вул. Ентузіастів, 3"
       ],
-      "offers": 5,
+      "offers": 6,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -2792,24 +2792,6 @@
         {
           "price": 2170,
           "at": "2026-09-18T17:46:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Eizo flexscan ev2450",
-      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2450/m5197208",
-      "price_min": 2210,
-      "price_max": 2210,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-07T07:02:08Z",
-      "price_history": [
-        {
-          "price": 2210,
-          "at": "2026-10-07T07:02:08Z"
         }
       ],
       "category": "Монітори",
@@ -4262,6 +4244,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus vg279ql3a",
+      "url": "https://tehnoskarb.ua/montor-asus-vg279ql3a/m5197428",
+      "price_min": 7160,
+      "price_max": 7160,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-08T20:07:18Z",
+      "price_history": [
+        {
+          "price": 7160,
+          "at": "2026-10-08T20:07:18Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus tuf gaming vg27aql5a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql5a/m5183356",
       "price_min": 7200,
@@ -4756,6 +4756,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus mb16awp",
+      "url": "https://tehnoskarb.ua/montor-asus-mb16awp/m5197416",
+      "price_min": 15110,
+      "price_max": 15110,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-08T20:07:18Z",
+      "price_history": [
+        {
+          "price": 15110,
+          "at": "2026-10-08T20:07:18Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Iiyama t2752msc-b1",
       "url": "https://tehnoskarb.ua/montor-iiyama-t2752msc-b1/m5187007",
       "price_min": 15120,
@@ -5111,34 +5129,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus vw192c",
-      "url": "https://tehnoskarb.ua/montor-asus-vw192c/m5155711",
-      "price": 450,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-09-29T20:11:09Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Samsung odyssey g5 ls27cg550",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
-      "price_old": 5300,
-      "price_new": 5160,
-      "city": "Тернопіль",
-      "category": "Монітори",
-      "at": "2026-09-29T20:11:09Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg27aql3a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql3a/m5107130",
-      "price": 10780,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-09-29T20:11:09Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Lg 22mp58d-p",
@@ -6978,6 +6968,33 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-08T14:26:14Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Eizo flexscan ev2450",
+      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2450/m5197208",
+      "price": 2210,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-08T20:07:18Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus mb16awp",
+      "url": "https://tehnoskarb.ua/montor-asus-mb16awp/m5197416",
+      "price": 15110,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-08T20:07:18Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vg279ql3a",
+      "url": "https://tehnoskarb.ua/montor-asus-vg279ql3a/m5197428",
+      "price": 7160,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-08T20:07:18Z"
     }
   ],
   "config": {
