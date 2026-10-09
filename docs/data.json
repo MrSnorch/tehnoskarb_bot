@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-08T20:07:55Z",
+  "updated_at": "2026-10-09T00:40:44Z",
   "stats": {
-    "total": 236,
-    "avg_price": 4455,
+    "total": 234,
+    "avg_price": 4450,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -3409,24 +3409,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lenovo l27-4c",
-      "url": "https://tehnoskarb.ua/montor-lenovo-l27-4c/m5195763",
-      "price_min": 3500,
-      "price_max": 3500,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-03T06:10:39Z",
-      "price_history": [
-        {
-          "price": 3500,
-          "at": "2026-10-03T06:10:39Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Hp 27er",
       "url": "https://tehnoskarb.ua/montor-hp-27er/m5190984",
       "price_min": 3500,
@@ -4130,24 +4112,6 @@
         {
           "price": 6500,
           "at": "2026-10-04T07:55:17Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus tuf gaming vg27aq3a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aq3a/m5122947",
-      "price_min": 6500,
-      "price_max": 6500,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-08T14:26:14Z",
-      "price_history": [
-        {
-          "price": 6500,
-          "at": "2026-10-08T14:26:14Z"
         }
       ],
       "category": "Монітори",
@@ -5129,25 +5093,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Lg 22mp58d-p",
-      "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
-      "price_old": 1900,
-      "price_new": 1560,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-29T20:11:09Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор  19\"  TFT-LCD Asus vs197",
-      "url": "https://tehnoskarb.ua/montor-19-tft-lcd-asus-vs197/m4755201",
-      "price": 290,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-09-29T20:11:09Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Benq gw2790",
@@ -6995,6 +6940,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-08T20:07:18Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo l27-4c",
+      "url": "https://tehnoskarb.ua/montor-lenovo-l27-4c/m5195763",
+      "price": 3500,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-09T00:34:16Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus tuf gaming vg27aq3a",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aq3a/m5122947",
+      "price": 6500,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-09T00:34:16Z"
     }
   ],
   "config": {
