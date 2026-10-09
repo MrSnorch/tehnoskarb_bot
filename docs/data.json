@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-09T07:19:52Z",
+  "updated_at": "2026-10-09T14:39:36Z",
   "stats": {
-    "total": 235,
-    "avg_price": 4432,
+    "total": 232,
+    "avg_price": 4425,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1974,7 +1974,7 @@
       "addresses": [
         "м. Запоріжжя, вул. Ентузіастів, 3"
       ],
-      "offers": 6,
+      "offers": 5,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -2350,26 +2350,6 @@
         {
           "price": 1220,
           "at": "2026-09-25T11:40:38Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lenovo thinkvision t2224pd",
-      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2224pd/m5182252",
-      "price_min": 1250,
-      "price_max": 1250,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, вул. Академіка Філатова, 86"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 1250,
-          "at": "2026-08-07T19:29:58Z"
         }
       ],
       "category": "Монітори",
@@ -3583,12 +3563,12 @@
       "name": "Монітор Lenovo legion h24238fr0",
       "url": "https://tehnoskarb.ua/montor-lenovo-legion-h24238fr0/m5192256",
       "price_min": 3900,
-      "price_max": 4230,
+      "price_max": 3900,
       "city": "Ужгород",
       "addresses": [
         "м. Ужгород, вул. Грушевського, 67"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-09-25T11:40:38Z",
       "price_history": [
         {
@@ -3984,24 +3964,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey g5 c27g55tqb",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c27g55tqb/m5180698",
-      "price_min": 5200,
-      "price_max": 5200,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-07T07:02:08Z",
-      "price_history": [
-        {
-          "price": 5200,
-          "at": "2026-10-07T07:02:08Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus tuf gaming vg279q3a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279q3a/m5196548",
       "price_min": 5330,
@@ -4376,24 +4338,6 @@
         {
           "price": 8100,
           "at": "2026-10-05T15:39:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi pro mp341cq",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp341cq/m5197220",
-      "price_min": 8330,
-      "price_max": 8330,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-08T06:30:42Z",
-      "price_history": [
-        {
-          "price": 8330,
-          "at": "2026-10-08T06:30:42Z"
         }
       ],
       "category": "Монітори",
@@ -5123,34 +5067,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Asus tuf gaming vg24vqr",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg24vqr/m5193463",
-      "price": 4900,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-09-30T10:59:14Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lenovo legion r24e",
-      "url": "https://tehnoskarb.ua/montor-lenovo-legion-r24e/m5142020",
-      "price": 3900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-09-30T10:59:14Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Aoc c24g2u/bk",
-      "url": "https://tehnoskarb.ua/montor-aoc-c24g2u-bk/m5148499",
-      "price_old": 4100,
-      "price_new": 3700,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-09-30T10:59:14Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Msi modern md272qxpw",
@@ -6990,6 +6906,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-10-09T07:12:18Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lenovo thinkvision t2224pd",
+      "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t2224pd/m5182252",
+      "price": 1250,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-10-09T14:32:10Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey g5 c27g55tqb",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c27g55tqb/m5180698",
+      "price": 5200,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-09T14:32:10Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp341cq",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp341cq/m5197220",
+      "price": 8330,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-09T14:32:10Z"
     }
   ],
   "config": {
