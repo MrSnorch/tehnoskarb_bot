@@ -1262,27 +1262,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-18T04:37:38Z"
   },
-  "https://tehnoskarb.ua/montor-msi-g2712/m5188795": {
-    "name": "Монітор Msi g2712",
-    "price_min": 3820,
-    "price_max": 3820,
-    "city": "Броди",
-    "addresses": [
-      "м. Броди, вул. Гончарська, 1"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-18T17:28:45Z",
-    "price_history": [
-      {
-        "price": 3820,
-        "at": "2026-08-18T17:28:45Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-18T17:28:45Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-u32j590u/m5167067": {
     "name": "Монітор Samsung u32j590u",
     "price_min": 6420,
@@ -2577,27 +2556,6 @@
     "details_failures": 87,
     "details_last_attempt": "2026-10-09T14:32:10Z",
     "details_retry_at": "2026-10-09T20:32:10Z"
-  },
-  "https://tehnoskarb.ua/montor-benq-g2020hd/m5126803": {
-    "name": "Монітор Benq g2020hd",
-    "price_min": 700,
-    "price_max": 700,
-    "city": "Шептицький",
-    "addresses": [
-      "м. Шептицький, просп. Шевченка, 10"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-09T19:22:24Z",
-    "price_history": [
-      {
-        "price": 700,
-        "at": "2026-09-09T19:22:24Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-09-09T19:22:24Z"
   },
   "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717": {
     "name": "Монітор Samsung c24f390fhi",
@@ -4715,26 +4673,6 @@
     "details_last_attempt": "2026-10-09T14:32:10Z",
     "details_retry_at": "2026-10-09T20:32:10Z"
   },
-  "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqa1a/m5058821": {
-    "name": "Монітор Asus tuf gaming vg27aqa1a",
-    "price_min": 6500,
-    "price_max": 6500,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-04T07:55:17Z",
-    "price_history": [
-      {
-        "price": 6500,
-        "at": "2026-10-04T07:55:17Z"
-      }
-    ],
-    "details_failures": 18,
-    "details_last_attempt": "2026-10-09T14:32:10Z",
-    "details_retry_at": "2026-10-09T20:32:10Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g6-s27dg612si/m5195219": {
     "name": "Монітор Samsung odyssey oled g6 s27dg612si",
     "price_min": 19800,
@@ -5291,9 +5229,9 @@
         "at": "2026-10-08T20:07:18Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-09T14:32:10Z",
-    "details_retry_at": "2026-10-09T18:32:10Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-09T20:04:39Z",
+    "details_retry_at": "2026-10-10T02:04:39Z"
   },
   "https://tehnoskarb.ua/montor-asus-vg279ql3a/m5197428": {
     "name": "Монітор Asus vg279ql3a",
@@ -5311,9 +5249,9 @@
         "at": "2026-10-08T20:07:18Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-09T14:32:10Z",
-    "details_retry_at": "2026-10-09T18:32:10Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-09T20:04:39Z",
+    "details_retry_at": "2026-10-10T02:04:39Z"
   },
   "https://tehnoskarb.ua/montor-hp-elite-display-e221c/m5142749": {
     "name": "Монітор Hp elite display e221c",
@@ -5331,8 +5269,28 @@
         "at": "2026-10-09T07:12:18Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-10-09T14:32:10Z",
-    "details_retry_at": "2026-10-09T15:32:10Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-10-09T20:04:39Z",
+    "details_retry_at": "2026-10-09T22:04:39Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm1b/m5156865": {
+    "name": "Монітор Asus tuf gaming vg27vqm1b",
+    "price_min": 5340,
+    "price_max": 5340,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-09T20:04:39Z",
+    "price_history": [
+      {
+        "price": 5340,
+        "at": "2026-10-09T20:04:39Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-09T20:04:39Z",
+    "details_retry_at": "2026-10-09T20:34:39Z"
   }
 }

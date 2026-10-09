@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-09T14:39:36Z",
+  "updated_at": "2026-10-09T20:04:59Z",
   "stats": {
-    "total": 232,
-    "avg_price": 4425,
+    "total": 230,
+    "avg_price": 4439,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1485,26 +1485,6 @@
         {
           "price": 680,
           "at": "2026-09-10T08:46:07Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Benq g2020hd",
-      "url": "https://tehnoskarb.ua/montor-benq-g2020hd/m5126803",
-      "price_min": 700,
-      "price_max": 700,
-      "city": "Шептицький",
-      "addresses": [
-        "м. Шептицький, просп. Шевченка, 10"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-09T19:22:24Z",
-      "price_history": [
-        {
-          "price": 700,
-          "at": "2026-09-09T19:22:24Z"
         }
       ],
       "category": "Монітори",
@@ -3520,26 +3500,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi g2712",
-      "url": "https://tehnoskarb.ua/montor-msi-g2712/m5188795",
-      "price_min": 3820,
-      "price_max": 3820,
-      "city": "Броди",
-      "addresses": [
-        "м. Броди, вул. Гончарська, 1"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-18T17:28:45Z",
-      "price_history": [
-        {
-          "price": 3820,
-          "at": "2026-08-18T17:28:45Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vy249hf-w",
       "url": "https://tehnoskarb.ua/montor-asus-vy249hf-w/m5194053",
       "price_min": 3880,
@@ -3982,6 +3942,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus tuf gaming vg27vqm1b",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm1b/m5156865",
+      "price_min": 5340,
+      "price_max": 5340,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-09T20:04:39Z",
+      "price_history": [
+        {
+          "price": 5340,
+          "at": "2026-10-09T20:04:39Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung curved cr50",
       "url": "https://tehnoskarb.ua/montor-samsung-curved-cr50/m5039496",
       "price_min": 5460,
@@ -4082,24 +4060,6 @@
         {
           "price": 6420,
           "at": "2026-10-01T19:43:41Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Asus tuf gaming vg27aqa1a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqa1a/m5058821",
-      "price_min": 6500,
-      "price_max": 6500,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-04T07:55:17Z",
-      "price_history": [
-        {
-          "price": 6500,
-          "at": "2026-10-04T07:55:17Z"
         }
       ],
       "category": "Монітори",
@@ -5067,44 +5027,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Msi modern md272qxpw",
-      "url": "https://tehnoskarb.ua/montor-msi-modern-md272qxpw/m5192622",
-      "price": 6890,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-30T16:47:27Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Aoc 24g2spae/bk",
-      "url": "https://tehnoskarb.ua/montor-aoc-24g2spae-bk/m5195795",
-      "price": 7900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-09-30T16:47:27Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Samsung syncmaster 913n",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-913n/m5178175",
-      "price_old": 380,
-      "price_new": 570,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-09-30T16:47:27Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Philips 243v7q",
-      "url": "https://tehnoskarb.ua/montor-philips-243v7q/m5141771",
-      "price_old": 2240,
-      "price_new": 2810,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-09-30T16:47:27Z"
-    },
     {
       "type": "rise",
       "name": "Монітор Samsung s27ag300ni",
@@ -6933,6 +6855,42 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-09T14:32:10Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi g2712",
+      "url": "https://tehnoskarb.ua/montor-msi-g2712/m5188795",
+      "price": 3820,
+      "city": "Броди",
+      "category": "Монітори",
+      "at": "2026-10-09T20:04:39Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq g2020hd",
+      "url": "https://tehnoskarb.ua/montor-benq-g2020hd/m5126803",
+      "price": 700,
+      "city": "Шептицький",
+      "category": "Монітори",
+      "at": "2026-10-09T20:04:39Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus tuf gaming vg27aqa1a",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqa1a/m5058821",
+      "price": 6500,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-09T20:04:39Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus tuf gaming vg27vqm1b",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm1b/m5156865",
+      "price": 5340,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-09T20:04:39Z"
     }
   ],
   "config": {
