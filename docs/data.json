@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-09T20:04:59Z",
+  "updated_at": "2026-10-10T00:20:14Z",
   "stats": {
-    "total": 230,
-    "avg_price": 4439,
+    "total": 231,
+    "avg_price": 4429,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2780,6 +2780,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lenovo l24-4c",
+      "url": "https://tehnoskarb.ua/montor-lenovo-l24-4c/m5178818",
+      "price_min": 2180,
+      "price_max": 2180,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-10T00:13:30Z",
+      "price_history": [
+        {
+          "price": 2180,
+          "at": "2026-10-10T00:13:30Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell p2319h",
       "url": "https://tehnoskarb.ua/montor-dell-p2319h/m5043678",
       "price_min": 2230,
@@ -5028,16 +5046,6 @@
   ],
   "events": [
     {
-      "type": "rise",
-      "name": "Монітор Samsung s27ag300ni",
-      "url": "https://tehnoskarb.ua/montor-samsung-s27ag300ni/m5074720",
-      "price_old": 4230,
-      "price_new": 4500,
-      "city": "Кам`янське",
-      "category": "Монітори",
-      "at": "2026-09-30T16:47:27Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Asus rog strix xg259cs",
       "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg259cs/m5183563",
@@ -6891,6 +6899,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-09T20:04:39Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lenovo l24-4c",
+      "url": "https://tehnoskarb.ua/montor-lenovo-l24-4c/m5178818",
+      "price": 2180,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-10T00:13:30Z"
     }
   ],
   "config": {
