@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-10T13:01:33Z",
+  "updated_at": "2026-10-10T17:41:39Z",
   "stats": {
-    "total": 230,
-    "avg_price": 4451,
+    "total": 229,
+    "avg_price": 4463,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2605,24 +2605,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung ls24d300gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gai/m5182092",
-      "price_min": 1800,
-      "price_max": 1800,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-05T15:39:58Z",
-      "price_history": [
-        {
-          "price": 1800,
-          "at": "2026-10-05T15:39:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg e2441t",
       "url": "https://tehnoskarb.ua/montor-lg-e2441t/m5096602",
       "price_min": 1820,
@@ -3780,12 +3762,12 @@
       "name": "Монітор Samsung odyssey g5 ls27cg550",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
       "price_min": 4800,
-      "price_max": 5160,
+      "price_max": 4800,
       "city": "Тернопіль",
       "addresses": [
         "м. Тернопіль, б-р Шевченка, 14"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-09-28T17:16:18Z",
       "price_history": [
         {
@@ -5028,15 +5010,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung bx2231",
-      "url": "https://tehnoskarb.ua/montor-samsung-bx2231/m5064341",
-      "price": 1500,
-      "city": "Ковель",
-      "category": "Монітори",
-      "at": "2026-10-01T14:23:59Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Msi g2422c",
@@ -6890,6 +6863,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-10T12:54:08Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung ls24d300gai",
+      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gai/m5182092",
+      "price": 1800,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-10T17:41:16Z"
     }
   ],
   "config": {
