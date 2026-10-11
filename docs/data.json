@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-11T00:24:06Z",
+  "updated_at": "2026-10-11T06:23:12Z",
   "stats": {
     "total": 229,
-    "avg_price": 4463,
+    "avg_price": 4469,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2403,28 +2403,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Qube b24f120hs",
-      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
-      "price_min": 1401,
-      "price_max": 2900,
-      "city": "",
-      "addresses": [],
-      "offers": 2,
-      "first_seen": "2026-10-06T21:08:40Z",
-      "price_history": [
-        {
-          "price": 2900,
-          "at": "2026-10-06T21:08:40Z"
-        },
-        {
-          "price": 1401,
-          "at": "2026-10-10T06:13:47Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Dell s2240l",
       "url": "https://tehnoskarb.ua/montor-dell-s2240l/m5195654",
       "price_min": 1500,
@@ -3164,6 +3142,32 @@
         {
           "price": 2900,
           "at": "2026-10-04T07:55:17Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Qube b24f120hs",
+      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
+      "price_min": 2900,
+      "price_max": 2900,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-06T21:08:40Z",
+      "price_history": [
+        {
+          "price": 2900,
+          "at": "2026-10-06T21:08:40Z"
+        },
+        {
+          "price": 1401,
+          "at": "2026-10-10T06:13:47Z"
+        },
+        {
+          "price": 2900,
+          "at": "2026-10-11T06:16:08Z"
         }
       ],
       "category": "Монітори",
@@ -5010,15 +5014,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Msi g2422c",
-      "url": "https://tehnoskarb.ua/montor-msi-g2422c/m5090907",
-      "price": 4200,
-      "city": "Винники",
-      "category": "Монітори",
-      "at": "2026-10-01T14:23:59Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Asus vs229",
@@ -6872,6 +6867,16 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-10T17:41:16Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Qube b24f120hs",
+      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
+      "price_old": 1401,
+      "price_new": 2900,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-11T06:16:08Z"
     }
   ],
   "config": {
