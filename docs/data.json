@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-11T18:20:41Z",
+  "updated_at": "2026-10-11T22:28:35Z",
   "stats": {
-    "total": 227,
-    "avg_price": 4491,
+    "total": 229,
+    "avg_price": 4472,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2616,6 +2616,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi pro mp241x",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp241x/m5043296",
+      "price_min": 1930,
+      "price_max": 1930,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-11T22:21:07Z",
+      "price_history": [
+        {
+          "price": 1930,
+          "at": "2026-10-11T22:21:07Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s22f350fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-s22f350fhi/m5139689",
       "price_min": 2000,
@@ -3153,6 +3171,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Xiaomi mi desktop monitor 1c / bhr4510gl",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-desktop-monitor-1c-bhr4510gl/m5153354",
+      "price_min": 3000,
+      "price_max": 3000,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-11T22:21:07Z",
+      "price_history": [
+        {
+          "price": 3000,
+          "at": "2026-10-11T22:21:07Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Xiaomi monitor a27i",
       "url": "https://tehnoskarb.ua/montor-xiaomi-monitor-a27i/m5156820",
       "price_min": 3100,
@@ -3213,6 +3249,28 @@
         {
           "price": 3190,
           "at": "2026-08-13T20:46:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi optix g241vc",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
+      "price_min": 3250,
+      "price_max": 3540,
+      "city": "",
+      "addresses": [],
+      "offers": 2,
+      "first_seen": "2026-10-02T21:12:43Z",
+      "price_history": [
+        {
+          "price": 3540,
+          "at": "2026-10-02T21:12:43Z"
+        },
+        {
+          "price": 3250,
+          "at": "2026-10-11T22:21:07Z"
         }
       ],
       "category": "Монітори",
@@ -3329,24 +3387,6 @@
         {
           "price": 3500,
           "at": "2026-10-08T14:26:14Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi optix g241vc",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
-      "price_min": 3540,
-      "price_max": 3540,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-02T21:12:43Z",
-      "price_history": [
-        {
-          "price": 3540,
-          "at": "2026-10-02T21:12:43Z"
         }
       ],
       "category": "Монітори",
@@ -4949,36 +4989,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Samsung f24t452fqr",
-      "url": "https://tehnoskarb.ua/montor-samsung-f24t452fqr/m5154385",
-      "price_old": 3200,
-      "price_new": 2880,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-01T14:23:59Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Acer g195hqv",
-      "url": "https://tehnoskarb.ua/montor-acer-g195hqv/m5146468",
-      "price_old": 430,
-      "price_new": 390,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-01T14:23:59Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Eizo flexscan ev2430",
-      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
-      "price_old": 4000,
-      "price_new": 3600,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-01T14:23:59Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Lg 22m37a",
@@ -6804,6 +6814,34 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-11T18:20:12Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Msi optix g241vc",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
+      "price_old": 3540,
+      "price_new": 3250,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-11T22:21:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Xiaomi mi desktop monitor 1c / bhr4510gl",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-desktop-monitor-1c-bhr4510gl/m5153354",
+      "price": 3000,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-11T22:21:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp241x",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp241x/m5043296",
+      "price": 1930,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-11T22:21:07Z"
     }
   ],
   "config": {
