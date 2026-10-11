@@ -126,7 +126,7 @@
       "м. Дрогобич, вул. Пилипа Орлика, 14",
       "м. Харків, Салтівське шосе 155/93"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -836,40 +836,6 @@
     "details_last_attempt": "2026-10-11T13:19:24Z",
     "details_retry_at": "2026-10-11T19:19:24Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-e2220n/m5056230": {
-    "name": "Монітор Samsung e2220n",
-    "price_min": 530,
-    "price_max": 530,
-    "city": "Львів",
-    "addresses": [
-      "м. Львів, вул. Промислова, 50/52",
-      "м. Київ, вул. Вишгородська, 56/2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 600,
-        "at": "2026-08-07T19:29:58Z"
-      },
-      {
-        "price": 540,
-        "at": "2026-08-17T09:44:00Z"
-      },
-      {
-        "price": 490,
-        "at": "2026-10-01T14:23:59Z"
-      },
-      {
-        "price": 530,
-        "at": "2026-10-05T15:39:58Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
   "https://tehnoskarb.ua/montor-asus-vs197/m5042579": {
     "name": "Монітор Asus vs197",
     "price_min": 550,
@@ -911,7 +877,7 @@
       "м. Київ, б-р Кольцова, 13",
       "м. Львів, вул. Широка, 70-В"
     ],
-    "offers_count": 3,
+    "offers_count": 4,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -5152,5 +5118,105 @@
     "details_failures": 6,
     "details_last_attempt": "2026-10-11T13:19:24Z",
     "details_retry_at": "2026-10-11T19:19:24Z"
+  },
+  "https://tehnoskarb.ua/montor-acer-vg270-ebmipx/m5197803": {
+    "name": "Монітор Acer vg270 ebmipx",
+    "price_min": 3990,
+    "price_max": 3990,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-11T18:20:12Z",
+    "price_history": [
+      {
+        "price": 3990,
+        "at": "2026-10-11T18:20:12Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-11T18:20:12Z",
+    "details_retry_at": "2026-10-11T18:50:12Z"
+  },
+  "https://tehnoskarb.ua/montor-asrock-pg25fft/m5197785": {
+    "name": "Монітор Asrock pg25fft",
+    "price_min": 3640,
+    "price_max": 3640,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-11T18:20:12Z",
+    "price_history": [
+      {
+        "price": 3640,
+        "at": "2026-10-11T18:20:12Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-11T18:20:12Z",
+    "details_retry_at": "2026-10-11T18:50:12Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-22mp58vq-p/m5068568": {
+    "name": "Монітор Lg 22mp58vq-p",
+    "price_min": 1600,
+    "price_max": 1600,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-11T18:20:12Z",
+    "price_history": [
+      {
+        "price": 1600,
+        "at": "2026-10-11T18:20:12Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-11T18:20:12Z",
+    "details_retry_at": "2026-10-11T18:50:12Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-s22r350fhi/m5064074": {
+    "name": "Монітор Samsung s22r350fhi",
+    "price_min": 2400,
+    "price_max": 2400,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-11T18:20:12Z",
+    "price_history": [
+      {
+        "price": 2400,
+        "at": "2026-10-11T18:20:12Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-11T18:20:12Z",
+    "details_retry_at": "2026-10-11T18:50:12Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-225bw/m5018524": {
+    "name": "Монітор Samsung 225bw",
+    "price_min": 620,
+    "price_max": 620,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-11T18:20:12Z",
+    "price_history": [
+      {
+        "price": 620,
+        "at": "2026-10-11T18:20:12Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-11T18:20:12Z",
+    "details_retry_at": "2026-10-11T18:50:12Z"
   }
 }
