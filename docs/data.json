@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-12T01:35:25Z",
+  "updated_at": "2026-10-12T08:56:59Z",
   "stats": {
-    "total": 229,
-    "avg_price": 4472,
+    "total": 231,
+    "avg_price": 4461,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2842,6 +2842,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus vz229he",
+      "url": "https://tehnoskarb.ua/nastlnijj-montor-asus-vz229he/m5193257",
+      "price_min": 2300,
+      "price_max": 2300,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-12T08:48:54Z",
+      "price_history": [
+        {
+          "price": 2300,
+          "at": "2026-10-12T08:48:54Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Aoc m2470swh",
       "url": "https://tehnoskarb.ua/montor-aoc-m2470swh/m5192527",
       "price_min": 2310,
@@ -3257,8 +3275,8 @@
     {
       "name": "Монітор Msi optix g241vc",
       "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
-      "price_min": 3250,
-      "price_max": 3540,
+      "price_min": 3200,
+      "price_max": 3250,
       "city": "",
       "addresses": [],
       "offers": 2,
@@ -3271,6 +3289,10 @@
         {
           "price": 3250,
           "at": "2026-10-11T22:21:07Z"
+        },
+        {
+          "price": 3200,
+          "at": "2026-10-12T08:48:54Z"
         }
       ],
       "category": "Монітори",
@@ -3592,6 +3614,24 @@
         {
           "price": 4000,
           "at": "2026-10-04T07:55:17Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Aoc 24g2u5",
+      "url": "https://tehnoskarb.ua/montor-aoc-24g2u5/m5180639",
+      "price_min": 4110,
+      "price_max": 4110,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-12T08:48:54Z",
+      "price_history": [
+        {
+          "price": 4110,
+          "at": "2026-10-12T08:48:54Z"
         }
       ],
       "category": "Монітори",
@@ -4989,36 +5029,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Lg 22m37a",
-      "url": "https://tehnoskarb.ua/montor-22-lg-22m37a/m5137076",
-      "price_old": 500,
-      "price_new": 450,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-01T14:23:59Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Lg w1943ss",
-      "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
-      "price_old": 405,
-      "price_new": 365,
-      "city": "Золочів",
-      "category": "Монітори",
-      "at": "2026-10-01T14:23:59Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Lg e2040st",
-      "url": "https://tehnoskarb.ua/montor-lg-e2040st/m5112294",
-      "price_old": 450,
-      "price_new": 405,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-01T14:23:59Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Hp n223",
@@ -6842,6 +6852,34 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-11T22:21:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vz229he",
+      "url": "https://tehnoskarb.ua/nastlnijj-montor-asus-vz229he/m5193257",
+      "price": 2300,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-12T08:48:54Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc 24g2u5",
+      "url": "https://tehnoskarb.ua/montor-aoc-24g2u5/m5180639",
+      "price": 4110,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-12T08:48:54Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Msi optix g241vc",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
+      "price_old": 3250,
+      "price_new": 3200,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-12T08:48:54Z"
     }
   ],
   "config": {
