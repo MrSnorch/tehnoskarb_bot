@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-14T11:34:33Z",
+  "updated_at": "2026-10-14T15:55:57Z",
   "stats": {
-    "total": 223,
-    "avg_price": 4526,
+    "total": 222,
+    "avg_price": 4539,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1135,7 +1135,7 @@
         "г. Полтава, ул. Европейская, 22",
         "г. Вишневое, ул. Святошинская, 27"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -2530,30 +2530,6 @@
         {
           "price": 1830,
           "at": "2026-10-10T12:54:08Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Benq gw2470",
-      "url": "https://tehnoskarb.ua/montor-benq-gw2470/m5156904",
-      "price_min": 1830,
-      "price_max": 1830,
-      "city": "Кропивницький",
-      "addresses": [
-        "м. Кропивницький, вул. Незалежності, 9А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-09T19:22:24Z",
-      "price_history": [
-        {
-          "price": 2100,
-          "at": "2026-09-09T19:22:24Z"
-        },
-        {
-          "price": 1830,
-          "at": "2026-10-14T11:25:49Z"
         }
       ],
       "category": "Монітори",
@@ -4899,16 +4875,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Samsung odyssey g6",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g6/m5185171",
-      "price_old": 11610,
-      "price_new": 10600,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-03T06:10:39Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Hp omen 27qs",
       "url": "https://tehnoskarb.ua/montor-hp-omen-27qs/m5182774",
       "price_old": 11800,
@@ -6737,6 +6703,15 @@
       "city": "Полтава",
       "category": "Монітори",
       "at": "2026-10-14T11:25:49Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq gw2470",
+      "url": "https://tehnoskarb.ua/montor-benq-gw2470/m5156904",
+      "price": 1830,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-10-14T15:55:33Z"
     }
   ],
   "config": {
