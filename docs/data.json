@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-14T20:11:03Z",
+  "updated_at": "2026-10-14T23:22:17Z",
   "stats": {
-    "total": 223,
-    "avg_price": 4538,
+    "total": 225,
+    "avg_price": 4512,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -137,6 +137,24 @@
         {
           "price": 200,
           "at": "2026-10-01T14:23:59Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Aoc tft1780ps+",
+      "url": "https://tehnoskarb.ua/montor-aoc-tft1780ps+/m5198319",
+      "price_min": 200,
+      "price_max": 200,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-14T23:21:40Z",
+      "price_history": [
+        {
+          "price": 200,
+          "at": "2026-10-14T23:21:40Z"
         }
       ],
       "category": "Монітори",
@@ -3055,6 +3073,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Hp elitedisplay e243i",
+      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-e243i/m5198189",
+      "price_min": 3070,
+      "price_max": 3070,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-14T23:21:40Z",
+      "price_history": [
+        {
+          "price": 3070,
+          "at": "2026-10-14T23:21:40Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Xiaomi monitor a27i",
       "url": "https://tehnoskarb.ua/montor-xiaomi-monitor-a27i/m5156820",
       "price_min": 3100,
@@ -4884,24 +4920,6 @@
   ],
   "events": [
     {
-      "type": "new",
-      "name": "Монітор Benq gl2250",
-      "url": "https://tehnoskarb.ua/montor-benq-gl2250/m4739842",
-      "price": 630,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-03T06:10:39Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Msi pro mp251",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
-      "price": 2500,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-10-03T11:55:30Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Samsung odyssey oled g6 s27dg612si",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g6-s27dg612si/m5195219",
@@ -6720,6 +6738,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-14T20:02:45Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc tft1780ps+",
+      "url": "https://tehnoskarb.ua/montor-aoc-tft1780ps+/m5198319",
+      "price": 200,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-14T23:21:40Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp elitedisplay e243i",
+      "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-e243i/m5198189",
+      "price": 3070,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-14T23:21:40Z"
     }
   ],
   "config": {
