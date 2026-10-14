@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-14T00:38:40Z",
+  "updated_at": "2026-10-14T05:55:13Z",
   "stats": {
-    "total": 231,
-    "avg_price": 4423,
+    "total": 230,
+    "avg_price": 4431,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1015,6 +1015,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg flatron w1943s",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-w1943s/m5192566",
+      "price_min": 530,
+      "price_max": 590,
+      "city": "Хмельницький",
+      "addresses": [
+        "м. Хмельницький, вул. Кам`янецька, 11"
+      ],
+      "offers": 2,
+      "first_seen": "2026-09-09T06:28:17Z",
+      "price_history": [
+        {
+          "price": 590,
+          "at": "2026-09-09T06:28:17Z"
+        },
+        {
+          "price": 530,
+          "at": "2026-10-14T05:54:38Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg flatron e1910s",
       "url": "https://tehnoskarb.ua/montor-lg-flatron-e1910s/m5164771",
       "price_min": 540,
@@ -1231,26 +1255,6 @@
         {
           "price": 590,
           "at": "2026-10-01T14:23:59Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg flatron w1943s",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-w1943s/m5192566",
-      "price_min": 590,
-      "price_max": 590,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, вул. Кам`янецька, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-09T06:28:17Z",
-      "price_history": [
-        {
-          "price": 590,
-          "at": "2026-09-09T06:28:17Z"
         }
       ],
       "category": "Монітори",
@@ -2982,26 +2986,6 @@
         {
           "price": 2500,
           "at": "2026-09-11T05:01:10Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Aoc 24b1h",
-      "url": "https://tehnoskarb.ua/montor-aoc-24b1h/m5054008",
-      "price_min": 2550,
-      "price_max": 2550,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. Олени Теліги , 17"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-19T17:50:03Z",
-      "price_history": [
-        {
-          "price": 2550,
-          "at": "2026-09-19T17:50:03Z"
         }
       ],
       "category": "Монітори",
@@ -5045,26 +5029,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Msi pro mp252",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
-      "price_old": 3200,
-      "price_new": 2800,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-02T10:56:31Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Asus rog strix xg27acs",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs/m5148467",
-      "price_old": 9500,
-      "price_new": 8790,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-02T10:56:31Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Acer ek220q",
       "url": "https://tehnoskarb.ua/montor-acer-ek220q/m5113750",
       "price_old": 2420,
@@ -6881,6 +6845,25 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-13T21:25:29Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Aoc 24b1h",
+      "url": "https://tehnoskarb.ua/montor-aoc-24b1h/m5054008",
+      "price": 2550,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-10-14T05:54:38Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Lg flatron w1943s",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-w1943s/m5192566",
+      "price_old": 590,
+      "price_new": 530,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-10-14T05:54:38Z"
     }
   ],
   "config": {
