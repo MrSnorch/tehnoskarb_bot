@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-15T17:48:43Z",
+  "updated_at": "2026-10-15T21:10:31Z",
   "stats": {
-    "total": 228,
-    "avg_price": 4620,
+    "total": 230,
+    "avg_price": 4560,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -541,6 +541,24 @@
         {
           "price": 405,
           "at": "2026-10-01T14:23:59Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vw193d",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
+      "price_min": 420,
+      "price_max": 420,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-15T21:09:40Z",
+      "price_history": [
+        {
+          "price": 420,
+          "at": "2026-10-15T21:09:40Z"
         }
       ],
       "category": "Монітори",
@@ -1343,6 +1361,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Benq g2020hd",
+      "url": "https://tehnoskarb.ua/montor-benq-g2020hd/m5126803",
+      "price_min": 700,
+      "price_max": 700,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-15T21:09:40Z",
+      "price_history": [
+        {
+          "price": 700,
+          "at": "2026-10-15T21:09:40Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg electronics e1942c",
       "url": "https://tehnoskarb.ua/montor-lg-electronics-e1942c/m5196453",
       "price_min": 710,
@@ -1576,6 +1612,24 @@
         {
           "price": 820,
           "at": "2026-10-13T16:16:38Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg 22m38a",
+      "url": "https://tehnoskarb.ua/montor-lg-22m38a/m5041899",
+      "price_min": 820,
+      "price_max": 820,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-15T21:09:40Z",
+      "price_history": [
+        {
+          "price": 820,
+          "at": "2026-10-15T21:09:40Z"
         }
       ],
       "category": "Монітори",
@@ -3931,24 +3985,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus tuf gaming vg27aq3a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aq3a/m5122947",
-      "price_min": 6500,
-      "price_max": 6500,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-10T12:54:08Z",
-      "price_history": [
-        {
-          "price": 6500,
-          "at": "2026-10-10T12:54:08Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s27dg500",
       "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
       "price_min": 6510,
@@ -4970,42 +5006,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Qube b24f120hs",
-      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
-      "price": 2900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-04T13:48:47Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi pro mp251",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236",
-      "price": 2500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-04T13:48:47Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Msi mag 275cqrf-qd e2",
-      "url": "https://tehnoskarb.ua/montor-msi-mag-275cqrf-qd-e2/m5191088",
-      "price": 6680,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-04T18:05:12Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Benq gl2450-t",
-      "url": "https://tehnoskarb.ua/montor-benq-gl2450-t/m5191795",
-      "price": 1600,
-      "city": "Бровари",
-      "category": "Монітори",
-      "at": "2026-10-04T18:05:12Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Hp l2208w",
@@ -6812,6 +6812,42 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-15T12:46:27Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus tuf gaming vg27aq3a",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aq3a/m5122947",
+      "price": 6500,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-15T21:09:40Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vw193d",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
+      "price": 420,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-15T21:09:40Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Benq g2020hd",
+      "url": "https://tehnoskarb.ua/montor-benq-g2020hd/m5126803",
+      "price": 700,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-15T21:09:40Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 22m38a",
+      "url": "https://tehnoskarb.ua/montor-lg-22m38a/m5041899",
+      "price": 820,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-15T21:09:40Z"
     }
   ],
   "config": {
