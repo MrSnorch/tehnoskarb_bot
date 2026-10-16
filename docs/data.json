@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-16T09:00:51Z",
+  "updated_at": "2026-10-16T13:48:38Z",
   "stats": {
-    "total": 232,
-    "avg_price": 4359,
+    "total": 231,
+    "avg_price": 4354,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -23,7 +23,6 @@
       "Київ",
       "Конотоп",
       "Кременчук",
-      "Кривий Ріг",
       "Кропивницький",
       "Луцьк",
       "Львів",
@@ -1673,24 +1672,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg 22m38a",
-      "url": "https://tehnoskarb.ua/montor-lg-22m38a/m5041899",
-      "price_min": 820,
-      "price_max": 820,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-15T21:09:40Z",
-      "price_history": [
-        {
-          "price": 820,
-          "at": "2026-10-15T21:09:40Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Hanns.g hl225d",
       "url": "https://tehnoskarb.ua/montor-hanns-g-hl225d/m5194921",
       "price_min": 830,
@@ -2403,6 +2384,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Qube b24f120hs",
+      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
+      "price_min": 1401,
+      "price_max": 1401,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-16T13:47:55Z",
+      "price_history": [
+        {
+          "price": 1401,
+          "at": "2026-10-16T13:47:55Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung bx2231",
       "url": "https://tehnoskarb.ua/montor-samsung-bx2231/m5064341",
       "price_min": 1500,
@@ -2424,12 +2423,12 @@
       "name": "Монітор Lg 22mp58d-p",
       "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
       "price_min": 1560,
-      "price_max": 1960,
+      "price_max": 1900,
       "city": "Київ",
       "addresses": [
         "м. Київ, вул. Лятошинського, 14"
       ],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-09-02T04:57:14Z",
       "price_history": [
         {
@@ -3982,26 +3981,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung c27rg50fh",
-      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
-      "price_min": 6200,
-      "price_max": 6200,
-      "city": "Кривий Ріг",
-      "addresses": [
-        "м. Кривий Ріг, вул. Соборності, 4А"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-11T05:01:10Z",
-      "price_history": [
-        {
-          "price": 6200,
-          "at": "2026-09-11T05:01:10Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung u32j590u",
       "url": "https://tehnoskarb.ua/montor-samsung-u32j590u/m5167067",
       "price_min": 6420,
@@ -5029,35 +5008,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Asus vt229h",
-      "url": "https://tehnoskarb.ua/montor-asus-vt229h/m5187011",
-      "price_old": 10970,
-      "price_new": 10000,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-05T15:39:58Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Asus tuf gaming vg27aql5a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql5a/m5183356",
-      "price_old": 8000,
-      "price_new": 7200,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-05T15:39:58Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls24d300gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24d300gai/m5182092",
-      "price": 1800,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-05T15:39:58Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Msi mag301cr2",
@@ -6870,6 +6820,33 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-16T08:50:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung c27rg50fh",
+      "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
+      "price": 6200,
+      "city": "Кривий Ріг",
+      "category": "Монітори",
+      "at": "2026-10-16T13:47:55Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 22m38a",
+      "url": "https://tehnoskarb.ua/montor-lg-22m38a/m5041899",
+      "price": 820,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-16T13:47:55Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Qube b24f120hs",
+      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
+      "price": 1401,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-16T13:47:55Z"
     }
   ],
   "config": {
