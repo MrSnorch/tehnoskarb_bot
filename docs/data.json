@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-17T10:47:20Z",
+  "updated_at": "2026-10-17T14:06:27Z",
   "stats": {
-    "total": 235,
-    "avg_price": 4328,
+    "total": 234,
+    "avg_price": 4345,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -83,32 +83,6 @@
         {
           "price": 180,
           "at": "2026-08-24T16:39:38Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg l1942s",
-      "url": "https://tehnoskarb.ua/montor-lg-l1942s/m5165584",
-      "price_min": 200,
-      "price_max": 200,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 250,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 225,
-          "at": "2026-08-17T09:44:00Z"
-        },
-        {
-          "price": 200,
-          "at": "2026-10-01T14:23:59Z"
         }
       ],
       "category": "Монітори",
@@ -1484,13 +1458,13 @@
       "name": "Монітор Acer v226hql",
       "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
       "price_min": 770,
-      "price_max": 1000,
+      "price_max": 770,
       "city": "Самбір",
       "addresses": [
         "м. Самбір, площа Ринок, 26",
         "м. Київ, просп. Червоної Калини, 26"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -5082,15 +5056,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Samsung s27d360gai",
-      "url": "https://tehnoskarb.ua/montor-samsung-s27d360gai/m5197070",
-      "price": 2770,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-06T16:09:53Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Lenovo l24-4c",
       "url": "https://tehnoskarb.ua/montor-lenovo-l24-4c/m5178818",
       "price": 2700,
@@ -6916,6 +6881,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-17T10:36:27Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg l1942s",
+      "url": "https://tehnoskarb.ua/montor-lg-l1942s/m5165584",
+      "price": 200,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-17T14:05:41Z"
     }
   ],
   "config": {
