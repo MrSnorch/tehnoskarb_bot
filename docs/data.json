@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-17T19:39:25Z",
+  "updated_at": "2026-10-17T22:01:46Z",
   "stats": {
     "total": 237,
-    "avg_price": 4307,
+    "avg_price": 4308,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -3453,11 +3453,11 @@
     {
       "name": "Монітор Samsung s24dg300ei",
       "url": "https://tehnoskarb.ua/montor-samsung-s24dg300ei/m5141030",
-      "price_min": 3410,
+      "price_min": 3440,
       "price_max": 4000,
       "city": "",
       "addresses": [],
-      "offers": 3,
+      "offers": 2,
       "first_seen": "2026-10-04T07:55:17Z",
       "price_history": [
         {
@@ -3471,6 +3471,10 @@
         {
           "price": 3410,
           "at": "2026-10-17T17:26:54Z"
+        },
+        {
+          "price": 3440,
+          "at": "2026-10-17T22:00:55Z"
         }
       ],
       "category": "Монітори",
@@ -5116,15 +5120,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Eizo flexscan ev2450",
-      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2450/m5197208",
-      "price": 2210,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-07T07:02:08Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung odyssey g5 c27g55tqb",
@@ -6954,6 +6949,16 @@
       "city": "Івано-Франківськ",
       "category": "Монітори",
       "at": "2026-10-17T19:39:06Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung s24dg300ei",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24dg300ei/m5141030",
+      "price_old": 3410,
+      "price_new": 3440,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-17T22:00:55Z"
     }
   ],
   "config": {
