@@ -537,13 +537,13 @@
   },
   "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194": {
     "name": "Монітор Samsung s22d300",
-    "price_min": 1830,
+    "price_min": 1270,
     "price_max": 1830,
     "city": "Івано-Франківськ",
     "addresses": [
       "м. Івано-Франківськ, вул. Гетьмана Мазепи, 20/1"
     ],
-    "offers_count": 1,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -575,6 +575,10 @@
       {
         "price": 1830,
         "at": "2026-10-15T12:46:27Z"
+      },
+      {
+        "price": 1270,
+        "at": "2026-10-17T19:39:06Z"
       }
     ],
     "details_failures": 0,
@@ -5365,9 +5369,9 @@
         "at": "2026-10-17T10:36:27Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-10-17T17:26:54Z",
-    "details_retry_at": "2026-10-17T19:26:54Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-10-17T19:39:06Z",
+    "details_retry_at": "2026-10-17T23:39:06Z"
   },
   "https://tehnoskarb.ua/montor-benq-gw2470/m5156904": {
     "name": "Монітор Benq gw2470",
@@ -5385,8 +5389,48 @@
         "at": "2026-10-17T17:26:54Z"
       }
     ],
+    "details_failures": 2,
+    "details_last_attempt": "2026-10-17T19:39:06Z",
+    "details_retry_at": "2026-10-17T20:39:06Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-thinkvision-lt2452pwc/m5198564": {
+    "name": "Монітор Lenovo thinkvision lt2452pwc",
+    "price_min": 1600,
+    "price_max": 1600,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-17T19:39:06Z",
+    "price_history": [
+      {
+        "price": 1600,
+        "at": "2026-10-17T19:39:06Z"
+      }
+    ],
     "details_failures": 1,
-    "details_last_attempt": "2026-10-17T17:26:54Z",
-    "details_retry_at": "2026-10-17T17:56:54Z"
+    "details_last_attempt": "2026-10-17T19:39:06Z",
+    "details_retry_at": "2026-10-17T20:09:06Z"
+  },
+  "https://tehnoskarb.ua/montor-acer-g225hq/m5190064": {
+    "name": "Монітор Acer g225hq",
+    "price_min": 930,
+    "price_max": 930,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-17T19:39:06Z",
+    "price_history": [
+      {
+        "price": 930,
+        "at": "2026-10-17T19:39:06Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-17T19:39:06Z",
+    "details_retry_at": "2026-10-17T20:09:06Z"
   }
 }
