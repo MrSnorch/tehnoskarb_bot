@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-18T00:20:16Z",
+  "updated_at": "2026-10-18T05:00:37Z",
   "stats": {
-    "total": 237,
-    "avg_price": 4308,
+    "total": 238,
+    "avg_price": 4301,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -3065,6 +3065,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s24c650pl",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24c650pl/m5072927",
+      "price_min": 2640,
+      "price_max": 2640,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-18T04:59:41Z",
+      "price_history": [
+        {
+          "price": 2640,
+          "at": "2026-10-18T04:59:41Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell se2222h",
       "url": "https://tehnoskarb.ua/montor-dell-se2222h/m5132196",
       "price_min": 2780,
@@ -5122,15 +5140,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Samsung odyssey g5 c27g55tqb",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-c27g55tqb/m5180698",
-      "price": 5200,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-07T07:02:08Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Lg m2250d-pz",
       "url": "https://tehnoskarb.ua/montor-lg-m2250d-pz/m5149681",
       "price": 1650,
@@ -6959,6 +6968,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-17T22:00:55Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s24c650pl",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24c650pl/m5072927",
+      "price": 2640,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-18T04:59:41Z"
     }
   ],
   "config": {
