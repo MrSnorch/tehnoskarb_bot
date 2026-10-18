@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-18T09:38:32Z",
+  "updated_at": "2026-10-18T13:29:35Z",
   "stats": {
     "total": 237,
-    "avg_price": 4309,
+    "avg_price": 4304,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1126,30 +1126,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung 943nw",
-      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
-      "price_min": 580,
-      "price_max": 670,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, вул. О. Архипенка, 1/12"
-      ],
-      "offers": 2,
-      "first_seen": "2026-09-02T17:42:39Z",
-      "price_history": [
-        {
-          "price": 670,
-          "at": "2026-09-02T17:42:39Z"
-        },
-        {
-          "price": 580,
-          "at": "2026-10-01T06:58:45Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus vs197",
       "url": "https://tehnoskarb.ua/montor-asus-vs197/m5042579",
       "price_min": 585,
@@ -1277,6 +1253,34 @@
         {
           "price": 650,
           "at": "2026-09-06T18:06:40Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung 943nw",
+      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
+      "price_min": 670,
+      "price_max": 670,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, вул. О. Архипенка, 1/12"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-02T17:42:39Z",
+      "price_history": [
+        {
+          "price": 670,
+          "at": "2026-09-02T17:42:39Z"
+        },
+        {
+          "price": 580,
+          "at": "2026-10-01T06:58:45Z"
+        },
+        {
+          "price": 670,
+          "at": "2026-10-18T13:28:40Z"
         }
       ],
       "category": "Монітори",
@@ -2900,7 +2904,7 @@
       "addresses": [
         "м. Хмельницький, вул. Кам`янецька, 11"
       ],
-      "offers": 11,
+      "offers": 10,
       "first_seen": "2026-08-25T17:56:42Z",
       "price_history": [
         {
@@ -4927,27 +4931,9 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus rog swift pg27aqn",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-swift-pg27aqn/m5185468",
-      "price_min": 24500,
-      "price_max": 24500,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-15T12:46:27Z",
-      "price_history": [
-        {
-          "price": 24500,
-          "at": "2026-10-15T12:46:27Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus proart pa27jcv",
       "url": "https://tehnoskarb.ua/montor-asus-proart-pa27jcv/m5188307",
-      "price_min": 25250,
+      "price_min": 23830,
       "price_max": 25250,
       "city": "Київ",
       "addresses": [
@@ -4975,6 +4961,28 @@
         {
           "price": 25250,
           "at": "2026-10-11T13:19:24Z"
+        },
+        {
+          "price": 23830,
+          "at": "2026-10-18T13:28:40Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus rog swift pg27aqn",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-swift-pg27aqn/m5185468",
+      "price_min": 24500,
+      "price_max": 24500,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-15T12:46:27Z",
+      "price_history": [
+        {
+          "price": 24500,
+          "at": "2026-10-15T12:46:27Z"
         }
       ],
       "category": "Монітори",
@@ -5132,25 +5140,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Aiwa mf2405-b",
-      "url": "https://tehnoskarb.ua/montor-aiwa-mf2405-b/m5196064",
-      "price": 2130,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-07T14:39:50Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Samsung odyssey g5 ls27cg550",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316",
-      "price_old": 5160,
-      "price_new": 5300,
-      "city": "Тернопіль",
-      "category": "Монітори",
-      "at": "2026-10-07T14:39:50Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Philips 223v5lsb2/62",
@@ -6974,6 +6963,26 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-18T09:28:29Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Asus proart pa27jcv",
+      "url": "https://tehnoskarb.ua/montor-asus-proart-pa27jcv/m5188307",
+      "price_old": 25250,
+      "price_new": 23830,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-10-18T13:28:40Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Samsung 943nw",
+      "url": "https://tehnoskarb.ua/montor-samsung-943nw/m4992408",
+      "price_old": 580,
+      "price_new": 670,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-10-18T13:28:40Z"
     }
   ],
   "config": {
