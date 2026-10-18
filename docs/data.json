@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-18T13:29:35Z",
+  "updated_at": "2026-10-18T17:14:06Z",
   "stats": {
-    "total": 237,
-    "avg_price": 4304,
+    "total": 235,
+    "avg_price": 4291,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2626,24 +2626,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi pro mp241x",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp241x/m5043296",
-      "price_min": 1930,
-      "price_max": 1930,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-11T22:21:07Z",
-      "price_history": [
-        {
-          "price": 1930,
-          "at": "2026-10-11T22:21:07Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Acer ek221qe3bi",
       "url": "https://tehnoskarb.ua/montor-acer-ek221qe3bi/m5192609",
       "price_min": 1930,
@@ -3457,11 +3439,11 @@
     {
       "name": "Монітор Samsung s24dg300ei",
       "url": "https://tehnoskarb.ua/montor-samsung-s24dg300ei/m5141030",
-      "price_min": 3440,
+      "price_min": 3410,
       "price_max": 4000,
       "city": "",
       "addresses": [],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-10-04T07:55:17Z",
       "price_history": [
         {
@@ -3479,6 +3461,10 @@
         {
           "price": 3440,
           "at": "2026-10-17T22:00:55Z"
+        },
+        {
+          "price": 3410,
+          "at": "2026-10-18T17:04:21Z"
         }
       ],
       "category": "Монітори",
@@ -4477,34 +4463,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung odyssey g6",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g6/m5185171",
-      "price_min": 9600,
-      "price_max": 9600,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, б-р М. Міхновського, 25"
-      ],
-      "offers": 1,
-      "first_seen": "2026-07-29T07:20:16Z",
-      "price_history": [
-        {
-          "price": 11610,
-          "at": "2026-07-29T07:20:16Z"
-        },
-        {
-          "price": 10600,
-          "at": "2026-10-03T06:10:39Z"
-        },
-        {
-          "price": 9600,
-          "at": "2026-10-18T09:28:29Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Hp omen 27qs",
       "url": "https://tehnoskarb.ua/montor-hp-omen-27qs/m5182774",
       "price_min": 9800,
@@ -5140,34 +5098,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Philips 223v5lsb2/62",
-      "url": "https://tehnoskarb.ua/montor-philips-223v5lsb2-62/m5001832",
-      "price": 930,
-      "city": "Буча",
-      "category": "Монітори",
-      "at": "2026-10-07T20:30:16Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Hp la2006x",
-      "url": "https://tehnoskarb.ua/montor-hp-la2006x/m5075752",
-      "price": 760,
-      "city": "Одеса",
-      "category": "Монітори",
-      "at": "2026-10-07T20:30:16Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Lg electronics e1942c",
-      "url": "https://tehnoskarb.ua/montor-lg-electronics-e1942c/m5196453",
-      "price_old": 850,
-      "price_new": 710,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-07T20:30:16Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung lt22c350",
@@ -6983,6 +6913,34 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-10-18T13:28:40Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung odyssey g6",
+      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g6/m5185171",
+      "price": 9600,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-10-18T17:04:21Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp241x",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp241x/m5043296",
+      "price": 1930,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-18T17:04:21Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung s24dg300ei",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24dg300ei/m5141030",
+      "price_old": 3440,
+      "price_new": 3410,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-18T17:04:21Z"
     }
   ],
   "config": {
