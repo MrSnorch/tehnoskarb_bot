@@ -4168,26 +4168,6 @@
     "details_last_attempt": "2026-10-18T17:04:21Z",
     "details_retry_at": "2026-10-18T23:04:21Z"
   },
-  "https://tehnoskarb.ua/montor-msi-g2412/m5024355": {
-    "name": "Монітор Msi g2412",
-    "price_min": 3500,
-    "price_max": 3500,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-08T14:26:14Z",
-    "price_history": [
-      {
-        "price": 3500,
-        "at": "2026-10-08T14:26:14Z"
-      }
-    ],
-    "details_failures": 31,
-    "details_last_attempt": "2026-10-18T17:04:21Z",
-    "details_retry_at": "2026-10-18T23:04:21Z"
-  },
   "https://tehnoskarb.ua/montor-asus-mb16awp/m5197416": {
     "name": "Монітор Asus mb16awp",
     "price_min": 15110,
@@ -5408,8 +5388,68 @@
         "at": "2026-10-18T09:28:29Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-10-18T17:04:21Z",
-    "details_retry_at": "2026-10-18T19:04:21Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-10-18T19:22:35Z",
+    "details_retry_at": "2026-10-18T23:22:35Z"
+  },
+  "https://tehnoskarb.ua/montor-dell-u2414hb/m5165739": {
+    "name": "Монітор Dell u2414hb",
+    "price_min": 2700,
+    "price_max": 2700,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-18T19:22:35Z",
+    "price_history": [
+      {
+        "price": 2700,
+        "at": "2026-10-18T19:22:35Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-18T19:22:35Z",
+    "details_retry_at": "2026-10-18T19:52:35Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vz229/m5149410": {
+    "name": "Монітор Asus vz229",
+    "price_min": 2340,
+    "price_max": 2340,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-18T19:22:35Z",
+    "price_history": [
+      {
+        "price": 2340,
+        "at": "2026-10-18T19:22:35Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-18T19:22:35Z",
+    "details_retry_at": "2026-10-18T19:52:35Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-pro-mp251/m5084236": {
+    "name": "Монітор Msi pro mp251",
+    "price_min": 2450,
+    "price_max": 2450,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-18T19:22:35Z",
+    "price_history": [
+      {
+        "price": 2450,
+        "at": "2026-10-18T19:22:35Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-18T19:22:35Z",
+    "details_retry_at": "2026-10-18T19:52:35Z"
   }
 }
