@@ -66,35 +66,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-07T19:29:58Z"
   },
-  "https://tehnoskarb.ua/montor-benq-benq-zowie-xl2546k/m5180042": {
-    "name": "Монітор Benq benq zowie xl2546k",
-    "price_min": 9000,
-    "price_max": 9000,
-    "city": "Харків",
-    "addresses": [
-      "м. Харків, вул. Дудинської, 1-А"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 11380,
-        "at": "2026-08-07T19:29:58Z"
-      },
-      {
-        "price": 10000,
-        "at": "2026-09-24T14:19:33Z"
-      },
-      {
-        "price": 9000,
-        "at": "2026-10-19T10:10:51Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-syncmaster-t220hd/m5178542": {
     "name": "Монітор Samsung syncmaster t220hd",
     "price_min": 910,
@@ -768,13 +739,13 @@
   "https://tehnoskarb.ua/montor-asus-vs197/m5042579": {
     "name": "Монітор Asus vs197",
     "price_min": 585,
-    "price_max": 585,
+    "price_max": 670,
     "city": "Полтава",
     "addresses": [
       "г. Полтава, ул. Европейская, 22",
       "г. Вишневое, ул. Святошинская, 27"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -2141,13 +2112,13 @@
   },
   "https://tehnoskarb.ua/montor-samsung-s22f350fhi/m5139689": {
     "name": "Монітор Samsung s22f350fhi",
-    "price_min": 2000,
+    "price_min": 1560,
     "price_max": 2000,
     "city": "Броди",
     "addresses": [
       "м. Броди, вул. Гончарська, 1"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-09-13T17:58:54Z",
@@ -2155,6 +2126,10 @@
       {
         "price": 2000,
         "at": "2026-09-13T17:58:54Z"
+      },
+      {
+        "price": 1560,
+        "at": "2026-10-19T21:40:25Z"
       }
     ],
     "details_failures": 0,
@@ -2993,43 +2968,6 @@
     "details_failures": 66,
     "details_last_attempt": "2026-10-19T17:05:18Z",
     "details_retry_at": "2026-10-19T23:05:18Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls27cg550/m5130316": {
-    "name": "Монітор Samsung odyssey g5 ls27cg550",
-    "price_min": 4800,
-    "price_max": 4800,
-    "city": "Тернопіль",
-    "addresses": [
-      "м. Тернопіль, б-р Шевченка, 14"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-28T17:16:18Z",
-    "price_history": [
-      {
-        "price": 5300,
-        "at": "2026-09-28T17:16:18Z"
-      },
-      {
-        "price": 5160,
-        "at": "2026-09-29T20:11:09Z"
-      },
-      {
-        "price": 5300,
-        "at": "2026-10-07T14:39:50Z"
-      },
-      {
-        "price": 5160,
-        "at": "2026-10-07T20:30:16Z"
-      },
-      {
-        "price": 4800,
-        "at": "2026-10-09T07:12:18Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-09-28T17:16:18Z"
   },
   "https://tehnoskarb.ua/montor-lg-e2342/m5195776": {
     "name": "Монітор Lg e2342",
@@ -5300,9 +5238,9 @@
         "at": "2026-10-19T04:26:46Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-10-19T17:05:18Z",
-    "details_retry_at": "2026-10-19T19:05:18Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-10-19T21:40:25Z",
+    "details_retry_at": "2026-10-20T01:40:25Z"
   },
   "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125": {
     "name": "Монітор Samsung odyssey g5 ls32cg550",
@@ -5320,9 +5258,9 @@
         "at": "2026-10-19T04:26:46Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-10-19T17:05:18Z",
-    "details_retry_at": "2026-10-19T19:05:18Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-10-19T21:40:25Z",
+    "details_retry_at": "2026-10-20T01:40:25Z"
   },
   "https://tehnoskarb.ua/montor-lg-e2260s/m5042471": {
     "name": "Монітор Lg e2260s",
@@ -5340,8 +5278,28 @@
         "at": "2026-10-19T04:26:46Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-10-19T17:05:18Z",
-    "details_retry_at": "2026-10-19T19:05:18Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-10-19T21:40:25Z",
+    "details_retry_at": "2026-10-20T01:40:25Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-p2350/m5073397": {
+    "name": "Монітор Samsung p2350",
+    "price_min": 770,
+    "price_max": 770,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-19T21:40:25Z",
+    "price_history": [
+      {
+        "price": 770,
+        "at": "2026-10-19T21:40:25Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-19T21:40:25Z",
+    "details_retry_at": "2026-10-19T22:10:25Z"
   }
 }
