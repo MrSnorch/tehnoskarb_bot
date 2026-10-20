@@ -5238,9 +5238,9 @@
         "at": "2026-10-19T04:26:46Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-19T21:40:25Z",
-    "details_retry_at": "2026-10-20T01:40:25Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-20T05:50:51Z",
+    "details_retry_at": "2026-10-20T11:50:51Z"
   },
   "https://tehnoskarb.ua/montor-samsung-odyssey-g5-ls32cg550/m5157125": {
     "name": "Монітор Samsung odyssey g5 ls32cg550",
@@ -5258,9 +5258,9 @@
         "at": "2026-10-19T04:26:46Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-19T21:40:25Z",
-    "details_retry_at": "2026-10-20T01:40:25Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-20T05:50:51Z",
+    "details_retry_at": "2026-10-20T11:50:51Z"
   },
   "https://tehnoskarb.ua/montor-lg-e2260s/m5042471": {
     "name": "Монітор Lg e2260s",
@@ -5278,9 +5278,9 @@
         "at": "2026-10-19T04:26:46Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-19T21:40:25Z",
-    "details_retry_at": "2026-10-20T01:40:25Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-20T05:50:51Z",
+    "details_retry_at": "2026-10-20T11:50:51Z"
   },
   "https://tehnoskarb.ua/montor-samsung-p2350/m5073397": {
     "name": "Монітор Samsung p2350",
@@ -5298,8 +5298,88 @@
         "at": "2026-10-19T21:40:25Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-10-20T00:56:55Z",
-    "details_retry_at": "2026-10-20T01:56:55Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-10-20T05:50:51Z",
+    "details_retry_at": "2026-10-20T07:50:51Z"
+  },
+  "https://tehnoskarb.ua/montor-philips-241p3lyes-00/m5199145": {
+    "name": "Монітор Philips 241p3lyes/00",
+    "price_min": 1800,
+    "price_max": 1800,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-20T05:50:51Z",
+    "price_history": [
+      {
+        "price": 1800,
+        "at": "2026-10-20T05:50:51Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-20T05:50:51Z",
+    "details_retry_at": "2026-10-20T06:20:51Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-optix-g27cq4/m5191851": {
+    "name": "Монітор Msi optix g27cq4",
+    "price_min": 4900,
+    "price_max": 4900,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-20T05:50:51Z",
+    "price_history": [
+      {
+        "price": 4900,
+        "at": "2026-10-20T05:50:51Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-20T05:50:51Z",
+    "details_retry_at": "2026-10-20T06:20:51Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-l1742s/m5011804": {
+    "name": "Монітор Lg l1742s",
+    "price_min": 510,
+    "price_max": 510,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-20T05:50:51Z",
+    "price_history": [
+      {
+        "price": 510,
+        "at": "2026-10-20T05:50:51Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-20T05:50:51Z",
+    "details_retry_at": "2026-10-20T06:20:51Z"
+  },
+  "https://tehnoskarb.ua/montor-19-tft-lcd-lg-w-1942s/m4699289": {
+    "name": "Монітор  19\"  TFT-LCD Lg w 1942s",
+    "price_min": 260,
+    "price_max": 260,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-20T05:50:51Z",
+    "price_history": [
+      {
+        "price": 260,
+        "at": "2026-10-20T05:50:51Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-20T05:50:51Z",
+    "details_retry_at": "2026-10-20T06:20:51Z"
   }
 }
