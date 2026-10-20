@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-20T20:07:49Z",
+  "updated_at": "2026-10-20T23:01:14Z",
   "stats": {
     "total": 236,
-    "avg_price": 3827,
+    "avg_price": 3841,
     "min_price": 180,
     "max_price": 39900,
     "cities": [
@@ -3071,24 +3071,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi pro mp241x",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp241x/m5043296",
-      "price_min": 2460,
-      "price_max": 2460,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-20T15:48:28Z",
-      "price_history": [
-        {
-          "price": 2460,
-          "at": "2026-10-20T15:48:28Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lenovo thinkvision t24d-10",
       "url": "https://tehnoskarb.ua/montor-lenovo-thinkvision-t24d-10/m5158787",
       "price_min": 2500,
@@ -4225,6 +4207,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi mag 27c6x",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-27c6x/m5199249",
+      "price_min": 5900,
+      "price_max": 5900,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-20T23:00:35Z",
+      "price_history": [
+        {
+          "price": 5900,
+          "at": "2026-10-20T23:00:35Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung c27rg50fh",
       "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
       "price_min": 6200,
@@ -5134,26 +5134,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Asus touch vt169he",
-      "url": "https://tehnoskarb.ua/montor-asus-touch-vt169he/m5180108",
-      "price_old": 8390,
-      "price_new": 7700,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-12T18:44:24Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Msi optix g241vc",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071",
-      "price_old": 3200,
-      "price_new": 3250,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-12T18:44:24Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Asus vu249cfe-b",
@@ -6994,6 +6974,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-20T19:56:16Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp241x",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp241x/m5043296",
+      "price": 2460,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-20T23:00:35Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi mag 27c6x",
+      "url": "https://tehnoskarb.ua/montor-msi-mag-27c6x/m5199249",
+      "price": 5900,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-20T23:00:35Z"
     }
   ],
   "config": {
