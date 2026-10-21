@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-21T18:22:57Z",
+  "updated_at": "2026-10-21T21:54:30Z",
   "stats": {
-    "total": 240,
-    "avg_price": 4256,
+    "total": 241,
+    "avg_price": 4242,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -674,6 +674,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Philips hws8190t",
+      "url": "https://tehnoskarb.ua/montor-philips-hws8190t/m5150904",
+      "price_min": 410,
+      "price_max": 410,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-21T21:53:27Z",
+      "price_history": [
+        {
+          "price": 410,
+          "at": "2026-10-21T21:53:27Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus vw193d",
       "url": "https://tehnoskarb.ua/montor-asus-vw193d/m5176555",
       "price_min": 420,
@@ -815,28 +833,6 @@
         {
           "price": 450,
           "at": "2026-08-17T18:42:07Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Lg 22m37a",
-      "url": "https://tehnoskarb.ua/montor-22-lg-22m37a/m5137076",
-      "price_min": 450,
-      "price_max": 450,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-09-26T16:36:56Z",
-      "price_history": [
-        {
-          "price": 500,
-          "at": "2026-09-26T16:36:56Z"
-        },
-        {
-          "price": 450,
-          "at": "2026-10-01T14:23:59Z"
         }
       ],
       "category": "Монітори",
@@ -1850,6 +1846,24 @@
         {
           "price": 900,
           "at": "2026-09-26T07:14:45Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg e1960",
+      "url": "https://tehnoskarb.ua/montor-lg-e1960/m5139577",
+      "price_min": 920,
+      "price_max": 920,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-21T21:53:27Z",
+      "price_history": [
+        {
+          "price": 920,
+          "at": "2026-10-21T21:53:27Z"
         }
       ],
       "category": "Монітори",
@@ -5223,33 +5237,6 @@
   ],
   "events": [
     {
-      "type": "new",
-      "name": "Монітор Philips 223v5l",
-      "url": "https://tehnoskarb.ua/montor-philips-223v5l/m5061207",
-      "price": 1080,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-13T21:25:29Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Dell p2213t",
-      "url": "https://tehnoskarb.ua/montor-dell-p2213t/m5029745",
-      "price": 840,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-13T21:25:29Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Aoc 24b1h",
-      "url": "https://tehnoskarb.ua/montor-aoc-24b1h/m5054008",
-      "price": 2550,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-14T05:54:38Z"
-    },
-    {
       "type": "drop",
       "name": "Монітор Lg flatron w1943s",
       "url": "https://tehnoskarb.ua/montor-lg-flatron-w1943s/m5192566",
@@ -7080,6 +7067,33 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-21T18:10:05Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Lg 22m37a",
+      "url": "https://tehnoskarb.ua/montor-22-lg-22m37a/m5137076",
+      "price": 450,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-21T21:53:27Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips hws8190t",
+      "url": "https://tehnoskarb.ua/montor-philips-hws8190t/m5150904",
+      "price": 410,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-21T21:53:27Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg e1960",
+      "url": "https://tehnoskarb.ua/montor-lg-e1960/m5139577",
+      "price": 920,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-21T21:53:27Z"
     }
   ],
   "config": {
