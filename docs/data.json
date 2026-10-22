@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-22T05:17:26Z",
+  "updated_at": "2026-10-22T10:39:56Z",
   "stats": {
-    "total": 247,
-    "avg_price": 4161,
+    "total": 245,
+    "avg_price": 4185,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2134,24 +2134,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Acer g227hgl",
-      "url": "https://tehnoskarb.ua/montor-acer-g227hgl/m5147853",
-      "price_min": 1000,
-      "price_max": 1000,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-22T05:16:01Z",
-      "price_history": [
-        {
-          "price": 1000,
-          "at": "2026-10-22T05:16:01Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Philips 227e4lsb",
       "url": "https://tehnoskarb.ua/montor-philips-227e4lsb/m5182381",
       "price_min": 1030,
@@ -2340,24 +2322,6 @@
         {
           "price": 1170,
           "at": "2026-08-07T19:29:58Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung s22a350n",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22a350n/m5117409",
-      "price_min": 1170,
-      "price_max": 1170,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-05T22:21:58Z",
-      "price_history": [
-        {
-          "price": 1170,
-          "at": "2026-10-05T22:21:58Z"
         }
       ],
       "category": "Монітори",
@@ -2916,6 +2880,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell p2418hz",
+      "url": "https://tehnoskarb.ua/montor-dell-p2418hz/m5186961",
+      "price_min": 2050,
+      "price_max": 2050,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, просп. Бажана, 3В (м. Харківська)"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-20T05:14:22Z",
+      "price_history": [
+        {
+          "price": 2250,
+          "at": "2026-09-20T05:14:22Z"
+        },
+        {
+          "price": 2050,
+          "at": "2026-10-22T10:28:23Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell se2416h",
       "url": "https://tehnoskarb.ua/montor-dell-se2416h/m5050200",
       "price_min": 2060,
@@ -3034,26 +3022,6 @@
         {
           "price": 2230,
           "at": "2026-10-17T05:59:36Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Dell p2418hz",
-      "url": "https://tehnoskarb.ua/montor-dell-p2418hz/m5186961",
-      "price_min": 2250,
-      "price_max": 2250,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, просп. Бажана, 3В (м. Харківська)"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-20T05:14:22Z",
-      "price_history": [
-        {
-          "price": 2250,
-          "at": "2026-09-20T05:14:22Z"
         }
       ],
       "category": "Монітори",
@@ -4365,8 +4333,8 @@
     {
       "name": "Монітор Samsung s27dg500",
       "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
-      "price_min": 6510,
-      "price_max": 6900,
+      "price_min": 6300,
+      "price_max": 6510,
       "city": "Київ",
       "addresses": [
         "м. Київ, вул. Княжий Затон, 11"
@@ -4393,6 +4361,10 @@
         {
           "price": 6510,
           "at": "2026-10-09T07:12:18Z"
+        },
+        {
+          "price": 6300,
+          "at": "2026-10-22T10:28:23Z"
         }
       ],
       "category": "Монітори",
@@ -5348,45 +5320,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Msi optix g27cq4",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g27cq4/m5191851",
-      "price": 4900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-14T11:25:49Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Prestigio p372b",
-      "url": "https://tehnoskarb.ua/montor-prestigio-p372b/m5198075",
-      "price_old": 200,
-      "price_new": 260,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-14T11:25:49Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Benq gw2470",
-      "url": "https://tehnoskarb.ua/montor-benq-gw2470/m5156904",
-      "price_old": 2100,
-      "price_new": 1830,
-      "city": "Кропивницький",
-      "category": "Монітори",
-      "at": "2026-10-14T11:25:49Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Samsung s22d300",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194",
-      "price_old": 1270,
-      "price_new": 1830,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-10-14T11:25:49Z"
-    },
     {
       "type": "rise",
       "name": "Монітор Asus vs197",
@@ -7206,6 +7139,44 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-22T05:16:01Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s22a350n",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22a350n/m5117409",
+      "price": 1170,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-22T10:28:23Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer g227hgl",
+      "url": "https://tehnoskarb.ua/montor-acer-g227hgl/m5147853",
+      "price": 1000,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-22T10:28:23Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Dell p2418hz",
+      "url": "https://tehnoskarb.ua/montor-dell-p2418hz/m5186961",
+      "price_old": 2250,
+      "price_new": 2050,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-10-22T10:28:23Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung s27dg500",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
+      "price_old": 6510,
+      "price_new": 6300,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-10-22T10:28:23Z"
     }
   ],
   "config": {
