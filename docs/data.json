@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-22T15:33:44Z",
+  "updated_at": "2026-10-22T20:00:22Z",
   "stats": {
-    "total": 243,
-    "avg_price": 4209,
+    "total": 248,
+    "avg_price": 4163,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -767,6 +767,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Viewsonic va1903",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va1903/m5190238",
+      "price_min": 420,
+      "price_max": 420,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-22T19:49:07Z",
+      "price_history": [
+        {
+          "price": 420,
+          "at": "2026-10-22T19:49:07Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung e1920",
       "url": "https://tehnoskarb.ua/montor-samsung-e1920/m5047217",
       "price_min": 430,
@@ -890,6 +908,24 @@
         {
           "price": 450,
           "at": "2026-08-17T18:42:07Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg w2042t",
+      "url": "https://tehnoskarb.ua/montor-lg-w2042t/m5026868",
+      "price_min": 460,
+      "price_max": 460,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-22T19:49:07Z",
+      "price_history": [
+        {
+          "price": 460,
+          "at": "2026-10-22T19:49:07Z"
         }
       ],
       "category": "Монітори",
@@ -2440,6 +2476,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell u2412m",
+      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
+      "price_min": 1440,
+      "price_max": 1510,
+      "city": "",
+      "addresses": [],
+      "offers": 7,
+      "first_seen": "2026-10-22T19:49:07Z",
+      "price_history": [
+        {
+          "price": 1440,
+          "at": "2026-10-22T19:49:07Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung bx2231",
       "url": "https://tehnoskarb.ua/montor-samsung-bx2231/m5064341",
       "price_min": 1500,
@@ -2675,10 +2729,10 @@
       "name": "Монітор Dell u2415b",
       "url": "https://tehnoskarb.ua/montor-dell-u2415b/m5094796",
       "price_min": 1700,
-      "price_max": 1700,
+      "price_max": 2950,
       "city": "",
       "addresses": [],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-10-17T05:59:36Z",
       "price_history": [
         {
@@ -3153,6 +3207,24 @@
         {
           "price": 2400,
           "at": "2026-10-11T18:20:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Prologix gm2425hd",
+      "url": "https://tehnoskarb.ua/montor-prologix-gm2425hd/m5199284",
+      "price_min": 2400,
+      "price_max": 2400,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-22T19:49:07Z",
+      "price_history": [
+        {
+          "price": 2400,
+          "at": "2026-10-22T19:49:07Z"
         }
       ],
       "category": "Монітори",
@@ -4067,6 +4139,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Iiyama prolite xub2495wsu-b1c",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-xub2495wsu-b1c/m5199476",
+      "price_min": 4700,
+      "price_max": 4700,
+      "city": "",
+      "addresses": [],
+      "offers": 2,
+      "first_seen": "2026-10-22T19:49:07Z",
+      "price_history": [
+        {
+          "price": 4700,
+          "at": "2026-10-22T19:49:07Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell p2422hewo",
       "url": "https://tehnoskarb.ua/montor-dell-p2422hewo/m5187602",
       "price_min": 4780,
@@ -4649,7 +4739,7 @@
       "addresses": [
         "м. Київ, вул. Заболотного, 20А"
       ],
-      "offers": 4,
+      "offers": 6,
       "first_seen": "2026-08-26T04:41:53Z",
       "price_history": [
         {
@@ -4905,7 +4995,7 @@
       "addresses": [
         "м. Ужгород, вул. Мукачівська, 2"
       ],
-      "offers": 2,
+      "offers": 4,
       "first_seen": "2026-08-26T04:41:53Z",
       "price_history": [
         {
@@ -5282,51 +5372,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Acer g225hq",
-      "url": "https://tehnoskarb.ua/montor-acer-g225hq/m5190064",
-      "price": 930,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-10-14T20:02:45Z"
-    },
-    {
-      "type": "new",
-      "name": "Автомобільний монітор Tft color monitor",
-      "url": "https://tehnoskarb.ua/avtomoblnijj-montor-tft-color-monitor/m5198285",
-      "price": 720,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-14T20:02:45Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Aoc 24b2xh",
-      "url": "https://tehnoskarb.ua/montor-aoc-24b2xh/m5147578",
-      "price": 2900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-14T20:02:45Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Msi optix mag 256f",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag-256f/m5133408",
-      "price": 4090,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-14T20:02:45Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Aoc tft1780ps+",
-      "url": "https://tehnoskarb.ua/montor-aoc-tft1780ps+/m5198319",
-      "price": 200,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-14T23:21:40Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hp elitedisplay e243i",
@@ -7139,6 +7184,51 @@
       "city": "Броди",
       "category": "Монітори",
       "at": "2026-10-22T15:32:35Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Iiyama prolite xub2495wsu-b1c",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-xub2495wsu-b1c/m5199476",
+      "price": 4700,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-22T19:49:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Prologix gm2425hd",
+      "url": "https://tehnoskarb.ua/montor-prologix-gm2425hd/m5199284",
+      "price": 2400,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-22T19:49:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Viewsonic va1903",
+      "url": "https://tehnoskarb.ua/montor-viewsonic-va1903/m5190238",
+      "price": 420,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-22T19:49:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg w2042t",
+      "url": "https://tehnoskarb.ua/montor-lg-w2042t/m5026868",
+      "price": 460,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-22T19:49:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell u2412m",
+      "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
+      "price": 1440,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-22T19:49:07Z"
     }
   ],
   "config": {
