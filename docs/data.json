@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-23T17:59:09Z",
+  "updated_at": "2026-10-23T21:09:40Z",
   "stats": {
-    "total": 252,
-    "avg_price": 4064,
+    "total": 253,
+    "avg_price": 4059,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -3389,6 +3389,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s24e391hl",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24e391hl/m5065257",
+      "price_min": 2750,
+      "price_max": 2750,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-23T21:08:48Z",
+      "price_history": [
+        {
+          "price": 2750,
+          "at": "2026-10-23T21:08:48Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell se2222h",
       "url": "https://tehnoskarb.ua/montor-dell-se2222h/m5132196",
       "price_min": 2780,
@@ -5437,15 +5455,6 @@
   ],
   "events": [
     {
-      "type": "new",
-      "name": "Монітор Lg 22m37a",
-      "url": "https://tehnoskarb.ua/montor-lg-22m37a/m5194165",
-      "price": 840,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-15T12:46:27Z"
-    },
-    {
       "type": "drop",
       "name": "Монітор Viewsonic td2760",
       "url": "https://tehnoskarb.ua/montor-viewsonic-td2760/m5187009",
@@ -7295,6 +7304,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-23T17:46:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s24e391hl",
+      "url": "https://tehnoskarb.ua/montor-samsung-s24e391hl/m5065257",
+      "price": 2750,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-23T21:08:48Z"
     }
   ],
   "config": {
