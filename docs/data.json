@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-24T19:19:15Z",
+  "updated_at": "2026-10-24T21:46:25Z",
   "stats": {
-    "total": 245,
-    "avg_price": 4240,
+    "total": 244,
+    "avg_price": 4236,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -4174,24 +4174,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus vu249cfe-b",
-      "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
-      "price_min": 5300,
-      "price_max": 5300,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-16T20:39:59Z",
-      "price_history": [
-        {
-          "price": 5300,
-          "at": "2026-10-16T20:39:59Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus tuf gaming vg279q3a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279q3a/m5196548",
       "price_min": 5330,
@@ -5291,15 +5273,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Msi g2712",
-      "url": "https://tehnoskarb.ua/montor-msi-g2712/m5188795",
-      "price": 3820,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-16T08:50:05Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hanns-G hq191d",
@@ -7147,6 +7120,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-24T19:18:09Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vu249cfe-b",
+      "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
+      "price": 5300,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-24T21:46:07Z"
     }
   ],
   "config": {
