@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-24T03:55:07Z",
+  "updated_at": "2026-10-24T08:58:11Z",
   "stats": {
     "total": 253,
-    "avg_price": 4059,
+    "avg_price": 4077,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -3247,24 +3247,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s22r350fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22r350fhi/m5064074",
-      "price_min": 2400,
-      "price_max": 2400,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-11T18:20:12Z",
-      "price_history": [
-        {
-          "price": 2400,
-          "at": "2026-10-11T18:20:12Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Prologix gm2425hd",
       "url": "https://tehnoskarb.ua/montor-prologix-gm2425hd/m5199284",
       "price_min": 2400,
@@ -3893,6 +3875,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Philips 24m2n3200s",
+      "url": "https://tehnoskarb.ua/montor-philips-24m2n3200s/m5187733",
+      "price_min": 3600,
+      "price_max": 3600,
+      "city": "Чернівці",
+      "addresses": [
+        "м. Чернівці, вул. Героїв майдану, 48"
+      ],
+      "offers": 1,
+      "first_seen": "2026-09-16T21:01:38Z",
+      "price_history": [
+        {
+          "price": 3970,
+          "at": "2026-09-16T21:01:38Z"
+        },
+        {
+          "price": 3600,
+          "at": "2026-10-24T08:44:24Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung essential s3 s27f320gaux s32gf",
       "url": "https://tehnoskarb.ua/montor-samsung-essential-s3-s27f320gaux-s32gf/m5196167",
       "price_min": 3600,
@@ -3981,26 +3987,6 @@
         {
           "price": 3900,
           "at": "2026-10-08T06:30:42Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Philips 24m2n3200s",
-      "url": "https://tehnoskarb.ua/montor-philips-24m2n3200s/m5187733",
-      "price_min": 3970,
-      "price_max": 3970,
-      "city": "Чернівці",
-      "addresses": [
-        "м. Чернівці, вул. Героїв майдану, 48"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-16T21:01:38Z",
-      "price_history": [
-        {
-          "price": 3970,
-          "at": "2026-09-16T21:01:38Z"
         }
       ],
       "category": "Монітори",
@@ -4613,6 +4599,24 @@
         {
           "price": 7030,
           "at": "2026-09-24T18:35:25Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vg279ql3a",
+      "url": "https://tehnoskarb.ua/montor-asus-vg279ql3a/m5197428",
+      "price_min": 7160,
+      "price_max": 7160,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-24T08:44:24Z",
+      "price_history": [
+        {
+          "price": 7160,
+          "at": "2026-10-24T08:44:24Z"
         }
       ],
       "category": "Монітори",
@@ -5454,34 +5458,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Viewsonic td2760",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-td2760/m5187009",
-      "price_old": 20070,
-      "price_new": 18000,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-10-15T12:46:27Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus rog swift pg27aqn",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-swift-pg27aqn/m5185468",
-      "price": 24500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-15T12:46:27Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Iiyama g-master eagle g2770hsu-b1",
-      "url": "https://tehnoskarb.ua/montor-iiyama-g-master-eagle-g2770hsu-b1/m5184508",
-      "price": 4100,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-15T12:46:27Z"
-    },
     {
       "type": "new",
       "name": "Монітор Samsung s19f355hn",
@@ -7313,6 +7289,34 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-23T21:08:48Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s22r350fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22r350fhi/m5064074",
+      "price": 2400,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-24T08:44:24Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vg279ql3a",
+      "url": "https://tehnoskarb.ua/montor-asus-vg279ql3a/m5197428",
+      "price": 7160,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-24T08:44:24Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Philips 24m2n3200s",
+      "url": "https://tehnoskarb.ua/montor-philips-24m2n3200s/m5187733",
+      "price_old": 3970,
+      "price_new": 3600,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-10-24T08:44:24Z"
     }
   ],
   "config": {
