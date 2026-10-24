@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-24T13:11:01Z",
+  "updated_at": "2026-10-24T17:02:25Z",
   "stats": {
-    "total": 250,
-    "avg_price": 4117,
+    "total": 248,
+    "avg_price": 4135,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1995,24 +1995,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus ve247",
-      "url": "https://tehnoskarb.ua/montor-asus-ve247/m5192981",
-      "price_min": 970,
-      "price_max": 970,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-16T08:50:05Z",
-      "price_history": [
-        {
-          "price": 970,
-          "at": "2026-10-16T08:50:05Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Philips 226v4l",
       "url": "https://tehnoskarb.ua/montor-philips-226v4l/m5137525",
       "price_min": 980,
@@ -2810,10 +2792,10 @@
       "name": "Монітор Benq gw2470",
       "url": "https://tehnoskarb.ua/montor-benq-gw2470/m5156904",
       "price_min": 1830,
-      "price_max": 2100,
+      "price_max": 1830,
       "city": "",
       "addresses": [],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-10-17T17:26:54Z",
       "price_history": [
         {
@@ -3380,24 +3362,6 @@
         {
           "price": 2800,
           "at": "2026-08-03T10:44:30Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi pro mp252",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
-      "price_min": 2800,
-      "price_max": 2800,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-21T07:26:04Z",
-      "price_history": [
-        {
-          "price": 2800,
-          "at": "2026-10-21T07:26:04Z"
         }
       ],
       "category": "Монітори",
@@ -5402,26 +5366,6 @@
   ],
   "events": [
     {
-      "type": "drop",
-      "name": "Монітор Samsung s24dg300ei",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24dg300ei/m5141030",
-      "price_old": 4000,
-      "price_new": 3440,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-15T12:46:27Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Samsung s22d300",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194",
-      "price_old": 1270,
-      "price_new": 1830,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-10-15T12:46:27Z"
-    },
-    {
       "type": "rise",
       "name": "Монітор Lg w1943ss",
       "url": "https://tehnoskarb.ua/montor-lg-w1943ss/m5124297",
@@ -7260,6 +7204,24 @@
       "city": "Ужгород",
       "category": "Монітори",
       "at": "2026-10-24T13:10:11Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus ve247",
+      "url": "https://tehnoskarb.ua/montor-asus-ve247/m5192981",
+      "price": 970,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-24T16:49:57Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp252",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
+      "price": 2800,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-24T16:49:57Z"
     }
   ],
   "config": {
