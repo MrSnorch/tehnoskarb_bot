@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-24T08:58:11Z",
+  "updated_at": "2026-10-24T13:11:01Z",
   "stats": {
-    "total": 253,
-    "avg_price": 4077,
+    "total": 250,
+    "avg_price": 4117,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -22,7 +22,6 @@
       "Кам`янське",
       "Київ",
       "Конотоп",
-      "Кременчук",
       "Кропивницький",
       "Луцьк",
       "Львів",
@@ -1376,24 +1375,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Benq gl2250",
-      "url": "https://tehnoskarb.ua/montor-benq-gl2250/m4739842",
-      "price_min": 630,
-      "price_max": 630,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-03T06:10:39Z",
-      "price_history": [
-        {
-          "price": 630,
-          "at": "2026-10-03T06:10:39Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg w2243s",
       "url": "https://tehnoskarb.ua/montor-lg-w2243s/m4992369",
       "price_min": 650,
@@ -1474,24 +1455,6 @@
         {
           "price": 680,
           "at": "2026-09-10T08:46:07Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Benq g2020hd",
-      "url": "https://tehnoskarb.ua/montor-benq-g2020hd/m5126803",
-      "price_min": 700,
-      "price_max": 700,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-15T21:09:40Z",
-      "price_history": [
-        {
-          "price": 700,
-          "at": "2026-10-15T21:09:40Z"
         }
       ],
       "category": "Монітори",
@@ -2098,30 +2061,6 @@
         {
           "price": 980,
           "at": "2026-09-30T21:18:23Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Fujitsu b22w-7 led",
-      "url": "https://tehnoskarb.ua/montor-fujitsu-b22w-7-led/m5175440",
-      "price_min": 990,
-      "price_max": 990,
-      "city": "Кременчук",
-      "addresses": [
-        "м. Кременчук, вул. Покровська, 15/34"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-27T20:58:47Z",
-      "price_history": [
-        {
-          "price": 1100,
-          "at": "2026-08-27T20:58:47Z"
-        },
-        {
-          "price": 990,
-          "at": "2026-10-01T19:43:41Z"
         }
       ],
       "category": "Монітори",
@@ -5165,26 +5104,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus proart pa279crv",
-      "url": "https://tehnoskarb.ua/montor-asus-proart-pa279crv/m5183698",
-      "price_min": 16000,
-      "price_max": 16320,
-      "city": "Ужгород",
-      "addresses": [
-        "м. Ужгород, вул. Мукачівська, 2"
-      ],
-      "offers": 3,
-      "first_seen": "2026-09-18T05:01:34Z",
-      "price_history": [
-        {
-          "price": 16000,
-          "at": "2026-09-18T05:01:34Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung odyssey g7 c32g75tq",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g7-c32g75tq/m5122348",
       "price_min": 16180,
@@ -5197,6 +5116,30 @@
         {
           "price": 16180,
           "at": "2026-10-03T15:58:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus proart pa279crv",
+      "url": "https://tehnoskarb.ua/montor-asus-proart-pa279crv/m5183698",
+      "price_min": 16240,
+      "price_max": 16320,
+      "city": "Ужгород",
+      "addresses": [
+        "м. Ужгород, вул. Мукачівська, 2"
+      ],
+      "offers": 2,
+      "first_seen": "2026-09-18T05:01:34Z",
+      "price_history": [
+        {
+          "price": 16000,
+          "at": "2026-09-18T05:01:34Z"
+        },
+        {
+          "price": 16240,
+          "at": "2026-10-24T13:10:11Z"
         }
       ],
       "category": "Монітори",
@@ -5458,43 +5401,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung s19f355hn",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19f355hn/m5178343",
-      "price": 1215,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-15T12:46:27Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор 2E 2e-h2420b",
-      "url": "https://tehnoskarb.ua/montor-2e-2e-h2420b/m5176124",
-      "price": 3170,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-15T12:46:27Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls24c360",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24c360/m5147667",
-      "price": 2790,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-15T12:46:27Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Eizo flexscan ev2430",
-      "url": "https://tehnoskarb.ua/montor-eizo-flexscan-ev2430/m5145889",
-      "price_old": 3600,
-      "price_new": 2400,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-15T12:46:27Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung s24dg300ei",
@@ -7317,6 +7223,43 @@
       "city": "Чернівці",
       "category": "Монітори",
       "at": "2026-10-24T08:44:24Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Fujitsu b22w-7 led",
+      "url": "https://tehnoskarb.ua/montor-fujitsu-b22w-7-led/m5175440",
+      "price": 990,
+      "city": "Кременчук",
+      "category": "Монітори",
+      "at": "2026-10-24T13:10:11Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq gl2250",
+      "url": "https://tehnoskarb.ua/montor-benq-gl2250/m4739842",
+      "price": 630,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-24T13:10:11Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Benq g2020hd",
+      "url": "https://tehnoskarb.ua/montor-benq-g2020hd/m5126803",
+      "price": 700,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-24T13:10:11Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Asus proart pa279crv",
+      "url": "https://tehnoskarb.ua/montor-asus-proart-pa279crv/m5183698",
+      "price_old": 16000,
+      "price_new": 16240,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-10-24T13:10:11Z"
     }
   ],
   "config": {
