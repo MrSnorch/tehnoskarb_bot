@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-25T17:59:37Z",
+  "updated_at": "2026-10-25T20:33:57Z",
   "stats": {
-    "total": 240,
-    "avg_price": 4287,
+    "total": 242,
+    "avg_price": 4265,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -524,6 +524,24 @@
         {
           "price": 390,
           "at": "2026-10-20T15:48:28Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 170c7",
+      "url": "https://tehnoskarb.ua/montor-philips-170c7/m5199887",
+      "price_min": 390,
+      "price_max": 390,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-25T20:33:07Z",
+      "price_history": [
+        {
+          "price": 390,
+          "at": "2026-10-25T20:33:07Z"
         }
       ],
       "category": "Монітори",
@@ -1521,7 +1539,7 @@
         "м. Дрогобич, вул. Пилипа Орлика, 14",
         "м. Харків, Салтівське шосе 155/93"
       ],
-      "offers": 2,
+      "offers": 3,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -3262,6 +3280,24 @@
         {
           "price": 2930,
           "at": "2026-09-29T20:11:09Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Xaith Ucky sy56fhmsp01",
+      "url": "https://tehnoskarb.ua/montor-xaith-ucky-sy56fhmsp01/m5199722",
+      "price_min": 2930,
+      "price_max": 2930,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-25T20:33:07Z",
+      "price_history": [
+        {
+          "price": 2930,
+          "at": "2026-10-25T20:33:07Z"
         }
       ],
       "category": "Монітори",
@@ -5181,24 +5217,6 @@
   "events": [
     {
       "type": "sold",
-      "name": "Монітор Acer ha240y",
-      "url": "https://tehnoskarb.ua/montor-acer-ha240y/m5133561",
-      "price": 2280,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-16T17:58:38Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Dell p2419h",
-      "url": "https://tehnoskarb.ua/montor-dell-p2419h/m5081675",
-      "price": 2900,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-16T17:58:38Z"
-    },
-    {
-      "type": "sold",
       "name": "Монітор Samsung 225bw",
       "url": "https://tehnoskarb.ua/montor-samsung-225bw/m5018524",
       "price": 620,
@@ -7036,6 +7054,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-25T17:47:43Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 170c7",
+      "url": "https://tehnoskarb.ua/montor-philips-170c7/m5199887",
+      "price": 390,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-25T20:33:07Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Xaith Ucky sy56fhmsp01",
+      "url": "https://tehnoskarb.ua/montor-xaith-ucky-sy56fhmsp01/m5199722",
+      "price": 2930,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-25T20:33:07Z"
     }
   ],
   "config": {
