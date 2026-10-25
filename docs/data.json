@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-25T14:30:32Z",
+  "updated_at": "2026-10-25T17:59:37Z",
   "stats": {
-    "total": 242,
-    "avg_price": 4275,
+    "total": 240,
+    "avg_price": 4287,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -349,36 +349,6 @@
         {
           "price": 350,
           "at": "2026-08-31T21:33:21Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Acer g195hqv",
-      "url": "https://tehnoskarb.ua/montor-acer-g195hqv/m5146468",
-      "price_min": 350,
-      "price_max": 350,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 480,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 430,
-          "at": "2026-08-17T09:44:00Z"
-        },
-        {
-          "price": 390,
-          "at": "2026-10-01T14:23:59Z"
-        },
-        {
-          "price": 350,
-          "at": "2026-10-20T15:48:28Z"
         }
       ],
       "category": "Монітори",
@@ -4116,24 +4086,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus vu249cfe-b",
-      "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
-      "price_min": 5300,
-      "price_max": 5300,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-25T10:01:25Z",
-      "price_history": [
-        {
-          "price": 5300,
-          "at": "2026-10-25T10:01:25Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Asus tuf gaming vg279q3a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279q3a/m5196548",
       "price_min": 5330,
@@ -5227,24 +5179,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Qube b24f120hs",
-      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
-      "price": 1401,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-16T13:47:55Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus vu249cfe-b",
-      "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
-      "price": 5300,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-16T17:58:38Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Acer ha240y",
@@ -7084,6 +7018,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-25T14:29:45Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Acer g195hqv",
+      "url": "https://tehnoskarb.ua/montor-acer-g195hqv/m5146468",
+      "price": 350,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-25T17:47:43Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vu249cfe-b",
+      "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
+      "price": 5300,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-25T17:47:43Z"
     }
   ],
   "config": {
