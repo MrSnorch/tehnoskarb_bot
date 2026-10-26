@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-26T07:46:33Z",
+  "updated_at": "2026-10-26T15:10:41Z",
   "stats": {
     "total": 242,
-    "avg_price": 4265,
+    "avg_price": 4283,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1863,7 +1863,7 @@
       "addresses": [
         "м. Запоріжжя, вул. Ентузіастів, 3"
       ],
-      "offers": 5,
+      "offers": 4,
       "first_seen": "2026-08-07T19:29:58Z",
       "price_history": [
         {
@@ -3006,24 +3006,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Prologix gm2425hd",
-      "url": "https://tehnoskarb.ua/montor-prologix-gm2425hd/m5199284",
-      "price_min": 2400,
-      "price_max": 2400,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-22T19:49:07Z",
-      "price_history": [
-        {
-          "price": 2400,
-          "at": "2026-10-22T19:49:07Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Lg 27ms550-b",
       "url": "https://tehnoskarb.ua/montor-lg-27ms550-b/m5190985",
       "price_min": 2630,
@@ -3280,24 +3262,6 @@
         {
           "price": 2930,
           "at": "2026-09-29T20:11:09Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Xaith Ucky sy56fhmsp01",
-      "url": "https://tehnoskarb.ua/montor-xaith-ucky-sy56fhmsp01/m5199722",
-      "price_min": 2930,
-      "price_max": 2930,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-25T20:33:07Z",
-      "price_history": [
-        {
-          "price": 2930,
-          "at": "2026-10-25T20:33:07Z"
         }
       ],
       "category": "Монітори",
@@ -3670,6 +3634,24 @@
         {
           "price": 3640,
           "at": "2026-10-11T18:20:12Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg ultrawide 25um58",
+      "url": "https://tehnoskarb.ua/montor-lg-ultrawide-25um58/m5140685",
+      "price_min": 3710,
+      "price_max": 3710,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-26T14:56:26Z",
+      "price_history": [
+        {
+          "price": 3710,
+          "at": "2026-10-26T14:56:26Z"
         }
       ],
       "category": "Монітори",
@@ -4200,6 +4182,24 @@
         {
           "price": 5900,
           "at": "2026-10-20T23:00:35Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Benq zowie xl2546k",
+      "url": "https://tehnoskarb.ua/montor-benq-zowie-xl2546k/m5200025",
+      "price_min": 5900,
+      "price_max": 5900,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-26T14:56:26Z",
+      "price_history": [
+        {
+          "price": 5900,
+          "at": "2026-10-26T14:56:26Z"
         }
       ],
       "category": "Монітори",
@@ -4938,13 +4938,13 @@
     {
       "name": "Монітор Asus proart pa279crv",
       "url": "https://tehnoskarb.ua/montor-asus-proart-pa279crv/m5183698",
-      "price_min": 16240,
+      "price_min": 16320,
       "price_max": 16320,
       "city": "Ужгород",
       "addresses": [
         "м. Ужгород, вул. Мукачівська, 2"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-09-18T05:01:34Z",
       "price_history": [
         {
@@ -4954,6 +4954,10 @@
         {
           "price": 16240,
           "at": "2026-10-24T13:10:11Z"
+        },
+        {
+          "price": 16320,
+          "at": "2026-10-26T14:56:26Z"
         }
       ],
       "category": "Монітори",
@@ -5215,52 +5219,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung 225bw",
-      "url": "https://tehnoskarb.ua/montor-samsung-225bw/m5018524",
-      "price": 620,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-16T17:58:38Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Msi optix mag241c",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-mag241c/m5167279",
-      "price_old": 1350,
-      "price_new": 500,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-16T17:58:38Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung s24f350fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24f350fhi/m5102117",
-      "price": 2000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-16T17:58:38Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus vu249cfe-b",
-      "url": "https://tehnoskarb.ua/montor-asus-vu249cfe-b/m5177106",
-      "price": 5300,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-16T20:39:59Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Samsung s24c450",
-      "url": "https://tehnoskarb.ua/montor-samsung-s24c450/m5189787",
-      "price": 1830,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-17T05:59:36Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung ls24hubcbq",
@@ -7072,6 +7030,52 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-25T20:33:07Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Prologix gm2425hd",
+      "url": "https://tehnoskarb.ua/montor-prologix-gm2425hd/m5199284",
+      "price": 2400,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-26T14:56:26Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Xaith Ucky sy56fhmsp01",
+      "url": "https://tehnoskarb.ua/montor-xaith-ucky-sy56fhmsp01/m5199722",
+      "price": 2930,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-26T14:56:26Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Benq zowie xl2546k",
+      "url": "https://tehnoskarb.ua/montor-benq-zowie-xl2546k/m5200025",
+      "price": 5900,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-26T14:56:26Z"
+    },
+    {
+      "type": "rise",
+      "name": "Монітор Asus proart pa279crv",
+      "url": "https://tehnoskarb.ua/montor-asus-proart-pa279crv/m5183698",
+      "price_old": 16240,
+      "price_new": 16320,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-10-26T14:56:26Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg ultrawide 25um58",
+      "url": "https://tehnoskarb.ua/montor-lg-ultrawide-25um58/m5140685",
+      "price": 3710,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-26T14:56:26Z"
     }
   ],
   "config": {
