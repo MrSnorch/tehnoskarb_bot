@@ -1283,7 +1283,7 @@
     "addresses": [
       "м. Вінниця, вул Київська, 47"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-27T20:58:47Z",
@@ -2870,38 +2870,6 @@
     "details_last_attempt": "2026-10-26T14:56:26Z",
     "details_retry_at": "2026-10-26T20:56:26Z"
   },
-  "https://tehnoskarb.ua/montor-msi-optix-g241vc/m5180071": {
-    "name": "Монітор Msi optix g241vc",
-    "price_min": 3250,
-    "price_max": 3250,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-02T21:12:43Z",
-    "price_history": [
-      {
-        "price": 3540,
-        "at": "2026-10-02T21:12:43Z"
-      },
-      {
-        "price": 3250,
-        "at": "2026-10-11T22:21:07Z"
-      },
-      {
-        "price": 3200,
-        "at": "2026-10-12T08:48:54Z"
-      },
-      {
-        "price": 3250,
-        "at": "2026-10-12T18:44:24Z"
-      }
-    ],
-    "details_failures": 71,
-    "details_last_attempt": "2026-10-26T14:56:26Z",
-    "details_retry_at": "2026-10-26T20:56:26Z"
-  },
   "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg279q3a/m5196548": {
     "name": "Монітор Asus tuf gaming vg279q3a",
     "price_min": 5330,
@@ -3646,26 +3614,6 @@
     "details_last_attempt": "2026-10-26T14:56:26Z",
     "details_retry_at": "2026-10-26T20:56:26Z"
   },
-  "https://tehnoskarb.ua/montor-aoc-24g2u5/m5180639": {
-    "name": "Монітор Aoc 24g2u5",
-    "price_min": 4110,
-    "price_max": 4110,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-12T08:48:54Z",
-    "price_history": [
-      {
-        "price": 4110,
-        "at": "2026-10-12T08:48:54Z"
-      }
-    ],
-    "details_failures": 41,
-    "details_last_attempt": "2026-10-26T14:56:26Z",
-    "details_retry_at": "2026-10-26T20:56:26Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-u24e590d/m5197898": {
     "name": "Монітор Samsung u24e590d",
     "price_min": 3500,
@@ -4252,26 +4200,6 @@
       {
         "price": 1401,
         "at": "2026-10-16T13:47:55Z"
-      }
-    ],
-    "details_failures": 31,
-    "details_last_attempt": "2026-10-26T14:56:26Z",
-    "details_retry_at": "2026-10-26T20:56:26Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-s24f350fhi/m5102117": {
-    "name": "Монітор Samsung s24f350fhi",
-    "price_min": 2000,
-    "price_max": 2000,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-16T17:58:38Z",
-    "price_history": [
-      {
-        "price": 2000,
-        "at": "2026-10-16T17:58:38Z"
       }
     ],
     "details_failures": 31,
@@ -5542,9 +5470,9 @@
         "at": "2026-10-26T14:56:26Z"
       }
     ],
-    "details_failures": 1,
-    "details_last_attempt": "2026-10-26T14:56:26Z",
-    "details_retry_at": "2026-10-26T15:26:26Z"
+    "details_failures": 2,
+    "details_last_attempt": "2026-10-26T20:22:42Z",
+    "details_retry_at": "2026-10-26T21:22:42Z"
   },
   "https://tehnoskarb.ua/montor-lg-ultrawide-25um58/m5140685": {
     "name": "Монітор Lg ultrawide 25um58",
@@ -5562,8 +5490,28 @@
         "at": "2026-10-26T14:56:26Z"
       }
     ],
+    "details_failures": 2,
+    "details_last_attempt": "2026-10-26T20:22:42Z",
+    "details_retry_at": "2026-10-26T21:22:42Z"
+  },
+  "https://tehnoskarb.ua/montor-benq-gw2790qt/m5200006": {
+    "name": "Монітор Benq gw2790qt",
+    "price_min": 10490,
+    "price_max": 10490,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-26T20:22:42Z",
+    "price_history": [
+      {
+        "price": 10490,
+        "at": "2026-10-26T20:22:42Z"
+      }
+    ],
     "details_failures": 1,
-    "details_last_attempt": "2026-10-26T14:56:26Z",
-    "details_retry_at": "2026-10-26T15:26:26Z"
+    "details_last_attempt": "2026-10-26T20:22:42Z",
+    "details_retry_at": "2026-10-26T20:52:42Z"
   }
 }
