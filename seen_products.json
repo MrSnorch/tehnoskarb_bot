@@ -1362,27 +1362,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-29T08:45:03Z"
   },
-  "https://tehnoskarb.ua/montor-philips-brilliance-220-bw/m5190774": {
-    "name": "Монітор Philips brilliance 220 bw",
-    "price_min": 500,
-    "price_max": 500,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, б-р Чоколовський, 21"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-01T06:37:38Z",
-    "price_history": [
-      {
-        "price": 500,
-        "at": "2026-09-01T06:37:38Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-09-01T06:37:38Z"
-  },
   "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884": {
     "name": "Монітор Lg 22mp58d-p",
     "price_min": 1560,
@@ -4320,11 +4299,11 @@
   },
   "https://tehnoskarb.ua/montor-dell-u2415b/m5094796": {
     "name": "Монітор Dell u2415b",
-    "price_min": 1700,
+    "price_min": 2530,
     "price_max": 2950,
     "city": "",
     "addresses": [],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-10-17T05:59:36Z",
@@ -4332,6 +4311,10 @@
       {
         "price": 1700,
         "at": "2026-10-17T05:59:36Z"
+      },
+      {
+        "price": 2530,
+        "at": "2026-10-27T15:57:58Z"
       }
     ],
     "details_failures": 31,
@@ -4504,8 +4487,8 @@
   },
   "https://tehnoskarb.ua/montor-asus-vz229/m5149410": {
     "name": "Монітор Asus vz229",
-    "price_min": 2110,
-    "price_max": 2110,
+    "price_min": 1900,
+    "price_max": 1900,
     "city": "",
     "addresses": [],
     "offers_count": 1,
@@ -4520,6 +4503,10 @@
       {
         "price": 2110,
         "at": "2026-10-27T10:15:33Z"
+      },
+      {
+        "price": 1900,
+        "at": "2026-10-27T15:57:58Z"
       }
     ],
     "details_failures": 27,
@@ -4643,46 +4630,6 @@
       }
     ],
     "details_failures": 23,
-    "details_last_attempt": "2026-10-27T10:15:33Z",
-    "details_retry_at": "2026-10-27T16:15:33Z"
-  },
-  "https://tehnoskarb.ua/montor-19-tft-lcd-lg-w-1942s/m4699289": {
-    "name": "Монітор  19\"  TFT-LCD Lg w 1942s",
-    "price_min": 260,
-    "price_max": 260,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-20T05:50:51Z",
-    "price_history": [
-      {
-        "price": 260,
-        "at": "2026-10-20T05:50:51Z"
-      }
-    ],
-    "details_failures": 23,
-    "details_last_attempt": "2026-10-27T10:15:33Z",
-    "details_retry_at": "2026-10-27T16:15:33Z"
-  },
-  "https://tehnoskarb.ua/montor-hp-hp-e231/m5194613": {
-    "name": "Монітор Hp hp e231",
-    "price_min": 1200,
-    "price_max": 1200,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-20T19:56:16Z",
-    "price_history": [
-      {
-        "price": 1200,
-        "at": "2026-10-20T19:56:16Z"
-      }
-    ],
-    "details_failures": 22,
     "details_last_attempt": "2026-10-27T10:15:33Z",
     "details_retry_at": "2026-10-27T16:15:33Z"
   },
@@ -5502,9 +5449,9 @@
         "at": "2026-10-26T20:22:42Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-27T10:15:33Z",
-    "details_retry_at": "2026-10-27T14:15:33Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-27T15:57:58Z",
+    "details_retry_at": "2026-10-27T21:57:58Z"
   },
   "https://tehnoskarb.ua/montor-xiaomi-a24i/m5118414": {
     "name": "Монітор Xiaomi a24i",
@@ -5522,9 +5469,9 @@
         "at": "2026-10-27T00:00:03Z"
       }
     ],
-    "details_failures": 3,
-    "details_last_attempt": "2026-10-27T10:15:33Z",
-    "details_retry_at": "2026-10-27T12:15:33Z"
+    "details_failures": 4,
+    "details_last_attempt": "2026-10-27T15:57:58Z",
+    "details_retry_at": "2026-10-27T19:57:58Z"
   },
   "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949": {
     "name": "Монітор Qube b24f120hs",
@@ -5542,8 +5489,28 @@
         "at": "2026-10-27T10:15:33Z"
       }
     ],
+    "details_failures": 2,
+    "details_last_attempt": "2026-10-27T15:57:58Z",
+    "details_retry_at": "2026-10-27T16:57:58Z"
+  },
+  "https://tehnoskarb.ua/montor-benq-g2220hd/m5060645": {
+    "name": "Монітор Benq g2220hd",
+    "price_min": 1060,
+    "price_max": 1060,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-27T15:57:58Z",
+    "price_history": [
+      {
+        "price": 1060,
+        "at": "2026-10-27T15:57:58Z"
+      }
+    ],
     "details_failures": 1,
-    "details_last_attempt": "2026-10-27T10:15:33Z",
-    "details_retry_at": "2026-10-27T10:45:33Z"
+    "details_last_attempt": "2026-10-27T15:57:58Z",
+    "details_retry_at": "2026-10-27T16:27:58Z"
   }
 }
