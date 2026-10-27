@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-26T20:23:01Z",
+  "updated_at": "2026-10-27T00:13:10Z",
   "stats": {
     "total": 240,
-    "avg_price": 4323,
+    "avg_price": 4332,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2247,24 +2247,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Qube b24f120hs",
-      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
-      "price_min": 1401,
-      "price_max": 1401,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-16T13:47:55Z",
-      "price_history": [
-        {
-          "price": 1401,
-          "at": "2026-10-16T13:47:55Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Dell u2412m",
       "url": "https://tehnoskarb.ua/montor-dell-u2412m/m5000090",
       "price_min": 1440,
@@ -3428,6 +3410,24 @@
         {
           "price": 3330,
           "at": "2026-08-27T20:58:47Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Xiaomi a24i",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-a24i/m5118414",
+      "price_min": 3390,
+      "price_max": 3390,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-27T00:00:03Z",
+      "price_history": [
+        {
+          "price": 3390,
+          "at": "2026-10-27T00:00:03Z"
         }
       ],
       "category": "Монітори",
@@ -5171,25 +5171,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Acer ek221qe3bi",
-      "url": "https://tehnoskarb.ua/montor-acer-ek221qe3bi/m5192609",
-      "price": 1930,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-17T05:59:36Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Dell s2722qc",
-      "url": "https://tehnoskarb.ua/montor-dell-s2722qc/m5185518",
-      "price_old": 11500,
-      "price_new": 10500,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-17T05:59:36Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Asus proart pa27ucge",
@@ -7028,6 +7009,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-26T20:22:42Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Qube b24f120hs",
+      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
+      "price": 1401,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-27T00:00:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Xiaomi a24i",
+      "url": "https://tehnoskarb.ua/montor-xiaomi-a24i/m5118414",
+      "price": 3390,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-27T00:00:03Z"
     }
   ],
   "config": {
