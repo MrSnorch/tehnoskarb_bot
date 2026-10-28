@@ -3590,11 +3590,11 @@
   },
   "https://tehnoskarb.ua/montor-dell-u2211ht/m5171469": {
     "name": "Монітор Dell u2211ht",
-    "price_min": 550,
+    "price_min": 1070,
     "price_max": 1070,
     "city": "",
     "addresses": [],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-10-13T21:25:29Z",
@@ -3610,6 +3610,10 @@
       {
         "price": 550,
         "at": "2026-10-25T10:01:25Z"
+      },
+      {
+        "price": 1070,
+        "at": "2026-10-28T18:59:26Z"
       }
     ],
     "details_failures": 44,
@@ -4207,10 +4211,10 @@
   "https://tehnoskarb.ua/montor-dell-u2415b/m5094796": {
     "name": "Монітор Dell u2415b",
     "price_min": 2530,
-    "price_max": 2950,
+    "price_max": 2530,
     "city": "",
     "addresses": [],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-10-17T05:59:36Z",
@@ -4906,7 +4910,7 @@
     "price_max": 4700,
     "city": "",
     "addresses": [],
-    "offers_count": 3,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-10-22T19:49:07Z",
@@ -5376,9 +5380,9 @@
         "at": "2026-10-27T20:34:36Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-28T13:22:35Z",
-    "details_retry_at": "2026-10-28T17:22:35Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-28T18:59:26Z",
+    "details_retry_at": "2026-10-29T00:59:26Z"
   },
   "https://tehnoskarb.ua/montor-lg-l1952t-bf/m5180598": {
     "name": "Монітор Lg l1952t-bf",
@@ -5396,8 +5400,68 @@
         "at": "2026-10-28T13:22:35Z"
       }
     ],
+    "details_failures": 2,
+    "details_last_attempt": "2026-10-28T18:59:26Z",
+    "details_retry_at": "2026-10-28T19:59:26Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635": {
+    "name": "Монітор Msi pro mp252",
+    "price_min": 2080,
+    "price_max": 2080,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-28T18:59:26Z",
+    "price_history": [
+      {
+        "price": 2080,
+        "at": "2026-10-28T18:59:26Z"
+      }
+    ],
     "details_failures": 1,
-    "details_last_attempt": "2026-10-28T13:22:35Z",
-    "details_retry_at": "2026-10-28T13:52:35Z"
+    "details_last_attempt": "2026-10-28T18:59:26Z",
+    "details_retry_at": "2026-10-28T19:29:26Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136": {
+    "name": "Монітор Samsung smart m7",
+    "price_min": 9530,
+    "price_max": 9530,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-28T18:59:26Z",
+    "price_history": [
+      {
+        "price": 9530,
+        "at": "2026-10-28T18:59:26Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-28T18:59:26Z",
+    "details_retry_at": "2026-10-28T19:29:26Z"
+  },
+  "https://tehnoskarb.ua/montor-xiaomi-mi-curved-gaming-monitor-34/m5050741": {
+    "name": "Монітор Xiaomi mi curved gaming monitor 34\"",
+    "price_min": 7500,
+    "price_max": 7500,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-28T18:59:26Z",
+    "price_history": [
+      {
+        "price": 7500,
+        "at": "2026-10-28T18:59:26Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-28T18:59:26Z",
+    "details_retry_at": "2026-10-28T19:29:26Z"
   }
 }
