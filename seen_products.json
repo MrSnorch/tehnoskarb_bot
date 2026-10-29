@@ -45,35 +45,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-08-07T19:29:58Z"
   },
-  "https://tehnoskarb.ua/montor-asus-vw198s/m5180161": {
-    "name": "Монітор Asus vw198s",
-    "price_min": 530,
-    "price_max": 530,
-    "city": "Херсон",
-    "addresses": [
-      "м. Херсон, вул. І. Кулика, 135"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-08-07T19:29:58Z",
-    "price_history": [
-      {
-        "price": 530,
-        "at": "2026-08-07T19:29:58Z"
-      },
-      {
-        "price": 440,
-        "at": "2026-08-14T18:57:19Z"
-      },
-      {
-        "price": 530,
-        "at": "2026-10-20T15:48:28Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-08-07T19:29:58Z"
-  },
   "https://tehnoskarb.ua/montor-samsung-syncmaster-t220hd/m5178542": {
     "name": "Монітор Samsung syncmaster t220hd",
     "price_min": 820,
@@ -5415,9 +5386,9 @@
         "at": "2026-10-28T23:06:29Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-29T16:43:23Z",
-    "details_retry_at": "2026-10-29T20:43:23Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-29T21:38:11Z",
+    "details_retry_at": "2026-10-30T03:38:11Z"
   },
   "https://tehnoskarb.ua/montor-iiyama-prolite-x2474hs/m5145733": {
     "name": "Монітор Iiyama prolite x2474hs",
@@ -5435,9 +5406,9 @@
         "at": "2026-10-28T23:06:29Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-29T16:43:23Z",
-    "details_retry_at": "2026-10-29T20:43:23Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-29T21:38:11Z",
+    "details_retry_at": "2026-10-30T03:38:11Z"
   },
   "https://tehnoskarb.ua/montor-prologix-pl2424hd/m5123650": {
     "name": "Монітор Prologix pl2424hd",
@@ -5455,9 +5426,9 @@
         "at": "2026-10-28T23:06:29Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-29T16:43:23Z",
-    "details_retry_at": "2026-10-29T20:43:23Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-29T21:38:11Z",
+    "details_retry_at": "2026-10-30T03:38:11Z"
   },
   "https://tehnoskarb.ua/montor-asus-vg246h1a/m5107209": {
     "name": "Монітор Asus vg246h1a",
@@ -5475,9 +5446,9 @@
         "at": "2026-10-28T23:06:29Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-29T16:43:23Z",
-    "details_retry_at": "2026-10-29T20:43:23Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-29T21:38:11Z",
+    "details_retry_at": "2026-10-30T03:38:11Z"
   },
   "https://tehnoskarb.ua/montor-samsung-s27d360gai/m5197070": {
     "name": "Монітор Samsung s27d360gai",
@@ -5495,9 +5466,9 @@
         "at": "2026-10-29T09:35:27Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-10-29T16:43:23Z",
-    "details_retry_at": "2026-10-29T17:43:23Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-10-29T21:38:11Z",
+    "details_retry_at": "2026-10-29T23:38:11Z"
   },
   "https://tehnoskarb.ua/montor-hp-hp-e231/m5194613": {
     "name": "Монітор Hp hp e231",
@@ -5515,9 +5486,9 @@
         "at": "2026-10-29T09:35:27Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-10-29T16:43:23Z",
-    "details_retry_at": "2026-10-29T17:43:23Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-10-29T21:38:11Z",
+    "details_retry_at": "2026-10-29T23:38:11Z"
   },
   "https://tehnoskarb.ua/montor-lg-w2043s/m5055096": {
     "name": "Монітор Lg w2043s",
@@ -5535,9 +5506,9 @@
         "at": "2026-10-29T09:35:27Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-10-29T16:43:23Z",
-    "details_retry_at": "2026-10-29T17:43:23Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-10-29T21:38:11Z",
+    "details_retry_at": "2026-10-29T23:38:11Z"
   },
   "https://tehnoskarb.ua/montor-msi-pro-mp241x/m5043296": {
     "name": "Монітор Msi pro mp241x",
@@ -5555,8 +5526,28 @@
         "at": "2026-10-29T16:43:23Z"
       }
     ],
+    "details_failures": 2,
+    "details_last_attempt": "2026-10-29T21:38:11Z",
+    "details_retry_at": "2026-10-29T22:38:11Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vw193/m4987871": {
+    "name": "Монітор Asus vw193",
+    "price_min": 560,
+    "price_max": 560,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-29T21:38:11Z",
+    "price_history": [
+      {
+        "price": 560,
+        "at": "2026-10-29T21:38:11Z"
+      }
+    ],
     "details_failures": 1,
-    "details_last_attempt": "2026-10-29T16:43:23Z",
-    "details_retry_at": "2026-10-29T17:13:23Z"
+    "details_last_attempt": "2026-10-29T21:38:11Z",
+    "details_retry_at": "2026-10-29T22:08:11Z"
   }
 }

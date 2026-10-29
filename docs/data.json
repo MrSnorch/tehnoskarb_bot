@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-29T16:57:58Z",
+  "updated_at": "2026-10-29T21:38:41Z",
   "stats": {
     "total": 242,
-    "avg_price": 4312,
+    "avg_price": 4313,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -888,34 +888,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus vw198s",
-      "url": "https://tehnoskarb.ua/montor-asus-vw198s/m5180161",
-      "price_min": 530,
-      "price_max": 530,
-      "city": "Херсон",
-      "addresses": [
-        "м. Херсон, вул. І. Кулика, 135"
-      ],
-      "offers": 1,
-      "first_seen": "2026-08-07T19:29:58Z",
-      "price_history": [
-        {
-          "price": 530,
-          "at": "2026-08-07T19:29:58Z"
-        },
-        {
-          "price": 440,
-          "at": "2026-08-14T18:57:19Z"
-        },
-        {
-          "price": 530,
-          "at": "2026-10-20T15:48:28Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung ls20b3u",
       "url": "https://tehnoskarb.ua/montor-samsung-ls20b3u/m5171325",
       "price_min": 530,
@@ -1039,6 +1011,24 @@
         {
           "price": 550,
           "at": "2026-09-24T09:06:33Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Asus vw193",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193/m4987871",
+      "price_min": 560,
+      "price_max": 560,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-29T21:38:11Z",
+      "price_history": [
+        {
+          "price": 560,
+          "at": "2026-10-29T21:38:11Z"
         }
       ],
       "category": "Монітори",
@@ -5209,25 +5199,6 @@
   ],
   "events": [
     {
-      "type": "drop",
-      "name": "Монітор Benq benq zowie xl2546k",
-      "url": "https://tehnoskarb.ua/montor-benq-benq-zowie-xl2546k/m5180042",
-      "price_old": 10000,
-      "price_new": 9000,
-      "city": "Харків",
-      "category": "Монітори",
-      "at": "2026-10-19T10:10:51Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus vw222u",
-      "url": "https://tehnoskarb.ua/tft-lcd-montor-asus-vw222u/m5195918",
-      "price": 610,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-19T17:05:18Z"
-    },
-    {
       "type": "sold",
       "name": "Монітор Samsung ls24r350fhixci",
       "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
@@ -7063,6 +7034,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-29T16:43:23Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus vw198s",
+      "url": "https://tehnoskarb.ua/montor-asus-vw198s/m5180161",
+      "price": 530,
+      "city": "Херсон",
+      "category": "Монітори",
+      "at": "2026-10-29T21:38:11Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vw193",
+      "url": "https://tehnoskarb.ua/montor-asus-vw193/m4987871",
+      "price": 560,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-29T21:38:11Z"
     }
   ],
   "config": {
