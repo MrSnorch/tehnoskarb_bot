@@ -474,14 +474,14 @@
   },
   "https://tehnoskarb.ua/montor-samsung-s19a100n/m5098815": {
     "name": "Монітор Samsung s19a100n",
-    "price_min": 280,
+    "price_min": 200,
     "price_max": 280,
     "city": "Херсон",
     "addresses": [
       "м. Херсон, вул. І. Кулика, 135",
       "м. Тернопіль, вул. Мазепи, 5"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-08-07T19:29:58Z",
@@ -513,6 +513,10 @@
       {
         "price": 280,
         "at": "2026-10-30T15:11:43Z"
+      },
+      {
+        "price": 200,
+        "at": "2026-10-30T19:59:42Z"
       }
     ],
     "details_failures": 0,
@@ -1513,31 +1517,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-09-08T08:42:27Z"
   },
-  "https://tehnoskarb.ua/montor-lg-flatron-w1943s/m5192566": {
-    "name": "Монітор Lg flatron w1943s",
-    "price_min": 530,
-    "price_max": 530,
-    "city": "Хмельницький",
-    "addresses": [
-      "м. Хмельницький, вул. Кам`янецька, 11"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-09T06:28:17Z",
-    "price_history": [
-      {
-        "price": 590,
-        "at": "2026-09-09T06:28:17Z"
-      },
-      {
-        "price": 530,
-        "at": "2026-10-14T05:54:38Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-09-09T06:28:17Z"
-  },
   "https://tehnoskarb.ua/montor-aoc-m2470swh/m5192527": {
     "name": "Монітор Aoc m2470swh",
     "price_min": 2310,
@@ -1587,10 +1566,10 @@
   "https://tehnoskarb.ua/montor-asus-rog-strix-xg27acs/m5148467": {
     "name": "Монітор Asus rog strix xg27acs",
     "price_min": 8790,
-    "price_max": 8790,
+    "price_max": 10510,
     "city": "",
     "addresses": [],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-09-09T19:22:24Z",
@@ -1898,12 +1877,12 @@
   "https://tehnoskarb.ua/montor-asus-vy249hf-w/m5194053": {
     "name": "Монітор Asus vy249hf-w",
     "price_min": 3880,
-    "price_max": 3880,
+    "price_max": 3900,
     "city": "Ужгород",
     "addresses": [
       "м. Ужгород, вул. Мукачівська, 2"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-09-18T05:01:34Z",
@@ -2764,7 +2743,7 @@
     "price_max": 23560,
     "city": "",
     "addresses": [],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-10-03T06:10:39Z",
@@ -2811,26 +2790,6 @@
     "price_history": [
       {
         "price": 610,
-        "at": "2026-10-03T06:10:39Z"
-      }
-    ],
-    "details_failures": 81,
-    "details_last_attempt": "2026-10-30T15:11:43Z",
-    "details_retry_at": "2026-10-30T21:11:43Z"
-  },
-  "https://tehnoskarb.ua/montor-msi-pro-mp2412/m5057728": {
-    "name": "Монітор Msi pro mp2412",
-    "price_min": 3300,
-    "price_max": 3300,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-03T06:10:39Z",
-    "price_history": [
-      {
-        "price": 3300,
         "at": "2026-10-03T06:10:39Z"
       }
     ],
@@ -4828,7 +4787,7 @@
     "price_max": 1510,
     "city": "",
     "addresses": [],
-    "offers_count": 7,
+    "offers_count": 8,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-10-22T19:49:07Z",
@@ -4905,10 +4864,10 @@
   "https://tehnoskarb.ua/montor-msi-g2412/m5024355": {
     "name": "Монітор Msi g2412",
     "price_min": 3500,
-    "price_max": 3500,
+    "price_max": 3740,
     "city": "",
     "addresses": [],
-    "offers_count": 1,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-10-23T07:09:41Z",
@@ -5346,26 +5305,6 @@
     "details_last_attempt": "2026-10-30T15:11:43Z",
     "details_retry_at": "2026-10-30T21:11:43Z"
   },
-  "https://tehnoskarb.ua/montor-iiyama-prolite-x2474hs/m5145733": {
-    "name": "Монітор Iiyama prolite x2474hs",
-    "price_min": 2260,
-    "price_max": 2260,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-28T23:06:29Z",
-    "price_history": [
-      {
-        "price": 2260,
-        "at": "2026-10-28T23:06:29Z"
-      }
-    ],
-    "details_failures": 7,
-    "details_last_attempt": "2026-10-30T15:11:43Z",
-    "details_retry_at": "2026-10-30T21:11:43Z"
-  },
   "https://tehnoskarb.ua/montor-prologix-pl2424hd/m5123650": {
     "name": "Монітор Prologix pl2424hd",
     "price_min": 2370,
@@ -5403,26 +5342,6 @@
       }
     ],
     "details_failures": 7,
-    "details_last_attempt": "2026-10-30T15:11:43Z",
-    "details_retry_at": "2026-10-30T21:11:43Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-s27d360gai/m5197070": {
-    "name": "Монітор Samsung s27d360gai",
-    "price_min": 3160,
-    "price_max": 3160,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-29T09:35:27Z",
-    "price_history": [
-      {
-        "price": 3160,
-        "at": "2026-10-29T09:35:27Z"
-      }
-    ],
-    "details_failures": 6,
     "details_last_attempt": "2026-10-30T15:11:43Z",
     "details_retry_at": "2026-10-30T21:11:43Z"
   },
@@ -5502,29 +5421,9 @@
         "at": "2026-10-29T21:38:11Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-10-30T15:11:43Z",
-    "details_retry_at": "2026-10-30T19:11:43Z"
-  },
-  "https://tehnoskarb.ua/montor-asus-vp228/m5145192": {
-    "name": "Монітор Asus vp228",
-    "price_min": 1460,
-    "price_max": 1460,
-    "city": "",
-    "addresses": [],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-30T08:16:55Z",
-    "price_history": [
-      {
-        "price": 1460,
-        "at": "2026-10-30T08:16:55Z"
-      }
-    ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-10-30T15:11:43Z",
-    "details_retry_at": "2026-10-30T16:11:43Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-10-30T19:59:42Z",
+    "details_retry_at": "2026-10-31T01:59:42Z"
   },
   "https://tehnoskarb.ua/montor-asus-vw198s/m5180161": {
     "name": "Монітор Asus vw198s",
@@ -5542,8 +5441,48 @@
         "at": "2026-10-30T15:11:43Z"
       }
     ],
+    "details_failures": 2,
+    "details_last_attempt": "2026-10-30T19:59:42Z",
+    "details_retry_at": "2026-10-30T20:59:42Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqml5a/m5183357": {
+    "name": "Монітор Asus tuf gaming vg27aqml5a",
+    "price_min": 10800,
+    "price_max": 10800,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-30T19:59:42Z",
+    "price_history": [
+      {
+        "price": 10800,
+        "at": "2026-10-30T19:59:42Z"
+      }
+    ],
     "details_failures": 1,
-    "details_last_attempt": "2026-10-30T15:11:43Z",
-    "details_retry_at": "2026-10-30T15:41:43Z"
+    "details_last_attempt": "2026-10-30T19:59:42Z",
+    "details_retry_at": "2026-10-30T20:29:42Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-zenscreen-mb166c/m5183364": {
+    "name": "Монітор Asus zenscreen mb166c",
+    "price_min": 5210,
+    "price_max": 5210,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-10-30T19:59:42Z",
+    "price_history": [
+      {
+        "price": 5210,
+        "at": "2026-10-30T19:59:42Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-10-30T19:59:42Z",
+    "details_retry_at": "2026-10-30T20:29:42Z"
   }
 }
