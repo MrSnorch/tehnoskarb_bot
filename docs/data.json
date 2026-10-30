@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-30T01:54:36Z",
+  "updated_at": "2026-10-30T08:31:54Z",
   "stats": {
-    "total": 242,
-    "avg_price": 4313,
+    "total": 243,
+    "avg_price": 4298,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2242,6 +2242,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus vp228",
+      "url": "https://tehnoskarb.ua/montor-asus-vp228/m5145192",
+      "price_min": 1460,
+      "price_max": 1460,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-30T08:16:55Z",
+      "price_history": [
+        {
+          "price": 1460,
+          "at": "2026-10-30T08:16:55Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 22mp58d-p",
       "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
       "price_min": 1560,
@@ -3721,6 +3739,28 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Iiyama prolite xub2495wsu-b1c",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-xub2495wsu-b1c/m5199476",
+      "price_min": 4080,
+      "price_max": 5000,
+      "city": "",
+      "addresses": [],
+      "offers": 3,
+      "first_seen": "2026-10-22T19:49:07Z",
+      "price_history": [
+        {
+          "price": 4700,
+          "at": "2026-10-22T19:49:07Z"
+        },
+        {
+          "price": 4080,
+          "at": "2026-10-30T08:16:55Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi optix mag 256f",
       "url": "https://tehnoskarb.ua/montor-msi-optix-mag-256f/m5133408",
       "price_min": 4090,
@@ -3907,24 +3947,6 @@
         {
           "price": 4500,
           "at": "2026-10-23T07:09:41Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Iiyama prolite xub2495wsu-b1c",
-      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-xub2495wsu-b1c/m5199476",
-      "price_min": 4700,
-      "price_max": 4700,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-22T19:49:07Z",
-      "price_history": [
-        {
-          "price": 4700,
-          "at": "2026-10-22T19:49:07Z"
         }
       ],
       "category": "Монітори",
@@ -5198,24 +5220,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Samsung ls24r350fhixci",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24r350fhixci/m5138339",
-      "price": 3000,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-19T17:05:18Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Asus tuf gaming vg27vqm1b",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27vqm1b/m5156865",
-      "price": 5340,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-19T17:05:18Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Samsung lf22t350f",
@@ -7052,6 +7056,25 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-29T21:38:11Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Iiyama prolite xub2495wsu-b1c",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-xub2495wsu-b1c/m5199476",
+      "price_old": 4700,
+      "price_new": 4080,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-30T08:16:55Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus vp228",
+      "url": "https://tehnoskarb.ua/montor-asus-vp228/m5145192",
+      "price": 1460,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-30T08:16:55Z"
     }
   ],
   "config": {
