@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-31T15:58:28Z",
+  "updated_at": "2026-10-31T20:05:51Z",
   "stats": {
     "total": 242,
-    "avg_price": 4369,
+    "avg_price": 4372,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2532,24 +2532,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi pro mp241x",
-      "url": "https://tehnoskarb.ua/montor-msi-pro-mp241x/m5043296",
-      "price_min": 1930,
-      "price_max": 1930,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-29T16:43:23Z",
-      "price_history": [
-        {
-          "price": 1930,
-          "at": "2026-10-29T16:43:23Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s22f350fhi",
       "url": "https://tehnoskarb.ua/montor-samsung-s22f350fhi/m5139689",
       "price_min": 2000,
@@ -2945,6 +2927,24 @@
         {
           "price": 2530,
           "at": "2026-10-27T15:57:58Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Acer vero v247ygbip",
+      "url": "https://tehnoskarb.ua/montor-acer-vero-v247ygbip/m5201019",
+      "price_min": 2540,
+      "price_max": 2540,
+      "city": "",
+      "addresses": [],
+      "offers": 2,
+      "first_seen": "2026-10-31T19:52:12Z",
+      "price_history": [
+        {
+          "price": 2540,
+          "at": "2026-10-31T19:52:12Z"
         }
       ],
       "category": "Монітори",
@@ -5217,26 +5217,6 @@
   ],
   "events": [
     {
-      "type": "rise",
-      "name": "Монітор Asus vw198s",
-      "url": "https://tehnoskarb.ua/montor-asus-vw198s/m5180161",
-      "price_old": 440,
-      "price_new": 530,
-      "city": "Херсон",
-      "category": "Монітори",
-      "at": "2026-10-20T15:48:28Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Lg 23ea53tp",
-      "url": "https://tehnoskarb.ua/monitor-lg-23ea53tp/m5178523",
-      "price_old": 900,
-      "price_new": 810,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-20T15:48:28Z"
-    },
-    {
       "type": "drop",
       "name": "Монітор Samsung syncmaster t220hd",
       "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-t220hd/m5178542",
@@ -7071,6 +7051,24 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-31T15:58:03Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi pro mp241x",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp241x/m5043296",
+      "price": 1930,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-31T19:52:12Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer vero v247ygbip",
+      "url": "https://tehnoskarb.ua/montor-acer-vero-v247ygbip/m5201019",
+      "price": 2540,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-31T19:52:12Z"
     }
   ],
   "config": {
