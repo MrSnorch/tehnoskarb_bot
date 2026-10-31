@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-31T20:05:51Z",
+  "updated_at": "2026-10-31T23:09:55Z",
   "stats": {
-    "total": 242,
-    "avg_price": 4372,
+    "total": 243,
+    "avg_price": 4361,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2366,6 +2366,24 @@
         {
           "price": 1661,
           "at": "2026-10-21T13:04:32Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg e2342",
+      "url": "https://tehnoskarb.ua/montor-lg-e2342/m5195776",
+      "price_min": 1680,
+      "price_max": 1680,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-31T23:09:27Z",
+      "price_history": [
+        {
+          "price": 1680,
+          "at": "2026-10-31T23:09:27Z"
         }
       ],
       "category": "Монітори",
@@ -5218,16 +5236,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Samsung syncmaster t220hd",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-t220hd/m5178542",
-      "price_old": 910,
-      "price_new": 820,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-20T15:48:28Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Samsung s19f355hn",
       "url": "https://tehnoskarb.ua/montor-samsung-s19f355hn/m5178343",
       "price_old": 1215,
@@ -7069,6 +7077,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-31T19:52:12Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg e2342",
+      "url": "https://tehnoskarb.ua/montor-lg-e2342/m5195776",
+      "price": 1680,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-10-31T23:09:27Z"
     }
   ],
   "config": {
