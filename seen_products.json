@@ -1845,12 +1845,12 @@
   "https://tehnoskarb.ua/montor-asus-proart-pa279crv/m5183698": {
     "name": "Монітор Asus proart pa279crv",
     "price_min": 16320,
-    "price_max": 16320,
+    "price_max": 16330,
     "city": "Ужгород",
     "addresses": [
       "м. Ужгород, вул. Мукачівська, 2"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-09-18T05:01:34Z",
@@ -4094,11 +4094,11 @@
   },
   "https://tehnoskarb.ua/montor-benq-gw2470/m5156904": {
     "name": "Монітор Benq gw2470",
-    "price_min": 1830,
+    "price_min": 1510,
     "price_max": 1830,
     "city": "",
     "addresses": [],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-10-17T17:26:54Z",
@@ -4110,6 +4110,10 @@
       {
         "price": 1830,
         "at": "2026-10-23T07:09:41Z"
+      },
+      {
+        "price": 1510,
+        "at": "2026-11-01T20:59:14Z"
       }
     ],
     "details_failures": 45,
@@ -5512,9 +5516,9 @@
         "at": "2026-10-31T23:09:27Z"
       }
     ],
-    "details_failures": 4,
-    "details_last_attempt": "2026-11-01T16:38:13Z",
-    "details_retry_at": "2026-11-01T20:38:13Z"
+    "details_failures": 5,
+    "details_last_attempt": "2026-11-01T20:59:14Z",
+    "details_retry_at": "2026-11-02T02:59:14Z"
   },
   "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194": {
     "name": "Монітор Samsung s22d300",
@@ -5532,8 +5536,88 @@
         "at": "2026-11-01T09:36:51Z"
       }
     ],
-    "details_failures": 2,
-    "details_last_attempt": "2026-11-01T16:38:13Z",
-    "details_retry_at": "2026-11-01T17:38:13Z"
+    "details_failures": 3,
+    "details_last_attempt": "2026-11-01T20:59:14Z",
+    "details_retry_at": "2026-11-01T22:59:14Z"
+  },
+  "https://tehnoskarb.ua/montor-acer-b247w/m5201141": {
+    "name": "Монітор Acer b247w",
+    "price_min": 6900,
+    "price_max": 6900,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-01T20:59:14Z",
+    "price_history": [
+      {
+        "price": 6900,
+        "at": "2026-11-01T20:59:14Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-11-01T20:59:14Z",
+    "details_retry_at": "2026-11-01T21:29:14Z"
+  },
+  "https://tehnoskarb.ua/montor-acer-kg241q/m5201074": {
+    "name": "Монітор Acer kg241q",
+    "price_min": 2540,
+    "price_max": 2540,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-01T20:59:14Z",
+    "price_history": [
+      {
+        "price": 2540,
+        "at": "2026-11-01T20:59:14Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-11-01T20:59:14Z",
+    "details_retry_at": "2026-11-01T21:29:14Z"
+  },
+  "https://tehnoskarb.ua/nastlnijj-montor-iiyama-pl2201/m5201083": {
+    "name": "Монітор Iiyama pl2201",
+    "price_min": 690,
+    "price_max": 690,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-01T20:59:14Z",
+    "price_history": [
+      {
+        "price": 690,
+        "at": "2026-11-01T20:59:14Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-11-01T20:59:14Z",
+    "details_retry_at": "2026-11-01T21:29:14Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-c27r500fhi/m5200371": {
+    "name": "Монітор Samsung c27r500fhi",
+    "price_min": 3700,
+    "price_max": 3700,
+    "city": "",
+    "addresses": [],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-01T20:59:14Z",
+    "price_history": [
+      {
+        "price": 3700,
+        "at": "2026-11-01T20:59:14Z"
+      }
+    ],
+    "details_failures": 1,
+    "details_last_attempt": "2026-11-01T20:59:14Z",
+    "details_retry_at": "2026-11-01T21:29:14Z"
   }
 }
