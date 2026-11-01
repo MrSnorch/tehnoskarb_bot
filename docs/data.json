@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-01T02:40:57Z",
+  "updated_at": "2026-11-01T09:51:38Z",
   "stats": {
-    "total": 243,
-    "avg_price": 4361,
+    "total": 244,
+    "avg_price": 4347,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1822,6 +1822,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung s22d300",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194",
+      "price_min": 1000,
+      "price_max": 1000,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-11-01T09:36:51Z",
+      "price_history": [
+        {
+          "price": 1000,
+          "at": "2026-11-01T09:36:51Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Philips 227e4lsb",
       "url": "https://tehnoskarb.ua/montor-philips-227e4lsb/m5182381",
       "price_min": 1030,
@@ -2822,7 +2840,7 @@
       "price_max": 2340,
       "city": "",
       "addresses": [],
-      "offers": 4,
+      "offers": 3,
       "first_seen": "2026-10-21T07:26:04Z",
       "price_history": [
         {
@@ -5236,16 +5254,6 @@
   "events": [
     {
       "type": "drop",
-      "name": "Монітор Samsung s19f355hn",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19f355hn/m5178343",
-      "price_old": 1215,
-      "price_new": 1090,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-20T15:48:28Z"
-    },
-    {
-      "type": "drop",
       "name": "Монітор Msi mag301cr2",
       "url": "https://tehnoskarb.ua/montor-msi-mag301cr2/m5178275",
       "price_old": 8100,
@@ -7086,6 +7094,15 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-10-31T23:09:27Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung s22d300",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194",
+      "price": 1000,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-11-01T09:36:51Z"
     }
   ],
   "config": {
