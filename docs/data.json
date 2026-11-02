@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-01T20:59:43Z",
+  "updated_at": "2026-11-02T00:47:46Z",
   "stats": {
-    "total": 245,
-    "avg_price": 4367,
+    "total": 246,
+    "avg_price": 4375,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2997,6 +2997,42 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung c24f390fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
+      "price_min": 2570,
+      "price_max": 2700,
+      "city": "Чорноморськ",
+      "addresses": [
+        "м. Чорноморськ, просп. Миру, 16/59-Н"
+      ],
+      "offers": 2,
+      "first_seen": "2026-09-09T19:22:24Z",
+      "price_history": [
+        {
+          "price": 2100,
+          "at": "2026-09-09T19:22:24Z"
+        },
+        {
+          "price": 2680,
+          "at": "2026-09-13T14:34:46Z"
+        },
+        {
+          "price": 3150,
+          "at": "2026-10-07T20:30:16Z"
+        },
+        {
+          "price": 2700,
+          "at": "2026-10-23T17:46:07Z"
+        },
+        {
+          "price": 2570,
+          "at": "2026-11-02T00:33:26Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Lg 27ms550-b",
       "url": "https://tehnoskarb.ua/montor-lg-27ms550-b/m5190985",
       "price_min": 2630,
@@ -3029,38 +3065,6 @@
         {
           "price": 2640,
           "at": "2026-10-18T04:59:41Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung c24f390fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
-      "price_min": 2700,
-      "price_max": 2700,
-      "city": "Чорноморськ",
-      "addresses": [
-        "м. Чорноморськ, просп. Миру, 16/59-Н"
-      ],
-      "offers": 1,
-      "first_seen": "2026-09-09T19:22:24Z",
-      "price_history": [
-        {
-          "price": 2100,
-          "at": "2026-09-09T19:22:24Z"
-        },
-        {
-          "price": 2680,
-          "at": "2026-09-13T14:34:46Z"
-        },
-        {
-          "price": 3150,
-          "at": "2026-10-07T20:30:16Z"
-        },
-        {
-          "price": 2700,
-          "at": "2026-10-23T17:46:07Z"
         }
       ],
       "category": "Монітори",
@@ -4217,6 +4221,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Acer nitro xv253qxbmiiprzx",
+      "url": "https://tehnoskarb.ua/montor-acer-nitro-xv253qxbmiiprzx/m5143202",
+      "price_min": 6500,
+      "price_max": 6500,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-11-02T00:33:26Z",
+      "price_history": [
+        {
+          "price": 6500,
+          "at": "2026-11-02T00:33:26Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi modern md272qxpw",
       "url": "https://tehnoskarb.ua/montor-msi-modern-md272qxpw/m5192622",
       "price_min": 6890,
@@ -5260,26 +5282,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Samsung viewfinity s9 5k",
-      "url": "https://tehnoskarb.ua/montor-samsung-viewfinity-s9-5k/m5133461",
-      "price_old": 26100,
-      "price_new": 23490,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-20T15:48:28Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Lg e2040st",
-      "url": "https://tehnoskarb.ua/montor-lg-e2040st/m5112294",
-      "price_old": 405,
-      "price_new": 365,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-20T15:48:28Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Samsung s19a100n",
@@ -7104,6 +7106,25 @@
       "city": "",
       "category": "Монітори",
       "at": "2026-11-01T20:59:14Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer nitro xv253qxbmiiprzx",
+      "url": "https://tehnoskarb.ua/montor-acer-nitro-xv253qxbmiiprzx/m5143202",
+      "price": 6500,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-11-02T00:33:26Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung c24f390fhi",
+      "url": "https://tehnoskarb.ua/montor-samsung-c24f390fhi/m5112717",
+      "price_old": 2700,
+      "price_new": 2570,
+      "city": "Чорноморськ",
+      "category": "Монітори",
+      "at": "2026-11-02T00:33:26Z"
     }
   ],
   "config": {
