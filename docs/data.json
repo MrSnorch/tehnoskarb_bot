@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-02T00:47:46Z",
+  "updated_at": "2026-11-02T07:41:23Z",
   "stats": {
-    "total": 246,
-    "avg_price": 4375,
+    "total": 248,
+    "avg_price": 4356,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1813,10 +1813,10 @@
       "name": "Монітор Samsung s22d300",
       "url": "https://tehnoskarb.ua/montor-samsung-s22d300/m5132194",
       "price_min": 1000,
-      "price_max": 1000,
+      "price_max": 1700,
       "city": "",
       "addresses": [],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-11-01T09:36:51Z",
       "price_history": [
         {
@@ -2844,6 +2844,24 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Philips 248e9qhsb",
+      "url": "https://tehnoskarb.ua/montor-philips-248e9qhsb/m5201047",
+      "price_min": 2360,
+      "price_max": 2360,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-11-02T07:26:50Z",
+      "price_history": [
+        {
+          "price": 2360,
+          "at": "2026-11-02T07:26:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Prologix pl2424hd",
       "url": "https://tehnoskarb.ua/montor-prologix-pl2424hd/m5123650",
       "price_min": 2370,
@@ -3083,6 +3101,24 @@
         {
           "price": 2700,
           "at": "2026-10-18T19:22:35Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Msi pro mp225",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp225/m5096044",
+      "price_min": 2700,
+      "price_max": 2700,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-11-02T07:26:50Z",
+      "price_history": [
+        {
+          "price": 2700,
+          "at": "2026-11-02T07:26:50Z"
         }
       ],
       "category": "Монітори",
@@ -4645,6 +4681,32 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell s2722qc",
+      "url": "https://tehnoskarb.ua/montor-dell-s2722qc/m5185518",
+      "price_min": 9500,
+      "price_max": 9500,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-10-03T22:20:36Z",
+      "price_history": [
+        {
+          "price": 11500,
+          "at": "2026-10-03T22:20:36Z"
+        },
+        {
+          "price": 10500,
+          "at": "2026-10-17T05:59:36Z"
+        },
+        {
+          "price": 9500,
+          "at": "2026-11-02T07:26:50Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung smart m7",
       "url": "https://tehnoskarb.ua/montor-samsung-smart-m7/m5065136",
       "price_min": 9530,
@@ -4739,28 +4801,6 @@
         {
           "price": 10490,
           "at": "2026-10-26T20:22:42Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Dell s2722qc",
-      "url": "https://tehnoskarb.ua/montor-dell-s2722qc/m5185518",
-      "price_min": 10500,
-      "price_max": 10500,
-      "city": "",
-      "addresses": [],
-      "offers": 1,
-      "first_seen": "2026-10-03T22:20:36Z",
-      "price_history": [
-        {
-          "price": 11500,
-          "at": "2026-10-03T22:20:36Z"
-        },
-        {
-          "price": 10500,
-          "at": "2026-10-17T05:59:36Z"
         }
       ],
       "category": "Монітори",
@@ -5282,36 +5322,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Samsung s19a100n",
-      "url": "https://tehnoskarb.ua/montor-samsung-s19a100n/m5098815",
-      "price_old": 225,
-      "price_new": 200,
-      "city": "Херсон",
-      "category": "Монітори",
-      "at": "2026-10-20T15:48:28Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Philips 196v3l",
-      "url": "https://tehnoskarb.ua/montor-philips-196v3l/m5081628",
-      "price_old": 430,
-      "price_new": 390,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-10-20T15:48:28Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Philips 192e2sb2",
-      "url": "https://tehnoskarb.ua/montor-philips-192e2sb2/m5058006",
-      "price_old": 500,
-      "price_new": 450,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-20T15:48:28Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Lg w2043s",
@@ -7125,6 +7135,34 @@
       "city": "Чорноморськ",
       "category": "Монітори",
       "at": "2026-11-02T00:33:26Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 248e9qhsb",
+      "url": "https://tehnoskarb.ua/montor-philips-248e9qhsb/m5201047",
+      "price": 2360,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-11-02T07:26:50Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Dell s2722qc",
+      "url": "https://tehnoskarb.ua/montor-dell-s2722qc/m5185518",
+      "price_old": 10500,
+      "price_new": 9500,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-11-02T07:26:50Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Msi pro mp225",
+      "url": "https://tehnoskarb.ua/montor-msi-pro-mp225/m5096044",
+      "price": 2700,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-11-02T07:26:50Z"
     }
   ],
   "config": {
