@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-02T17:37:40Z",
+  "updated_at": "2026-11-03T00:14:33Z",
   "stats": {
-    "total": 244,
-    "avg_price": 4346,
+    "total": 245,
+    "avg_price": 4349,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2947,7 +2947,7 @@
       "price_max": 2540,
       "city": "",
       "addresses": [],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-10-31T19:52:12Z",
       "price_history": [
         {
@@ -4009,6 +4009,24 @@
         {
           "price": 5000,
           "at": "2026-10-24T19:18:09Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Iiyama prolite xb2495wsu-b1",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-xb2495wsu-b1/m5200773",
+      "price_min": 5000,
+      "price_max": 5000,
+      "city": "",
+      "addresses": [],
+      "offers": 1,
+      "first_seen": "2026-11-02T23:59:28Z",
+      "price_history": [
+        {
+          "price": 5000,
+          "at": "2026-11-02T23:59:28Z"
         }
       ],
       "category": "Монітори",
@@ -5250,15 +5268,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg259qm5a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg259qm5a/m5199256",
-      "price": 5230,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-20T19:56:16Z"
-    },
     {
       "type": "new",
       "name": "Монітор Hp hp e231",
@@ -7088,6 +7097,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-11-02T17:22:43Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Iiyama prolite xb2495wsu-b1",
+      "url": "https://tehnoskarb.ua/montor-iiyama-prolite-xb2495wsu-b1/m5200773",
+      "price": 5000,
+      "city": "",
+      "category": "Монітори",
+      "at": "2026-11-02T23:59:28Z"
     }
   ],
   "config": {
