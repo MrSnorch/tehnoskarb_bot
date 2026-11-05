@@ -243,12 +243,26 @@ def scrape_category(base_url: str, category: str, emoji: str) -> list[Product]:
 
 # ─── Деталі (адреса + місто) ─────────────────────────────────────────────────
 
+# Старий формат: "м. Київ, вул. Шептицького, 24"
 ADDRESS_RE = re.compile(r"^(?:м|г)\.\s*[^,]+,\s*.{3,60}$", re.UNICODE | re.IGNORECASE)
 CITY_RE    = re.compile(r"^(?:м|г)\.\s*([^,]+)", re.UNICODE | re.IGNORECASE)
+# Новий формат (без "м."): "Ужгород, Мукачівська вул, 2"
+BARE_ADDRESS_RE = re.compile(r"^[А-ЯІЇЄҐA-Z][А-Яа-яІіЇїЄєҐґ'’`\-\. ]{1,40},\s*.{3,60}$", re.UNICODE)
+
+def normalize_address(text: str) -> str:
+    """Приводить адресу до єдиного вигляду з префіксом 'м. '."""
+    text = re.sub(r"\s+", " ", text).strip()
+    if re.match(r"^(?:м|г)\.", text, re.IGNORECASE):
+        return text
+    return f"м. {text}"
 
 def extract_city(address: str) -> str:
     m = CITY_RE.search(address.strip())
-    return m.group(1).strip() if m else ""
+    if m:
+        return m.group(1).strip()
+    # адреса без префіксу "м." — місто це частина до першої коми
+    head = address.split(",", 1)[0].strip()
+    return head if "," in address and head else ""
 
 def build_detail_fetch_urls(product_url: str) -> list[str]:
     candidates = [product_url]
@@ -302,16 +316,31 @@ def scrape_details(product_url: str) -> tuple[str, list[str]]:
                 soup = BeautifulSoup(resp.text, "html.parser")
 
                 addresses = []
-                for el in soup.find_all(string=True):
-                    addr = el.strip()
-                    if ADDRESS_RE.match(addr) and addr not in addresses:
+
+                def add_addr(raw: str):
+                    addr = normalize_address(raw)
+                    if addr not in addresses:
                         addresses.append(addr)
 
+                # 1) Семантичний тег <address> (поточна верстка сайту)
+                for tag in soup.find_all("address"):
+                    text = re.sub(r"\s+", " ", tag.get_text(" ", strip=True))
+                    if BARE_ADDRESS_RE.match(text) or ADDRESS_RE.match(text):
+                        add_addr(text)
+
+                # 2) Старий формат: текстові вузли "м. Місто, вулиця"
+                if not addresses:
+                    for el in soup.find_all(string=True):
+                        addr = el.strip()
+                        if ADDRESS_RE.match(addr):
+                            add_addr(addr)
+
+                # 3) Блоки font-semibold (список магазинів у картці)
                 if not addresses:
                     for div in soup.find_all("div", class_=lambda c: c and "font-semibold" in c):
                         text = div.get_text(strip=True)
-                        if re.match(r"^(?:м|г)\.", text, re.IGNORECASE) and len(text) < 80 and text not in addresses:
-                            addresses.append(text)
+                        if len(text) < 80 and (ADDRESS_RE.match(text) or BARE_ADDRESS_RE.match(text)):
+                            add_addr(text)
 
                 addresses = addresses[:5]
                 city = extract_city(addresses[0]) if addresses else ""
