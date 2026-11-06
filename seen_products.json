@@ -1394,27 +1394,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-09-05T21:33:12Z"
   },
-  "https://tehnoskarb.ua/montor-lg-w2243s/m4992369": {
-    "name": "Монітор Lg w2243s",
-    "price_min": 650,
-    "price_max": 650,
-    "city": "Винники",
-    "addresses": [
-      "м. Винники, вул. Крушельницької, 3"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-09-06T18:06:40Z",
-    "price_history": [
-      {
-        "price": 650,
-        "at": "2026-09-06T18:06:40Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-09-06T18:06:40Z"
-  },
   "https://tehnoskarb.ua/montor-arzopa-g1-game-z1fc/m5081472": {
     "name": "Монітор Arzopa g1 game z1fc",
     "price_min": 4890,
@@ -3872,14 +3851,14 @@
   },
   "https://tehnoskarb.ua/montor-benq-gw2470/m5156904": {
     "name": "Монітор Benq gw2470",
-    "price_min": 1510,
+    "price_min": 1830,
     "price_max": 1830,
     "city": "Ужгород",
     "addresses": [
       "м. Ужгород, Грушевського Михайла вул, 67",
       "м. Кропивницький, Соборна вул, 3"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-10-17T17:26:54Z",
@@ -3895,6 +3874,10 @@
       {
         "price": 1510,
         "at": "2026-11-01T20:59:14Z"
+      },
+      {
+        "price": 1830,
+        "at": "2026-11-06T13:55:21Z"
       }
     ],
     "details_failures": 0,
@@ -4229,8 +4212,8 @@
   },
   "https://tehnoskarb.ua/montor-acer-g246hyl/m5192328": {
     "name": "Монітор Acer g246hyl",
-    "price_min": 2900,
-    "price_max": 2900,
+    "price_min": 2700,
+    "price_max": 2700,
     "city": "Київ",
     "addresses": [
       "м. Київ, Воскресенський просп, 34/2"
@@ -4243,6 +4226,10 @@
       {
         "price": 2900,
         "at": "2026-10-21T07:26:04Z"
+      },
+      {
+        "price": 2700,
+        "at": "2026-11-06T13:55:21Z"
       }
     ],
     "details_failures": 0,
@@ -5817,27 +5804,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-11-06T05:42:16Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-s23e650d/m5200776": {
-    "name": "Монітор Samsung s23e650d",
-    "price_min": 1000,
-    "price_max": 1000,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, Щербаківського Данила вул, 45"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-11-04T16:01:12Z",
-    "price_history": [
-      {
-        "price": 1000,
-        "at": "2026-11-04T16:01:12Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-11-06T05:42:16Z"
-  },
   "https://tehnoskarb.ua/montor-eizo-flexscan-ev2460/m5200760": {
     "name": "Монітор Eizo flexscan ev2460",
     "price_min": 2700,
@@ -6110,5 +6076,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-11-06T05:42:16Z"
+  },
+  "https://tehnoskarb.ua/montor-aoc-e2260-215lm/m5201609": {
+    "name": "Монітор Aoc e2260/ 215lm",
+    "price_min": 1200,
+    "price_max": 1200,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, Червоної Калини просп, 26"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-06T13:55:21Z",
+    "price_history": [
+      {
+        "price": 1200,
+        "at": "2026-11-06T13:55:21Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-06T13:55:21Z"
   }
 }
