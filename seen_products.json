@@ -1880,13 +1880,13 @@
   },
   "https://tehnoskarb.ua/montor-dell-p2210f/m5149491": {
     "name": "Монітор Dell p2210f",
-    "price_min": 900,
+    "price_min": 850,
     "price_max": 1120,
     "city": "Київ",
     "addresses": [
       "м. Київ, б-р Чоколовський, 21"
     ],
-    "offers_count": 2,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-09-20T05:14:22Z",
@@ -1894,6 +1894,10 @@
       {
         "price": 900,
         "at": "2026-09-20T05:14:22Z"
+      },
+      {
+        "price": 850,
+        "at": "2026-11-06T20:17:13Z"
       }
     ],
     "details_failures": 0,
@@ -4438,7 +4442,7 @@
       "м. Київ, Берестейський просп, 104",
       "м. Київ, Чоколовський б-р, 21"
     ],
-    "offers_count": 5,
+    "offers_count": 7,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-10-22T19:49:07Z",
@@ -6097,5 +6101,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-11-06T13:55:21Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-odyssey-g3-s27ag302ni/m5165160": {
+    "name": "Монітор Samsung odyssey g3 s27ag302ni",
+    "price_min": 4200,
+    "price_max": 4200,
+    "city": "Миколаїв",
+    "addresses": [
+      "м. Миколаїв, Центральний просп, 21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-06T20:17:13Z",
+    "price_history": [
+      {
+        "price": 4200,
+        "at": "2026-11-06T20:17:13Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-06T20:17:13Z"
   }
 }
