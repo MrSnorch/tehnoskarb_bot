@@ -501,8 +501,8 @@
   },
   "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105": {
     "name": "Монітор Samsung s27dg500",
-    "price_min": 5860,
-    "price_max": 6300,
+    "price_min": 5700,
+    "price_max": 5860,
     "city": "Київ",
     "addresses": [
       "м. Київ, вул. Княжий Затон, 11"
@@ -539,6 +539,10 @@
       {
         "price": 5860,
         "at": "2026-11-03T20:49:05Z"
+      },
+      {
+        "price": 5700,
+        "at": "2026-11-07T06:25:13Z"
       }
     ],
     "details_failures": 0,
@@ -3813,8 +3817,8 @@
   },
   "https://tehnoskarb.ua/montor-dell-p2319h/m5043678": {
     "name": "Монітор Dell p2319h",
-    "price_min": 2230,
-    "price_max": 2230,
+    "price_min": 2050,
+    "price_max": 2050,
     "city": "Вишневе",
     "addresses": [
       "м. Вишневе, Святошинська вул, 27"
@@ -3827,6 +3831,10 @@
       {
         "price": 2230,
         "at": "2026-10-17T05:59:36Z"
+      },
+      {
+        "price": 2050,
+        "at": "2026-11-07T06:25:13Z"
       }
     ],
     "details_failures": 0,
@@ -5753,7 +5761,7 @@
     "addresses": [
       "м. Миколаїв, 3-я Слобідська вул, 51"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-11-04T07:51:51Z",
@@ -6122,5 +6130,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-11-06T20:17:13Z"
+  },
+  "https://tehnoskarb.ua/montor-hp-e27u-g4-qhd-usb-c/m5202255": {
+    "name": "Монітор Hp e27u g4 qhd usb-c",
+    "price_min": 6010,
+    "price_max": 6010,
+    "city": "Львів",
+    "addresses": [
+      "м. Львів, Промислова вул, 50/52"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-07T06:25:13Z",
+    "price_history": [
+      {
+        "price": 6010,
+        "at": "2026-11-07T06:25:13Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-07T06:25:13Z"
   }
 }

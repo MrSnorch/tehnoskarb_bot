@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-07T00:13:02Z",
+  "updated_at": "2026-11-07T06:25:27Z",
   "stats": {
-    "total": 254,
-    "avg_price": 4249,
+    "total": 255,
+    "avg_price": 4255,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2723,7 +2723,7 @@
       "addresses": [
         "м. Миколаїв, 3-я Слобідська вул, 51"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-11-04T07:51:51Z",
       "price_history": [
         {
@@ -2980,6 +2980,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell p2319h",
+      "url": "https://tehnoskarb.ua/montor-dell-p2319h/m5043678",
+      "price_min": 2050,
+      "price_max": 2050,
+      "city": "Вишневе",
+      "addresses": [
+        "м. Вишневе, Святошинська вул, 27"
+      ],
+      "offers": 1,
+      "first_seen": "2026-10-17T05:59:36Z",
+      "price_history": [
+        {
+          "price": 2230,
+          "at": "2026-10-17T05:59:36Z"
+        },
+        {
+          "price": 2050,
+          "at": "2026-11-07T06:25:13Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Msi pro mp252",
       "url": "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635",
       "price_min": 2080,
@@ -3062,26 +3086,6 @@
         {
           "price": 2200,
           "at": "2026-10-31T10:45:50Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Dell p2319h",
-      "url": "https://tehnoskarb.ua/montor-dell-p2319h/m5043678",
-      "price_min": 2230,
-      "price_max": 2230,
-      "city": "Вишневе",
-      "addresses": [
-        "м. Вишневе, Святошинська вул, 27"
-      ],
-      "offers": 1,
-      "first_seen": "2026-10-17T05:59:36Z",
-      "price_history": [
-        {
-          "price": 2230,
-          "at": "2026-10-17T05:59:36Z"
         }
       ],
       "category": "Монітори",
@@ -4726,30 +4730,10 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Lg 27ud58",
-      "url": "https://tehnoskarb.ua/montor-lg-27ud58/m5200110",
-      "price_min": 5770,
-      "price_max": 5770,
-      "city": "Київ",
-      "addresses": [
-        "м. Київ, Порика Василя просп, 14"
-      ],
-      "offers": 1,
-      "first_seen": "2026-10-27T20:34:36Z",
-      "price_history": [
-        {
-          "price": 5770,
-          "at": "2026-10-27T20:34:36Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s27dg500",
       "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
-      "price_min": 5860,
-      "price_max": 6300,
+      "price_min": 5700,
+      "price_max": 5860,
       "city": "Київ",
       "addresses": [
         "м. Київ, вул. Княжий Затон, 11"
@@ -4784,6 +4768,30 @@
         {
           "price": 5860,
           "at": "2026-11-03T20:49:05Z"
+        },
+        {
+          "price": 5700,
+          "at": "2026-11-07T06:25:13Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Lg 27ud58",
+      "url": "https://tehnoskarb.ua/montor-lg-27ud58/m5200110",
+      "price_min": 5770,
+      "price_max": 5770,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, Порика Василя просп, 14"
+      ],
+      "offers": 1,
+      "first_seen": "2026-10-27T20:34:36Z",
+      "price_history": [
+        {
+          "price": 5770,
+          "at": "2026-10-27T20:34:36Z"
         }
       ],
       "category": "Монітори",
@@ -4844,6 +4852,26 @@
         {
           "price": 5970,
           "at": "2026-11-03T20:49:05Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Hp e27u g4 qhd usb-c",
+      "url": "https://tehnoskarb.ua/montor-hp-e27u-g4-qhd-usb-c/m5202255",
+      "price_min": 6010,
+      "price_max": 6010,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, Промислова вул, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-07T06:25:13Z",
+      "price_history": [
+        {
+          "price": 6010,
+          "at": "2026-11-07T06:25:13Z"
         }
       ],
       "category": "Монітори",
@@ -5939,34 +5967,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Xiaomi a24i",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-a24i/m5118414",
-      "price": 3390,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-27T00:00:03Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Qube b24f120hs",
-      "url": "https://tehnoskarb.ua/montor-qube-b24f120hs/m5192949",
-      "price": 1401,
-      "city": "",
-      "category": "Монітори",
-      "at": "2026-10-27T10:15:33Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Aoc 24b2xda",
-      "url": "https://tehnoskarb.ua/montor-aoc-24b2xda/m5186492",
-      "price_old": 2800,
-      "price_new": 2600,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-10-27T10:15:33Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Asus vz229",
@@ -7805,6 +7805,35 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-11-06T20:17:13Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Hp e27u g4 qhd usb-c",
+      "url": "https://tehnoskarb.ua/montor-hp-e27u-g4-qhd-usb-c/m5202255",
+      "price": 6010,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-11-07T06:25:13Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung s27dg500",
+      "url": "https://tehnoskarb.ua/montor-samsung-s27dg500/m5094105",
+      "price_old": 5860,
+      "price_new": 5700,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-11-07T06:25:13Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Dell p2319h",
+      "url": "https://tehnoskarb.ua/montor-dell-p2319h/m5043678",
+      "price_old": 2230,
+      "price_new": 2050,
+      "city": "Вишневе",
+      "category": "Монітори",
+      "at": "2026-11-07T06:25:13Z"
     }
   ],
   "config": {
