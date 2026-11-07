@@ -1915,7 +1915,7 @@
     "addresses": [
       "м. Харків, вул. Отакара Яроша, 23"
     ],
-    "offers_count": 4,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-09-20T05:14:22Z",
@@ -3315,14 +3315,14 @@
   },
   "https://tehnoskarb.ua/montor-msi-optix-mag-256f/m5133408": {
     "name": "Монітор Msi optix mag 256f",
-    "price_min": 4090,
+    "price_min": 4550,
     "price_max": 4550,
     "city": "Житомир",
     "addresses": [
       "м. Житомир, Довженко Олександра вул, 44",
       "м. Петропавлівська Борщагівка, Петропавлівська вул, 14"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-10-14T20:02:45Z",
@@ -3330,6 +3330,10 @@
       {
         "price": 4090,
         "at": "2026-10-14T20:02:45Z"
+      },
+      {
+        "price": 4550,
+        "at": "2026-11-07T13:26:06Z"
       }
     ],
     "details_failures": 0,
@@ -3551,27 +3555,6 @@
     "price_history": [
       {
         "price": 950,
-        "at": "2026-10-15T12:46:27Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-11-06T05:42:16Z"
-  },
-  "https://tehnoskarb.ua/montor-dell-u2312hmt/m5048146": {
-    "name": "Монітор Dell u2312hmt",
-    "price_min": 850,
-    "price_max": 850,
-    "city": "Крюківщина",
-    "addresses": [
-      "м. Крюківщина, Єдності вул, 2"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-15T12:46:27Z",
-    "price_history": [
-      {
-        "price": 850,
         "at": "2026-10-15T12:46:27Z"
       }
     ],
@@ -4297,7 +4280,7 @@
     "addresses": [
       "м. Львів, Промислова вул, 50/52"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-10-21T07:26:04Z",
@@ -4902,27 +4885,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-11-06T05:42:16Z"
   },
-  "https://tehnoskarb.ua/montor-msi-pro-mp252/m5160635": {
-    "name": "Монітор Msi pro mp252",
-    "price_min": 2080,
-    "price_max": 2080,
-    "city": "Чортків",
-    "addresses": [
-      "м. Чортків, Шевченка Тараса вул, 30"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-28T18:59:26Z",
-    "price_history": [
-      {
-        "price": 2080,
-        "at": "2026-10-28T18:59:26Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-11-06T05:42:16Z"
-  },
   "https://tehnoskarb.ua/montor-prologix-pl2424hd/m5123650": {
     "name": "Монітор Prologix pl2424hd",
     "price_min": 2370,
@@ -4981,48 +4943,6 @@
       {
         "price": 1420,
         "at": "2026-10-29T09:35:27Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-11-06T05:42:16Z"
-  },
-  "https://tehnoskarb.ua/montor-lg-w2043s/m5055096": {
-    "name": "Монітор Lg w2043s",
-    "price_min": 860,
-    "price_max": 860,
-    "city": "Бердичів",
-    "addresses": [
-      "м. Бердичів, Європейська вул, 128"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-29T09:35:27Z",
-    "price_history": [
-      {
-        "price": 860,
-        "at": "2026-10-29T09:35:27Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-11-06T05:42:16Z"
-  },
-  "https://tehnoskarb.ua/montor-asus-vw193/m4987871": {
-    "name": "Монітор Asus vw193",
-    "price_min": 560,
-    "price_max": 560,
-    "city": "Кропивницький",
-    "addresses": [
-      "м. Кропивницький, Соборна вул, 3"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-29T21:38:11Z",
-    "price_history": [
-      {
-        "price": 560,
-        "at": "2026-10-29T21:38:11Z"
       }
     ],
     "details_failures": 0,
@@ -6151,5 +6071,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-11-07T06:25:13Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-s27ag300ni/m5074720": {
+    "name": "Монітор Samsung s27ag300ni",
+    "price_min": 4500,
+    "price_max": 4500,
+    "city": "Тернопіль",
+    "addresses": [
+      "м. Тернопіль, Шевченка Тараса б-р, 14"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-07T13:26:06Z",
+    "price_history": [
+      {
+        "price": 4500,
+        "at": "2026-11-07T13:26:06Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-07T13:26:06Z"
   }
 }
