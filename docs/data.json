@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-08T15:50:52Z",
+  "updated_at": "2026-11-08T20:16:28Z",
   "stats": {
-    "total": 247,
-    "avg_price": 4297,
+    "total": 250,
+    "avg_price": 4260,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -48,6 +48,7 @@
       "Софіївська Борщагівка",
       "Старокостянтинів",
       "Стрий",
+      "Суми",
       "Тернопіль",
       "Ужгород",
       "Фастів",
@@ -1242,6 +1243,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg flatron e2240s",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2240s/m5152011",
+      "price_min": 840,
+      "price_max": 840,
+      "city": "Суми",
+      "addresses": [
+        "м. Суми, Збройних Сил України вул, 12"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-08T20:16:08Z",
+      "price_history": [
+        {
+          "price": 840,
+          "at": "2026-11-08T20:16:08Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell p2210f",
       "url": "https://tehnoskarb.ua/montor-dell-p2210f/m5149491",
       "price_min": 850,
@@ -1619,6 +1640,26 @@
         {
           "price": 1080,
           "at": "2026-11-07T22:12:28Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Acer v226hql",
+      "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
+      "price_min": 1090,
+      "price_max": 1090,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, Братства Тарасівців вул, 2А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-08T20:16:08Z",
+      "price_history": [
+        {
+          "price": 1090,
+          "at": "2026-11-08T20:16:08Z"
         }
       ],
       "category": "Монітори",
@@ -2162,6 +2203,26 @@
         {
           "price": 1750,
           "at": "2026-11-07T22:12:28Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Philips 221v8",
+      "url": "https://tehnoskarb.ua/montor-philips-221v8/m5202344",
+      "price_min": 1750,
+      "price_max": 1750,
+      "city": "Чернівці",
+      "addresses": [
+        "м. Чернівці, Незалежності просп, 82"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-08T20:16:08Z",
+      "price_history": [
+        {
+          "price": 1750,
+          "at": "2026-11-08T20:16:08Z"
         }
       ],
       "category": "Монітори",
@@ -5064,33 +5125,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus rog swift oled pg27ucdm",
-      "url": "https://tehnoskarb.ua/montor-asus-rog-swift-oled-pg27ucdm/m5195259",
-      "price": 39900,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung odyssey g5 s27fg532ei",
-      "url": "https://tehnoskarb.ua/montor-samsung-odyssey-g5-s27fg532ei/m5195218",
-      "price": 7030,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg27aqml1a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqml1a/m5195228",
-      "price": 12970,
-      "city": "Тернопіль",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung odyssey oled g6 s27dg612si",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-oled-g6-s27dg612si/m5195219",
       "price": 19800,
@@ -6862,6 +6896,33 @@
       "city": "Старокостянтинів",
       "category": "Монітори",
       "at": "2026-11-08T15:50:41Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Philips 221v8",
+      "url": "https://tehnoskarb.ua/montor-philips-221v8/m5202344",
+      "price": 1750,
+      "city": "Чернівці",
+      "category": "Монітори",
+      "at": "2026-11-08T20:16:08Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg flatron e2240s",
+      "url": "https://tehnoskarb.ua/montor-lg-flatron-e2240s/m5152011",
+      "price": 840,
+      "city": "Суми",
+      "category": "Монітори",
+      "at": "2026-11-08T20:16:08Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Acer v226hql",
+      "url": "https://tehnoskarb.ua/montor-acer-v226hql/m5076841",
+      "price": 1090,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-11-08T20:16:08Z"
     }
   ],
   "config": {
