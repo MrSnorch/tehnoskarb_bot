@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-08T08:43:32Z",
+  "updated_at": "2026-11-08T15:50:52Z",
   "stats": {
-    "total": 249,
-    "avg_price": 4303,
+    "total": 247,
+    "avg_price": 4297,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2007,26 +2007,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Samsung s22a100n",
-      "url": "https://tehnoskarb.ua/montor-samsung-s22a100n/m5043007",
-      "price_min": 1450,
-      "price_max": 1450,
-      "city": "Старокостянтинів",
-      "addresses": [
-        "м. Старокостянтинів, Острозького Костянтина-Василя вул, 32"
-      ],
-      "offers": 1,
-      "first_seen": "2026-11-07T22:12:28Z",
-      "price_history": [
-        {
-          "price": 1450,
-          "at": "2026-11-07T22:12:28Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Samsung s23a350n",
       "url": "https://tehnoskarb.ua/montor-samsung-s23a350n/m5194139",
       "price_min": 1560,
@@ -2776,13 +2756,13 @@
       "name": "Монітор Dell u2415b",
       "url": "https://tehnoskarb.ua/montor-dell-u2415b/m5094796",
       "price_min": 2530,
-      "price_max": 2950,
+      "price_max": 2530,
       "city": "Петропавлівська Борщагівка",
       "addresses": [
         "м. Петропавлівська Борщагівка, Петропавлівська вул, 14",
         "м. Київ, Берестейський просп, 88/2"
       ],
-      "offers": 2,
+      "offers": 1,
       "first_seen": "2026-11-07T22:12:28Z",
       "price_history": [
         {
@@ -4434,26 +4414,6 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Asus tuf gaming vg27aql3a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql3a/m5107130",
-      "price_min": 8700,
-      "price_max": 8700,
-      "city": "Хмельницький",
-      "addresses": [
-        "м. Хмельницький, Кам`янецька вул, 11"
-      ],
-      "offers": 1,
-      "first_seen": "2026-11-07T22:12:28Z",
-      "price_history": [
-        {
-          "price": 8700,
-          "at": "2026-11-07T22:12:28Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
       "name": "Монітор Zowie xl2546k",
       "url": "https://tehnoskarb.ua/displejj-zowie-xl2546k/m5199844",
       "price_min": 8900,
@@ -5102,24 +5062,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg27aqml1a-w",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aqml1a-w/m5195386",
-      "price": 13940,
-      "city": "Тернопіль",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Samsung ls24hubcbq",
-      "url": "https://tehnoskarb.ua/montor-samsung-ls24hubcbq/m5195341",
-      "price": 1100,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus rog swift oled pg27ucdm",
@@ -6902,6 +6844,24 @@
       "city": "Одеса",
       "category": "Монітори",
       "at": "2026-11-08T08:43:22Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Asus tuf gaming vg27aql3a",
+      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql3a/m5107130",
+      "price": 8700,
+      "city": "Хмельницький",
+      "category": "Монітори",
+      "at": "2026-11-08T15:50:41Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung s22a100n",
+      "url": "https://tehnoskarb.ua/montor-samsung-s22a100n/m5043007",
+      "price": 1450,
+      "city": "Старокостянтинів",
+      "category": "Монітори",
+      "at": "2026-11-08T15:50:41Z"
     }
   ],
   "config": {
