@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-08T01:42:57Z",
+  "updated_at": "2026-11-08T08:43:32Z",
   "stats": {
     "total": 249,
-    "avg_price": 4305,
+    "avg_price": 4303,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -3748,6 +3748,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Msi optix g27cq4",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g27cq4/m5191851",
+      "price_min": 4500,
+      "price_max": 4500,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, Заболотного Академіка вул, 52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-07T22:12:28Z",
+      "price_history": [
+        {
+          "price": 4900,
+          "at": "2026-11-07T22:12:28Z"
+        },
+        {
+          "price": 4500,
+          "at": "2026-11-08T08:43:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung c27rg50fh",
       "url": "https://tehnoskarb.ua/montor-samsung-c27rg50fh/m5171461",
       "price_min": 4500,
@@ -3842,26 +3866,6 @@
       "price_history": [
         {
           "price": 4890,
-          "at": "2026-11-07T22:12:28Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Msi optix g27cq4",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g27cq4/m5191851",
-      "price_min": 4900,
-      "price_max": 4900,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, Заболотного Академіка вул, 52"
-      ],
-      "offers": 1,
-      "first_seen": "2026-11-07T22:12:28Z",
-      "price_history": [
-        {
-          "price": 4900,
           "at": "2026-11-07T22:12:28Z"
         }
       ],
@@ -5098,15 +5102,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg e2342",
-      "url": "https://tehnoskarb.ua/montor-lg-e2342/m5195776",
-      "price": 1680,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
     {
       "type": "new",
       "name": "Монітор Asus tuf gaming vg27aqml1a-w",
@@ -6897,6 +6892,16 @@
       "city": "Кам`янське",
       "category": "Монітори",
       "at": "2026-11-07T22:12:28Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Msi optix g27cq4",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g27cq4/m5191851",
+      "price_old": 4900,
+      "price_new": 4500,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-11-08T08:43:22Z"
     }
   ],
   "config": {
