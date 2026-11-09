@@ -1697,27 +1697,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-11-07T22:12:28Z"
   },
-  "https://tehnoskarb.ua/montor-aoc-e2460shu/m5190736": {
-    "name": "Монітор Aoc e2460shu",
-    "price_min": 1330,
-    "price_max": 1330,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, Теліги Олени вул, 17"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-11-07T22:12:28Z",
-    "price_history": [
-      {
-        "price": 1330,
-        "at": "2026-11-07T22:12:28Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-11-07T22:12:28Z"
-  },
   "https://tehnoskarb.ua/montor-acer-g225hq/m5190064": {
     "name": "Монітор Acer g225hq",
     "price_min": 930,
@@ -2285,7 +2264,7 @@
   },
   "https://tehnoskarb.ua/montor-samsung-syncmaster-t220hd/m5178542": {
     "name": "Монітор Samsung syncmaster t220hd",
-    "price_min": 740,
+    "price_min": 1140,
     "price_max": 1140,
     "city": "Петропавлівська Борщагівка",
     "addresses": [
@@ -2293,7 +2272,7 @@
       "м. Київ, Малишка Андрія вул, 2-Д",
       "м. Чернівці, Університетська вул, 14"
     ],
-    "offers_count": 3,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-11-07T22:12:28Z",
@@ -2301,6 +2280,10 @@
       {
         "price": 740,
         "at": "2026-11-07T22:12:28Z"
+      },
+      {
+        "price": 1140,
+        "at": "2026-11-09T23:30:39Z"
       }
     ],
     "details_failures": 0,
@@ -5283,5 +5266,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-11-09T14:12:16Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-thinkvision-t24d-10/m5158787": {
+    "name": "Монітор Lenovo thinkvision t24d-10",
+    "price_min": 1661,
+    "price_max": 1661,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, Чоколовський б-р, 21"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-09T23:30:39Z",
+    "price_history": [
+      {
+        "price": 1661,
+        "at": "2026-11-09T23:30:39Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-09T23:30:39Z"
+  },
+  "https://tehnoskarb.ua/montor-asus-vp228/m5145192": {
+    "name": "Монітор Asus vp228",
+    "price_min": 1280,
+    "price_max": 1280,
+    "city": "Мукачево",
+    "addresses": [
+      "м. Мукачево, Мостова вул, 1/2"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-09T23:30:39Z",
+    "price_history": [
+      {
+        "price": 1280,
+        "at": "2026-11-09T23:30:39Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-09T23:30:39Z"
   }
 }
