@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-09T23:30:57Z",
+  "updated_at": "2026-11-10T06:32:02Z",
   "stats": {
-    "total": 249,
-    "avg_price": 4283,
+    "total": 250,
+    "avg_price": 4277,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -3109,6 +3109,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Benq gw2491",
+      "url": "https://tehnoskarb.ua/montor-benq-gw2491/m5178063",
+      "price_min": 2900,
+      "price_max": 2900,
+      "city": "Ужгород",
+      "addresses": [
+        "м. Ужгород, Заньковецької Марії вул, 77"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-10T06:31:52Z",
+      "price_history": [
+        {
+          "price": 2900,
+          "at": "2026-11-10T06:31:52Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell se2422h",
       "url": "https://tehnoskarb.ua/montor-dell-se2422h/m5122940",
       "price_min": 2950,
@@ -3172,12 +3192,12 @@
       "name": "Монітор Hp elitedisplay e243i",
       "url": "https://tehnoskarb.ua/montor-hp-elitedisplay-e243i/m5198189",
       "price_min": 3070,
-      "price_max": 3070,
+      "price_max": 3240,
       "city": "Херсон",
       "addresses": [
         "м. Херсон, 200 років Херсона просп, 15"
       ],
-      "offers": 1,
+      "offers": 3,
       "first_seen": "2026-11-07T22:12:28Z",
       "price_history": [
         {
@@ -5130,15 +5150,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Aoc 24b3ha2",
-      "url": "https://tehnoskarb.ua/montor-aoc-24b3ha2/m5193114",
-      "price": 3900,
-      "city": "Софіївська Борщагівка",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Acer al1760s",
       "url": "https://tehnoskarb.ua/montor-acer-al1760s/m5193001",
       "price": 350,
@@ -6934,6 +6945,15 @@
       "city": "Мукачево",
       "category": "Монітори",
       "at": "2026-11-09T23:30:39Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Benq gw2491",
+      "url": "https://tehnoskarb.ua/montor-benq-gw2491/m5178063",
+      "price": 2900,
+      "city": "Ужгород",
+      "category": "Монітори",
+      "at": "2026-11-10T06:31:52Z"
     }
   ],
   "config": {

@@ -706,12 +706,12 @@
   "https://tehnoskarb.ua/montor-hp-elitedisplay-e243i/m5198189": {
     "name": "Монітор Hp elitedisplay e243i",
     "price_min": 3070,
-    "price_max": 3070,
+    "price_max": 3240,
     "city": "Херсон",
     "addresses": [
       "м. Херсон, 200 років Херсона просп, 15"
     ],
-    "offers_count": 1,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-11-07T22:12:28Z",
@@ -5308,5 +5308,26 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-11-09T23:30:39Z"
+  },
+  "https://tehnoskarb.ua/montor-benq-gw2491/m5178063": {
+    "name": "Монітор Benq gw2491",
+    "price_min": 2900,
+    "price_max": 2900,
+    "city": "Ужгород",
+    "addresses": [
+      "м. Ужгород, Заньковецької Марії вул, 77"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-10T06:31:52Z",
+    "price_history": [
+      {
+        "price": 2900,
+        "at": "2026-11-10T06:31:52Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-10T06:31:52Z"
   }
 }
