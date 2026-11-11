@@ -152,27 +152,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-11-06T05:42:16Z"
   },
-  "https://tehnoskarb.ua/montor-benq-zowie-xl2546k/m5200025": {
-    "name": "Монітор Benq zowie xl2546k",
-    "price_min": 5900,
-    "price_max": 5900,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, Солом`янська вул, 22"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-10-26T14:56:26Z",
-    "price_history": [
-      {
-        "price": 5900,
-        "at": "2026-10-26T14:56:26Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-11-06T05:42:16Z"
-  },
   "https://tehnoskarb.ua/montor-benq-gw2790qt/m5200006": {
     "name": "Монітор Benq gw2790qt",
     "price_min": 10490,
@@ -1210,14 +1189,14 @@
   },
   "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg259q3a/m5194471": {
     "name": "Монітор Asus tuf gaming vg259q3a",
-    "price_min": 3900,
+    "price_min": 4600,
     "price_max": 4600,
     "city": "Чернівці",
     "addresses": [
       "м. Чернівці, Головна вул, 10",
       "м. Петропавлівська Борщагівка, Петропавлівська вул, 14"
     ],
-    "offers_count": 2,
+    "offers_count": 1,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-11-07T22:12:28Z",
@@ -1225,6 +1204,10 @@
       {
         "price": 3900,
         "at": "2026-11-07T22:12:28Z"
+      },
+      {
+        "price": 4600,
+        "at": "2026-11-11T22:57:42Z"
       }
     ],
     "details_failures": 0,
@@ -2449,27 +2432,6 @@
     "price_history": [
       {
         "price": 3320,
-        "at": "2026-11-07T22:12:28Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-11-07T22:12:28Z"
-  },
-  "https://tehnoskarb.ua/montor-samsung-odyssey-g3-s27ag302ni/m5165160": {
-    "name": "Монітор Samsung odyssey g3 s27ag302ni",
-    "price_min": 4200,
-    "price_max": 4200,
-    "city": "Миколаїв",
-    "addresses": [
-      "м. Миколаїв, Центральний просп, 21"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-11-07T22:12:28Z",
-    "price_history": [
-      {
-        "price": 4200,
         "at": "2026-11-07T22:12:28Z"
       }
     ],
@@ -4180,13 +4142,13 @@
   },
   "https://tehnoskarb.ua/montor-lg-22mp58a-p/m5055527": {
     "name": "Монітор Lg 22mp58a-p",
-    "price_min": 1140,
+    "price_min": 980,
     "price_max": 1140,
     "city": "Бориспіль",
     "addresses": [
       "м. Бориспіль, Київський шлях вул, 47"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-11-07T22:12:28Z",
@@ -4194,6 +4156,10 @@
       {
         "price": 1140,
         "at": "2026-11-07T22:12:28Z"
+      },
+      {
+        "price": 980,
+        "at": "2026-11-11T22:57:42Z"
       }
     ],
     "details_failures": 0,
@@ -5088,5 +5054,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-11-11T16:28:47Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-s24f350fhi/m5102117": {
+    "name": "Монітор Samsung s24f350fhi",
+    "price_min": 2160,
+    "price_max": 2160,
+    "city": "Запоріжжя",
+    "addresses": [
+      "м. Запоріжжя, Ентузіастів вул, 3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-11T22:57:42Z",
+    "price_history": [
+      {
+        "price": 2160,
+        "at": "2026-11-11T22:57:42Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-11T22:57:42Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-22en33s/m5056213": {
+    "name": "Монітор Lg 22en33s",
+    "price_min": 950,
+    "price_max": 950,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, Берестейський просп, 104"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-11T22:57:42Z",
+    "price_history": [
+      {
+        "price": 950,
+        "at": "2026-11-11T22:57:42Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-11T22:57:42Z"
   }
 }
