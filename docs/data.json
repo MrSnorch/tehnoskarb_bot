@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-11T01:23:41Z",
+  "updated_at": "2026-11-11T08:07:35Z",
   "stats": {
     "total": 249,
-    "avg_price": 4277,
+    "avg_price": 4445,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -114,27 +114,6 @@
       "city": "Івано-Франківськ",
       "addresses": [
         "м. Івано-Франківськ, Василіянок вул, 7"
-      ],
-      "offers": 1,
-      "first_seen": "2026-11-07T22:12:28Z",
-      "price_history": [
-        {
-          "price": 220,
-          "at": "2026-11-07T22:12:28Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung 920n",
-      "url": "https://tehnoskarb.ua/montor-samsung-920n/m5011274",
-      "price_min": 220,
-      "price_max": 220,
-      "city": "Івано-Франківськ",
-      "addresses": [
-        "м. Івано-Франківськ, Мазепи Гетьмана вул, 20/1",
-        "м. Рівне, Соборна вул, 63"
       ],
       "offers": 1,
       "first_seen": "2026-11-07T22:12:28Z",
@@ -5111,6 +5090,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Asus rog swift pg32ucdp",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-swift-pg32ucdp/m5196662",
+      "price_min": 42000,
+      "price_max": 42000,
+      "city": "Кривий Ріг",
+      "addresses": [
+        "м. Кривий Ріг, 200-річчя Кривого Рогу просп, 12а"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-11T08:07:23Z",
+      "price_history": [
+        {
+          "price": 42000,
+          "at": "2026-11-11T08:07:23Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus zenscreen fold oled mq17qh",
       "url": "https://tehnoskarb.ua/montor-asus-zenscreen-fold-oled-mq17qh/m5194054",
       "price_min": 48130,
@@ -5132,24 +5131,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Asus proart pa27jcv",
-      "url": "https://tehnoskarb.ua/montor-asus-proart-pa27jcv/m5188307",
-      "price": 25250,
-      "city": "Луцьк",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Philips 24m2n3200s",
-      "url": "https://tehnoskarb.ua/montor-philips-24m2n3200s/m5187733",
-      "price": 3600,
-      "city": "Чернівці",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
     {
       "type": "new",
       "name": "Монітор Dell p2422hewo",
@@ -6941,6 +6922,24 @@
       "city": "Запоріжжя",
       "category": "Монітори",
       "at": "2026-11-10T21:23:38Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Samsung 920n",
+      "url": "https://tehnoskarb.ua/montor-samsung-920n/m5011274",
+      "price": 220,
+      "city": "Івано-Франківськ",
+      "category": "Монітори",
+      "at": "2026-11-11T08:07:23Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asus rog swift pg32ucdp",
+      "url": "https://tehnoskarb.ua/montor-asus-rog-swift-pg32ucdp/m5196662",
+      "price": 42000,
+      "city": "Кривий Ріг",
+      "category": "Монітори",
+      "at": "2026-11-11T08:07:23Z"
     }
   ],
   "config": {
