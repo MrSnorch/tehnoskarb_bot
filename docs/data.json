@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-12T20:17:45Z",
+  "updated_at": "2026-11-13T01:22:20Z",
   "stats": {
-    "total": 228,
-    "avg_price": 4379,
+    "total": 231,
+    "avg_price": 4359,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -719,6 +719,26 @@
         {
           "price": 540,
           "at": "2026-11-07T22:12:28Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Proview ep2230w",
+      "url": "https://tehnoskarb.ua/montor-proview-ep2230w/m5195166",
+      "price_min": 550,
+      "price_max": 550,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, Чоколовський б-р, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-13T01:22:03Z",
+      "price_history": [
+        {
+          "price": 550,
+          "at": "2026-11-13T01:22:03Z"
         }
       ],
       "category": "Монітори",
@@ -2408,6 +2428,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Dell s2216h",
+      "url": "https://tehnoskarb.ua/montor-dell-s2216h/m5157373",
+      "price_min": 2180,
+      "price_max": 2180,
+      "city": "Львів",
+      "addresses": [
+        "м. Львів, Промислова вул, 50/52"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-13T01:22:03Z",
+      "price_history": [
+        {
+          "price": 2180,
+          "at": "2026-11-13T01:22:03Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Hgfrtee b116-spw06l6",
       "url": "https://tehnoskarb.ua/montor-hgfrtee-b116-spw06l6/m5200887",
       "price_min": 2200,
@@ -3765,6 +3805,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Benq zowie xl2546k",
+      "url": "https://tehnoskarb.ua/montor-benq-zowie-xl2546k/m5200025",
+      "price_min": 5900,
+      "price_max": 5900,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, Чоколовський б-р, 21"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-13T01:22:03Z",
+      "price_history": [
+        {
+          "price": 5900,
+          "at": "2026-11-13T01:22:03Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Asus tuf gaming vg259qmrl5a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg259qmrl5a/m5195061",
       "price_min": 5970,
@@ -4737,33 +4797,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Lg flatron l1972h",
-      "url": "https://tehnoskarb.ua/montor-lg-flatron-l1972h/m5153463",
-      "price": 300,
-      "city": "Чернігів",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Lg 22ea53",
-      "url": "https://tehnoskarb.ua/montor-lg-22ea53/m5153423",
-      "price": 1430,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Xiaomi mi desktop monitor 1c / bhr4510gl",
-      "url": "https://tehnoskarb.ua/montor-xiaomi-mi-desktop-monitor-1c-bhr4510gl/m5153354",
-      "price": 3000,
-      "city": "Ужгород",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
     {
       "type": "new",
       "name": "Монітор Dell p2210f",
@@ -6556,6 +6589,33 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-11-12T20:17:08Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Benq zowie xl2546k",
+      "url": "https://tehnoskarb.ua/montor-benq-zowie-xl2546k/m5200025",
+      "price": 5900,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-11-13T01:22:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Proview ep2230w",
+      "url": "https://tehnoskarb.ua/montor-proview-ep2230w/m5195166",
+      "price": 550,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-11-13T01:22:03Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell s2216h",
+      "url": "https://tehnoskarb.ua/montor-dell-s2216h/m5157373",
+      "price": 2180,
+      "city": "Львів",
+      "category": "Монітори",
+      "at": "2026-11-13T01:22:03Z"
     }
   ],
   "config": {
