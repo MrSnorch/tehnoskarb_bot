@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-14T21:10:27Z",
+  "updated_at": "2026-11-15T01:12:24Z",
   "stats": {
-    "total": 226,
-    "avg_price": 4375,
+    "total": 227,
+    "avg_price": 4365,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2266,6 +2266,26 @@
         {
           "price": 2000,
           "at": "2026-11-07T22:12:28Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell e2218hn",
+      "url": "https://tehnoskarb.ua/montor-dell-e2218hn/m5120198",
+      "price_min": 2000,
+      "price_max": 2000,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, Воскресенський просп, 34/2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-15T01:12:14Z",
+      "price_history": [
+        {
+          "price": 2000,
+          "at": "2026-11-15T01:12:14Z"
         }
       ],
       "category": "Монітори",
@@ -4713,15 +4733,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Asus vg246h1a",
-      "url": "https://tehnoskarb.ua/montor-asus-vg246h1a/m5107209",
-      "price": 4030,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Asus tuf gaming vg27aql3a",
       "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg27aql3a/m5107130",
       "price": 8700,
@@ -6534,6 +6545,15 @@
       "city": "Київ",
       "category": "Монітори",
       "at": "2026-11-14T21:10:12Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell e2218hn",
+      "url": "https://tehnoskarb.ua/montor-dell-e2218hn/m5120198",
+      "price": 2000,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-11-15T01:12:14Z"
     }
   ],
   "config": {
