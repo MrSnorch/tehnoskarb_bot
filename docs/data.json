@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-16T00:50:34Z",
+  "updated_at": "2026-11-16T07:44:35Z",
   "stats": {
-    "total": 221,
-    "avg_price": 3949,
+    "total": 223,
+    "avg_price": 3938,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -2071,6 +2071,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 24mp58vq-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
+      "price_min": 1780,
+      "price_max": 1780,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, Бажана Миколи просп, 3В"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-16T07:44:22Z",
+      "price_history": [
+        {
+          "price": 1780,
+          "at": "2026-11-16T07:44:22Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Acer b246hyl",
       "url": "https://tehnoskarb.ua/montor-acer-b246hyl/m5181698",
       "price_min": 1790,
@@ -3307,6 +3327,26 @@
         {
           "price": 3580,
           "at": "2026-11-13T08:34:53Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung essential s3 s27f320gaux s32gf",
+      "url": "https://tehnoskarb.ua/montor-samsung-essential-s3-s27f320gaux-s32gf/m5196167",
+      "price_min": 3600,
+      "price_max": 3600,
+      "city": "Крюківщина",
+      "addresses": [
+        "м. Крюківщина, Єдності вул, 2"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-16T07:44:22Z",
+      "price_history": [
+        {
+          "price": 3600,
+          "at": "2026-11-16T07:44:22Z"
         }
       ],
       "category": "Монітори",
@@ -4623,24 +4663,6 @@
     }
   ],
   "events": [
-    {
-      "type": "new",
-      "name": "Монітор Samsung f24t350fhi",
-      "url": "https://tehnoskarb.ua/montor-samsung-f24t350fhi/m5057758",
-      "price": 2400,
-      "city": "Волочиськ",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus vh228",
-      "url": "https://tehnoskarb.ua/montor-asus-vh228/m5056142",
-      "price": 1220,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
     {
       "type": "new",
       "name": "Монітор Lg 22mp58a-p",
@@ -6449,6 +6471,24 @@
       "city": "Харків",
       "category": "Монітори",
       "at": "2026-11-15T20:53:04Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung essential s3 s27f320gaux s32gf",
+      "url": "https://tehnoskarb.ua/montor-samsung-essential-s3-s27f320gaux-s32gf/m5196167",
+      "price": 3600,
+      "city": "Крюківщина",
+      "category": "Монітори",
+      "at": "2026-11-16T07:44:22Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 24mp58vq-p",
+      "url": "https://tehnoskarb.ua/montor-lg-24mp58vq-p/m5012379",
+      "price": 1780,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-11-16T07:44:22Z"
     }
   ],
   "config": {
