@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-16T18:05:40Z",
+  "updated_at": "2026-11-17T01:57:57Z",
   "stats": {
-    "total": 218,
-    "avg_price": 3974,
+    "total": 219,
+    "avg_price": 3958,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -663,6 +663,26 @@
         {
           "price": 500,
           "at": "2026-11-07T22:12:28Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Samsung e1920n",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920n/m5005199",
+      "price_min": 500,
+      "price_max": 500,
+      "city": "Кропивницький",
+      "addresses": [
+        "м. Кропивницький, Незалежності вул, 9А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-17T01:57:49Z",
+      "price_history": [
+        {
+          "price": 500,
+          "at": "2026-11-17T01:57:49Z"
         }
       ],
       "category": "Монітори",
@@ -4567,15 +4587,6 @@
   "events": [
     {
       "type": "new",
-      "name": "Монітор Aoc c24g1",
-      "url": "https://tehnoskarb.ua/montor-aoc-c24g1/m5045364",
-      "price": 4500,
-      "city": "Володимир",
-      "category": "Монітори",
-      "at": "2026-11-07T22:12:28Z"
-    },
-    {
-      "type": "new",
       "name": "Монітор Samsung s22a100n",
       "url": "https://tehnoskarb.ua/montor-samsung-s22a100n/m5043007",
       "price": 1450,
@@ -6392,6 +6403,15 @@
       "city": "Вараш",
       "category": "Монітори",
       "at": "2026-11-16T18:05:19Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung e1920n",
+      "url": "https://tehnoskarb.ua/montor-samsung-e1920n/m5005199",
+      "price": 500,
+      "city": "Кропивницький",
+      "category": "Монітори",
+      "at": "2026-11-17T01:57:49Z"
     }
   ],
   "config": {
