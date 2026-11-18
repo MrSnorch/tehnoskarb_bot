@@ -1680,27 +1680,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-11-07T22:12:28Z"
   },
-  "https://tehnoskarb.ua/montor-samsung-u32j590u/m5167067": {
-    "name": "Монітор Samsung u32j590u",
-    "price_min": 5310,
-    "price_max": 5310,
-    "city": "Одеса",
-    "addresses": [
-      "м. Одеса, Корольова Академіка вул, 80"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-11-07T22:12:28Z",
-    "price_history": [
-      {
-        "price": 5310,
-        "at": "2026-11-07T22:12:28Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-11-07T22:12:28Z"
-  },
   "https://tehnoskarb.ua/montor-dell-u2414hb/m5165739": {
     "name": "Монітор Dell u2414hb",
     "price_min": 2570,
@@ -4698,13 +4677,13 @@
   },
   "https://tehnoskarb.ua/montor-samsung-odyssey-g7-c32g75tq/m5122348": {
     "name": "Монітор Samsung odyssey g7 c32g75tq",
-    "price_min": 16180,
+    "price_min": 12000,
     "price_max": 16180,
     "city": "Петропавлівська Борщагівка",
     "addresses": [
       "м. Петропавлівська Борщагівка, Петропавлівська вул, 14"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-11-17T10:30:03Z",
@@ -4712,6 +4691,10 @@
       {
         "price": 16180,
         "at": "2026-11-17T10:30:03Z"
+      },
+      {
+        "price": 12000,
+        "at": "2026-11-18T09:52:48Z"
       }
     ],
     "details_failures": 0,
@@ -4737,5 +4720,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-11-17T10:30:03Z"
+  },
+  "https://tehnoskarb.ua/montor-asrock-pg25fft/m5197785": {
+    "name": "Монітор Asrock pg25fft",
+    "price_min": 3640,
+    "price_max": 3640,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, Порика Василя просп, 13"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-18T09:52:48Z",
+    "price_history": [
+      {
+        "price": 3640,
+        "at": "2026-11-18T09:52:48Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-18T09:52:48Z"
+  },
+  "https://tehnoskarb.ua/montor-msi-mag-242f/m5162284": {
+    "name": "Монітор Msi mag 242f",
+    "price_min": 4100,
+    "price_max": 4100,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, Старовокзальна вул, 18"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-18T09:52:48Z",
+    "price_history": [
+      {
+        "price": 4100,
+        "at": "2026-11-18T09:52:48Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-18T09:52:48Z"
   }
 }
