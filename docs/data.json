@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-18T18:43:24Z",
+  "updated_at": "2026-11-19T01:00:15Z",
   "stats": {
-    "total": 217,
-    "avg_price": 3910,
+    "total": 219,
+    "avg_price": 3904,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1890,6 +1890,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Aoc g2260vwq6",
+      "url": "https://tehnoskarb.ua/montor-aoc-g2260vwq6/m5203708",
+      "price_min": 1500,
+      "price_max": 1500,
+      "city": "Вінниця",
+      "addresses": [
+        "м. Вінниця, Космонавтів просп, 36А"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-19T00:59:55Z",
+      "price_history": [
+        {
+          "price": 1500,
+          "at": "2026-11-19T00:59:55Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s23a350n",
       "url": "https://tehnoskarb.ua/montor-samsung-s23a350n/m5194139",
       "price_min": 1560,
@@ -3350,20 +3370,20 @@
       "category_emoji": "🖥"
     },
     {
-      "name": "Монітор Msi optix g241",
-      "url": "https://tehnoskarb.ua/montor-msi-optix-g241/m5047506",
-      "price_min": 3820,
-      "price_max": 3820,
-      "city": "Вінниця",
+      "name": "Монітор Asrock cl27ffb",
+      "url": "https://tehnoskarb.ua/montor-asrock-cl27ffb/m5203822",
+      "price_min": 3800,
+      "price_max": 3800,
+      "city": "Кам`янське",
       "addresses": [
-        "м. Вінниця, Космонавтів просп, 36А"
+        "м. Кам`янське, Ринкова вул, 4"
       ],
       "offers": 1,
-      "first_seen": "2026-11-10T21:23:38Z",
+      "first_seen": "2026-11-19T00:59:55Z",
       "price_history": [
         {
-          "price": 3820,
-          "at": "2026-11-10T21:23:38Z"
+          "price": 3800,
+          "at": "2026-11-19T00:59:55Z"
         }
       ],
       "category": "Монітори",
@@ -3728,6 +3748,26 @@
         {
           "price": 5000,
           "at": "2026-11-07T22:12:28Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
+      "name": "Монітор Dell g2422hs",
+      "url": "https://tehnoskarb.ua/montor-dell-g2422hs/m5169532",
+      "price_min": 5090,
+      "price_max": 5090,
+      "city": "Рівне",
+      "addresses": [
+        "м. Рівне, Грушевського Академіка вул, 1"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-19T00:59:55Z",
+      "price_history": [
+        {
+          "price": 5090,
+          "at": "2026-11-19T00:59:55Z"
         }
       ],
       "category": "Монітори",
@@ -4570,45 +4610,6 @@
     }
   ],
   "events": [
-    {
-      "type": "drop",
-      "name": "Монітор Iiyama t2752msc-b1",
-      "url": "https://tehnoskarb.ua/montor-iiyama-t2752msc-b1/m5187007",
-      "price_old": 13500,
-      "price_new": 12300,
-      "city": "Петропавлівська Борщагівка",
-      "category": "Монітори",
-      "at": "2026-11-09T14:12:16Z"
-    },
-    {
-      "type": "drop",
-      "name": "Монітор Viewsonic td2760",
-      "url": "https://tehnoskarb.ua/montor-viewsonic-td2760/m5187009",
-      "price_old": 18000,
-      "price_new": 17000,
-      "city": "Хмельницький",
-      "category": "Монітори",
-      "at": "2026-11-09T14:12:16Z"
-    },
-    {
-      "type": "rise",
-      "name": "Монітор Samsung syncmaster 931bf",
-      "url": "https://tehnoskarb.ua/montor-samsung-syncmaster-931bf/m5167064",
-      "price_old": 340,
-      "price_new": 350,
-      "city": "Бровари",
-      "category": "Монітори",
-      "at": "2026-11-09T14:12:16Z"
-    },
-    {
-      "type": "new",
-      "name": "Монітор Asus tuf gaming vg249q3a",
-      "url": "https://tehnoskarb.ua/montor-asus-tuf-gaming-vg249q3a/m5154931",
-      "price": 3650,
-      "city": "Івано-Франківськ",
-      "category": "Монітори",
-      "at": "2026-11-09T14:12:16Z"
-    },
     {
       "type": "drop",
       "name": "Монітор Arzopa g1 game z1fc",
@@ -6403,6 +6404,42 @@
       "city": "Дрогобич",
       "category": "Монітори",
       "at": "2026-11-18T18:43:02Z"
+    },
+    {
+      "type": "sold",
+      "name": "Монітор Msi optix g241",
+      "url": "https://tehnoskarb.ua/montor-msi-optix-g241/m5047506",
+      "price": 3820,
+      "city": "Вінниця",
+      "category": "Монітори",
+      "at": "2026-11-19T00:59:55Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Asrock cl27ffb",
+      "url": "https://tehnoskarb.ua/montor-asrock-cl27ffb/m5203822",
+      "price": 3800,
+      "city": "Кам`янське",
+      "category": "Монітори",
+      "at": "2026-11-19T00:59:55Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Aoc g2260vwq6",
+      "url": "https://tehnoskarb.ua/montor-aoc-g2260vwq6/m5203708",
+      "price": 1500,
+      "city": "Вінниця",
+      "category": "Монітори",
+      "at": "2026-11-19T00:59:55Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Dell g2422hs",
+      "url": "https://tehnoskarb.ua/montor-dell-g2422hs/m5169532",
+      "price": 5090,
+      "city": "Рівне",
+      "category": "Монітори",
+      "at": "2026-11-19T00:59:55Z"
     }
   ],
   "config": {
