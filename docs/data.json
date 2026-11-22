@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-22T00:15:11Z",
+  "updated_at": "2026-11-22T07:17:50Z",
   "stats": {
     "total": 245,
-    "avg_price": 4303,
+    "avg_price": 4301,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -3396,7 +3396,7 @@
       "name": "Монітор Samsung odyssey gaming crg5 lc24rg50f",
       "url": "https://tehnoskarb.ua/montor-samsung-odyssey-gaming-crg5-lc24rg50f/m5134480",
       "price_min": 3330,
-      "price_max": 4100,
+      "price_max": 4000,
       "city": "Одеса",
       "addresses": [
         "м. Одеса, Корольова Академіка вул, 80"
@@ -3998,6 +3998,30 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung u32j590u",
+      "url": "https://tehnoskarb.ua/montor-samsung-u32j590u/m5167067",
+      "price_min": 4800,
+      "price_max": 4800,
+      "city": "Одеса",
+      "addresses": [
+        "м. Одеса, Корольова Академіка вул, 80"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-19T18:02:08Z",
+      "price_history": [
+        {
+          "price": 5310,
+          "at": "2026-11-19T18:02:08Z"
+        },
+        {
+          "price": 4800,
+          "at": "2026-11-22T07:17:43Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Prologix gm2724cqp",
       "url": "https://tehnoskarb.ua/montor-prologix-gm2724cqp/m5080842",
       "price_min": 4900,
@@ -4144,26 +4168,6 @@
         {
           "price": 5210,
           "at": "2026-11-21T12:54:57Z"
-        }
-      ],
-      "category": "Монітори",
-      "category_emoji": "🖥"
-    },
-    {
-      "name": "Монітор Samsung u32j590u",
-      "url": "https://tehnoskarb.ua/montor-samsung-u32j590u/m5167067",
-      "price_min": 5310,
-      "price_max": 5310,
-      "city": "Одеса",
-      "addresses": [
-        "м. Одеса, Корольова Академіка вул, 80"
-      ],
-      "offers": 1,
-      "first_seen": "2026-11-19T18:02:08Z",
-      "price_history": [
-        {
-          "price": 5310,
-          "at": "2026-11-19T18:02:08Z"
         }
       ],
       "category": "Монітори",
@@ -5162,15 +5166,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Acer sa220q",
-      "url": "https://tehnoskarb.ua/montor-acer-sa220q/m5202878",
-      "price": 2200,
-      "city": "Рівне",
-      "category": "Монітори",
-      "at": "2026-11-12T20:17:08Z"
-    },
     {
       "type": "new",
       "name": "Монітор Acer ek220qe3bi",
@@ -6987,6 +6982,16 @@
       "city": "Львів",
       "category": "Монітори",
       "at": "2026-11-22T00:14:44Z"
+    },
+    {
+      "type": "drop",
+      "name": "Монітор Samsung u32j590u",
+      "url": "https://tehnoskarb.ua/montor-samsung-u32j590u/m5167067",
+      "price_old": 5310,
+      "price_new": 4800,
+      "city": "Одеса",
+      "category": "Монітори",
+      "at": "2026-11-22T07:17:43Z"
     }
   ],
   "config": {
