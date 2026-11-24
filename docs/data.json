@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-23T22:51:39Z",
+  "updated_at": "2026-11-24T06:49:39Z",
   "stats": {
-    "total": 247,
-    "avg_price": 4428,
+    "total": 249,
+    "avg_price": 4416,
     "min_price": 180,
     "max_price": 48130,
     "cities": [
@@ -1849,6 +1849,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Lg 22mp58vq-p",
+      "url": "https://tehnoskarb.ua/montor-lg-22mp58vq-p/m5068568",
+      "price_min": 1300,
+      "price_max": 1300,
+      "city": "Київ",
+      "addresses": [
+        "м. Київ, Миру просп, 2/3"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-24T06:49:25Z",
+      "price_history": [
+        {
+          "price": 1300,
+          "at": "2026-11-24T06:49:25Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Samsung s24e450bl",
       "url": "https://tehnoskarb.ua/montor-samsung-s24e450bl/m5085465",
       "price_min": 1320,
@@ -2003,7 +2023,7 @@
       "addresses": [
         "м. Петропавлівська Борщагівка, Петропавлівська вул, 14"
       ],
-      "offers": 1,
+      "offers": 2,
       "first_seen": "2026-11-20T23:16:19Z",
       "price_history": [
         {
@@ -3951,6 +3971,26 @@
       "category_emoji": "🖥"
     },
     {
+      "name": "Монітор Samsung u28h750uqi",
+      "url": "https://tehnoskarb.ua/montor-samsung-u28h750uqi/m5204434",
+      "price_min": 4620,
+      "price_max": 4620,
+      "city": "Луцьк",
+      "addresses": [
+        "м. Луцьк, Соборності просп, 4"
+      ],
+      "offers": 1,
+      "first_seen": "2026-11-24T06:49:25Z",
+      "price_history": [
+        {
+          "price": 4620,
+          "at": "2026-11-24T06:49:25Z"
+        }
+      ],
+      "category": "Монітори",
+      "category_emoji": "🖥"
+    },
+    {
       "name": "Монітор Dell p2422hewo",
       "url": "https://tehnoskarb.ua/montor-dell-p2422hewo/m5187602",
       "price_min": 4780,
@@ -5227,24 +5267,6 @@
     }
   ],
   "events": [
-    {
-      "type": "sold",
-      "name": "Монітор Hp la2306x",
-      "url": "https://tehnoskarb.ua/montor-hp-la2306x/m5059260",
-      "price": 1200,
-      "city": "Ковель",
-      "category": "Монітори",
-      "at": "2026-11-13T17:00:07Z"
-    },
-    {
-      "type": "sold",
-      "name": "Монітор Lg 22mp58d-p",
-      "url": "https://tehnoskarb.ua/montor-lg-22mp58d-p/m5017884",
-      "price": 1900,
-      "city": "Київ",
-      "category": "Монітори",
-      "at": "2026-11-13T17:00:07Z"
-    },
     {
       "type": "sold",
       "name": "Монітор Fujitsu b24-9 ts",
@@ -7056,6 +7078,24 @@
       "city": "Миколаїв",
       "category": "Монітори",
       "at": "2026-11-23T22:51:18Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Samsung u28h750uqi",
+      "url": "https://tehnoskarb.ua/montor-samsung-u28h750uqi/m5204434",
+      "price": 4620,
+      "city": "Луцьк",
+      "category": "Монітори",
+      "at": "2026-11-24T06:49:25Z"
+    },
+    {
+      "type": "new",
+      "name": "Монітор Lg 22mp58vq-p",
+      "url": "https://tehnoskarb.ua/montor-lg-22mp58vq-p/m5068568",
+      "price": 1300,
+      "city": "Київ",
+      "category": "Монітори",
+      "at": "2026-11-24T06:49:25Z"
     }
   ],
   "config": {

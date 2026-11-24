@@ -4852,7 +4852,7 @@
     "addresses": [
       "м. Петропавлівська Борщагівка, Петропавлівська вул, 14"
     ],
-    "offers_count": 1,
+    "offers_count": 2,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-11-20T23:16:19Z",
@@ -5410,5 +5410,47 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-11-23T22:51:18Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-u28h750uqi/m5204434": {
+    "name": "Монітор Samsung u28h750uqi",
+    "price_min": 4620,
+    "price_max": 4620,
+    "city": "Луцьк",
+    "addresses": [
+      "м. Луцьк, Соборності просп, 4"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-24T06:49:25Z",
+    "price_history": [
+      {
+        "price": 4620,
+        "at": "2026-11-24T06:49:25Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-24T06:49:25Z"
+  },
+  "https://tehnoskarb.ua/montor-lg-22mp58vq-p/m5068568": {
+    "name": "Монітор Lg 22mp58vq-p",
+    "price_min": 1300,
+    "price_max": 1300,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, Миру просп, 2/3"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-24T06:49:25Z",
+    "price_history": [
+      {
+        "price": 1300,
+        "at": "2026-11-24T06:49:25Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-24T06:49:25Z"
   }
 }
