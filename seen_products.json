@@ -522,7 +522,7 @@
     "addresses": [
       "м. Херсон, 200 років Херсона просп, 15"
     ],
-    "offers_count": 5,
+    "offers_count": 4,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-11-07T22:12:28Z",
@@ -1126,7 +1126,7 @@
   },
   "https://tehnoskarb.ua/montor-asus-vt229h/m5187011": {
     "name": "Монітор Asus vt229h",
-    "price_min": 10000,
+    "price_min": 8100,
     "price_max": 10320,
     "city": "Київ",
     "addresses": [
@@ -1135,7 +1135,7 @@
       "м. Луцьк, Лесі Українки вул, 24",
       "м. Ужгород, Мукачівська вул, 2"
     ],
-    "offers_count": 3,
+    "offers_count": 4,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-11-07T22:12:28Z",
@@ -1159,6 +1159,10 @@
       {
         "price": 10000,
         "at": "2026-11-25T02:57:22Z"
+      },
+      {
+        "price": 8100,
+        "at": "2026-11-25T12:32:54Z"
       }
     ],
     "details_failures": 0,
@@ -5488,27 +5492,6 @@
     "details_failures": 0,
     "details_last_attempt": "2026-11-22T00:14:44Z"
   },
-  "https://tehnoskarb.ua/montor-benq-gw2490e/m5195898": {
-    "name": "Монітор Benq gw2490e",
-    "price_min": 2430,
-    "price_max": 2430,
-    "city": "Київ",
-    "addresses": [
-      "м. Київ, Бажана Миколи просп, 3В"
-    ],
-    "offers_count": 1,
-    "category": "Монітори",
-    "category_emoji": "🖥",
-    "first_seen": "2026-11-22T00:14:44Z",
-    "price_history": [
-      {
-        "price": 2430,
-        "at": "2026-11-22T00:14:44Z"
-      }
-    ],
-    "details_failures": 0,
-    "details_last_attempt": "2026-11-22T00:14:44Z"
-  },
   "https://tehnoskarb.ua/montor-lg-e1940s-pn/m5095872": {
     "name": "Монітор Lg e1940s-pn",
     "price_min": 600,
@@ -5865,5 +5848,89 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-11-25T02:57:22Z"
+  },
+  "https://tehnoskarb.ua/montor-dell-e2011h/m5204775": {
+    "name": "Монітор Dell e2011h",
+    "price_min": 250,
+    "price_max": 250,
+    "city": "Хмельницький",
+    "addresses": [
+      "м. Хмельницький, Подільська вул, 38"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-25T12:32:54Z",
+    "price_history": [
+      {
+        "price": 250,
+        "at": "2026-11-25T12:32:54Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-25T12:32:54Z"
+  },
+  "https://tehnoskarb.ua/montor-dell-s3422dwg/m5204794": {
+    "name": "Монітор Dell s3422dwg",
+    "price_min": 14010,
+    "price_max": 14010,
+    "city": "Рівне",
+    "addresses": [
+      "м. Рівне, Чорновола В`ячеслава вул, 12-А"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-25T12:32:54Z",
+    "price_history": [
+      {
+        "price": 14010,
+        "at": "2026-11-25T12:32:54Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-25T12:32:54Z"
+  },
+  "https://tehnoskarb.ua/montor-philips-24m2n3200s/m5187733": {
+    "name": "Монітор Philips 24m2n3200s",
+    "price_min": 3300,
+    "price_max": 3300,
+    "city": "Чернівці",
+    "addresses": [
+      "м. Чернівці, Героїв майдану вул, 48"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-25T12:32:54Z",
+    "price_history": [
+      {
+        "price": 3300,
+        "at": "2026-11-25T12:32:54Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-25T12:32:54Z"
+  },
+  "https://tehnoskarb.ua/montor-samsung-s24d300h/m5087613": {
+    "name": "Монітор Samsung s24d300h",
+    "price_min": 2280,
+    "price_max": 2280,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, Симиренка Левка вул, 5"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-25T12:32:54Z",
+    "price_history": [
+      {
+        "price": 2280,
+        "at": "2026-11-25T12:32:54Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-25T12:32:54Z"
   }
 }
