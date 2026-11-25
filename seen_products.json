@@ -1126,7 +1126,7 @@
   },
   "https://tehnoskarb.ua/montor-asus-vt229h/m5187011": {
     "name": "Монітор Asus vt229h",
-    "price_min": 8910,
+    "price_min": 10000,
     "price_max": 10320,
     "city": "Київ",
     "addresses": [
@@ -1135,7 +1135,7 @@
       "м. Луцьк, Лесі Українки вул, 24",
       "м. Ужгород, Мукачівська вул, 2"
     ],
-    "offers_count": 4,
+    "offers_count": 3,
     "category": "Монітори",
     "category_emoji": "🖥",
     "first_seen": "2026-11-07T22:12:28Z",
@@ -1155,6 +1155,10 @@
       {
         "price": 8910,
         "at": "2026-11-24T18:43:03Z"
+      },
+      {
+        "price": 10000,
+        "at": "2026-11-25T02:57:22Z"
       }
     ],
     "details_failures": 0,
@@ -5798,5 +5802,68 @@
     ],
     "details_failures": 0,
     "details_last_attempt": "2026-11-24T18:43:03Z"
+  },
+  "https://tehnoskarb.ua/montor-hp-pavilion-23xi/m5204790": {
+    "name": "Монітор Hp pavilion 23xi",
+    "price_min": 1850,
+    "price_max": 1850,
+    "city": "Чернівці",
+    "addresses": [
+      "м. Чернівці, Незалежності просп, 82"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-25T02:57:22Z",
+    "price_history": [
+      {
+        "price": 1850,
+        "at": "2026-11-25T02:57:22Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-25T02:57:22Z"
+  },
+  "https://tehnoskarb.ua/montor-lenovo-thinkvision-e22-28/m5204797": {
+    "name": "Монітор Lenovo thinkvision e22-28",
+    "price_min": 3200,
+    "price_max": 3200,
+    "city": "Чернівці",
+    "addresses": [
+      "м. Чернівці, Незалежності просп, 82"
+    ],
+    "offers_count": 1,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-25T02:57:22Z",
+    "price_history": [
+      {
+        "price": 3200,
+        "at": "2026-11-25T02:57:22Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-25T02:57:22Z"
+  },
+  "https://tehnoskarb.ua/montor-evromedia-i-27-100hz/m5204654": {
+    "name": "Монітор Evromedia i-27 100hz",
+    "price_min": 3020,
+    "price_max": 3020,
+    "city": "Київ",
+    "addresses": [
+      "м. Київ, Княжий Затон вул, 2/30"
+    ],
+    "offers_count": 8,
+    "category": "Монітори",
+    "category_emoji": "🖥",
+    "first_seen": "2026-11-25T02:57:22Z",
+    "price_history": [
+      {
+        "price": 3020,
+        "at": "2026-11-25T02:57:22Z"
+      }
+    ],
+    "details_failures": 0,
+    "details_last_attempt": "2026-11-25T02:57:22Z"
   }
 }
